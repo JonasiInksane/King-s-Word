@@ -17,8 +17,10 @@ Kaito screams **"Let her go"** at a soldier holding Ryn over a ledge as leverage
 - **Mains:** Haruki and Kaito. Most of the story runs through them.
 - **Prologue frame:** Kitchen **present** with **Sugi** (not *you*). Past recount starts at *It started…* and runs to her door. Then **present live** again — telling over.
 - **Guests:** Other first-person cameras when they add depth the boys cannot see. Not padding.
-- **Per chapter:** One POV is default. Multiple POVs in one chapter are allowed when a cut earns it — keep switches clean (scene break + clear camera), never muddy.
+- **Per chapter:** One POV is default, not a lock. Multiple POVs in one chapter are allowed when a cut earns it — keep switches clean (scene break + clear camera), never muddy.
+- **Do not drift Haruki-only** after the hard split. Kaito (and guests) stay in rotation when their side of the fork matters.
 - **All volumes:** Same rules. No fixed alternate-chapter schedule.
+- **Length:** Floor **1,000 words**; longer chapters are fine when the beat earns them (see `.cursor/rules/story-writing.mdc`).
 
 ## Style guide
 
@@ -34,8 +36,13 @@ Aim for the propulsion of `assets/example-chapter-1`: **story in clear sentences
 - **Close on a pull.** End mid-motion, on a spoken line, or on a concrete next step — not sleep/bed twice in a row, not ornamental metaphor, not a one-line haiku button.
 - **Dialogue and narration stay plain.** Normal sentences. Clear and concrete. **No poetry-in-every-clause. No travel montages made of fragments.** See `.cursor/rules/story-writing.mdc`.
 - **No inventory talk (hard).** No telegram stub-chains ("Further in. Girl with him." / "Midnight. All three.") in dialogue or narration.
+- **No "soft" bulletin speech (hard).** Do not write mission jargon like "ask soft" / "I say no. Soft." Say it in ordinary sentences. See `.cursor/rules/story-writing.mdc`.
+- **No "written down" spam (hard).** Do not default every caution to *get written down* / *worth the ink*. Show FDC risk; don't catchphrase it. See `.cursor/rules/story-writing.mdc`.
+- **No trail-formula spam (hard).** Do not reuse *tall boy / scraped voice / girl did the asking* on every ask. Vary. See `.cursor/rules/story-writing.mdc`.
 - **No thin recap stacks / no pre-break buttons (hard).** Do not end a beat/scene by restating what just happened, and do not park a neat narrator wrap right before `---`. End on talk or the next move. See `.cursor/rules/story-writing.mdc`.
 - **Conversations must engage (hard).** Not one-line teleports. People push back, ask wrong questions, refuse partway. See `.cursor/rules/story-writing.mdc`.
+- **Lean dialogue pass (hard).** Cut extra clauses; NPCs in full sentences; plain closes (no title-echo buttons); less narrator garnish on talk. User dialogue rewrites = canon voice for following chapters. See `.cursor/rules/story-writing.mdc`.
+- **Chapter length (hard).** Finished live chapters: **1,000-word floor**, target **1,100–1,400**. Check count before calling a chapter done; expand with real scene, not poetry padding. See `.cursor/rules/story-writing.mdc`.
 - **Naming:** Japanese order Surname Given. Prose uses first names for the trio.
 - **Spelling:** **gray-green** in prose.
 - **Prologue restraint:** no Word-naming to the boys, no sentence-craft lesson, no Literal→Intent teaching. Soft fork only.

@@ -54,7 +54,7 @@ The room is a futon, a window on the alley, and a sink that drips. I sit on the 
 
 "Are you scared of me?"
 
-"I'm scared of what happens if you stay where they can write your name down." She looks at the window, then back at me. "I'm not asking you to be anything tonight. Just don't open that window if someone knocks."
+"I'm scared of what happens if you stay where they can put a face to a file." She looks at the window, then back at me. "I'm not asking you to be anything tonight. Just don't open that window if someone knocks."
 
 "And tomorrow?"
 

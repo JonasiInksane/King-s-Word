@@ -225,7 +225,7 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 
 ### Mama Machi (町) — Bar Minato, ~50s — the bar mama
 
-**Camera moment (Ch 16 — PAID):** Sets down two bowls of oden before the boys have sat: *"Trouble eats standing up — that's how I know."*
+**Camera moment (Ch 14 — PAID, Kaito+Mira first):** Sets down two bowls of oden before they have sat: *"Trouble eats standing up. That's how I know."* Sends them to North Market. **Ch 15 (Haruki+Riku):** "Second pair"; same tip; warns soft boy not to shout names across a yard.
 
 - **Looks:** Fifty-something, broad-shouldered, bun speared with a chopstick; forearms of a woman who has carried kegs and coffins. Flat harbor-master gaze that prices you in one pass.
 - **Who:** Ran a bar by an eastern harbor until the war ate the harbor; rebuilt inland and kept the name — **Minato (みなと)**, a harbor two ridges from any salt. Feeds working boys on principle and Thursdays on ceremony.
@@ -236,7 +236,7 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 
 ### Gorō (五郎) — retired tram driver, ~70s — Minato regular
 
-**Camera moment (Ch 16 — PAID):** Nurses one beer all evening at the corner stool and taxes everyone under thirty *one new fact per night*.
+**Camera moment (Ch 14 — PAID, with Kaito+Mira):** Nurses one beer; taxes under-thirties *one new fact*; names himself; sundown / gate-has-ears warning.
 
 - **Looks:** Ginger-root hands, laugh like a gearbox, cardigan in all seasons.
 - **Who:** Drove Takamatsu's trams for forty years; knows every ward, cut-through, and depot from a driver's window — the boys' living map of the city (replaces rumor-mongering as their info texture).

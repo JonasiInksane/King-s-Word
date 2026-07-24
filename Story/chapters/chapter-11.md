@@ -6,7 +6,7 @@ By the time the sky goes gray again, my water is gone and my shoes have stopped 
 
 Ishibashi is supposed to be further inland — old stone bridge, market under the arches, thin FDC paper. Sato said Kuroishi. The shop woman said Ishibashi. Kaito's mouth left a rumor at a well. That is the whole map I own.
 
-Near midday I cut off the main road because a clipboard truck is parked at a bend ahead, and I do not have another stamp to smile through. The cut-through runs behind a scrapyard fence and a row of shuttered tool sheds. Cooler in the shade. Stupid, if anyone is waiting.
+Near midday I cut off the main road because a clipboard truck is parked at a bend ahead, and I do not have another stamp to smile through. The cut-through runs behind a scrapyard fence and a row of shuttered tool sheds. Cooler in the shade. 
 
 Three men are waiting.
 
@@ -14,9 +14,9 @@ Local, not gray-green. One has a pipe. One has hands already on my bag strap bef
 
 "Please don't," I say, which is not a plan.
 
-He laughs harder. My hands come up soft. Habit. The apology is already shaping itself — _sorry, I can give you_ —
+He laughs harder. My hands come up soft. Habit. The apology is already shaping itself — *sorry, I can give you* —
 
-The strap jerks. I stumble. Someone's knuckles catch my ribs. I hit the fence hard enough that the wire sings, and for a stupid second I think about saying _stop_ the way Kaito said it, and then I remember what finished sentences do under plum trees, and I keep my mouth shut.
+The strap jerks. I stumble. Someone's knuckles catch my ribs. I hit the fence hard enough that the wire sings, and for a stupid second I think about saying *stop* the way Kaito said it, and then I remember what finished sentences do under plum trees, and I keep my mouth shut.
 
 "Easy," the one with the pipe says. "He's soft. Soft ones pay quieter."
 
@@ -60,8 +60,6 @@ He clicks his tongue once. "Don't. You looked like you were about to apologize t
 
 "Everyone on this road is looking for someone." He starts walking without checking if I follow. After three steps he glances back. "Well? Soft boy. Legs still attached?"
 
-I follow.
-
 ---
 
 We walk the ditch side where the trucks throw less dust. He doesn't offer his name. I don't ask for the first kilometer, because asking feels like I am already owing him something, and I already owe him the collar-haul.
@@ -78,7 +76,7 @@ We walk the ditch side where the trucks throw less dust. He doesn't offer his na
 
 "Directions. Facts. Who you're chasing and why I should care if the next shed has more pipes."
 
-"My friend left Kuroishi yesterday. Tall. Scraped voice. Girl with him, dark hair, sack. They were headed Ishibashi — bus if they had fare, walk if they didn't."
+"My friend left Kuroishi yesterday. Tall. Scraped voice. Girl with him, dark hair, sack. They were headed to Ishibashi."
 
 Riku chews his own cracker and watches a truck pass. "Loud one and a girl. Yeah. Market talk under the bridge yesterday evening said two like that came through asking about rooms that don't ask questions. FDC paper's thin in Ishibashi, but it still bites if you stand in the wrong doorway."
 
@@ -101,5 +99,3 @@ He shrugs. "Bored. And I hate shed tolls. Also you walk like someone is going to
 "Okay," I say.
 
 "Okay." He clicks his tongue once, like he has decided something and does not need me to agree twice. "Keep up, soft boy. Bridge before dark if we don't stop for your feelings."
-
-We keep walking.

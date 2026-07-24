@@ -2,7 +2,7 @@
 
 They hose the lane before noon. The stones under the plum stay dark. FDC puts up a cone line by the dried-fish shop and asks every gate the same questions — irregular activity, unregistered travelers, unusual orders.
 
-I stand near Sugi's gate with her grip still aching in my wrist. A soldier asks if I saw anything last night. I say no. Soft. He asks again, slower. Same answer. They look at me, decide I am not useful, and move on.
+I stand near Sugi's gate with her grip still aching in my wrist. A soldier asks if I saw anything last night. I say no, quiet enough that it sounds ordinary. He asks again, slower. Same answer. They look at me, decide I am not useful, and move on.
 
 Kaito already left with Mira and Jun's papers are gone. Someone picked them up with the rest.
 
@@ -66,7 +66,7 @@ That night she packs onigiri without asking if I am leaving — rice, a scrap of
 
 "I'll try."
 
-"Trying is what got us the plum tree conversation." She holds my wrist hard. Then she lets go. "Eat on the road. Don't talk to gray-green unless they make you. Soft voice, if they do."
+"Trying is what got us the plum tree conversation." She holds my wrist hard. Then she lets go. "Eat on the road. Don't talk to gray-green unless they make you. If they do, keep your voice quiet and boring."
 
 I leave the arcade cat on the shelf. Sato's paper goes in my inner pocket. Onigiri in the cloth. I put my shoes on and step into the entryway sand.
 

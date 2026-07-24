@@ -1,105 +1,176 @@
 ---
-description: Hard continuity and craft rules for King's Word prose — no bible leaks, no knowledge bleed, no padding.
+description: Hard continuity and craft rules for King's Word prose — length check, no bible leaks, lean dialogue, story not poetry.
 alwaysApply: true
 ---
 
 # Story writing — hard rules
 
-These bind whenever drafting or editing chapters, dialogue, or in-world narration. Lore / outline / PROGRESS are **writer-only** unless a character has earned the fact on-page.
+These bind whenever drafting or editing chapters, dialogue, or in-world narration.
 
-## No writer-only leaks
+**Writer-only files** (`lore/`, `PROGRESS.md`, `README.md`, archives) do not speak through characters. A fact is allowed in prose only if the POV camera earned it on-page (or it is purely sensory/public).
 
-Never put any of the following into dialogue, narration, or a character's thoughts unless that camera has already learned it in-story (or it is purely sensory/public):
+---
 
-- Forks, stage maps, "soft fork / hard fork," corruption stages, volume titles, chapter plans
-- Outline labels (A-plot, B-plot, planted twist, payoff, bible unpaid, camera moment as jargon)
-- Magic system jargon the boys haven't been taught (King's Word name, Literal→Intent, Backwash as a named rule, Rewrite, One Throne, etc.) — prologue restraint especially
-- Meta address to the reader about craft ("I want you to understand," filing-as-thesis dumps that exist to teach the audience the outline)
-- Continuity tracker language, archive notes, "in the rewrite," "for later volumes"
+## Ship checklist (run before you call a chapter done)
 
-If it lives in `lore/`, `PROGRESS.md`, or `README.md` as **writer scaffolding**, it does not speak through a character's mouth.
+Do these in order. Do not skip the count.
 
-## Knowledge hygiene
+1. **Word count** — measure the chapter file. Floor and how-to are below. If under floor: expand with real scene (talk, walk, ask, cost), not poetry padding.
+2. **Knowledge** — no bible leaks; no psychic certainty; rumors labeled.
+3. **Dialogue** — engages (pushback/noise); lean (no double-explain); NPCs in full sentences; plain close (no title-echo).
+4. **Narration** — story prose like `assets/example-chapter-1`, not haiku/fragments.
+5. **No thin wraps** — no recap stacks or pre-`---` buttons; no inventory/telegram talk.
+6. **Canon voice** — if the user rewrote dialogue in a recent chapter, match that pass.
+7. **PROGRESS / cameras** — update tracker and character camera notes when beats land.
 
-- **People only talk about what they actually know.** No psychic exposition. No guessing that lands as fact.
-- **New characters do not bleed old characters' secrets.** A stranger cannot recite the roof, the birthmark, Mira's pitch, or Remnant doctrine unless they were there, were briefed, or have a shown channel (file, rumor with uncertainty, radio).
-- **POV camera is not omniscient.** Guest or multi-POV cuts only know their own sensory present + their own past. No borrowing another POV's private ledger.
-- **Rumors stay labeled as rumors.** Wrong or partial information is allowed; confident false certainty from someone who couldn't know is not.
-- **FDC / Remnant / Order** may know institutional facts; they still don't know a boy's private guilt or an off-page conversation they didn't hear.
+---
 
-## Progression and repetition
+## HARD — Chapter length (always check)
 
-- **Smooth progression.** Each scene advances a want, a cost, or a relationship. No stalling loops that restate the same beat with new adjectives.
-- **No repetitiveness.** Don't re-explain the roof, the Word tell, the birthmark, or a vow every chapter. One clear hit; later callbacks are short and earned.
-- **No motif spam.** Cap ledger/filed/litany language; vary opens and closes; don't end consecutive chapters on sleep/bed/"tomorrow."
+Short chapters that only hand off the next location are **not done**. Lean dialogue is not the same as a thin chapter.
+
+| Rule | Number |
+|---|---|
+| **Floor (hard)** | **1,000 words** minimum for a finished live chapter |
+| **Comfort band** | **1,100–1,600** is fine for many road/ask chapters |
+| **Longer is allowed** | **1,600–2,400+** when the beat earns it (two cameras, a chase + aftermath, a full night). Floor is not a target and not a ceiling. |
+
+**How to check (required before finishing):**
+
+```powershell
+(Get-Content "chapters/chapter-NN.md" | Measure-Object -Word).Words
+```
+
+Or equivalent word count. If under **1,000**, do not stop — add scene, not garnish:
+
+- Another real exchange (wrong follow-up, refusal, bargain)
+- Body of the walk / ask / wait (cost on the body, gray-green, who answers)
+- A second earned POV cut (see below) instead of stretching one camera thin
+- One more concrete beat that changes what they do next
+
+**Do not** pad to hit the number with: mood stacks, recap buttons, metaphor runs, repeated soft-boy lectures, thank-you loops, or poetic closes.
+
+**User-trimmed chapters:** If the user cuts a chapter shorter on purpose, keep their cuts. When *you* draft the next one, still hit the floor unless they say otherwise.
+
+---
+
+## HARD — POV (do not default to Haruki-only)
+
+Canon POV lives in `README.md`. Reminder for drafting:
+
+- **Mains:** Haruki **and** Kaito. Guests when they show what the boys cannot.
+- **Default is one camera per chapter — not a lock.** Multi-POV in one chapter is allowed whenever a cut earns it (`---` + clear new camera). Never muddy.
+- **After the hard split (Ch 7), do not strand the story on Haruki's chase only.** Live draft drifted Haruki-only from **Ch 10 →** while Kaito+Mira ran ahead off-camera. That was habit, not policy. Prefer cutting to Kaito/Mira (or a guest) when their road, cost, or choice matters — especially near-misses, Word strain, Mira steering, night pay, pine road.
+- Knowledge hygiene still binds across cuts: each camera only knows what it knows.
+
+---
+
+## HARD — No writer-only leaks
+
+Never put these in dialogue, narration, or thoughts unless the camera already learned them in-story:
+
+- Forks, stage maps, soft/hard fork, corruption stages, volume titles, chapter plans
+- Outline jargon (A-plot, payoff, bible unpaid, "camera moment" as craft talk)
+- Magic jargon the boys haven't been taught (King's Word name, Literal→Intent, Backwash as named rule, Rewrite, One Throne, etc.)
+- Meta craft address ("I want you to understand," filing-as-thesis for the outline)
+- Tracker / archive language ("in the rewrite," "for later volumes")
+
+---
+
+## HARD — Knowledge hygiene
+
+- People only talk about what they know. No psychic exposition.
+- New characters do not bleed old characters' secrets without a shown channel.
+- POV is not omniscient. Guest cuts know their own present + past only.
+- Rumors stay labeled. Partial/wrong info is fine; fake certainty is not.
+- Institutions (FDC / Remnant / Order) know institutional facts — not a boy's private guilt.
+
+### Word tells — public vs private
+
+- **Private (POV only unless earned):** metal/copper taste, words "stacking," the feeling of lining up a command, birthmark meaning, King's Word name / system labels.
+- **Public (strangers may notice):** scraped/hurt voice, nosebleed, people going oddly quiet, a bag-check ending weird, "loud boy" temper — ordinary wrongness, not magic vocabulary.
+- **Do not** have shopkeepers, mamas, or random loaders say "tasting metal" / "copper" / "talk it into kneeling." They have not been inside Kaito's mouth. Mira can worry from what she has *seen*; she still does not lecture strangers in tell-jargon.
+- Haruki may hunt a "scraped voice." He does not casually name metal taste unless he has earned that sensory fact on-page.
+
+---
+
+## Progression (no stall, no spam)
+
+- Each scene advances a want, a cost, or a relationship.
+- Don't re-teach the roof, Word tell, birthmark, or vow every chapter.
+- Cap ledger/filed/litany language. Don't end consecutive chapters on sleep / "tomorrow."
+- **No absolution litany spam** at chapter ends. Paid once at hard split (Ch 7).
+- **Mira is not dish duty.** Do not make her wash cups/bowls/sinks every lodging or bar as her personality beat. Orii's cup-wash (Ch 9) already paid once; later rooms/bars get work, pay, steering — not another sink scene.
+- **No "written down" spam.** Ban as default caution line: *get written down* / *write your name down* / *writes names* / *worth the ink* / *boys who argue with clipboards get written down*. FDC danger is real — show it (cones, questions, crossing early, a list on a pier) instead of repeating the catchphrase every chapter. If it must appear, once per arc max, not twice in one chapter.
+- **No trail-formula spam.** Do not reuse the same hunt/description stamp every ask: *Tall boy, scraped voice. Girl with him, dark hair, sack* / *Girl did the asking. Boy looked like his throat hurt.* Vary what Haruki asks and what people actually noticed (direction, payment, tea, boots, timing). One concrete detail beats the full wanted-poster every time. NPCs talking *to* Kaito+Mira never narrate that poster about them.
+
+---
 
 ## HARD — No thin recap stacks / no pre-break buttons
 
-**Never** close a beat, scene, or chapter by restating what just happened in short summary lines. That is outline voice, not story.
+Never close a beat by restating what just happened. Especially before `---`: no neat moral/status wrap.
 
-**Especially before a scene break (`---`):** do not park a neat little button, moral, or status line that "wraps" the section. If the exchange is done, either cut straight to `---` on the last real line of talk/action, or keep moving inside the scene. Do not add a narrator stamp like "She does not make a speech about it" / "I do not tell him why" / "He drinks. Not much. Enough."
-
-If the reader already saw it, do not file it again. Move to the next action, line of dialogue, or decision.
-
-- Bad: "The tool shops stay shut. Nobody looks like Kaito. Nobody looks like Mira. The water tastes like warm plastic."
-- Bad: "He drinks. She does not make a speech about it." ← then `---`
-- Bad: "I do not tell him why I am looking at him like that." ← then `---`
 - Bad: "No stamp left. No Mira. No Kaito." / "One day behind. Still walking."
-- Good: End the section on spoken dialogue or a concrete next move ("Drink anyway." / He drinks. / next section starts).
-- Good: After the rumor, go straight to the next move — ask again, start walking — without a bullet summary.
+- Bad: "He drinks. She does not make a speech about it." ← then `---`
+- Good: End on spoken dialogue or the next concrete move.
+- Ban "ledger, plain:" / status-board narration. Status lives in `PROGRESS.md`.
 
-Same ban on "ledger, plain:" / status-board narration. Status lives in `PROGRESS.md`, not in the prose.
+---
 
-## HARD — No inventory talk
+## HARD — No inventory talk / no bulletin speech
 
-**Never** write telegram / checklist speech — stacked stubs, noun-chains, or fragment lists that "sound cool" instead of how people talk or think.
+No telegram / checklist speech in dialogue **or** narration. Blunt still uses full sentences.
 
-This ban applies to **dialogue and narration**. Blunt characters still use full sentences. Short can be short; it cannot be a bullet list with periods.
+- Bad: "Arcade. Gone. Girl paid." / "School roof. Midnight. Cake." / "Cousins. Coast. Looking for evening work."
+- Good: "They pointed at the neon and walked." / "He had that gray Haiga dust on his shoes." / "We're cousins from the coast. We're looking for evening work."
+- Panic / orders / radio clips only when earned — not default NPC or POV voice.
 
-- Bad: "Further in. Girl with him. They washed my cups. They didn't bring soldiers. That's all I sell."
-- Bad: "Haiga dust. The gray. Doesn't wash out." / "School roof. Midnight. Whole city. Cake." / "Midnight. All three."
-- Good: "They went further inland. The girl was with him. They washed my cups and they didn't bring soldiers — that's all I'm telling you."
-- Good: "He had Haiga dust on his shoes — that gray from the east. You can't wash it out."
-- Allowed clips only when panic, orders, or radio procedure earn them (*On the ground.* / *Last warning.*) — not as default voice for shopkeepers, friends, or POV narration.
+### HARD — No "soft" procedure jargon
 
-## Dialogue — real talk, not poetry or telegrams
+Do **not** use *soft* as road/code bulletin language — instruction stacks, rule cards, or status stamps.
 
-Characters talk to each other in **plain, normal sentences**. No epigram dialogue. No thesis lines. No stylized farewell wisdom. No inventory talk (see above).
+- Bad: "We ask soft." / "Now we ask soft. Messy face." / "I say no. Soft." / "Soft voice, if they do." / "Plaza writes names." as a rule triad
+- Good: "Keep your voice quiet and ordinary." / "Don't make a scene when you ask." / "Station Plaza writes names down — we stay off it."
+- **Allowed:** ordinary English (*soft knees*, *soft as a shut door*, voice described as quiet) and rare earned nickname ("soft boy") — not every other line, and never as a mission briefing verb (*ask soft*).
+- If a character needs to teach caution, they say it in a normal sentence, not a three-bullet field manual.
 
-- People say what they mean for the moment: facts, asks, refusals, fear, anger.
-- Do **not** write lines that sound like chapter titles, morals, or literary punch lines.
-- Bad: "I'm done being useful to people with lists." / "Pick the work that still has feet." / "Should is a religion for people with spare rooms."
-- Good: "I can't help you with this." / "Go after him, or stay. Pick one." / "Should doesn't matter. Choose."
-- Voice still differs (Sugi blunt, Mira mild, Sato sharp) — difference is diction and temper, not poetry or stub-chains.
+---
 
-### HARD — Conversations must engage
+## HARD — Dialogue
 
-Do **not** write plot-handoff dialogue: one short line each, no pushback, no confusion, no leftover human noise. That reads like skipping, not talking.
+**Plain talk.** Normal sentences. No epigrams, thesis lines, title-echo farewells, inventory stubs.
 
-- People interrupt, ask the wrong follow-up, repeat themselves, refuse part of the ask, get irritated, bargain, or answer sideways.
-- Important info can still land — but through a real exchange, not a single clean dump.
-- Bad: `"Which way."` / `"Ishibashi."` / `"Thank you."` / `"Don't thank me."`
-- Good: Haruki has to explain who he means; Orii makes him work for it; he almost over-explains; she cuts him off; he still gets the road.
-- Blunt characters stay blunt — blunt is not the same as one-sentence teleport.
+**Engage.** Not plot-handoff teleports. People interrupt, ask wrong follow-ups, refuse partway, bargain, answer sideways. Important info lands through a real exchange.
 
-## Narration — story prose, not poetry / haiku
+**Lean (match live Ch 13–14+):**
 
-**North star:** `assets/example-chapter-1`. That voice tells a story in full sentences: what the character is doing, why it matters, what they notice because it changes the next move. Write like that.
+| Do | Don't |
+|---|---|
+| One clean hit per beat (esp. Riku) | Extra clause that explains the same thing twice |
+| NPCs in full sentences | Charm-stub summaries |
+| Plain closes ("The day isn't over." / "Come on.") | Title-echo buttons ("Tuesday isn't over.") |
+| Attribute, then move | Narrator garnish on every line ("filing a small improvement…") |
+| Put the object in the sentence | Dangling "maybe not" / "after that" with no referent |
+| Cut thank-you / "don't thank me" ping-pong | Soft-boy lecture spam; "ask soft" / bulletin rule cards |
 
-This is **not** a lyric novella. Do not turn every paragraph into mood, metaphor, or punch-line fragments.
+When the user rewrites dialogue, **that pass is canon voice** for the next chapters.
 
-- Prefer: cause → action → result. Explain enough that a reader can follow without decoding.
-- Prefer: longer clear beats over stacked one-line images.
-- Prefer: "I ask at the depot because that is where buses leave" over "the town forgets salt / heat on doorframes / afternoon gone flat and white."
-- Avoid: personified roads/weather, ornamental closes, thesis feelings every other line, haiku stubs ("I am." / "Still walking." / "One day behind.") used as style.
-- Avoid: mosaic travel montages that skip the story for atmosphere.
-- Bad (haiku drift): "The road forgets the harbor smell. Scrapyard fence. Canal ditch. Still walking."
-- Bad (poetry clause): "Part of me still thinks Kaito leaves heat on doorframes — scrapes on a lintel, a laugh stuck in an alley…"
-- Good (story): "I already used Sato's stamp at the first checkpoint, so this one I have to talk through. The soldier checks my shoes, then my face. I tell him I am looking for family west of the ridge. He lets me past."
-- Good (example texture): put detail on the task — lockpicks, room layout, why the plan changes — not on pretty weather.
-- Feeling is allowed when it is short and attached to a choice. Not a meditation replacing the scene.
-- Cut on action, speech, or the next concrete step — never on a literary button.
+---
+
+## HARD — Narration: story prose, not poetry
+
+**North star:** `assets/example-chapter-1`.
+
+- Cause → action → result. Reader follows without decoding.
+- Longer clear beats over stacked one-line images.
+- Detail on the task (who, where, why the next move changes) — not pretty weather.
+- Feeling only when short and attached to a choice.
+- Cut on action, speech, or next step — never on a literary button.
+- Bad: "The road forgets the harbor. Scrapyard fence. Still walking."
+- Good: "I already used Sato's stamp at the first checkpoint, so this one I have to talk through."
+
+---
 
 ## When unsure
 
-Prefer silence, partial understanding, or wrong conclusions over a convenient info dump. Writer truth can wait; character truth cannot be faked.
+Prefer silence, partial understanding, or wrong conclusions over a convenient dump. Writer truth can wait; character truth cannot be faked.

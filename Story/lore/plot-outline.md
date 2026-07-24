@@ -57,7 +57,11 @@ Engine seed: chase inland; Mira's convince grows from more witnessing; boys stil
 | 9 | Inland | Kaito+Mira to Kuroishi; Orii room; *Let her pass*; Ishibashi next |
 | 10 | One Day Behind | Haruki to Kuroishi; misses them; Ishibashi road |
 | 11 | Soft Boy | Road shakedown; Riku seed meet; walk toward Ishibashi |
-| 12+ | TBD | Ishibashi |
+| 12 | Under the Bridge | Ishibashi market; miss them again; boots; Takamatsu road |
+| 13 | Survive a Tuesday | **Kaito:** East Yards → arcade; cash room; night / Mira count; morning work hunt |
+| 14 | Minato | **Kaito:** Machi+Gorō paid; North Market tip; **cut → Haruki:** East Yards stance + first ask |
+| 15 | Loading Line | **Kaito:** North Market half-shift → depot; **Haruki:** arcade doors → Minato second pair → market trail |
+| 16+ | TBD | Depot/market near-miss; multi-POV ok |
 
 ---
 
