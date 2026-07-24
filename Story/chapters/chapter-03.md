@@ -2,7 +2,7 @@
 
 I met Kaito under the dead 'K' at six with the cake box held level in both hands.
 
-He looked me over and said, "You look like a butler," and I said, "You look like you slept in a batting cage," and we were both right. My fringe was in my eyes. His hair had dried into a shape with opinions. We were both still in uniform, because neither of us owned anything nicer that wasn't wrinkled, and we had privately agreed without ever saying it that Ryn should not spend her birthday flanked by two boys in wrinkles.
+He looked me over and said, "I told you not to look like a butler," and I said, "You look like you slept in a batting cage," and we were both right. My fringe was in my eyes. His hair had dried into a shape with opinions. We were both still in uniform, because neither of us owned anything nicer that wasn't wrinkled, and we had privately agreed without ever saying it that Ryn should not spend her birthday flanked by two boys in wrinkles.
 
 "Where is she?"
 
@@ -12,7 +12,29 @@ He looked me over and said, "You look like a butler," and I said, "You look like
 
 "She would. That's why we're early."
 
-We did the evening in the wrong order on purpose, because Ryn liked the wrong order. Ramen first, at the good place — six seats, a cook who hadn't spoken since the Occupation as far as anyone knew, broth hot enough to enforce silence. Ryn arrived with her hair down and no apron, dropped onto the middle stool like it was reserved for her, and stole half of Kaito's chashu before he'd finished guarding it.
+We went to eat ramen first, at the good place — six seats and a cook who hadn't spoken since the Occupation as far as anyone knew, broth hot enough to enforce silence. We claimed the end stools and watched the curtain for her like idiots who'd never eaten with her before.
+
+She came in with her hair down and no apron, still smelling faintly of the Mart's fried-chicken lamp, and dropped onto the middle stool like it had been reserved for her since birth.
+
+"You're early," she said. "I hate that. It means I can't complain."
+
+"We can leave and come back late," Kaito offered.
+
+"Don't you dare." She pointed her chopsticks at the cake box on my lap before we'd even ordered. "Is that the one with the deranged cat?"
+
+"Mom drew it."
+
+"Then it's perfect. Don't open it yet. I want to be surprised by the frosting like a normal person."
+
+The cook waited with his ladle and his silence. Ryn ordered the spicy one without looking at the board. Kaito ordered the same thing louder. I ordered miso, and both of them looked at me like I'd brought a note from home.
+
+"On her birthday," Kaito said.
+
+"I like miso."
+
+"He likes miso," Ryn told the cook, solemn, as if translating. "He's our responsibility."
+
+When the bowls landed she stole half of Kaito's chashu before he'd finished guarding it.
 
 "It's my birthday," she said. "Theft is legal until midnight."
 
@@ -20,13 +42,61 @@ We did the evening in the wrong order on purpose, because Ryn liked the wrong or
 
 "It is tonight."
 
-"You're not sixteen till midnight," Kaito said, rescuing what was left of his bowl. "Until then you're a regular criminal."
+She laughed — the real one, the one that made the cook glance over once and then go back to pretending we didn't exist — and passed me the garlic before I asked. We ate the way we always ate there: too loud for the room, too slow for Kaito's patience, Ryn narrating every customer who came in like she was writing a report for Sugi. The salaryman who ordered miso and looked personally betrayed by it. The couple who shared one bowl and somehow still fought over the last egg. 
 
-"Then at midnight it becomes retroactively legal. Eat faster. I want to win things."
+Kaito tried to teach me how to drink the broth without making a sound and failed so completely that Ryn wiped my chin with a napkin and called me a liability to the brand.
 
-The arcade was loud and half empty. She destroyed us both at the light-gun game, then destroyed a college kid who made the mistake of challenging the new high score with her standing right there, then bought him a soda from the machine because winning had made her generous. That was the whole of her, in one arc — take your dignity, then check if you're okay.
+"What brand," I said.
 
-Kaito spent nine hundred yen failing to win a hideous cat plush with one milky eye. I won it on my second try, entirely by accident, and had to pretend I'd only been warming the machine up for him.
+"Ours. The three of us. We have standards. Low ones, but standards." She bumped her shoulder into mine. "Thank you for the cake. Thank you for not making it karaoke. Thank you for—" She stopped, looked at both of us, and something soft moved through her face too fast to name. "Just thank you. Don't make it weird."
+
+"I'm going to make it weird," Kaito said immediately.
+
+"I will push you into the broth."
+
+"Worth it."
+
+"You're not sixteen till midnight," he added, fishing the last piece of pork out from under her chopsticks. "Until then you're a regular criminal."
+
+"Then at midnight it becomes retroactively legal." She stood, slapped money on the counter before either of us could, and was already at the door. "Eat faster next year. I want to win things."
+
+The arcade was loud and half empty, which was the best version of it. Neon on wet tile. A claw machine singing the same four notes it had sung since we were twelve. Ryn made for the light-gun cabinet like she was collecting a debt.
+
+"Birthday rules," she said, loading tokens. "I go first. You both die. I narrate."
+
+Kaito lasted eleven seconds. I lasted eight. She lasted the whole stage, calling our deaths into the plastic mic like a sports broadcast that hated us personally.
+
+"And Kurosawa goes down in the doorway — tragic, avoidable, he opened his mouth instead of aiming — Aoyama behind the crate, apologizing to the crate — and Amano clears the floor alone, as prophesied—"
+
+"The crate moved," I said.
+
+"The crate was plastic. You're worse than Kaito."
+
+"Hey," Kaito said.
+
+"You're right. He's worse than the crate."
+
+A college kid with a jacket too clean for the room drifted over while her name was still blinking in the high-score slot. "One more," he said. "Loser buys."
+
+Ryn looked him up and down once. "You're on."
+
+He was better than us. He was not better than her. When his last life went in a spray of pixels she didn't cheer — she just nodded, like a clerk closing a till, and walked him to the drink machine.
+
+"What do you want?"
+
+"I was supposed to buy," he said, still catching up to having lost.
+
+"You were. I'm in a good mood. Pick something with sugar before I change my mind."
+
+He picked a canned coffee. She paid, put it in his hand, and came back to us wiping her palms on her jeans.
+
+"Don't look at me like that," she said.
+
+"Like what," I said.
+
+"Like I did a kindness. I robbed him first. Order of operations."
+
+Kaito was already at the claw machine, burning yen on a hideous cat plush with one milky eye. Nine hundred later the cat was still behind glass and his ears were red. I put in one more try because somebody had to end it, won on the second grab entirely by accident, and had to pretend I'd only been warming the machine up for him.
 
 "You *let* me lose," he said, betrayed.
 
@@ -34,9 +104,19 @@ Kaito spent nine hundred yen failing to win a hideous cat plush with one milky e
 
 "Let me try again—"
 
-"Let it go," Ryn said, already walking, the cat under her arm like a sack of rice. "We have a roof to get to, and Haru's holding that cake like it might testify against him."
+"Absolutely not," Ryn said, lifting the cat out of the chute. "I'm keeping the evidence."
 
-I want you to see how many times we said it. *Let it go. Let me try. Let her win. Let's go.* All night, the way you say it your whole life — the smallest word in the language, worn smooth, weighing nothing. A word can lie in your mouth for fifteen years like a coin in a coat pocket, and you never once check what it's worth.
+"It's *my* yen—"
+
+"It's *my* birthday. The cat is mine. The humiliation is yours. Everybody wins." She tucked the plush under her arm like a sack of rice and was already walking. "Come on. We have a roof to get to, and Haru's holding that cake like it might testify against him."
+
+"Let her have it," I told him.
+
+"I *am* letting her have it. Under protest."
+
+"Let it go," she called back, without turning. "Both of you. Before I win something else."
+
+We said it all night without hearing it. *Let it go. Let me try. Let her win. Let's go.* The way you say it your whole life — the smallest word in the language, worn smooth, weighing nothing. A word can lie in your mouth for fifteen years like a coin in a coat pocket, and you never once check what it's worth.
 
 The war app buzzed twice on the walk to the Loop. Both times I turned my phone face-down without reading it, because I had decided that tonight nothing was allowed to be wrong. On the Daigo screen the big font said EASTERN LINE HOLDING and the small font underneath scrolled the names of the missing, and for once I let them go past unread. That's the version of me I have the hardest time forgiving — not the one on the roof. The one on the sidewalk, deciding not to look.
 
@@ -94,39 +174,57 @@ The rooftop door banged open, and the doorway was full of soldiers.
 
 ---
 
-They came through in a fanned spread that took the roof apart into zones before we'd finished a step — gray-green, rifles slung forward, gunlights sweeping. Federation Defense Command. Six of them. Eight. They moved like the building was theirs and always had been.
+They came through in a fanned spread that took the roof apart into zones before we'd finished a step — gray-green, rifles up, gunlights cutting white circles across the cake, the crate, our faces. Federation Defense Command. Six of them. Eight. Boots on concrete that had been ours five seconds ago. The air smelled like oil and dust and the sweet leftover of birthday candles.
 
 Behind them came a man who did not hurry.
 
-He stopped three paces onto the concrete, in the middle of the ending of the world, and checked his watch. Tall, lean, early thirties. Black hair parted with a ruler. Uniform without one wrong crease on the night the east died. He lowered his wrist, looked at Kaito, then at me, and his eyes didn't blink enough.
+He stopped three paces onto the roof, in the middle of the ending of the world, and checked his watch. Tall, lean, early thirties. Black hair parted with a ruler. Uniform without one wrong crease on the night the east died. He lowered his wrist, looked at Kaito, then at me, and his eyes didn't blink enough.
 
-"There you are," said the officer, in a voice with no edges on it at all. "We have been looking for you two for a very long time."
+"There you are," he said, mild as someone finding coats in a closet. "We have been looking for you two for a very long time."
 
-I didn't understand a word of that sentence. There was no version of the world in which soldiers came *to a rooftop, tonight,* for two high schoolers. The east was on fire. The screens said run.
+The sentence hit wrong. Looking for *us*. On a birthday roof. While the eastern wards were still turning themselves inside out. My mouth opened on something useless — *you've got the wrong people, we're nobody, the screens say run* — and nothing came out that could stand up to rifles.
 
-"On the ground," another one shouted. "Hands out. Now."
+"On the ground!" another one shouted. "Hands where I can see them!"
 
-"We're kids," Kaito said. He'd stepped up without my seeing him move — between us and them, hands open, chin up, running on the same voltage he used on third-years, too loud, absolutely certain the room would rearrange. "We're leaving. East is *burning*, look at the sky—"
+"We're just kids," Kaito said.
 
-"Last time," the officer said, mild as a train announcement. "On the ground. All three."
+He'd stepped in front of us without my seeing him move — between Ryn and the guns, hands open, chin up, loud the way he got loud when a room needed rearranging. His voice shook once and then didn't. "We're leaving. Look at the sky. East is *burning*. We're going west with everybody else—"
 
-Ryn's fingers tightened on my sleeve. She didn't say run. She just went, and we went with her.
+"Last time," the officer said, still mild. Still not raising his voice over the alarms. "On the ground. All three of you."
 
-Two steps. Three. A hand caught my jacket and I tore out of the sleeve. Somebody grabbed at Kaito and I heard the grunt where an elbow landed. The west service door was fifteen meters of open rooftop away, and we had crossed maybe five of them when the soldiers stopped asking.
+Ryn's fingers locked in my sleeve so hard I felt the cloth strain. She didn't look at the guns. She looked at the west service door, fifteen meters of open roof away, and then she looked at Kaito and me the way she looked when a shoplifter bolted — decision already made.
 
-One peeled off the line, cut behind the crate with the dead candles, and took Ryn off her feet by the wrist, clean, like a drill he'd run a hundred times. She shouted — anger, not fear, furious at the interruption — and kicked him hard enough that I heard it land. He didn't argue with her. He walked her backward to the low lip of the roof, set his boots, and held her out over the open air.
+She went.
 
-One fist in her collar. One hand locked on her wrist. His body on the roof. Hers not. Her sneakers pedaled once and found nothing. Below her was every light in the city, exactly the view I'd promised.
+We went with her.
 
-"Enough," he called across the roof. He wasn't even loud. "You two. Stop. Hands up and come quiet — or I drop her."
+Two steps. Three. Someone shouted *stop*. A hand caught my jacket and I tore out of the sleeve so hard I heard stitching go. Kaito hit someone — I heard the grunt of an elbow landing in ribs — and for one stupid second I thought we were going to make it, birthday kids running for a door we'd climbed through a hundred times, cake abandoned on a crate behind us like evidence.
 
-Everything stopped. The alarms kept going, the sky kept being wrong, and none of it made a sound I could hear, because the whole world had narrowed to a hand and a collar and six meters of concrete I would never cross in time.
+We had crossed maybe five meters when they stopped asking.
 
-They already had me. I'd made it one step back toward her when arms locked around my chest, a knee took the back of my leg, and the roof came up and hit me in the face. Blood in my mouth. Grit in my eye. I could see her from down there, out over the lights, perfectly still now, because she'd done the math on struggling.
+A soldier peeled off the line, cut behind the crate with the dead candles, and took Ryn by the wrist. Clean. Practiced. She yelled — not a scream, an angry sound, furious that anyone would put a hand on her on her own night — and kicked him hard enough that I heard the boot land. He didn't argue. He walked her backward like luggage, boots set, and held her out over the open air.
 
-"Haru," Ryn said, from over the edge of the world. Quiet. Reasonable. The voice she used on panicking shoplifters. "Don't—"
+One fist in her collar. One hand locked on her wrist. His body on the roof. Hers not.
 
-Kaito had made it further — always further — two soldiers on his arms and a third across his shoulders, dragging him back with his knees scraping concrete, and he was not going to reach her, and he knew it, and I heard the knowing go into his voice. He couldn't touch the soldier. He couldn't cross the roof. He had one thing left with any reach at all, and he put his entire ruined heart into it, so loud his voice cracked in the middle:
+Her sneakers pedaled once and found nothing. Wind pulled her hair across her face. Below her was every light in the city — the Loop, the river, Sakaba-dōri with its dead letter — exactly the view I'd promised her when I said *midnight on the roof*. My stomach dropped so hard I thought I'd be sick on the concrete.
+
+"Enough," the soldier called across the roof. Not even loud. Bored, almost. "You two. Stop. Hands up and come quiet — or I drop her."
+
+The world narrowed to that.
+
+Alarms still going. Sky still wrong. Phones still screaming red in our pockets. None of it reached me. There was only her collar in his fist and the black air under her shoes and six meters of roof I was never going to cross in time.
+
+"Ryn—!"
+
+I don't know if I said her name or only thought it. I turned back toward her anyway. One step. That was all I got. Arms locked around my chest from behind, a knee took the back of my leg, and the roof came up and hit me in the face. Blood flooded my mouth. Grit in my eye. Someone's weight on my spine, grinding my cheek into concrete that still smelled faintly of cake.
+
+From down there I could see her — out over the lights, sneakers hanging, the milky-eyed cat plush still crushed under her free arm like she refused to drop it. She had gone perfectly still. Not calm. Calculating. The stillness of someone who had understood exactly what struggling would cost.
+
+"Haru," she said, from over the edge of the world. Quiet. Reasonable. The voice she used on panicking shoplifters. Her eyes found mine and held them. "Don't. Don't make him—"
+
+Kaito had made it further. Always further. Two soldiers on his arms, a third across his shoulders, dragging him back with his knees scraping concrete, and he was fighting all three like the math might change if he just refused it hard enough. Blood on his lip. Jacket half off. He looked at her, then at the drop, then at the soldier's hand, and I watched the knowing land in his face — he couldn't touch them, couldn't cross, couldn't do the one thing his whole life had been built to do, which was get between her and the hurt.
+
+His mouth opened. His voice cracked in the middle, so loud it tore something in my chest just hearing it:
 
 "**LET HER GO!**"
 
@@ -138,13 +236,13 @@ Not a throw. Not a decision. His fingers uncurled all at once, evenly, mechanica
 
 He let her go.
 
-Her free hand caught the lip. Fingernails on concrete — a sound like chalk snapping. Her eyes found mine and held them, and her mouth moved, and I have spent every night since deciding what the shape of it was. The kindest reading is *okay*. I don't always have the strength for the kindest reading.
+The cat hit the concrete beside the crate and stayed. Her free hand caught the lip. Fingernails on concrete — a sound like chalk snapping. Her eyes were still on mine, and her mouth moved, and I have spent every night since deciding what the shape of it was. The kindest reading is *okay*. I don't always have the strength for the kindest reading.
 
 Then the lip of the roof held nothing, and the space where she'd been was just city lights.
 
 ---
 
-I don't have the next part in order. I've tried. It doesn't hold a line, so I'll give it to you the way I have it.
+I don't have the next part in order. I've tried. It doesn't hold a line, so this is the way I have it.
 
 I know I was screaming, because my throat was raw for three days. I know two soldiers dragged me back from the lip and I fought them with everything I didn't have and it accomplished nothing at all.
 
@@ -154,7 +252,7 @@ And I know the officer walked to the lip, looked down at the street for exactly 
 
 "Confirmed," he said, to the radio on his collar. "It's the Word. Both flagged, the loud one is active." A pause while the radio talked. He glanced at the kneeling soldier the way you glance at a spent tool. "One casualty. Civilian. Yes — it was instructive." He stood there, in the middle of all of it, and checked his watch again. "Bring both. Alive is the entire point. And if the loud one opens his mouth — hands over your ears, and you do not listen to one word he says. That order stands until I revoke it."
 
-Fifteen years old, face-down on a rooftop, Ryn gone, the east ending, and a man in a pressed uniform talking about my best friend's *mouth* like it was the thing he'd been sent to collect. I understood nothing. I filed it anyway. Filing was all I had left.
+Fifteen years old, face-down on a rooftop, Ryn gone, the east ending, and a man in a pressed uniform talking about my best friend's *mouth* like it was the thing he'd been sent to collect. I understood nothing.
 
 Then the east stairwell exploded.
 
@@ -170,12 +268,10 @@ Two blocks on, a vending bank had collapsed into the mouth of a underpass, leavi
 
 In the dark beside me, close enough that I could feel him shaking, Kaito's breathing had a wet catch in it. Nosebleed. In that light the blood on his wrist looked black.
 
-"Haru." His voice was wrong — cracked through the middle, half of it missing, like something had been spent out of it. "Haru. I told him to let her go. He was going to drop her. He *said* — I just wanted him to stop. I said let her go and he — his hand just—" He stopped. Started. Stopped. The next thing came out smaller than any sound I'd ever heard him make. "Why did his hand open?"
+"Haru." His voice was wrong — cracked through the middle, half of it missing, like something had been spent out of it. "Haru. I told him to let her go. He was going to drop her. He *said* — I just wanted him to stop. I said let her go and he — his hand just—" He stopped. The next thing came out smaller than any sound I'd ever heard him make. "Why did his hand open?"
 
-I want to be able to tell you I said the right thing.
-
-The right thing was there. *It wasn't your fault.* Six syllables. I had them. I opened my mouth and they were right there — and I had seen the hand open. I had seen *how* it opened. All at once. Evenly. Nobody home. And I could not make the six syllables come out with the weight he needed them to have, because some careful, cowardly, bookkeeping part of me had already written the entry and wouldn't lie about the arithmetic.
+The right thing to say was there. *It wasn't your fault.* Six syllables. I had them. I opened my mouth and they were right there — and I had seen the hand open. I had seen *how* it opened. All at once. Evenly. Nobody home. And I could not make the six syllables come out with the weight he needed them to have, because some careful, cowardly part of me had already decided what the open hand meant, and wouldn't lie about it.
 
 So I held onto his jacket in the dark and said nothing, and he felt the nothing arrive. Half an inch of space appeared between us that had never been there in two years, and I couldn't see his face when it happened, and I've been grateful for that in the worst way ever since.
 
-"Okay," he said finally. Flat. Emptied of every decibel I'd ever known him by. He wiped his nose on the back of his hand and looked at the smear like a stranger's signature. "Okay. West. She said west."
+"Okay," he said finally. Flat. Emptied of every decibel I'd ever known him by. He wiped his nose on the back of his hand and looked at the smear like a stranger's signature. "Okay. We have to go west."

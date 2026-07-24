@@ -28,7 +28,7 @@ Jun leaves my side, ambles up, easy, twenty-three years of nothing-to-hide in hi
 
 "I don't keep his boots by my door."
 
-It builds from there, and I want it written exactly, because afterward everyone in that yard will remember it differently, at whatever speed their fear ran. It builds slow. The lieutenant asks the same question four different ways. Jun answers wide four different ways, cheerful going flat, flat going careful, because the cousin's papers are the lane's paper — Sato's shed, the tin box, the merciful stamps — and every soul in the yard knows it and knows that Jun knows, and Jun, being Jun, has decided with no clock in his body that the FDC gets to stand in his town but not inside his family.
+It builds from there, and I have it exact, because afterward everyone in that yard will remember it differently, at whatever speed their fear ran. It builds slow. The lieutenant asks the same question four different ways. Jun answers wide four different ways, cheerful going flat, flat going careful, because the cousin's papers are the lane's paper — Sato's shed, the tin box, the merciful stamps — and every soul in the yard knows it and knows that Jun knows, and Jun, being Jun, has decided with no clock in his body that the FDC gets to stand in his town but not inside his family.
 
 Then Hanae starts forward — mother's instinct, the lunch cloth twisting — and a soldier puts an arm across her path, and Jun's voice changes register for the first time.
 
@@ -42,7 +42,7 @@ The shove comes from the flank soldier, two hands, center of Jun's chest, and Ju
 
 "Hands behind your head. Last warning."
 
-The yard has gone tide-flat silent. I'm thirty meters back in the crowd with copper already climbing my throat, sentences stacking behind my teeth — clean ones, I've *practiced*, name the act, close the exits — and Haru's eyes find me from across the yard with a message in them as loud as a shout: *don't. Not here. A hundred witnesses, the gray suit, don't.* And the ledger should show I was obeying him. I stood there with my mouth shut, being counseled by my best friend's terrified face across a shrine yard, both of us betting that the ordinary machinery of a bad day would grind through boring and land everyone home by supper.
+The yard has gone tide-flat silent. I'm thirty meters back in the crowd with copper already climbing my throat, sentences stacking behind my teeth — clean ones, I've *practiced*, name the act, close the exits — and Haru's eyes find me from across the yard with a message in them as loud as a shout: *don't. Not here. A hundred witnesses, the gray suit, don't.* And I was obeying him. I stood there with my mouth shut, being counseled by my best friend's terrified face across a shrine yard, both of us betting that the ordinary machinery of a bad day would grind through boring and land everyone home by supper.
 
 "Last chance," the soldier says. "Hands."
 
@@ -60,7 +60,7 @@ That's me. That's my voice, already too loud, tearing out of thirty meters of st
 
 "Shut up," the soldier says, muzzle steadying on my chest. "One more sound out of you and—"
 
-And here it is. The entry the whole record has been walking toward. He faced me. He heard me and *understood* me, and I heard and understood him, and my mouth was already full of copper, a month of scales in the dark, a month of clean sentences racked and ready, Jun's blood still finding the gaps between the stones — and what I said, I said with every gram of weight my ruined voice could put under it:
+And here it is. The sentence the whole summer had been walking toward. He faced me. He heard me and *understood* me, and I heard and understood him, and my mouth was already full of copper, a month of scales in the dark, a month of clean sentences racked and ready, Jun's blood still finding the gaps between the stones — and what I said, I said with every gram of weight my ruined voice could put under it:
 
 "Why don't you shut up. Or better — why don't you just kill yourself."
 
@@ -68,7 +68,7 @@ The words went out of me like a spine being pulled. My knees went. Blood came do
 
 — and the soldier turned the rifle under his own jaw and fired.
 
-I'm not describing it past that sentence. The record can have the sentence. It can't have the rest, because the rest lives behind my eyes and I'm not copying it out for anyone.
+I'm not describing it past the sentence. The rest lives behind my eyes, and it can stay there.
 
 The yard broke. Screaming, the crowd going in every direction at once, soldiers shouting cover and contact and pointing rifles at a threat that wasn't there, that was *me*, that they couldn't see — because who fired? The man fired at himself. Nobody knew what they'd witnessed. Except: at the table, the man in the gray suit stood very still in the middle of the smashing wave, hands over his ears — over his *ears*, in a yard where the shooting was finished — and his eyes went through the crowd like a hook through water, hunting, and what they were hunting was a mouth.
 
@@ -84,11 +84,11 @@ Haru caught me at Sugi's gate.
 
 He must have run the parallel lane — he was there first, cake-carrier, sum-runner, chest heaving, arm out, and I stopped, because it was him. One breath, the two of us in the gateway where we'd stood every evening of this whole salvaged summer.
 
-"Kaito—" His hand got my sleeve. His face was doing arithmetic faster than I've ever watched it go and losing anyway. "It wasn't—"
+"Kaito—" His hand got my sleeve. His face was working faster than I've ever watched it go and losing anyway. "It wasn't—"
 
 And it stopped. Half a beat early. His mouth open around the rest of it — *your fault*, three syllables, the balance of a debt he's been carrying since a vending-machine light in the dark outside Kōgetsu — and it would not come. Even now. Even with Jun's blood on the stones and a man dead by his own hand with my sentence in his ears, even at the absolute bottom of the world, my best friend is too honest to finish it, because he watched a soldier put a rifle under his own jaw *because I told him to*, and no true sentence starting with *it wasn't* survives that.
 
-I know what I said back. The record gets it whole:
+I know what I said back. Every word of it:
 
 "It was. You saw it. It was."
 
@@ -98,7 +98,7 @@ Mira was at the lane mouth. Of course she was at the lane mouth. Kit on her shou
 
 "Not the coast road," she said. "They'll rope the coast road first. There's a foot track over the ridge that the herring carts used before the tunnel. I know it." And then, when I didn't move: "Kaito. The man in the gray suit is why I know. Come *now* or sit down and wait for him."
 
-One more look back. I paid for it and I'd pay again. Sugi's plum tree over the wall. The shelf through the window — the cake box, the sea-damp cat, one milky eye. Haru in the gateway, hand still open where my sleeve had been, mouth still open around the sentence he couldn't close, and behind him up the lane the sound of a town learning what the day was.
+One more look back. I paid for it and I'd pay again. Sugi's plum tree over the wall. The empty stretch of shelf through the window where the cat used to sit. Haru in the gateway, hand still open where my sleeve had been, mouth still open around the sentence he couldn't close, and behind him up the lane the sound of a town learning what the day was.
 
 Everything I have ever loved fits in one gateway. I turned and followed her at a run.
 
@@ -106,7 +106,7 @@ Everything I have ever loved fits in one gateway. I turned and followed her at a
 
 The ridge track in the dark, then. Roots and herring-cart stones, Mira's shape ahead of me, the cove dropping away behind until Nagihama was just a handful of lit grains spilled at the sea's edge, with three gray-green trucks parked in it.
 
-She let us stop at the top, two minutes, water from the sack. She'd packed for two. I drank and my throat felt like a rope something heavy had gone down too fast, and I looked at my hands in the dark and made the last entry of the summer, the one I'll be paying interest on for the rest of the account:
+She let us stop at the top, two minutes, water from the sack. She'd packed for two. I drank and my throat felt like a rope something heavy had gone down too fast, and I looked at my hands in the dark and let the last truth of the summer arrive, the one I'll be paying for the longest:
 
 A month of practice. All those nights, all that blood down the back of my throat, learning to make it clean — and it was never for the buyer, or the yard, or even for three words that would have pulled her up. Some part of me was always building toward a sentence with a man's whole life inside it. Tonight it came out clean. Perfectly clean. First throw.
 

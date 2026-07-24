@@ -16,25 +16,25 @@ I stood on the sea wall with the gut bucket screaming behind me and let that arr
 
 I went to work and tied splices and didn't say anything with weight on it for three days.
 
-The nights were a different account. The nights I kept going back to the north wall.
+The nights were a different story. The nights I kept going back to the north wall.
 
-Here's what practice actually looks like, for the record, since nobody will ever see it: a boy sitting on cold stone past midnight, building sentences out loud with no weight on them, the way you dry-fire a rifle. I'd pick a job — *make a man put down a knife, make a man step out of a doorway, make a man forget he saw me* — and then I'd draft the sentence and attack my own draft. *Put the knife down* — which knife, what if he's holding two things, does *down* mean drop or set. *Step aside* — aside which way, what if aside is off a pier. Every sentence has exits, and everything I love about how I've talked my whole life — fast, hot, first thing in the chamber — is exactly what leaves the exits open. So I'd sand them. Shorter. Fewer doors. Say it, hear the gap, close the gap, say it again. Some nights I got one sentence smooth in two hours, and my throat would ache like I'd been shouting even though nothing I said all night was louder than the tide.
+Here's what practice actually looks like, since nobody will ever see it: a boy sitting on cold stone past midnight, building sentences out loud with no weight on them, the way you dry-fire a rifle. I'd pick a job — *make a man put down a knife, make a man step out of a doorway, make a man forget he saw me* — and then I'd draft the sentence and attack my own draft. *Put the knife down* — which knife, what if he's holding two things, does *down* mean drop or set. *Step aside* — aside which way, what if aside is off a pier. Every sentence has exits, and everything I love about how I've talked my whole life — fast, hot, first thing in the chamber — is exactly what leaves the exits open. So I'd sand them. Shorter. Fewer doors. Say it, hear the gap, close the gap, say it again. Some nights I got one sentence smooth in two hours, and my throat would ache like I'd been shouting even though nothing I said all night was louder than the tide.
 
-Twice I put a hair of weight on one, just to feel the coin taste rise, aimed at nothing and nobody — and even that spent something. I could feel the ledger debit it: a faint pressure behind the eyes, gone by morning, but real.
+Twice I put a hair of weight on one, just to feel the coin taste rise, aimed at nothing and nobody — and even that spent something. I could feel it come out of me: a faint pressure behind the eyes, gone by morning, but real.
 
 The second time, a lantern came up the wall path. Old Harada, checking his skiff lines the way he does when his hips won't let him sleep. I sat still and let him find me being a boy staring at the sea, which is a thing this town's boys are allowed to be at night, and he grunted something about the swell and went back down. I told myself he'd seen nothing.
 
-The town, it turns out, keeps books too. I'd learn that Friday.
+The town, it turns out, notices things too. I'd learn that Friday.
 
 ---
 
-Then I built the tests anyway, and I want it written down that I knew exactly what I was doing, because the version where I stumbled into it is a comfort I haven't earned.
+Then I built the tests anyway, and I knew exactly what I was doing — the version where I stumbled into it is a comfort I haven't earned.
 
-I built them the way Haru would build them. That's the part that made my skin crawl — I could hear the shape of his thinking in mine, careful, columned: *a real test needs a result you can't explain away.* Telling a co-op man "take the other end" proves nothing; he'd have taken the other end anyway. For a week I did those anyway — little deniable nothings, "hand me the hook," "mind the ice" — and got nothing but maybes and the faint coin taste, spending centimes of myself to learn nothing.
+I built them the way Haru would build them. That's the part that made my skin crawl — I could hear the shape of his thinking in mine, careful, step by step: *a real test needs a result you can't explain away.* Telling a co-op man "take the other end" proves nothing; he'd have taken the other end anyway. For a week I did those anyway — little deniable nothings, "hand me the hook," "mind the ice" — and got nothing but maybes and the faint coin taste, spending centimes of myself to learn nothing.
 
 A real test needed someone doing a thing they would never otherwise do.
 
-I want one more entry in before the buyer, because it's the one I'm least ashamed of and it still scares me the most.
+One more thing before the buyer, because it's the one I'm least ashamed of and it still scares me the most.
 
 Wednesday, on the mending frames, Jun was fighting the co-op's worst net — the one everybody hates, the one with the tar-stiff panel that takes two men and a grudge — and doing it alone, because the other netman was out and Jun is constitutionally incapable of leaving a job for the tide. His hands were torn up. He'd waved off my help twice, cheerful, *you've got your own frame, boss counts my blisters not yours.* And the sentence assembled itself behind my teeth before I'd asked it to. Clean. Perfect. Four words, no exits: *Let me help you.*
 
@@ -42,7 +42,7 @@ It would have worked. That's the thing. It wasn't a test I might fail — I coul
 
 I stood there with it loaded and I looked at him — at the radish fans in the lunch cloth, at the thumb he'd taught mine to be smarter than — and I swallowed it. Physically. It went down like a stone.
 
-Not because it was cruel. Because it wasn't. Because it was *help*, and it was still me reaching into my friend's head and rearranging the furniture, and if I let myself start with the kind ones I already knew exactly how that ledger would run. Every rep is a person. Jun doesn't get to be a rep.
+Not because it was cruel. Because it wasn't. Because it was *help*, and it was still me reaching into my friend's head and rearranging the furniture, and if I let myself start with the kind ones I already knew exactly where that would end. Every rep is a person. Jun doesn't get to be a rep.
 
 I helped him anyway, the ordinary way, by ignoring his waving-off and grabbing the tar panel, and he called me a mule and split the lunch, and I sat there eating Hanae's rice with my unspent sentence dissolving in my mouth like a coin I'd almost paid with.
 
@@ -56,7 +56,7 @@ Thursday, he's mid-shortchange — foreman's neck going red, Jun's mouth doing i
 
 The coin taste came up hard this time, a proper mouthful of it, and my nose prickled high up behind the bridge, and the buyer stopped mid-sentence.
 
-Stopped. Blinked at the chalkboard. And paid the posted price — counted it out flat, no argument, while the foreman stood there with his rebuttal dying in his mouth and the whole shed went quiet at the miracle. The buyer looked confused doing it. That's the detail I keep. He watched his own hands count the money like a man watching it rain out a clear sky, said something about correcting the ledger next week, and drove off.
+Stopped. Blinked at the chalkboard. And paid the posted price — counted it out flat, no argument, while the foreman stood there with his rebuttal dying in his mouth and the whole shed went quiet at the miracle. The buyer looked confused doing it. That's the detail that stays with me. He watched his own hands count the money like a man watching it rain out a clear sky, said something about correcting the ledger next week, and drove off.
 
 The co-op talked about it for two days. Miracle, they said. Even misers wake up human once.
 
@@ -66,7 +66,7 @@ I made it to the ice room before the nosebleed properly started.
 
 ---
 
-Here's what it costs. The record should have the costs, since I'm the only one who can enter them.
+Here's what it costs, since I'm the only one who knows.
 
 The blood, first — not a trickle, that time. I sat on a crate in the ice room with my head forward, pinching, and it ran through my fingers for longer than it should, bright on the wet floor, and when it finally stopped, my throat felt the way it felt after the roof: scraped, paid out, like the voice is a rope and something heavy just went down it too fast.
 
@@ -80,11 +80,11 @@ I felt good.
 
 When the buyer's hands started counting. When the shed went quiet. Two weeks of being a scraped-out refugee kid who checks doorways, and for one second on that dock I was the reason the world went *right* instead of wrong — the miser paid, the foreman won, Jun's crates made money — and something in my chest lifted like a gull getting the wind, and it has not fully come down since, and I hate it, and I go looking for it again every time I practice.
 
-That's the entry. Both lines. It works when it's clean, and part of me is glad, and I can't tell anymore which of those is the dangerous one.
+That's the truth, both halves of it: it works when it's clean, and part of me is glad, and I can't tell anymore which of those is the dangerous one.
 
 ---
 
-Mira knows something. I need the record straight on how much, because I've gone over it and I can't find the leak — which means there isn't one, which means she's just watching that closely.
+Mira knows something. I've gone over how much, again and again, and I can't find the leak — which means there isn't one, which means she's just watching that closely.
 
 Friday she's at Sugi's gate when I come back from the wall crew, and she falls in step, and for one lane's length she says nothing at all. Then:
 
@@ -108,7 +108,7 @@ She goes her road. I stand at the corner a while.
 
 I don't stop.
 
-But I'll tell the record why, and it's not the lift in the chest, whatever else that lift is doing to me. It's this: that night I finally wrote the sentence out. The one I've been circling since the roof, the reason I do scales in the dark until my nose bleeds. On the roof I had one throw and I made it with a dirty sentence — *let her go,* a loop of words we'd been tossing around the arcade all night, a coin worn so smooth it could mean anything, and the machine took the meaning I didn't want.
+But I know why, and it's not the lift in the chest, whatever else that lift is doing to me. It's this: that night I finally wrote the sentence out. The one I've been circling since the roof, the reason I do scales in the dark until my nose bleeds. On the roof I had one throw and I made it with a dirty sentence — *let her go,* a loop of words we'd been tossing around the arcade all night, a coin worn so smooth it could mean anything, and the machine took the meaning I didn't want.
 
 Clean, it's three words. I know them now. I've built them the careful way, Haru's way, no gaps, no exits.
 

@@ -14,13 +14,13 @@ Behind his left ear. A pale mark, the size and shape of a pressed thumbnail, wit
 
 The same mark. The same ear. On two boys born in different cities to different families.
 
-I reached up and touched mine, the way you check your pocket after seeing someone robbed. Then I put my hand down, and I didn't say anything. I want to be honest with the ledger about why. It wasn't tact. It was that a soldier had already looked at us that night and said *both of them* — and some sums, once you write them down, you can't unwrite. I wasn't ready to know what I was already starting to know.
+I reached up and touched mine, the way you check your pocket after seeing someone robbed. Then I put my hand down, and I didn't say anything. I want to be honest about why. It wasn't tact. It was that a soldier had already looked at us that night and said *both of them* — and some sums, once you write them down, you can't unwrite. I wasn't ready to know what I was already starting to know.
 
 We walked on. Dawn came up gray at our backs. A two-car branch train was running from the junction town — some railway man had decided on his own authority that it would run, and stood on the platform waving people aboard like it was any Sunday — and it carried us over the coastal hills with a load of quiet strangers, down to where the land folded into a cove and the sea finally stopped looking like something on fire.
 
 Nagihama. Boats under blue tarps. One main street. A plum tree hanging over a tile-roofed row at the end of the harbor lane.
 
-Ryn had talked about this town every summer of her life. It was exactly the size of her stories, and she was not in it, and I hated it on sight for that arithmetic.
+Ryn had talked about this town every summer of her life. It was exactly the size of her stories, and she was not in it, and I hated it on sight for that.
 
 Sugi opened her door before we knocked.
 
@@ -30,17 +30,11 @@ She counted. I watched her count. I watched the number come up short.
 
 "Inside," she said. "Both of you. Shoes off."
 
-And we were here.
-
 ---
 
-That's the story I've been telling her, tonight, at this table. The tea went cold twice. She poured it out and made more without a word.
+Sugi's kitchen smells like pickled plum and charcoal. The arcade cat sits on the shelf by the window where she set it, birthday sticker still stuck to the plastic, one milky eye watching the lane. Kaito is in the back room, on a futon that still smells like sun, asleep or pretending so well it counts. His breathing is too even.
 
-"So," Sugi says. "That's how."
-
-"That's how."
-
-Kaito is in the other room, on a futon that still smells like sun, asleep or pretending so well it counts. His breathing is too even. Sugi glances toward the doorway once, and whatever she thinks stays behind her teeth.
+Over tea, I tell her all of it, straight through — the train pass, the roof, the road, her door. She doesn't ask a single question while I talk; she has been feeding people through bad news longer than I have been alive, and she knows the rest comes out on its own if you leave a person alone with a hot cup. When I finish, she glances toward the doorway once, and whatever she thinks stays behind her teeth.
 
 "You told it straight," she says. "Most people dress it up."
 
@@ -50,73 +44,77 @@ Kaito is in the other room, on a futon that still smells like sun, asleep or pre
 
 "I wasn't going to—"
 
-"You were. I can hear it loading." She stands, joints cracking, and takes the cake box — I had carried that too, all night, empty of everything but crumbs and a sandwich bag of unused candles, and I cannot explain that either — and sets it on the shelf next to the cat. "He eats too, when he wakes. Even if he argues. Especially if he argues."
+"You were. I can hear it loading." She stands, joints cracking, and points at the bowl she already set in front of me. "Eat. He eats too, when he wakes. Even if he argues. Especially if he argues."
 
 ---
 
-The girl from down the lane shows up the next afternoon with a sack of rice and a stack of towels, and this is where Mira comes into it, so pay attention the way I didn't.
+The girl from down the lane shows up the next afternoon with a sack of rice under one arm and a stack of folded towels under the other.
 
-"Saeki Mira," she says at the door, and bows like we're ordinary guests and this is an ordinary week. Seventeen or so. Dark hair cut blunt at the jaw. The kind of easy, unhurried friendliness that a house full of bad news accepts without argument, the way a wound accepts clean water. "Sugi-san helped my aunt through last winter. I saw the futons airing and thought — towels. And rice, because everyone forgets they'll need rice until they need it."
+She is seventeen, maybe — short for it, sturdy through the shoulders, built for market crates and long walks up the lane. Dark hair cut blunt at the jaw, a little uneven at one side like she'd done it herself over a sink. Warm brown skin from a life spent outdoors and clear dark eyes that take in the entryway, the shoes and me.
 
-"We haven't slept much," I say, which is not what she asked. She takes it without blinking.
+"Saeki Mira," she says, and bows with the rice still under her arm, careful not to tip it. "My aunt's house is the one with the blue gate. Sugi-san helped her through last winter, so — this is late, but. Towels. Rice. People always remember the hard things and forget the boring ones."
 
-"Then I'll be quick and you can get back to not sleeping." She sets the rice inside the step, hands me the towels, and looks past me at Kaito, who has come to the doorway of the back room and stopped, the way he stops at all doorways now, checking the room before he enters it. One beat. Then she holds a towel out to him too. "Well water runs clearer if you let the first bucket go. If those shoes are all you two have, my aunt keeps spares."
+Sugi is already taking the sack out of her hands. "Come in before you fall over the threshold being useful."
 
-Kaito doesn't move. She doesn't make it strange. She just sets the towel on the rail where he can reach it later and turns back to Sugi, and asks whether the plum tree still drops fruit on the roof in August, because her aunt wants a basket before the birds take everything.
+Mira steps in, leaves her sandals neat, and sets the towels on the low table like she's done it in this house before. Kaito has come as far as the back-room doorway and stopped — one hand on the frame, checking the room the way he checks every room now. She looks at him once. Not long. Not soft. Just a look that says *I see you standing there,* and then she is talking to Sugi about whether the co-op still has miso left for households that don't have ration cards yet, and which tide tomorrow is low enough to dig for clams if anyone has the legs for it.
 
-"It does," Sugi says. "Birds are thieves. Same as boys."
+Nobody asks us where we came from. She never once looks at the empty third place at the table.
 
-Mira laughs like this is a normal joke in a normal house, and stays for one cup of tea, and talks about tide charts and a bicycle pump and whether the shrine gym has mats left. She does not ask what happened to us. She does not look at Kaito like something broken. When his tea sits untouched she nudges it an inch toward him — "Drink before it goes cold, cold tea is a crime in this lane" — and he drinks. Not much. Enough.
+When Sugi puts a cup in front of her, Mira drinks it standing, the way people do when they know better than to settle into someone else's grief. Before she goes she glances at our ruined shoes by the door.
 
-When she's gone, Sugi watches the door a moment.
+"My aunt keeps spare boots in the shed," she says. "I'll bring a pair tomorrow. Two, if they fit." She tips her chin at Kaito without making him answer. "You look like you walk. Walking's easier when your feet aren't bleeding."
+
+Then she is gone — rice on the counter, towels stacked, blue-gate girl already halfway down the lane whistling something with no tune.
+
+When the door shuts, Sugi watches it for a moment.
 
 "Good kid," she says. "The lane's full of them, if you look."
 
-I'm writing her into the record exactly the way she arrived: rice, towels, no questions. A helpful neighbor, and nothing else visible from where we stood. What she became to us later, she wasn't yet, and I won't let the later leak backward into this page. That's a rule I've made for this whole account.
+Rice, towels, no questions. A helpful neighbor. That afternoon, nothing else showed.
 
 ---
 
-They hold the send-off three days on, at low tide, out on the flats past the sea wall.
+They hold the send-off three days from now, at low tide, out on the flats past the sea wall.
 
-No body. There was never going to be a body; Kōgetsu is a sealed word on the radio now, a place with a number instead of a population. So the widows do what this coast has always done for the sea's unreturned. A square of white cloth. A flower. The thing that held the grief, carried to the tide line and given to the water, so the water can do the carrying from here.
+No body. There was never going to be a body; Kōgetsu is a sealed word on the radio now, a place with a number instead of a population. So the widows do what this coast has always done for the sea's unreturned. A square of white cloth. A flower. Something that can stand in for a person the water already took, carried to the tide line and given back, so the water can do the carrying from here.
 
 Sugi sets the arcade cat on the cloth.
 
-It should be ridiculous — a plastic game prize with one milky eye standing in for a girl who vaulted counters. It is ridiculous. It is also so exactly right that when I see it sitting there on the white square I stop being able to breathe through my nose. She won that argument the way she won all of them, by having buried more people than we had met.
+It should be ridiculous — a plastic game prize with one milky eye standing in for a girl who vaulted counters and stole chashu and said *okay* when the sky went white. It is ridiculous. My throat closes anyway. The birthday sticker is still on its side. Nine hundred yen of Kaito's pride and my accidental win and her arm around it on a roof that doesn't exist anymore. Sugi doesn't explain. She has buried more people than we have met, and she doesn't waste words on the ones still standing.
 
-The widows sing something low that I don't know the words to. The eastern horizon still carries its wrong glow, faint from here, like a bad sunset that lost its way. Sugi stands with her spine straight and her hand locked around my wrist, and I cry without making any noise, which it turns out is a skill you get exactly one night's practice at before life starts grading you on it.
+The widows begin a song I don't know. Low. Almost not a song — more like breath passed from chest to chest along the line of them. The eastern horizon still carries its wrong glow, faint from here, a bruise the sky won't admit to. Wind off the flats finds every gap in my borrowed jacket. Sugi's hand locks around my wrist, hard enough to hurt, and I understand she is holding me up. I cry without making any sound. Beside me Kaito does not cry. His face has gone blank in a way that frightens me more than tears would have — like someone turned the volume down on the whole boy and left the shell running.
 
-One of the widows says the old words over the cloth. She means nothing by them. It's just the phrase, the one this rite has always used, polished smooth by a hundred years of grieving mouths:
+One of the widows steps forward and says the old words over the cloth. She means them the way this coast has always meant them. She does not know what those three words did to us five nights ago. She cannot know. The phrase is older than our ruin:
 
 "Now we let her go. Now we let her go home to the water."
 
-Kaito flinches like he's been struck. Then I do — a half-second late, the way I catch everything a half-second after him — because our bodies learned those three words on a rooftop five days ago, and here they are again, dressed up as mercy, coming out of a kind old mouth at the edge of the sea.
+Kaito flinches like he's been hit in the mouth. The flinch travels into me a half-second late, the way everything does — and for a moment I am back on concrete, blood in my teeth, her sneakers over black air, his voice cracking open the world. Then I am on the flats again, and a kind old woman is offering those same words as mercy, and there is nowhere to put either version of them.
 
-The rite is simple. You wade out to the tide line. You set the cloth on the water. You open your hands, and the tide does the rest.
+The rite is simple. You wade out to the tide line. You set the cloth on the water. You open your hands.
 
-We carry it out together, one corner each, the water cold through our borrowed boots. The cloth settles on the surface like it was always going to float. The flower rides it. The cat rides it, absurd and sacred, one milky eye at the sky.
+We carry it out together, one corner each. The water finds us at the ankles, then the calves, cold through the boots Mira's aunt sent, cold like it has been waiting. My hands are shaking so hard the cloth trembles. His are worse. The square settles on the surface as if it always belonged there.
+
+I look at him.
+
+He looks at the cat. At the water. At nothing. His knuckles have gone white on his corner. For a long breath I think he won't do it — that we will stand here until the tide decides for us — and I almost want that, because opening my hands feels like agreeing she is gone, and I have not agreed, I have only survived.
+
+"Together," I say. It comes out ruined. "Kaito. Together."
+
+His eyes find mine. Something in them breaks, or finishes breaking. He nods once — not agreement, not peace, just the smallest possible yes a person can make and still mean it.
 
 I open my hands.
 
-Kaito doesn't.
+He opens his.
 
-The tide pulls, patient, insistent, the cloth sliding seaward across the black water — and his fist stays closed on his corner, knuckles white, arm shaking with the effort of a fight he's having entirely with himself. There is nothing loud in his face. All the volume he's spent his whole life on is gone, and what's left is just a boy at the edge of the sea who cannot make his hand perform the one motion the rite exists to teach.
+The tide takes the cloth the way it takes everything on this coast — patient, without ceremony, without asking if we are ready. The flower turns. The cat rides a little farther, sticker catching the light once, and then the black water has them, and there is only the empty square of sea where a girl used to be a weight in my arms.
 
-"Kaito," I say.
+Neither of us moves. Cold climbs our legs. Behind us the widows' song thins and stops. Sugi does not call us in. She lets the quiet have us for as long as it needs.
 
-He shakes his head. Once. Not at me — at the water, at the cloth, at the words the widow used.
-
-"You don't have to finish it today," Sugi says from the shallows behind us, quiet enough to stay between the three of us. "There's no clock on this beach. But you'll step back from the tide line now, before the sea decides it's done waiting."
-
-He steps back. He brings the whole cloth with him — soaked cat, drowned flower, the square of white dripping against his leg — hauled back out of the sea's hands like a technicality. The widows say nothing. Maybe they've seen it before. Maybe nobody has ever done that in the history of this coast. I don't ask, and I don't pry his fingers open, because I can't. Because five days ago I also failed to say the thing that opens hands.
-
-On the sea wall above us, Mira stands with a few neighbors who came to pay respects from a distance, arms folded against the wind, watching a boy walk out of a funeral with the grief still clenched in his fist. She isn't smiling. She looks worried, the way any decent person would.
-
-That's all it was, from where I stood. I keep telling you that. From where I stood, that's all anything was.
+When we finally turn, the sea wall above us holds a thin line of neighbors who came to pay respects from a distance. Mira is among them, arms folded against the wind, face bare of anything useful. She watches us walk out of the water with empty hands. She does not smile. She does not look away.
 
 ---
 
-Inside, Sugi puts the cat back on the shelf, sea-damp, sticker curling, still here. Kaito sits against the wall with the wet cloth folded in his lap, and the last light goes gray-gold through the window, and down the lane somebody laughs at something that has nothing to do with us — the sound carrying the way sound does in a town built low.
+Inside, the shelf by the window is empty where the cat was. Kaito sits against the wall with his wet boots still on and his hands open on his knees, as if he hasn't figured out what to do with them now that they've done the one thing they didn't want to do. Last light goes gray-gold through the glass. Down the lane somebody laughs at something that has nothing to do with us — the sound carrying the way sound does in a town built low.
 
 "Futon or my room," Sugi says. "Pick one and stop staring at my floor like it owes you an answer."
 
@@ -124,12 +122,12 @@ Inside, Sugi puts the cat back on the shelf, sea-damp, sticker curling, still he
 
 "Futon," I say.
 
-She nods once and goes to put rice on, and that's the end of the part I can tell straight through. The city, the roof, the road, the water. It's all one piece and it's finished.
+She nods once and goes to put rice on. The city, the roof, the road, the water — that part is all one piece, and it's finished.
 
 What started after that didn't announce itself. It came into the house the way the salt does — through the seams, a little every day, while everyone was busy surviving. It came disguised as a quiet boy getting quieter, and a kind neighbor being kind, and a word I still hadn't said out loud sitting in my chest like a swallowed stone.
 
 I'd promised myself I'd say it when he could hear it. *It wasn't your fault.*
 
-I want the record to show I still believed both halves of that sentence — that I'd say it, and that it was true — on the night I first slept under Sugi's roof. Hold onto that belief for me.
+On the night I first slept under Sugi's roof, I still believed both halves of that sentence — that I'd say it, and that it was true.
 
 Neither half survived the summer.

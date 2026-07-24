@@ -8,7 +8,7 @@ Sato Kimi is fifty, built like a bollard, and spent thirty years as the harbor o
 
 "You can carry for me," Sato said, that first day, sizing me up like a crate. "You look honest and boring. That's the whole uniform."
 
-So Tuesdays and Fridays I carry — envelopes between the shed and the shop, sums in my head where no soldier can read them. I told Sugi. She grunted like I'd told her the tide was in. I did not tell Kaito, and I want the ledger to show why: he has enough weight in his pockets, and I liked having one thing that was mine, one small brave thing I was doing with my boring honest face while he lifted ice and got quieter. Pride, filed as protection. It won't be the last time I make that filing error.
+So Tuesdays and Fridays I carry — envelopes between the shed and the shop, sums in my head where no soldier can read them. I told Sugi. She grunted like I'd told her the tide was in. I did not tell Kaito, and I'll be honest about why: he has enough weight in his pockets, and I liked having one thing that was mine, one small brave thing I was doing with my boring honest face while he lifted ice and got quieter. Pride, dressed up as protection. It wasn't the last time I made that mistake.
 
 ---
 
@@ -52,13 +52,13 @@ And through the gate, drawn by the shot, the person the lane sends when things b
 
 She took over the arm like she'd done it before. She didn't ask what happened. She looked once at the rifle on the gravel, once at the older soldier still on his knees in the wrong part of the yard, once at Kaito's bleeding nose — a triangle, three points, I watched her eyes draw it — and then she said, in her tide-chart voice: "You two were never here. Go through the shop. Sato fell on a net hook. Everyone in this yard likes that story better than any other story. *Go.*"
 
-The soldiers didn't stop us. That's its own entry: they didn't stop us, because the older one couldn't explain his empty hands without a story he didn't have, and the younger one had just shot a grandmother in a drying yard. They had more to bury than we did. By evening the lane's official truth was a discharge accident during a routine check, apologies conveyed, the box and its stamps long gone into some other shed by hands I didn't see. The lane closes over its own like water.
+The soldiers didn't stop us — because the older one couldn't explain his empty hands without a story he didn't have, and the younger one had just shot a grandmother in a drying yard. They had more to bury than we did. By evening the lane's official truth was a discharge accident during a routine check, apologies conveyed, the box and its stamps long gone into some other shed by hands I didn't see. The lane closes over its own like water.
 
 Sato will keep the arm. That sentence took until midnight to earn.
 
 ---
 
-He comes and finds me on the sea wall after, past the bend, where the stone still holds the day's heat. For a while we sit in the dark and listen to the tide work, and I count what I actually saw against everything I've spent a summer refusing to add up, and the column finally totals itself whether I like it or not.
+He comes and finds me on the sea wall after, past the bend, where the stone still holds the day's heat. For a while we sit in the dark and listen to the tide work, and I set what I actually saw against everything I've spent a summer refusing to look at, and it finally comes together whether I like it or not.
 
 "You saw," Kaito says.
 
@@ -66,9 +66,9 @@ He comes and finds me on the sea wall after, past the bend, where the stone stil
 
 "Say what you saw." Not a challenge. He needs the witness. His voice is scraped down to the boards and there's dried blood he missed at his jaw.
 
-"You said *drop it* and his hands opened before his face knew. You said *step back* and his legs did it. The same as—" and I make myself finish it, because the record deserves at least one honest sentence out of me this summer, "—the same as the roof."
+"You said *drop it* and his hands opened before his face knew. You said *step back* and his legs did it. The same as—" and I make myself finish it, because he deserves at least one honest sentence out of me this summer, "—the same as the roof."
 
-He breathes out like something's been cut off him. And then it comes, all of it, quiet and fast — the practicing in the dark, the gulls, the pier and why the pier failed, the buyer, the nosebleeds, the coin taste, the clean sentences and how he builds them. He talks for longer than I've heard him talk since Kōgetsu. I don't interrupt. I file. Some of it is terrifying and some of it is just my best friend describing, in his own words, with his own scraped voice, the loneliest month of work anyone I know has ever done.
+He breathes out like something's been cut off him. And then it comes, all of it, quiet and fast — the practicing in the dark, the gulls, the pier and why the pier failed, the buyer, the nosebleeds, the coin taste, the clean sentences and how he builds them. He talks for longer than I've heard him talk since Kōgetsu. I don't interrupt. I listen. Some of it is terrifying and some of it is just my best friend describing, in his own words, with his own scraped voice, the loneliest month of work anyone I know has ever done.
 
 "It's getting cleaner," he says finally. "That's what today was. Two commands in ten seconds and they both landed. A month ago that soldier's hand wouldn't have opened all the way." His thumb runs across his fingertips, back and forth. "And Sato's arm still happened. Clean isn't the same as safe. I aimed everything right and the yard still broke sideways, because it isn't only me in the yard. I can't—" He stops the sentence half a beat early, the way he does. Puts his hand flat on the stone. Then, smaller: "Help me."
 
@@ -76,11 +76,11 @@ He breathes out like something's been cut off him. And then it comes, all of it,
 
 "Not — I don't need you to fix it. I need somebody outside my own head. You count things. You see the order things happen in — you just proved it, you gave me the roof back in the right order and it didn't kill me to hear it. Help me figure out the rules. What it needs, what it costs, where the edges are. Because I'm going to keep being in yards, Haru. This summer isn't going to stop putting me in yards, and the next wild shot lands somewhere worse than an arm."
 
-The tide works on the stones. Here is where the record has to be exact, because this is the hinge of the whole account.
+The tide works on the stones. Here is the part I have to get exactly right.
 
 He didn't ask me for the six syllables. He's never asked again, since the wall in the dusk — he asked for something I could actually give, and I understood, sitting there, that this was mercy for me and not for him. He'd measured what my silence could carry and cut the request to fit it.
 
-"I saw the hand open on the roof," I say. It's the closest I've ever come. "I've been seeing it all summer. I couldn't make it mean anything that didn't terrify me, so I filed it under dry air and I let you carry it alone. That's my entry. That's what I did." My throat hurts. "I'll help. I don't know what help looks like yet. But I'm done pretending, and I'm not leaving you alone with it — the rules, the costs, any of it. We figure out your mouth the way we'd have studied for finals. Properly. Both of us."
+"I saw the hand open on the roof," I say. It's the closest I've ever come. "I've been seeing it all summer. I couldn't make it mean anything that didn't terrify me, so I called it dry air and I let you carry it alone. That's the truth. That's what I did." My throat hurts. "I'll help. I don't know what help looks like yet. But I'm done pretending, and I'm not leaving you alone with it — the rules, the costs, any of it. We figure out your mouth the way we'd have studied for finals. Properly. Both of us."
 
 Kaito looks at the black water for a while.
 
@@ -90,4 +90,4 @@ Kaito looks at the black water for a while.
 
 We walk back up the lane past Orihara's dark shop. In her front room a lamp is still burning where Mira is sitting up with Sato. Neither of us says anything about the third point of the triangle her eyes drew in the yard — the girl who arrived at a gunshot with a kit already packed, who invented the cover story in one breath, who has watched Kaito more carefully all summer than I've watched anyone in my life.
 
-I file it under *good neighbor.* The file is getting heavy. I keep it anyway.
+I tell myself *good neighbor.* It's getting harder to believe. I believe it anyway.

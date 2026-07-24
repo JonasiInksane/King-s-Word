@@ -69,7 +69,7 @@ A camera switch is a promise to the reader that the new camera has something the
 
 1. **A switch must answer a question the leaving camera can't.** Never switch just to keep a rotation fair. If a second camera enters a location the reader already toured, the second visit must **change the meaning** of the scene (new threat, new information, a different read on the same people) — not swap the asker's name and replay the beats. Same question answered twice = cut one.
 2. **Every camera chapter runs on that character's own want** — not just a delayed copy of the other lead's plot. Haruki chapters need Haruki's problem (his too-useful voice, what he'll actually say when he catches Kaito, the unpaid absolution), not only trail progress. Kaito chapters need Kaito's (control the mouth, hide, decide about Mira).
-3. **One-paragraph voice test.** A reader should know whose chapter it is within one paragraph, without the name. Voice keys live in `lore/characters.md` (Haruki: careful, columns, apologizes in math; Kaito: heat, throat, sentences as physical objects). If a paragraph could swap cameras unchanged, rewrite it.
+3. **One-paragraph voice test.** A reader should know whose chapter it is within one paragraph, without the name. Voice keys live in `lore/characters.md` (Haruki: careful, precise, notices costs, apologizes by naming what he should have done sooner; Kaito: heat, throat, sentences as physical objects). If a paragraph could swap cameras unchanged, rewrite it.
 4. **Close every POV block on a hook** — a reveal, a threat, or a new question that pulls the reader across the switch. Never a walking button ("Come on. Day's not done."). Never the same close two blocks running.
 5. **Block rhythm (post-collision):** after the Takamatsu near-miss arc resolves, switch in **blocks of 2–4 chapters per lead** instead of per-chapter ping-pong. Intra-chapter cuts are reserved for convergence beats (near-miss, collision, same room). Canon home for this rhythm: `README.md` POV section.
 
@@ -129,7 +129,7 @@ Lean means no wasted clauses — it does not mean short scenes. If an exchange r
 
 - Each scene advances a want, a cost, or a relationship.
 - Don't re-teach the roof, Word tell, birthmark, or vow every chapter.
-- Cap ledger/filed/litany language. Don't end consecutive chapters on sleep / "tomorrow."
+- **No ledger/record/filed language, ever** — see HARD "Narrator is a person, not a record." Cap litany language. Don't end consecutive chapters on sleep / "tomorrow."
 - **No absolution litany spam** at chapter ends. Paid once at hard split (Ch 7).
 - **Mira is not dish duty.** Do not make her wash cups/bowls/sinks every lodging or bar as her personality beat. Orii's cup-wash (Ch 9) already paid once; later rooms/bars get work, pay, steering — not another sink scene.
 - **No "written down" spam.** Ban as default caution line: *get written down* / *write your name down* / *writes names* / *worth the ink* / *boys who argue with clipboards get written down*. FDC danger is real — show it (cones, questions, crossing early, a list on a pier) instead of repeating the catchphrase every chapter. If it must appear, once per arc max, not twice in one chapter.
@@ -187,6 +187,16 @@ Do **not** use *soft* as road/code bulletin language — instruction stacks, rul
 When the user rewrites dialogue, **that pass is canon voice** for the next chapters.
 
 ---
+
+## HARD — Narrator is a person, not a record (removed device — do not reintroduce)
+
+The book is plain first-person retrospective narration. There is **no frame, no listener, no written "record."** Past tense through the arrival at Sugi's door (Ch 4); present tense from Nagihama onward — "before" vs "now," never justified in-text.
+
+- **Banned as narration or thought:** "the record should show," "the ledger," "here's the entry," "the column," "filed under," "the account," "I want it written down," arithmetic-as-feeling ("did the math," "the sum ran," "totals itself"). The no-hindsight discipline is *applied*, never *stated* ("I won't let the later leak backward" must never appear).
+- **Banned: mental-collection framing.** The narrator does not "keep," "collect," or "store" observations in any place, list, or set ("I kept it with the others," "I've been collecting these," "it went with the other things"). He notices, says nothing, and refuses the conclusion — nothing gets stored anywhere. Renaming the container (column → pile → place) is not a fix; the container goes.
+- **Banned:** reader/listener address ("I want you to see," "I'll give it to you," "you want to know"). Generic idiomatic *you* ("the way you say it your whole life") is fine.
+- **Allowed:** rare, quiet hindsight lines with no record talk ("Neither half survived the summer," "That afternoon, that's all she was") — at most one or two per chapter, at real hinges.
+- **Literal bookkeeping stays:** Haruki's sums job, Orihara's shop ledger, Sato's records-clerk profession and stamps, official accounts/files of institutions. The ban is on the narrator's metaphors, not the world's paper.
 
 ## HARD — Narration: story prose, not poetry
 

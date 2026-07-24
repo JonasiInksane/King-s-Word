@@ -2,7 +2,7 @@
 
 The co-op put me on ice the first week and nets the second, and the nets are where Jun found me.
 
-Amano-side people would say the nets found me. Everything in this town is nets if you stand still long enough. Jun runs the mending frames on the north pier — twenty-three, forearms like dock rope, born two lanes over and never once wanted to be anywhere else. First thing he ever said to me was "You're doing that with your anger instead of your thumb," which was about a knot, and also wasn't.
+Amano-side people would say the nets found me. Everything in this town is nets if you stand still long enough. Jun runs the mending frames on the north pier — Amano Jun, twenty-three, big and unhurried, forearms like dock rope, a wide sunburnt face that settles naturally into cheerfulness, born two lanes over and never once wanted to be anywhere else. First thing he ever said to me was "You're doing that with your anger instead of your thumb," which was about a knot, and also wasn't.
 
 He fixes my thumb. Then my elbow. Then, over two weeks of mornings, most of my netting, because I'm bad at it and he's patient the way big calm men are patient, like there's no clock anywhere in his body. He splits his lunch without asking — his mother Hanae packs it, always too much, always with the pickled radish cut in careful little fans — and he talks enough for both of us, which suits me, because my voice comes out scraped these days and I've got reasons to spend it carefully.
 
@@ -20,7 +20,7 @@ I know where Haiga is now. Everyone knows where Haiga is now.
 
 That's Jun. Hold that version of him, because it matters for everything that comes after: a big slow-moving kindness with too much lunch, teaching a refugee kid splices so he'd have winter work in a town he wasn't planning to stay in.
 
-The too-much lunch has a source, and the source delivers it herself most mornings. Hanae comes down to the pier around ten with the cloth bundle and a running list of everything Jun has done wrong since breakfast — he left the gate unlatched, he promised the Moriyamas a hand with their engine and forgot, he's sitting on damp stone again like a boy who's never heard of kidneys. Jun takes it the way the pier takes weather. She's half his size and he calls her *boss* without any joke in it.
+The too-much lunch has a source, and the source delivers it herself most mornings. Amano Hanae comes down to the pier around ten — half Jun's size, gray threading her bun, sleeves rolled like she's mid-task even when she isn't — with the cloth bundle and a running list of everything Jun has done wrong since breakfast: he left the gate unlatched, he promised the Moriyamas a hand with their engine and forgot, he's sitting on damp stone again like a boy who's never heard of kidneys. Jun takes it the way the pier takes weather. He calls her *boss* without any joke in it.
 
 The second morning she catches me sharing his lunch she looks at me hard enough to inventory me, and the next day the bundle is bigger and the radish fans come in two rows.
 
@@ -30,7 +30,7 @@ The second morning she catches me sharing his lunch she looks at me hard enough 
 
 "Eating all of it." He hands me the second rice ball without checking whether I want it, which I'm learning is the whole family grammar. "She fed half of Haiga's boats when the harbors closed. Feeding is just what her worry looks like. You're on the list now. There's no getting off the list."
 
-I eat all of it. Both mornings. I want that in the record too — that for a couple of weeks, in the middle of everything, a woman I barely knew decided my lunch was her business, and it was the closest thing to ordinary I'd felt since the roof.
+I eat all of it. Both mornings. For a couple of weeks, in the middle of everything, a woman I barely knew decided my lunch was her business, and it was the closest thing to ordinary I'd felt since the roof.
 
 ---
 
@@ -58,7 +58,7 @@ And Jun — big, calm, no-clock Jun — waits to the side. Puts his back against
 
 I don't go on.
 
-I want the record straight about what I did instead, because Haru keeps a ledger and somebody should keep one on me. I didn't shout. I didn't swing. I'd been two weeks quiet, two weeks lifting instead of talking, two weeks doing scales in the dark with the volume off — practicing, alone, in whispers, the thing I couldn't tell anyone I was practicing. And standing on that pier watching them file Jun under *pending*, what I thought was: I could fix this. I have a thing in my mouth that opens hands. Just once, aimed right, small.
+Here's what I did instead, and I'm telling it straight because nobody else can. I didn't shout. I didn't swing. I'd been two weeks quiet, two weeks lifting instead of talking, two weeks doing scales in the dark with the volume off — practicing, alone, in whispers, the thing I couldn't tell anyone I was practicing. And standing on that pier watching them file Jun under *pending*, what I thought was: I could fix this. I have a thing in my mouth that opens hands. Just once, aimed right, small.
 
 I got in the line's blind spot, close to the second soldier, and I pitched it low, under the harbor noise, the way I'd practiced against the dark:
 
@@ -96,7 +96,7 @@ She walked me two lanes on my rubber legs before she let the act drop. Sat me on
 
 "Why'd you do the cousin thing?"
 
-"Because it worked." She stood, brushed her knees, and looked down at me for a second with an expression I couldn't file anywhere. "Because you looked like a boy about to spend something he couldn't get back."
+"Because it worked." She stood, brushed her knees, and looked down at me for a second with an expression I couldn't place. "Because you looked like a boy about to spend something he couldn't get back."
 
 ---
 
@@ -110,7 +110,7 @@ The pier version of the story beats me home, the way everything in this town bea
 
 "Mm." She dabs the split at my hairline like she's cleaning a fish, efficient, no sympathy to slow her down. "A crate edge, at a verification line, on the day they pulled Hanae's boy to the side. Busy pier."
 
-I don't answer that. She doesn't need me to; she just wants me to know the arithmetic has been done in this house too. Across the table Haru's pen has stopped. He doesn't look up, and he doesn't ask a single question, and that's how I know how many he has — my best friend interrogates by not asking, the way other people do it with lamps and chairs.
+I don't answer that. She doesn't need me to; she just wants me to know it's been worked out in this house too. Across the table Haru's pen has stopped. He doesn't look up, and he doesn't ask a single question, and that's how I know how many he has — my best friend interrogates by not asking, the way other people do it with lamps and chairs.
 
 "Jun's people have been getting boys off that pier for a hundred years," Sugi says, pressing the plaster down with her thumb. "He'll clear. What you'll do, since you're suddenly so interested in lines, is stay off them. Boys who go looking for the Federation's elbow generally find it." She packs the kit shut. "Eat. Both of you. The rice won't apologize for itself."
 
@@ -126,9 +126,9 @@ Both of us lie there listening to how much I didn't answer.
 
 Jun cleared by Tuesday, like she said. He came up the lane himself to tell me, with a lunch his mother packed for two, and we ate it on the sea wall like nothing.
 
-So no harm. That's the arithmetic, right? Nobody hurt but my own head, Jun free, the line moved on.
+So no harm, right? Nobody hurt but my own head, Jun free, the line moved on.
 
-Here's the entry I'd never let Haru see. On the pier, in the half second when that soldier's eyes went loose and hunting — before the sentence failed, before the shove, before any of it — something in my chest lifted. Like a hand finding a grip. It didn't work, and I still walked away knowing *why* it didn't work: too many pronouns. No name, no clear thing to do. The machine needs it clean.
+Here's the part I'd never let Haru see. On the pier, in the half second when that soldier's eyes went loose and hunting — before the sentence failed, before the shove, before any of it — something in my chest lifted. Like a hand finding a grip. It didn't work, and I still walked away knowing *why* it didn't work: too many pronouns. No name, no clear thing to do. The machine needs it clean.
 
 I'm not practicing against the dark anymore to make it stop.
 

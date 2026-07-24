@@ -6,7 +6,7 @@ The boats that still run go out before light and come back mid-morning, and ever
 
 We have jobs, because Sugi does not run a hotel. Kaito hauls at the co-op — ice, crates, net frames, anything heavy enough to be honest work. The foreman took one look at his shoulders and didn't ask for papers. I do sums. It started with Sugi's ration book, then Orihara's shop ledger, then half the lane, because it turns out a town absorbing three hundred refugees generates arithmetic faster than it generates anyone willing to sit still and do it. I get paid in vegetables and in being known. Both spend.
 
-"You count fast," Orihara says, watching me total her week in the margins of yesterday's newspaper. "Your mother teach you?"
+"You count fast," Orihara says, over the gold-rimmed glasses she wears on a cord, gray bob tucked behind both ears, watching me total her week in the margins of yesterday's newspaper. "Your mother teach you?"
 
 "She's a nurse. She counts everything twice."
 
@@ -16,7 +16,7 @@ We have jobs, because Sugi does not run a hotel. Kaito hauls at the co-op — ic
 
 Kaito works. That's the good part. He goes at six with the borrowed boots Mira's aunt sent over, comes back at two smelling like brine, eats whatever Sugi puts in front of him, and works on the seawall repair crew till dark because sitting still has stopped being something he can do. The town approves of him. Loud boys who carry ice make sense to a fishing town.
 
-The part I keep in the ledger and don't say: he's gotten quiet in a way that isn't calm. He checks doorways before he goes through them. He sits where he can see the lane. And he has stopped finishing his sentences — not the way grief does it, trailing off. He stops them on purpose, half a beat before the end, like a man setting down a knife he's noticed in his own hand.
+What I don't say out loud: he's gotten quiet in a way that isn't calm. He checks doorways before he goes through them. He sits where he can see the lane. And he has stopped finishing his sentences — not the way grief does it, trailing off. He stops them on purpose, half a beat before the end, like a man setting down a knife he's noticed in his own hand.
 
 At night, from my futon, I can hear that he's awake. Neither of us mentions it. We have, without ever negotiating it, divided the nights: he doesn't mention what I said on the sea wall in Kōgetsu — the nothing, the six syllables I still owe — and I don't mention that he whispers to the dark sometimes, so quietly I can't make out words, like a man doing scales with the volume off.
 
@@ -24,7 +24,7 @@ At night, from my futon, I can hear that he's awake. Neither of us mentions it. 
 
 Mira comes by most days, because Mira comes by everywhere most days.
 
-I've watched her long enough now to have her filed: seventeen, aunt with a bathhouse gate and a bad hip, an errand network that covers the whole lane. She's the one who knows which family has extra futons and which grandmother stopped cooking for herself. When the shrine gym flooded its corner last week she had four boys with buckets there before the priest finished noticing. Nobody organized her. She's just the kind of current a town runs on.
+I've watched her long enough now to have the picture: seventeen, aunt with a bathhouse gate and a bad hip, an errand network that covers the whole lane. She's the one who knows which family has extra futons and which grandmother stopped cooking for herself. When the shrine gym flooded its corner last week she had four boys with buckets there before the priest finished noticing. Nobody organized her. She's just the kind of current a town runs on.
 
 With us she's easy in a way I'm grateful for. She doesn't do the refugee voice. She argues with Kaito about whether the co-op scale is honest (it isn't, and he's right, and she makes him prove it with a borrowed kilo weight, and the foreman grumbles and fixes it, and for one afternoon Kaito looks like himself). She brings her aunt's spare radio for Sugi and stays to hear the marine forecast like it's entertainment.
 
@@ -38,11 +38,11 @@ Once — only once, and I noticed because noticing is my whole personality now �
 
 "To what happened in it."
 
-She takes a peg out of her mouth and pins a sheet, and she doesn't ask the follow-up that's sitting right there. I watch her decide not to ask it. At the time I filed that under kindness. The file was wrong, but I won't let the later leak backward — at the time, it read as kindness, and it probably even was.
+She takes a peg out of her mouth and pins a sheet, and she doesn't ask the follow-up that's sitting right there. I watch her decide not to ask it. I took it for kindness — and that day, it probably even was.
 
 "My cousin came back from Haiga like that," is all she says. "Quiet with the pin still in it. It went better once somebody gave him something to do with his hands." She nods down the lane at Kaito and the shelf. "So. Shelves."
 
-"Shelves," I agree, and we finish the laundry, and I like her. The record should show that I liked her from the first week, that she earned it, and that not one thing she did that summer looked like anything but a neighbor being good at it.
+"Shelves," I agree, and we finish the laundry, and I like her. I liked her from the first week — she earned it, and not one thing she did that summer looked like anything but a neighbor being good at it.
 
 ---
 
@@ -74,7 +74,7 @@ He takes his bowl to the sink and washes it, and says nothing, and washes it aga
 
 ---
 
-The sea wall, after. That's the part of this fortnight the ledger keeps returning to, so it goes in the record even though nothing happens in it. Especially because nothing happens in it.
+The sea wall, after. That's the part of this fortnight I keep going back to, even though nothing happens in it. Especially because nothing happens in it.
 
 He's sitting up on the wall at dusk with his heels against the stone, where the wall bends and you can see the whole cove pretend to be at peace. I climb up next to him. For a while it's just the water sound.
 
@@ -100,6 +100,6 @@ I saw the fingers uncurl all at once. Evenly. Nobody home.
 
 He looks at the water. The gray-green truck is parked up by the harbor office for the night, and the eastern sky is doing its faint wrong glow over the hills, and my best friend sits next to me with three words stuck in his head on a loop, and I am fifteen and careful and I have just, very kindly, in the gentlest possible voice, declined to say the only sentence he asked me for.
 
-He never asks again. That should be in the record too. From this night on, whatever he does about the thing in his mouth, he does having already learned what my silence costs, and having decided to carry it without me.
+He never asks again. From this night on, whatever he does about the thing in his mouth, he does having already learned what my silence costs, and having decided to carry it without me.
 
 "Come on," he says, dropping off the wall. "Sugi holds rice hostage after eight."

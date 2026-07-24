@@ -1,7 +1,7 @@
 # Plot Outline
 
 > Spoiler-heavy working doc. Skeleton only; chapters are the flesh.
-> **Clean slate:** Post-prologue volumes are TBD. Old full outline archived at `archive/clean-slate-2026-07-23/plot-outline.md` (mine, not law).
+> **Clean slate:** Post-prologue volumes are TBD. All old drafts and outlines are deleted — build forward from here only.
 > **POV rules:** see `README.md` only — not restated here.
 
 ## Thematic spine
@@ -16,7 +16,7 @@ Paid beats (chapter count flexible on rewrite):
 
 1. **Bright city** — Kōgetsu ordinary life; endear the trio; war-as-weather; soft Word tells; Ryn's birthday approaching.
 2. **The night it breaks** — Birthday joy; *let* slang; still-man on the Loop; roof; calamity; FDC; soldier holds Ryn over the lip as leverage (*come quiet or I drop her*); Kaito: **"LET HER GO."** Hand opens. Ryn dies. Radio: Word awake / cover ears. Escape west. First deep Backwash. Haruki withholds easy absolution.
-3. **Soft fork** — Exodus; birthmark match (Haruki notices, unspoken). Nagihama / Sugi. **Mira enters as an ordinary friendly neighbor** — no one doubts her; she does **not** know what Kaito is yet. Low-tide rite; arcade cat as body; widows' *let her go*; Haruki opens his hands; Kaito cannot. Still same side of the water — for now. (Her convince-him / come-with-me pressure grows later, only as she *sees* what his mouth can do.)
+3. **Soft fork** — Exodus; birthmark match (Haruki notices, unspoken). Nagihama / Sugi. **Mira enters as an ordinary friendly neighbor** — no one doubts her; she does **not** know what Kaito is yet. Low-tide rite; arcade cat as body; widows' *let her go*; both boys open their hands and the sea takes her stand-in. Still same side of the water — for now. The split grows later (unpaid absolution, Word, Mira), not at a refused rite. (Her convince-him / come-with-me pressure grows later, only as she *sees* what his mouth can do.)
 
 **Prologue restraint:** no King's Word name taught to carriers; no Literal→Intent lesson; no sentence-craft drill; soft fork only.
 
@@ -24,7 +24,7 @@ Paid beats (chapter count flexible on rewrite):
 
 ## AFTER PROLOGUE — TBD
 
-Rebuild volume by volume here. Do not restore archived chapter tables as law.
+Rebuild volume by volume here, from scratch.
 
 **Known long engines (keep):**
 
@@ -34,7 +34,7 @@ Rebuild volume by volume here. Do not restore archived chapter tables as law.
 
 ### Clean-rewrite pass (2026-07-24) — current live plan
 
-Previous live pass archived at `archive/live-pass-2026-07-24/` (texture mine, not law). Target band 1,400–2,200 words/chapter; POV blocks per README; found family shown never named; Haruki gathers people while losing faith in the world; Kaito narrows to Mira (and her contacts).
+Target band 1,400–2,200 words/chapter; POV blocks per README; found family shown never named; Haruki gathers people while losing faith in the world; Kaito narrows to Mira (and her contacts).
 
 ### Part One — "Two Roads" (~10 ch)
 
@@ -46,7 +46,7 @@ POV: Haruki anchor in Kōgetsu; hinge-switches in Nagihama (both boys share the 
 | 1 | The Plan | H | Kitchen frame → ordinary Tuesday; trio; deniable Word tells; rooftop birthday plan |
 | 2 | Day Before | H | NEW — birthday eve; Ryn's world (Sugi's stall, the brother whose letters thinned); war creeping; trio at full warmth |
 | 3 | Let Her Go | H | Birthday night; calamity; roof; Kanzaki; Ryn dies; escape west |
-| 4 | Low Tide | H | Exodus; birthmark match (unspoken); Nagihama; Mira enters ordinary; the rite Kaito can't finish |
+| 4 | Low Tide | H | Exodus; birthmark match (unspoken); Nagihama; Mira enters ordinary; the rite — both let go |
 | 5 | Two Weeks | H | Salt life; the gray-green truck; sea wall — absolution withheld |
 | 6 | The Pier | K | Jun detained; muddy commands fail; temple wound; Mira witnesses and pulls him out |
 | 7 | Practice | K | NEW — trying to master the mouth; Backwash on-page; the part of him that likes it working; Mira watching closer |

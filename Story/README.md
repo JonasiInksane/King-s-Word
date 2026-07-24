@@ -8,14 +8,14 @@ Three high-school friends in Kōgetsu City live an ordinary life — until two o
 
 ## Core tragedy (prologue)
 
-Kaito screams **"Let her go"** at a soldier holding Ryn over a ledge as leverage. The Word obeys the grammar. She falls. Guilt, Backwash, and Mira's reframing begin to pull him from Haruki. Soft fork on the tide flats: Haruki can release; Kaito cannot.
+Kaito screams **"Let her go"** at a soldier holding Ryn over a ledge as leverage. The Word obeys the grammar. She falls. Guilt, Backwash, and Mira's reframing begin to pull him from Haruki. Soft fork on the tide flats: both open their hands and give the cat to the sea — the split grows later, through silence and Mira, not through a refused rite.
 
 ## POV
 
 **Canon lives in this section only** — do not restate POV locks in lore files.
 
 - **Mains:** Haruki and Kaito. Most of the story runs through them.
-- **Prologue frame:** Kitchen **present** with **Sugi** (not *you*). Past recount starts at *It started…* and runs to her door. Then **present live** again — telling over.
+- **Narration & tense (no frame):** Plain first-person retrospective. **Nobody is being told the story** — no listener, no kitchen frame, no written "record," no reader address. **Past tense** from Ch 1 through the arrival at Sugi's door (Ch 4); **present tense** from Nagihama onward — reads as "before" vs "now," never justified in-text. Rare quiet hindsight lines are allowed at real hinges ("Neither half survived the summer"); the restraint is applied, never announced.
 - **Guests:** Other first-person cameras when they add depth the boys cannot see. Not padding.
 - **Per chapter:** One POV is default, not a lock. Multiple POVs in one chapter are allowed when a cut earns it — keep switches clean (scene break + clear camera), never muddy.
 - **Do not drift Haruki-only** after the hard split. Kaito (and guests) stay in rotation when their side of the fork matters.
@@ -33,9 +33,10 @@ Aim for the propulsion of `assets/example-chapter-1`: **story in clear sentences
 - **Complication rhythm.** Scenes push on a problem, not banter alone.
 - **Deep POV.** Feel the world through the camera's body and diction — plain, not poetic. Guests get their own voice.
 - **Show, don't brief.** Lore leaks through dialogue, signage, apps, what people do under pressure.
-- **Camera moment.** New people arrive in a vivid beat, not a bio dump.
+- **Camera moment.** New people arrive in a vivid beat, not a bio dump — and the first appearance carries the **full name** (when the POV would know it; anonymous-by-design characters like Kuroda and the Listener stay unnamed) plus enough face/body/hair for the reader to picture them, woven into the scene.
 - **Close on a pull.** End mid-motion, on a spoken line, or on a concrete next step — not sleep/bed twice in a row, not ornamental metaphor, not a one-line haiku button.
 - **Dialogue and narration stay plain.** Normal sentences. Clear and concrete. **No poetry-in-every-clause. No travel montages made of fragments.** See `.cursor/rules/story-writing.mdc`.
+- **No bookkeeping narrator voice (hard).** Never "the record should show / the ledger / entry / column / filed" as narration or thought, no arithmetic-as-feeling, and no mental-collection framing (the narrator never "keeps/collects" observations in a place or list — he notices and says nothing). Bookkeeping stays literal (Haruki's sums job, Sato's stamps). See `.cursor/rules/story-writing.mdc`.
 - **No inventory talk (hard).** No telegram stub-chains ("Further in. Girl with him." / "Midnight. All three.") in dialogue or narration.
 - **No "soft" bulletin speech (hard).** Do not write mission jargon like "ask soft" / "I say no. Soft." Say it in ordinary sentences. See `.cursor/rules/story-writing.mdc`.
 - **No "written down" spam (hard).** Do not default every caution to *get written down* / *worth the ink*. Show FDC risk; don't catchphrase it. See `.cursor/rules/story-writing.mdc`.
@@ -70,14 +71,11 @@ lore/
   characters.md           <- bios, voices, secrets (not POV schedule)
   plot-outline.md         <- arc spine; post-prologue rebuilds here
 chapters/                 <- live blank-page drafts only
-archive/
-  pre-rewrite/            <- older mine
-  clean-slate-2026-07-23/ <- last live pass (Ch 1–50 + PROGRESS + meetings)
 assets/example-chapter-1  <- craft reference
 scripts/export_pdf.py     <- PDF export (writes its own output folder)
 ```
 
-Archived prose is a **mine for texture**, not continuity law. Bible + live outline win.
+There are no archives. Old drafts are deleted (2026-07-24) — write every scene fresh from the bible + live outline; never reconstruct or imitate a previous pass.
 
 ## Export
 

@@ -1,17 +1,5 @@
 # Chapter 1 — The Plan
 
-Sugi's kitchen smells like pickled plum and charcoal. We still have ash on our shoes.
-
-She takes the hideous arcade cat out of my arms — birthday sticker still stuck to the plastic, one milky eye staring at nothing — and sets it on the shelf by the window where it can watch the lane. Then she puts a cup of tea in front of me and does not ask a single question. She has been feeding people through bad news longer than I have been alive, and she knows the questions come out on their own if you leave a person alone with a hot cup.
-
-I wrap both hands around it.
-
-"I'll tell you all of it," I say. "From before. So you know how we got here."
-
-She nods once and sits down across from me, and I start where it actually started — not with the sky, not with the soldiers. With a train pass.
-
----
-
 It started on a Tuesday morning on the Rail Loop, four days before Ryn's birthday, when a train pass fell out of a salaryman's bag.
 
 I caught it without meaning to — plastic, still warm from his pocket — held it out to him and said, "Sorry," which made no sense, because I hadn't done anything wrong. He blinked at me the way you blink at a vending machine that talks. Heat was already coming up off the platform tiles in visible ripples. My phone buzzed twice against my thigh — the war app the government would not let anyone uninstall, two ugly tones that meant somewhere east a place with a name was becoming a place with a casualty count. Haiga again, probably. I turned the screen face-down against my leg without reading it.
@@ -20,7 +8,7 @@ I caught it without meaning to — plastic, still warm from his pocket — held 
 
 "I apologized to the situation."
 
-"You apologized to a *rectangle*." Kurosawa Kaito dropped onto the bench beside me before I had even turned around. Wet hair, scraped knuckles, a thin white nick through his left eyebrow that only showed when he grinned, which was always. He was wearing yesterday's dark jacket over today's uniform and he was already too loud for the hour. "One day you're going to apologize to a guy mid-swing and he'll be so confused he just leaves."
+"You apologized to a *rectangle*." Kurosawa Kaito dropped onto the bench beside me before I had even turned around — taller than me, wider at the shoulders, built like someone who ran into trouble and won more often than he should. Sharp black hair still wet from a shower he'd obviously taken at a run, scraped knuckles, dark eyes with a hard bright edge, and a thin white nick through his left eyebrow that only showed when he grinned, which was always. He was wearing yesterday's dark jacket over today's uniform and he was already too loud for the hour. "One day you're going to apologize to a guy mid-swing and he'll be so confused he just leaves."
 
 "That's the plan."
 
@@ -30,7 +18,7 @@ I caught it without meaning to — plastic, still warm from his pocket — held 
 
 "Same disease." He knocked his knee into mine. "Train's here. Unless you want to apologize to that too."
 
-The doors chimed and we got on ahead of the crowd. That was the thing about Kaito that nobody ever managed to explain: rooms rearranged around him. Two women across the car glanced up at his volume, bristled, and then softened in that odd way people did, like he'd already won an argument nobody had started. A third-year two seats down moved his bag off the seat without being asked. Kaito didn't notice any of it. He never noticed. I noticed for both of us — it was one of the jobs I'd assigned myself, along with candles, apologies, and reading the war feed so nobody else had to.
+The doors chimed and we got on ahead of the crowd. That was the thing about Kaito that nobody ever managed to explain: rooms rearranged around him. Two women across the car glanced up at his volume, bristled, and then softened in that odd way people did, like he'd already won an argument nobody had started. A third-year two seats down moved his bag off the seat without being asked. Kaito didn't notice any of it.
 
 Through the window the city unrolled the way it did every morning. The river. The elevated highway. The Daigo Building's giant screen, which was supposed to show weather and increasingly showed the war instead: FRONT STABLE. EASTERN WARDS: CONTAINED. Under the reassurance, in smaller font, the names of the newly missing scrolled past, and everyone in the car looked at their knees until the screen was behind us.
 
@@ -44,7 +32,7 @@ I sat back down. Kaito was watching me with his head tipped.
 
 "Somebody has to do it."
 
-"Nobody has to do it. They'd have shouted for two stops and gotten off angry, same as every day." He stretched, and his sleeve rode up, and I caught a bruise on his forearm — greenish, days old, the shape of a grip. I put it in the column where I kept the things Kaito would deny if asked. "Anyway. Ryn's off today. Pickle stall with her grandmother."
+"Nobody has to do it. They'd have shouted for two stops and gotten off angry, same as every day." He stretched, and his sleeve rode up, and I caught a bruise on his forearm — greenish, days old, the shape of a grip. "Anyway. Ryn's off today. Pickle stall with her grandmother."
 
 "She hates the pickle stall."
 
@@ -62,19 +50,33 @@ I sat back down. Kaito was watching me with his head tipped.
 
 We came up the school hill late enough that the track already smelled baked. The rooftop chain hung on its broken padlock the way it had all year — a formality everyone climbed past and nobody reported, because the roof was the only place in the building where the air moved.
 
-First period, Doi-sensei shoved through the door with a stack of handouts clutched to his chest and his glasses already losing the war with his nose. "Sit down, sit down — I have exactly enough copies, which means if any of you multiplied over the weekend, we have a problem."
+First period, Doi-sensei shoved through the door — mid-forties, soft in the middle, thinning hair combed forward against the odds, tie already loosened — with a stack of handouts clutched to his chest and his wire glasses losing the war with his nose. "Sit down, sit down — I have exactly enough copies, which means if any of you multiplied over the weekend, we have a problem."
 
-Kaito was still standing in the aisle. A third-year had wandered in from the hallway to finish an argument about Sunday's match — a big kid, half a head taller, the kind who wanted the room watching while he won. He'd planted himself in the aisle with his arms crossed and no intention of leaving.
+Kaito was still standing in the aisle, because the aisle had a problem in it. A third-year had followed him in from the hallway to finish an argument about Sunday's match — a big kid, half a head taller, the kind who wanted the room watching while he won. He'd planted himself between the desks with his arms crossed and no intention of leaving.
 
-"Hey," Kaito said. Not loud, for once. Just final. "Back off. Go back to your class."
+"You cost us the match," he said. "That tackle was a red and the ref swallowed his whistle. Everyone on the hill is saying it."
+
+"Then everyone on the hill watched your striker trip over his own feet," Kaito said, grinning, far too loud for a room with a teacher in it. "I barely touched him. He went down like laundry."
+
+"He's out two weeks."
+
+"From falling? Tell him to practice landing."
+
+Doi looked up from his handouts. "You. Third-year. This is not your classroom."
+
+"One minute, sensei." The kid didn't even turn his head. That's who this was — someone who could ignore a teacher comfortably, in a room that wasn't his, with forty people watching. He came a step closer, into the space where these things stop being words. "Behind the gym after school. Or apologize now, where they can all hear you."
+
+I was half out of my seat with a "sorry" already loaded — the useless kind, aimed at the situation, my whole trick. I never got to spend it.
+
+"Hey," Kaito said. Not loud anymore. Just final. "Back off. Go back to your class."
 
 And the third-year went.
 
-That's the version everyone else saw: loud boy tells louder boy to leave, louder boy leaves, ordinary high school physics. What I saw, because I was looking, was the order of it. The kid's weight left his front foot *before* his face changed. His shoulders dropped, his hands uncrossed, and he was three steps toward the door while his expression was still catching up to his body — confused, like the hallway had been his own idea arriving late. And I saw Kaito touch two fingers under his nose afterward and check them, casual, the way you check for rain. They came away with a pinprick of red. He wiped it on the dark jacket, where it wouldn't show, and sat down.
+Everyone else saw a stare-down end the way stare-downs end: the big kid weighed it, thought better of it and walked. What I saw was the order it happened in. He turned for the door *before* anything in his face gave up the fight — body first, decision after — and he was three steps gone while his expression was still catching up, confused, like his legs had made the call without him. Nobody hands out an ultimatum in front of forty people and then just leaves. He didn't even take a parting line with him for the hallway.
+
+Kaito sat down. Under the noise of the class exhaling, he pressed two fingers under his nose and checked them. A pinprick of red. He wiped it on the dark jacket, where it wouldn't show, and I looked away before he could catch me looking.
 
 Dry air, I told myself. Summer AC. Nosebleeds happen.
-
-I wrote it down anyway — not on paper. In the column. The same column where I kept the train car softening around him, and the bus door two weeks ago that had "happened" to reopen when he yelled at it, and now, if I was being honest, the two men on the Loop whose anger had gone out like a pilot light the moment I opened my mouth. It was getting to be a crowded column. I was fifteen and very good at not adding it up.
 
 "Kurosawa," Doi said. "Sit *down*."
 
@@ -86,9 +88,9 @@ The class laughed, the day started, and everything was ordinary again — which 
 
 ---
 
-After last bell we pushed into Fullmoon Mart for the air conditioning, which was a lie the fried-chicken heat lamp told, and for Ryn, who was behind the register with her sleeves shoved up and price-tag ink on her fingers.
+After last bell we pushed into Fullmoon Mart for the air conditioning, which was a lie the fried-chicken heat lamp told, and for Ryn, Amano Ryn, who was behind the register with her sleeves shoved up and price-tag ink on her fingers. Dark brown hair clipped back for the shift with one cowlick the clip never held, and sharp amber-brown eyes that had clocked us before the door finished opening.
 
-"Don't," Amano Ryn said, before the door chime finished.
+"Don't," Ryn said, before the door chime finished.
 
 "We haven't said anything," Kaito said.
 
@@ -148,12 +150,4 @@ They both looked at me. Ryn's eyebrows went up. Kaito's grin paused halfway, whi
 
 Beside me Kaito had gone still, which I felt before I saw. No joke loaded, no volume ready. Just looking at her like the smile had knocked the wind out of him and he'd rather die than admit it. Then he caught me noticing, laughed too loud at nothing, and hooked an arm around each of our necks so we had to walk the rest of the block bent over like conspirators.
 
-"Midnight on the roof, then," he said. "All three of us and a homemade cake. I'm telling you right now — nothing is going to ruin it. *Nothing.*"
-
----
-
-Sugi's kettle has gone quiet. My tea is cold and I haven't noticed.
-
-"That was Tuesday," I tell her. "Her birthday was Saturday."
-
-Sugi doesn't say anything. She refills the cup and waits for me to get there.
+"Midnight on the roof, then," he said. "All three of us and Haruki's homemade cake. I'm telling you right now — nothing is going to ruin it. *Nothing.*"
