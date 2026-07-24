@@ -1,93 +1,135 @@
-# Chapter 6 — Drop It
+# Chapter 6 — The Pier
 
-I find out what happened at the pier in pieces — late, and sideways, and never from the person I want it from.
+The co-op put me on ice the first week and nets the second, and the nets are where Jun found me.
 
-Hanae sits in Sugi's kitchen with her hands around a cup she isn't drinking. Her eyes are sunken. She says the depot Mira named is real. She says Jun's temple was bleeding when they put him in the truck. She says *papers* like the word still means something. Sugi feeds her umeboshi she doesn't taste. Mira stands by the door with her towel sack and doesn't interrupt.
+Amano-side people would say the nets found me. Everything in this town is nets if you stand still long enough. Jun runs the mending frames on the north pier — twenty-three, forearms like dock rope, born two lanes over and never once wanted to be anywhere else. First thing he ever said to me was "You're doing that with your anger instead of your thumb," which was about a knot, and also wasn't.
 
-When Hanae leaves, Mira follows me out to the step.
+He fixes my thumb. Then my elbow. Then, over two weeks of mornings, most of my netting, because I'm bad at it and he's patient the way big calm men are patient, like there's no clock anywhere in his body. He splits his lunch without asking — his mother Hanae packs it, always too much, always with the pickled radish cut in careful little fans — and he talks enough for both of us, which suits me, because my voice comes out scraped these days and I've got reasons to spend it carefully.
 
-"I'll keep asking at the depot," she says. "But I need to say something else, and I don't want Sugi-san hearing it sideways."
+"You'll get winter work if you learn splices," he says. "Co-op always needs splices. You planning to be here for winter?"
 
-"Okay."
+"Not planning anything."
 
-"Your friend's mouth did something yesterday. I don't have a name for it. I only know the soldier's hand forgot itself when he talked."
+"Smart. Plans are how the sea gets you." He says the grim ones cheerfully. "My little cousin planned. Wrote it out — Haiga, boat mechanic school, whole thing. You know where Haiga is now."
 
-"He was scared," I say. "We all were."
+I know where Haiga is now. Everyone knows where Haiga is now.
 
-Mira looks at me for a long second. "If you say so." She adjusts the sack on her shoulder. "There's a shed behind the dried-fish shop. Stamps. Lists. The kind of paper that gets a boy onto a westbound boat or into a hole, depending on who reads it. Sato's been keeping them for the lane. If you want Jun back on a list that isn't theirs, that's where you start."
+"He get out?" I ask.
 
-"Why tell me?"
+"He got out." Jun ties off, bites the tag end, spits it. "Papers didn't. So now he's twenty and he exists because my mother swears he does. You want the second rice ball? You're looking at it like it insulted you."
 
-"Because you look like the one who shows up. And because Kaito looks like the one who'll go whether you do or not."
+That's Jun. Hold that version of him, because it matters for everything that comes after: a big slow-moving kindness with too much lunch, teaching a refugee kid splices so he'd have winter work in a town he wasn't planning to stay in.
 
-"You've been watching us."
+The too-much lunch has a source, and the source delivers it herself most mornings. Hanae comes down to the pier around ten with the cloth bundle and a running list of everything Jun has done wrong since breakfast — he left the gate unlatched, he promised the Moriyamas a hand with their engine and forgot, he's sitting on damp stone again like a boy who's never heard of kidneys. Jun takes it the way the pier takes weather. She's half his size and he calls her *boss* without any joke in it.
 
-"I've been living on this lane," she says. "Same thing, most days." She starts down the step, then stops. "If you go, don't go loud. The shed's already hotter than it should be."
+The second morning she catches me sharing his lunch she looks at me hard enough to inventory me, and the next day the bundle is bigger and the radish fans come in two rows.
 
----
+"You'll say thank you once," Jun advises, quiet, "and then never again. She counts thank-yous as arguing."
 
-Kaito goes to the shed after last light. I go because if I don't, I'll only hear about it when someone's bleeding again.
+"What does she count as thank you?"
 
-The alley behind the dried-fish shop is narrow, wet with fish-wash, lit by one sick bulb. Sato is there — our age, split lip, satchel hugged to her chest — and so are two gray-green and a man in a civilian jacket who knows which door sticks. Someone local sold the location. I know this because Sato's eyes say it before her mouth can.
+"Eating all of it." He hands me the second rice ball without checking whether I want it, which I'm learning is the whole family grammar. "She fed half of Haiga's boats when the harbors closed. Feeding is just what her worry looks like. You're on the list now. There's no getting off the list."
 
-"On the ground," one soldier says. Gun up. Aimed at her chest. The other blocks the mouth of the alley. The tipster has already made himself scarce.
-
-Kaito doesn't wait for me to invent a plan.
-
-He steps into the bulb light with his hands open and his chin up, and when he speaks his voice is careful in a way that costs him.
-
-"You. With the gun." A breath. Blood already threatening under his nose; I see him swallow it down. "Drop it. Take three steps back."
-
-The soldier's fingers open.
-
-The sidearm hits wet stone, bounces once, and the soldier's body does the second clause — three steps back, neat as a drill — straight into his partner's shoulder. The partner's rifle jerks. A shot goes wild. Sato screams and twists; something ugly opens on her upper arm; she goes down hard but breathing.
-
-The first soldier stands three steps back with empty hands, blinking at the gun on the ground like it betrayed him. The second swears and swings the rifle toward Kaito.
-
-"Sleep," Kaito says, and there is nothing unfinished in it this time.
-
-The second soldier's eyes roll. He folds. The first one is still staring at his open hands when we haul Sato up and run — not graceful, not quiet, just out of the alley before the shot draws the kind of crowd that writes reports.
+I eat all of it. Both mornings. I want that in the record too — that for a couple of weeks, in the middle of everything, a woman I barely knew decided my lunch was her business, and it was the closest thing to ordinary I'd felt since the roof.
 
 ---
 
-We make it two lanes over before Sato's legs give out. A widow from the shrine path takes one look, pulls us into a washroom that smells like bleach and old soap, and packs the arm while calling Sato brave and stupid in the same breath. Mira arrives before the bandage is done — news in this town moves faster than trucks — and stops short when she sees the blood under Kaito's nose.
+The verification line runs on the harbor office pier all week, and by Friday it's Jun's turn, and I'm the one who walks down with him. That's the whole accident of it. Hanae had asked him to go early, get it stamped, come back for the afternoon tide. I was carrying the frame hooks back to the shed anyway. Company for the boring part, he said. Some things you agree to with half a mouth of rice and pay for the rest of your life.
 
-"You did it again," she says.
+The line is fishermen and mainland families, mixed. Two soldiers work the tables, a third stands by the truck with his rifle slung, and the lieutenant from the clipboard sits behind the folding table like a man doing a boring job at the boring pace it deserves.
 
-Kaito wipes his nose on his wrist. "She would've been shot."
+For a while it's almost dull. An old netman gets waved through on a card so worn the print is a rumor. A mainland mother goes up with three kids and a folder of everything she owns on paper, and the lieutenant works through it page by page while the smallest kid winds herself around the table leg, and it clears, and the mother's shoulders come down from around her ears one centimeter at a time as she walks away. That's what the line teaches you, standing in it: the difference between people whose papers are a formality and people whose papers are a verdict. You can tell them apart from thirty meters by the shoulders.
 
-"I know." Mira's voice stays mild. Her hands don't — they take gauze from the widow, wet a cloth, do anything that isn't looking straight at his mouth. "I asked you yesterday what you did on the pier. You said nothing."
+"Relax," Jun says, reading me sideways. "I was born in the harbor office's front room, basically. My file's older than that lieutenant."
 
-"I didn't know how to say it."
+It moves fine. It moves fine right up until Jun.
 
-"Do you now?"
+"Amano Jun." The lieutenant reads it, then reads the next paper, and the pace changes. Small change. His pen stops moving. "Your household declared a cousin. Registered where?"
 
-He looks at me, not her.
+"Haiga," Jun says. Easy. "Records office there is — well. You'd know better than me."
 
-"Outside," I say.
+"Everyone's records burned in Haiga," the lieutenant says. "It's very popular." He doesn't say it cruel. He says it *tired*, which lands worse. He turns another paper over. "You'll wait to the side. Verification pulls anyone with a Haiga dependency for secondary review. It's routine."
+
+"Routine meaning today, or routine meaning—"
+
+"Meaning you wait to the side."
+
+And Jun — big, calm, no-clock Jun — waits to the side. Puts his back against the rail, folds his arms, gives me a look across the pier that means *go on, I'll be along.* The soldier by the truck shifts his sling. Not a threat. Bookkeeping. Everything they do is bookkeeping until the moment it isn't.
+
+I don't go on.
+
+I want the record straight about what I did instead, because Haru keeps a ledger and somebody should keep one on me. I didn't shout. I didn't swing. I'd been two weeks quiet, two weeks lifting instead of talking, two weeks doing scales in the dark with the volume off — practicing, alone, in whispers, the thing I couldn't tell anyone I was practicing. And standing on that pier watching them file Jun under *pending*, what I thought was: I could fix this. I have a thing in my mouth that opens hands. Just once, aimed right, small.
+
+I got in the line's blind spot, close to the second soldier, and I pitched it low, under the harbor noise, the way I'd practiced against the dark:
+
+"You don't need him. He's nothing. Let it go."
+
+Copper came up the back of my throat — that taste like sucking on a coin, the one that comes when the words go out with weight on them. The soldier's head turned a degree. His eyes did something loose for half a second, like a radio hunting between stations.
+
+Then they came back. He frowned at me, at nothing, at the middle distance. Rolled his shoulder. The words had gone in and found — what? *You don't need him.* Who's *him*? Need for what? *He's nothing* — nothing to whom? *Let it go* — let *what* go? I'd handed a machine a sentence full of pronouns and it had turned it over, found no purchase, and dropped it.
+
+The weight of it still came out of me, though. The coin taste, the prickle high in my nose, my own pulse suddenly loud. Cost, no goods. And the soldier was still frowning at the space where the odd feeling had come from, and the space contained one refugee kid standing too close to a verification line with his lips just barely moving.
+
+"You." His sling came off the shoulder. Not aimed. Adjusted. "Step back from the line."
+
+"I'm waiting for my friend—"
+
+"Step *back*."
+
+I stepped wrong. To this day I couldn't tell you if it was defiance or clumsiness — my body full of spent adrenaline with nowhere to put it — but I stepped sideways instead of back, toward Jun's rail, and the soldier read it the way soldiers read things, and his palm hit my chest. Pier planks are uneven. The bollard behind me wasn't going anywhere. I went down onto it, temple first, and the harbor rang like a struck pot and went white at the edges.
+
+Sound came back with Jun's voice in it — Jun off the rail, one arm out, not swinging, planting himself between me and the soldier like a piling, saying easy, easy, he's a kid, he's heat-sick, half these refugee kids haven't eaten right in a month — and the lieutenant's voice cutting over it, bored and final: "Get him off my pier before I have a reason to write him down."
+
+And then Mira was there.
+
+I didn't see where from. She was just suddenly kneeling in front of me with her thumb hard under my chin, tilting my head, loud enough for exactly the audience that mattered: "There it is — look at his eyes, that's heatstroke, my aunt had it twice this month. Up. *Up.* You don't make the bathhouse boil water all morning and then stand in the sun with no hat, I *told* you—" scolding me, a cousin's scolding, marching me by the sleeve through a pier full of soldiers who wanted nothing to do with a girl managing a fainting relative. Bookkeeping resumed behind us. The line moved.
+
+She walked me two lanes on my rubber legs before she let the act drop. Sat me on the bathhouse step. Looked at my temple, which I could feel now, hot and wet at the hairline.
+
+"Press this." A cloth, out of nowhere, like the towels on the first day. Then she was quiet a moment, and the quiet had weight in it.
+
+"You said something to that soldier," she said. "Before he pushed you. I watched his face do something strange."
+
+"I asked him to leave Jun alone."
+
+"Mm." She took the cloth back, refolded it clean side out, pressed it back to my head. Didn't call me a liar. Didn't ask again. "Jun will clear. Half the town owes Hanae dinner; the clerk will lose that file by Tuesday." She checked the bleeding. "Your head's harder than the bollard. Go home before Sugi hears the pier version, which by tonight will have you fighting four men."
+
+"Why'd you do the cousin thing?"
+
+"Because it worked." She stood, brushed her knees, and looked down at me for a second with an expression I couldn't file anywhere. "Because you looked like a boy about to spend something he couldn't get back."
 
 ---
 
-The lane behind the washroom is dark. Salt wind. Somewhere a pocket J-Alert chirps two tones and gets ignored.
+Sugi's table that night is its own kind of checkpoint.
 
-"Haru," he says. Scraped raw again. "It's me. When I say it. On the roof. On the pier. Just now. The hands — they do what I tell them. I thought if I said it clearer, if I named who and what, it would—" He laughs once, broken. "It worked. Sato's alive. And I still can't get Jun out of a truck with a clean sentence."
+The pier version of the story beats me home, the way everything in this town beats everyone home. By the time I slide the door she has the disinfectant out on the table, not asking, just out, and Haru is sitting over his ledgers doing an extremely bad impression of a boy interested in ledgers.
 
-"How long have you known?"
+"Heatstroke," Sugi says. "That's the story the lane's telling. Saeki girl walked you off the pier scolding you about hats."
 
-"Since the hand opened." He presses his palm to the wall. "Maybe before. The third-year. The train. I called it luck. I'm done calling it luck."
+"Crate edge caught me first," I say. "Then the heat."
 
-"Does Mira know?"
+"Mm." She dabs the split at my hairline like she's cleaning a fish, efficient, no sympathy to slow her down. "A crate edge, at a verification line, on the day they pulled Hanae's boy to the side. Busy pier."
 
-"She saw. Twice." He glances back toward the washroom light. "Same question as the pier. What did I do. I still don't have an answer that isn't the thing itself."
+I don't answer that. She doesn't need me to; she just wants me to know the arithmetic has been done in this house too. Across the table Haru's pen has stopped. He doesn't look up, and he doesn't ask a single question, and that's how I know how many he has — my best friend interrogates by not asking, the way other people do it with lamps and chairs.
 
-"She's helpful," I say. "She brings towels. She doesn't run."
+"Jun's people have been getting boys off that pier for a hundred years," Sugi says, pressing the plaster down with her thumb. "He'll clear. What you'll do, since you're suddenly so interested in lines, is stay off them. Boys who go looking for the Federation's elbow generally find it." She packs the kit shut. "Eat. Both of you. The rice won't apologize for itself."
 
-"Yeah." His mouth twists. "That's almost worse."
+Later, on the futons, in the dark, Haru finally spends one question. He picks it the way he picks everything, carefully, the least loaded one in the box:
 
-Inside, Sato swears at the widow. Mira's voice answers, calm, asking for clean water.
+"Does it hurt?"
 
-Kaito lays his hand on my shoulder, carefully. "Help me figure out how to say it without the alley ending in blood. Or don't. But don't pretend you didn't see his fingers open on command."
+"No," I say.
 
-"I saw," I say. "I've been seeing it since the roof. I kept calling it dry air and bad luck." I swallow. "I'll help. I don't know how yet. But I won't pretend."
+Both of us lie there listening to how much I didn't answer.
 
-We go back inside. Sato is pale and furious and alive. Mira is still there with the widow's kit, pressing a clean cloth to Sato's arm. She glances once at the blood under Kaito's nose, then goes back to the bandage.
+---
+
+Jun cleared by Tuesday, like she said. He came up the lane himself to tell me, with a lunch his mother packed for two, and we ate it on the sea wall like nothing.
+
+So no harm. That's the arithmetic, right? Nobody hurt but my own head, Jun free, the line moved on.
+
+Here's the entry I'd never let Haru see. On the pier, in the half second when that soldier's eyes went loose and hunting — before the sentence failed, before the shove, before any of it — something in my chest lifted. Like a hand finding a grip. It didn't work, and I still walked away knowing *why* it didn't work: too many pronouns. No name, no clear thing to do. The machine needs it clean.
+
+I'm not practicing against the dark anymore to make it stop.
+
+I'm practicing to make it clean.

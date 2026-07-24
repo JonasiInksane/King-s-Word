@@ -60,7 +60,7 @@ The woman eyes my jacket, then Mira's sack. "Station Plaza asks more questions t
 
 "Sore throat," Mira says.
 
-"Sure." The woman takes the coins. "Then keep him from picking fights in doorways. This town sells stories faster than coffee, and gray-green likes a loud boy."
+"Sure." The woman takes the coins. "Then keep him from picking fights in doorways. This town sells stories faster than coffee, and gray-green buys."
 
 We climb the stairs above a shop selling phone charms and batteries. A man in an undershirt opens like he has already decided we are a problem.
 
@@ -70,7 +70,7 @@ We climb the stairs above a shop selling phone charms and batteries. A man in an
 
 He looks at me. I try to look like furniture that does not bite. It probably fails.
 
-"One night," he says. "Girl pays. Loud one doesn't sleep in the hall. If I hear walking all night I'm charging twice."
+"One night," he says. "She pays. And if I hear him walking the hall all night, I'm charging twice."
 
 "You won't," Mira says, and pays before I can invent a promise I can't keep.
 
@@ -98,4 +98,8 @@ Morning comes gray through the alley window. The landlord's kettle starts before
 
 "I can ask."
 
-"You can command. That's not the same." She says. "Come on. Day isn't going to wait for your throat to feel better."
+"You can command. That's not the same," she says, and shoulders the sack.
+
+On the stairs the landlord's kettle radio is muttering the morning feed — weather, freight schedules, then a clipped line about a security verification still open in a coastal sector, personnel incident under review, travelers from the affected zone subject to secondary checks.
+
+Mira doesn't stop walking. Neither do I. But her hand finds my sleeve on the last step, and she doesn't let go until we're out the door.

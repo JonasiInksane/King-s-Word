@@ -72,7 +72,7 @@ Outside, the pine-shadow street is cooler. Neon leaks pink at the turn.
 
 "Then what."
 
-"Then I pull you. And you let me." She starts toward the shotengai bend. "Come on. Day's not done."
+"Then I pull you. And you let me." She starts toward the shotengai bend, then adds, without turning around: "That radio this morning said travelers from the coast get secondary checks now. So today you are from here. You've always been from here. Practice believing it before someone at that market asks."
 
 ---
 
@@ -116,4 +116,4 @@ Riku buys two canned coffees from a cooler woman, puts one in my hand, and asks 
 
 The city comes up around us — fry oil, wet neon, train brakes — and for a second the pink signs could be home.
 
-"Come on, soft boy," Riku says. "The day isn't over."
+"One more thing," Riku says, not slowing. "A loud boy with a scraped voice, in a town where the plaza checks coast travelers twice. You're not the only one who's going to notice him. Cheer up, soft boy — we just have to be first."

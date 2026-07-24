@@ -16,7 +16,7 @@ A modern federation (home) is losing a war of attrition to an eastern power that
 
 **Story role:** The boys' home and, unknowingly, a net closing around them.
 
-**Volunteer disposal (Vol 3 — LOCKED):** Youth “civil-defense volunteers” who witness illegal sweeps, carry inconclusive asset flags, or simply know too much are quietly funneled to facilities like **Shizuhara Detention Complex** — not for rehab, for erasure. Officially *relocation / processing*. Unofficially inventory that can be zeroed. This is the FDC kitchen Riku already smelled in Ch 18; Shizuhara pays the receipt. After the **Shizuhara Massacre**, media attributes both staff deaths and the wiped volunteers to Remnant terror / an “anomalous vocal actor,” burying the building’s purpose.
+**Volunteer disposal (ARCHIVE SEED — old Vol 3 plan, not live):** Youth “civil-defense volunteers” who witness illegal sweeps, carry inconclusive asset flags, or simply know too much are quietly funneled to facilities like **Shizuhara Detention Complex** — not for rehab, for erasure. Officially *relocation / processing*. Unofficially inventory that can be zeroed. Ties to Riku's planned backstory (archive sake-night beat — not yet live); Shizuhara pays the receipt when rebuilt. After the planned **Shizuhara Massacre**, media attributes both staff deaths and the wiped volunteers to Remnant terror / an “anomalous vocal actor,” burying the building’s purpose.
 
 ---
 
@@ -68,4 +68,4 @@ LAYER 3 (personal):  Haruki  vs  Kaito                   — the friendship the 
 Every faction's real objective eventually converges on the same two boys. The war the world is fighting and the war for the boys' souls are the same war — the characters just don't know it yet.
 
 ## Politics in Chapters 1-2
-Kept ambient and deniable: news chyrons, a J-Alert chime, a refugee classmate from Haiga, an FDC recruitment poster, a single silent stranger in a train car (an unnamed Chinmoku observer — planted, not explained). The reader collects pieces; no character lectures.
+Kept ambient and deniable: news chyrons, a J-Alert chime, a refugee classmate from Haiga, an FDC recruitment poster, a single silent stranger in a train car — that stranger is **Kuroda Ren** wearing Chinmoku-adjacent stillness (see `characters.md`; planted, never explained on-page). The reader collects pieces; no character lectures.

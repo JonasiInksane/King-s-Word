@@ -1,69 +1,99 @@
-# Chapter 10 — One Day Behind
+# Chapter 10 — Toward Kuroishi
 
-The second checkpoint will not take Sato's paper. I already used that stamp at the first cone line this morning, so this time I have to talk.
+The town spends the next day being questioned, and I spend it being boring, and I learn something about myself in the process that I'd rather not have learned.
 
-The soldier has a folding table, a clipboard, and the habit of checking shoes before faces. I tell him I am looking for family west of the ridge. It is only half true, but I keep my voice soft and ordinary, and he waves me through like I am not worth the argument.
+They rope the coast road by midnight and post pairs at the bridge and the prefecture road by dawn. The official account congeals fast, the way official accounts do: an armed incident during a flow assessment, one civilian casualty, one member of the detail dead by — the phrase they land on is *discharge under review*. Nobody in Nagihama corrects them. The whole town watched a soldier turn his rifle under his own jaw for no reason the eye could find, and the whole town has, without one meeting being held, decided it saw confusion, smoke, an angle blocked by the camphor tree.
 
-By midday Sugi's last onigiri is gone. The road leaves the harbor smell behind; after that it is mostly hot asphalt and truck diesel. Kuroishi matches what Sato described — a long main street, shuttered tool shops, a croquette cart, a black shrine gate at the far end. A few soldiers in gray-green stand at a bend with clipboards. It is not a real checkpoint, but people still cross the street before they reach them.
+The man in the gray suit conducts interviews in the harbor office all day. Not everyone. He picks. And the picking has a shape: everyone who stood within earshot of the shooter, worked back methodically, name by name, as if grief were a seating chart.
 
-I go to the bus depot first, because if Kaito and Mira left town, someone here saw which way. A porter is tying down a handcart when I stop in front of him.
+My turn comes mid-afternoon. A soldier walks me up — polite, tired — and the gray suit sits across the clerk's table with no clipboard, no pen, nothing to do but listen, which I now understand is the most frightening way a man can furnish himself.
 
-"Sorry — I'm looking for two people," I say. "A boy about my age, taller than me, loud. And a girl with him, dark hair, maybe carrying a sack."
+"You knew the deceased." Flat. Which deceased, he doesn't say. He means both, and he means *tell me which one you flinch at.*
 
-He keeps tying. "You and half the ridge."
+"Jun taught my friend net splices. Everyone knew Jun."
 
-"They would have come through yesterday or this morning. He talks like his throat is scraped. She does most of the asking."
+"Your friend." He lets it sit. "The one who shouted. The one who ran."
 
-That gets him to look up. "Scraped voice. Yeah. Them. Girl with the sack made him buy water before they got on anything." He jerks a thumb at the empty bay. "Morning bus toward Ishibashi, if they had the fare. If they didn't, they walked. Either way, they're not here."
+"Half the yard ran. There was shooting."
 
-"How long ago was the bus?"
+"Mm. He shouted *no.* And the soldier turned his weapon from the crowd, addressed him — and then." Nothing on his face. Water has more expression. "You were across the yard. Between the well and the cistern shed. You see well from there?"
 
-"Left on time. You're late." He goes back to the rope. "If you're buying water, the machine's broken. Shop on the main street — dried-goods, if you can stand the woman who runs it."
+He'd placed me to the meter, a day later, out of a crowd of six hundred, and that should have been the moment I came apart. Instead — and this is the entry I'd rather not make — I felt the room settle onto rails I knew. A frightened man across a table, needing to be told a believable shape for a bad day. I've been doing that since I was ten. I dropped my shoulders and let my voice go soft and steady, the one that works, the one that's been working all summer at gates and lines and counters, and I gave him a fifteen-year-old's honest confusion — the tree was in the way, the crowd surged, I heard two shots and hit the ground with everyone, my friend ran because I was screaming at everyone to run, I don't know where he went, his uncle's people were mainland, maybe—
 
-I buy a warm bottle from a stall instead and walk the main street anyway, in case he mixed them up with someone else. I check the croquette line and a couple of open doorways. Still no sign of them, so I keep going toward the shops at the far end.
+He believed me faster than the lie deserved. I watched it land, watched the file behind his eyes get its tidy line — *bystander, nothing, next* — and he thanked me in a voice like a receipt and had me walked out, and standing in the sun outside the harbor office I finally shook, not from fear but from the other thing.
+
+It's not charm. Charm doesn't work on men furnished like that. Something in my voice closes files. I have been keeping a private column of these — the train men, the gates, the checkpoint smiles — and the column now has an entry with a gray suit in it, and I no longer believe the column adds up to *polite*.
+
+Kaito's is loud. Whatever it is I carry came quieter. That's as far as I let the sum run that day. There was too much else in the yard.
 
 ---
 
-The dried-goods shop has a woman sweeping the step. She stops when she sees me, broom still in her hand.
+I don't sleep. The room has his futon in it, folded wrong the way he always folds it, and the shelf has the cat and the cake box, and I lie there doing the thing I do — running the whole summer back looking for the one sentence that would have changed the line it ran on.
 
-"If you're selling something, no," she says. "If you're begging, also no."
+It's not a short list. If I'd said it on the sea wall at dusk, when he asked me if the hand looked like a choice, when it was cheap. If I'd said it in the underpass dark the first night, when it was almost free. I had a hundred and one openings and a true thing to say through every one of them — *it wasn't your fault, I saw the hand, nobody chooses that* — and I hoarded it like money for a shop that was always going to be shut by the time I got there. Last night at the gate I finally reached for it with the whole town screaming behind us, and I got two words out, and my honesty — my precious, useless, book-keeping honesty — jammed the rest in my throat, because by then it had watched a man die on the end of my best friend's sentence and it wanted to relitigate the terms.
 
-"I'm not — I'm looking for someone. A tall boy, scraped voice. There was a girl with him."
+*It was,* he said. *You saw it. It was.* Gently. He took my two broken words as a verdict and he pulled his sleeve out of my hand gently, and that gentleness is the thing I cannot lie down in the same room with.
 
-She looks me over the way people look at a dented can. "You're late for the loud one."
+So I stop pretending, somewhere before morning, and pack.
 
-"You saw them?"
+---
 
-"I put them upstairs." She starts sweeping again, like that should be the end of it. "One night — I might've said two if they'd kept quiet. The girl washed my cups without being asked, and neither of them dragged gray-green to my step, which is more than I get from most people who show up looking lost."
+Hanae comes to Sugi's at first light. I will carry how she looked to the end of the account and I'm not writing it down. She sits where Sugi puts her, holds the tea she doesn't drink, and asks me one question.
 
-"Which way did they go?"
+Not about Jun. She's past questions about Jun; there's nothing about Jun anyone can tell her that the stones of the yard didn't.
 
-"Further inland. Girl was still with him." She points with her chin, away from the coast. "Ishibashi, if that road's open. Past that, not my problem."
+"Your friend," she says. "The loud one. Jun fed him all summer." Her thumb moves on the cup rim, once, twice. "He shouted when they — everyone else held still, and he shouted. And then the man who did it pointed his rifle at your friend and said something, and then the man was dead of his own hand." She looks up at me, and her eyes are two burned-out rooms, and somewhere at the back of one of them a lamp I wish I couldn't see is still moving. "You were his friend. Tell me what I saw."
 
-"Did they say anything else? Names, or when they'd stop—"
+Sugi's kitchen is absolutely silent. The kettle isn't on. She chose for it not to be.
 
-"No, and I'm not inventing any." She plants the broom. "Don't stand in my doorway looking like that — it scares customers. And if you're about to thank me, don't. When the upstairs pipe died I charged them for the water, and I'd charge you the same for a cup."
+And I do the thing. The room settles onto its rails, my shoulders drop, the soft steady voice comes up — and I tell a woman whose son fed my friend all summer that she saw a frightened man break under what he'd done, that soldiers who shoot into crowds sometimes can't live in the next minute, that her son's death cracked the man who caused it, and that the shouting boy was only a boy shouting, and none of it was hers to carry.
 
-"Thank you."
+She believes me. That's the horror. She's not a gray suit; she *wants* a shape she can live holding, and my voice hands her one, and I watch a little of the weight leave her shoulders — a mercy, a real one, built out of a lie so structural that the whole roof of her grief now rests on it. She holds my hand at the door with both of hers and thanks me.
 
-"You're as soft as you look. Go."
+The column gets its blackest entry yet: it works on the broken, too. Works best on them.
 
-I leave before she invents a fee for standing on the step.
+I stand in the entryway a long time after she's gone, and this is the morning — the record should mark it — where the world stops being a place that is failing and starts being a place that is *wrong*. Jun checked on his mother and the machinery shot him for the angle of his shoulders. The paper that would have saved him was mercy, criminalized. The man with the listening face files children by the meter, and the only tools that work — the only things I have watched actually bend this summer even one degree toward kindness — are a boy's mouth that kills and a boy's voice that lies.
 
-Under the shrine gate I drink half the bottle and end up listening without meaning to. An older man in a civil-defense armband is complaining to someone about a bag check at the well line — a boy told him to let a girl pass, and he did, and he still cannot explain why. His friend laughs it off as luck. The armband man does not laugh with him. I do not walk over and ask. I already know whose mouth that sounds like.
+Nobody is coming to fix any of this. I write the sentence in the ledger and I can't make myself mark it false.
 
-I cut behind the tool shops to avoid the clipboard soldiers, then come back out near the depot. The porter is loading rice sacks now. He sees me and sighs like I am a second job.
+---
 
-"There isn't a later bus," he says before I finish asking. "I already told you."
+Sato receives me in Orihara's back room, arm strapped, gray from a fever she's decided not to have, and she has the tin box out on the table like the day never happened.
 
-"I know. I just — is the road to Ishibashi still open? For walking."
+"You came for paper." Records-clerk voice. "Good. You'd be dead in a week without it."
 
-"Open enough for idiots." He heaves a sack onto the cart. "Heat'll get you before the soldiers do. Take water. Don't come back here asking me to hold your place in line for a bus that already left."
+She works one-handed while she talks, and what she builds me is a boy who exists: a transit chit with real stamps in a merciful order, a work reference from a co-op that will swear to me, a family errand — *locating a cousin's household, displaced, last known inland* — that gives my walking a clerk-shaped reason. "Don't embroider it," she says. "You're a boring boy on a family errand. Boring is the whole uniform, I told you that the day I met you."
 
-"I won't. Thanks."
+"Come with me as far as the junction," I say. "You can't stamp with that arm. Orihara can hide the box better than—"
 
-"Don't thank me either," he says.
+"I can't." Flat, and then — because she's Sato, and pays her debts down to the yen — she gives me the true accounting instead of the easy one. "Not with this arm. Not after the alley. My nerve's cracked, boy. I heard that shot in the yard yesterday and I was on the floor of this shop before I knew I'd moved, and a woman who drops when the world bangs is a danger to whoever she's walking beside." She squares the chit's edges, slides it across. "So I stay, and I stamp, and that's my share of it. Yours is the road. They went inland — the ridge track drops to the old herring road, and the herring road has one town with water on it, and that's Kuroishi. A day, day and a half, if that girl walks him hard, and she will. She strikes me as someone who's planned a route before."
 
-I start walking.
+She says it perfectly level. Level as a scale. I meet her eyes, and neither of us puts anything more on the table than that, because neither of us knows anything yet — just two book-keepers looking at the same column of maybes and declining to total it aloud.
 
-By evening Kuroishi is behind me. The Ishibashi road is dusty, my shoes are full of grit, and the only direction I have is the one the shop woman gave me. A truck passes without slowing. I stay on the ditch side and keep going.
+"Bring him back a person," Sato says, which is the closest she comes to goodbye. "Paper I can fix. That, I can't."
+
+---
+
+Sugi doesn't try to stop me. That's the last thing to enter for Nagihama, and the biggest.
+
+She watches me pack the onigiri she made without being asked — the paper of stamps going inside my jacket where rain can't argue with it, food on top — and she stands in the entryway with her arms folded, and what she says is:
+
+"You know what you're walking toward isn't the boy who left."
+
+"I know."
+
+"You don't," she says, without heat. "You know it the way you know arithmetic. You'll learn it the other way on the road, and it'll cost you, and you'll keep walking anyway, because that's the animal you are. I've fed enough people to know the ones who come back from things and the ones who go *toward* them." She looks at me for a long moment, and whatever she's checking for, she finds enough of it. "Both of you got made wrong for surviving. It's the one thing I'd change about either of you and it's the only reason I'm letting you through this door."
+
+She fixes my collar like a grandmother, one pull, done.
+
+"The cat stays on my shelf," she says. "So one of you has to come back for it eventually. That's not sentiment. That's a hook, and I'm baiting it, and you'll tell him so."
+
+The plum tree over the wall. The lane, gray-gold, going about its morning with soldiers in it. At the edge of town the pairs are checking paper, and I hand mine over with my shoulders down and my voice soft, a boring boy on a family errand, and the soldier stamps me through while he's still reading — believes me faster than the lie deserves, again, always — and then the town is behind me and the herring road is under my feet, dust instead of salt, running inland between dry hills toward a water tower I can't see yet.
+
+One day behind. Maybe a day and a half, if she walks him hard.
+
+I spend the first hour composing what I'll say when I catch him, and throw all of it away by the second. Every draft is a speech, and speeches are what I do instead of the thing. I've had one sentence owing since a vending-machine light outside Kōgetsu, six syllables, interest compounding all summer, and the ledger is done accepting substitutes.
+
+He told me it was his fault, and I let the town burn the last bridge before I argued.
+
+So: Kuroishi. Then wherever the road goes after Kuroishi. However far west there is, however long it takes — I am going to stand in front of Kurosawa Kaito, and I am going to finish the sentence.

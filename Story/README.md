@@ -19,6 +19,7 @@ Kaito screams **"Let her go"** at a soldier holding Ryn over a ledge as leverage
 - **Guests:** Other first-person cameras when they add depth the boys cannot see. Not padding.
 - **Per chapter:** One POV is default, not a lock. Multiple POVs in one chapter are allowed when a cut earns it — keep switches clean (scene break + clear camera), never muddy.
 - **Do not drift Haruki-only** after the hard split. Kaito (and guests) stay in rotation when their side of the fork matters.
+- **Block rhythm (post-collision):** once the Takamatsu near-miss arc resolves, prefer **blocks of 2–4 chapters per lead** over per-chapter ping-pong. Intra-chapter cuts are reserved for convergence beats. A switch must answer a question the leaving camera can't (see `.cursor/rules/story-writing.mdc`, HARD — POV switching).
 - **All volumes:** Same rules. No fixed alternate-chapter schedule.
 - **Length:** Floor **1,000 words**; longer chapters are fine when the beat earns them (see `.cursor/rules/story-writing.mdc`).
 
@@ -42,7 +43,7 @@ Aim for the propulsion of `assets/example-chapter-1`: **story in clear sentences
 - **No thin recap stacks / no pre-break buttons (hard).** Do not end a beat/scene by restating what just happened, and do not park a neat narrator wrap right before `---`. End on talk or the next move. See `.cursor/rules/story-writing.mdc`.
 - **Conversations must engage (hard).** Not one-line teleports. People push back, ask wrong questions, refuse partway. See `.cursor/rules/story-writing.mdc`.
 - **Lean dialogue pass (hard).** Cut extra clauses; NPCs in full sentences; plain closes (no title-echo buttons); less narrator garnish on talk. User dialogue rewrites = canon voice for following chapters. See `.cursor/rules/story-writing.mdc`.
-- **Chapter length (hard).** Finished live chapters: **1,000-word floor**, target **1,100–1,400**. Check count before calling a chapter done; expand with real scene, not poetry padding. See `.cursor/rules/story-writing.mdc`.
+- **Chapter length (hard).** Finished live chapters: **1,000-word floor**, target band **1,400–2,200** (clean-rewrite pass); longer when the beat earns it. Check count before calling a chapter done; expand with real scene, not poetry padding. See `.cursor/rules/story-writing.mdc`.
 - **Naming:** Japanese order Surname Given. Prose uses first names for the trio.
 - **Spelling:** **gray-green** in prose.
 - **Prologue restraint:** no Word-naming to the boys, no sentence-craft lesson, no Literal→Intent teaching. Soft fork only.
@@ -73,8 +74,7 @@ archive/
   pre-rewrite/            <- older mine
   clean-slate-2026-07-23/ <- last live pass (Ch 1–50 + PROGRESS + meetings)
 assets/example-chapter-1  <- craft reference
-export/                   <- PDFs
-scripts/export_pdf.py
+scripts/export_pdf.py     <- PDF export (writes its own output folder)
 ```
 
 Archived prose is a **mine for texture**, not continuity law. Bible + live outline win.

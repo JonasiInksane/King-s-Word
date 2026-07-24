@@ -32,36 +32,50 @@ Rebuild volume by volume here. Do not restore archived chapter tables as law.
 - **Secret B-plot / end-boss:** **Kuroda Ren** — innate **Rewrite (改言)**; wants the One Throne. Edge meetings → later unrecognized contact with Haruki → endgame.
 - **Geography seeds** (from `world.md`, not chapter locks): Nagihama → inland road → Takamatsu → Shizuhara → Ashiro / Susuichi / Kurohata as needed.
 
-### Part One — "Two Roads" *(rebuild)*
+### Clean-rewrite pass (2026-07-24) — current live plan
 
-Target engine only: **grief → discovery → first lethal use → physical split.**  
-POV: Haruki / Kaito mains; guests and multi-POV cuts allowed per README.
+Previous live pass archived at `archive/live-pass-2026-07-24/` (texture mine, not law). Target band 1,400–2,200 words/chapter; POV blocks per README; found family shown never named; Haruki gathers people while losing faith in the world; Kaito narrows to Mira (and her contacts).
 
-| Ch | Title | Beat |
-|----|-------|------|
-| 1 | The Plan | Kitchen frame → ordinary life / rooftop birthday plan |
-| 2 | Let Her Go | Birthday; calamity; roof Word |
-| 3 | Low Tide | Exodus; Mira helpful; soft fork rite |
-| 4 | Two Weeks | Salt life; pier foreshadow |
-| 5 | The Pier | Jun detained; muddy Word; Mira witnesses |
-| 6 | Drop It | Shed alley; clean commands; admission to Haruki |
-| 7 | Kill Yourself | Sweep; Jun dies; lethal command; hard split |
-| 8 | Toward Kuroishi | Aftermath; stamps; chase begins (Part One close) |
+### Part One — "Two Roads" (~10 ch)
 
-### Part Two — *(rebuild; working title TBD)*
+Engine: **grief → discovery → first lethal use → physical split.**
+POV: Haruki anchor in Kōgetsu; hinge-switches in Nagihama (both boys share the location).
 
-Engine seed: chase inland; Mira's convince grows from more witnessing; boys still ignorant of the Word's name.
+| Ch | Title (working) | POV | Beat |
+|----|-------|-----|------|
+| 1 | The Plan | H | Kitchen frame → ordinary Tuesday; trio; deniable Word tells; rooftop birthday plan |
+| 2 | Day Before | H | NEW — birthday eve; Ryn's world (Sugi's stall, the brother whose letters thinned); war creeping; trio at full warmth |
+| 3 | Let Her Go | H | Birthday night; calamity; roof; Kanzaki; Ryn dies; escape west |
+| 4 | Low Tide | H | Exodus; birthmark match (unspoken); Nagihama; Mira enters ordinary; the rite Kaito can't finish |
+| 5 | Two Weeks | H | Salt life; the gray-green truck; sea wall — absolution withheld |
+| 6 | The Pier | K | Jun detained; muddy commands fail; temple wound; Mira witnesses and pulls him out |
+| 7 | Practice | K | NEW — trying to master the mouth; Backwash on-page; the part of him that likes it working; Mira watching closer |
+| 8 | Drop It | H | Shed alley; clean commands work; Sato wounded by the wild shot; confession; the help promise |
+| 9 | Kill Yourself | K | Tuesday-truck sweep; Jun shot; the lethal command; hard split — full escalation, complete scene |
+| 10 | Toward Kuroishi | H | Grief night; Hanae's question; Sato's stamps; Sugi's choice talk; the road out (Part One close) |
 
-| Ch | Title | Beat |
-|----|-------|------|
-| 9 | Inland | Kaito+Mira to Kuroishi; Orii room; *Let her pass*; Ishibashi next |
-| 10 | One Day Behind | Haruki to Kuroishi; misses them; Ishibashi road |
-| 11 | Soft Boy | Road shakedown; Riku seed meet; walk toward Ishibashi |
-| 12 | Under the Bridge | Ishibashi market; miss them again; boots; Takamatsu road |
-| 13 | Survive a Tuesday | **Kaito:** East Yards → arcade; cash room; night / Mira count; morning work hunt |
-| 14 | Minato | **Kaito:** Machi+Gorō paid; North Market tip; **cut → Haruki:** East Yards stance + first ask |
-| 15 | Loading Line | **Kaito:** North Market half-shift → depot; **Haruki:** arcade doors → Minato second pair → market trail |
-| 16+ | TBD | Depot/market near-miss; multi-POV ok |
+### Volume 2 — "The Question" (~16 ch, ends on the clash)
+
+Engine: chase inland → Takamatsu lives built over days → hunter pressure → Kuroda resolve moment → collision → **Kaito turns the Word on Haruki** (volume close). Boys still ignorant of the Word's name. Mira's contacts surface gradually. Beats loose until written.
+
+| Ch | Working shape | POV | Beat |
+|----|-------|-----|------|
+| 11 | Inland | K | Road out; Kuroishi; Orii's room; the well bag-check |
+| 12 | Bus Fare | K | NEW — Ishibashi leg on-camera; thin money; one night; Kaito's narrowing shown |
+| 13 | One Day Behind | H | Kuroishi one day late; the mark Kaito's mouth left; what Haruki will say |
+| 14 | Soft Boy | H | Road shakedown (full fight); Riku |
+| 15 | Under the Bridge | H | Ishibashi market; boots; missed by half a day |
+| 16 | Takamatsu (K) | K | Arrival; East Yards; cash room; secondary checks for coast travelers |
+| 17 | Minato first | K | Machi + Gorō; work; Mira's first contact surfaces — someone Kaito doesn't know |
+| 18 | Kaito's silence | K | Silent work; a meeting Mira attends without him; block hook |
+| 19 | Takamatsu (H) | H | Arrival with Riku; trail through arcade doors |
+| 20 | Second pair | H | Minato; stance lesson; first paid job with Riku |
+| 21 | The city that works | H | Days of work; Gorō's city; family accreting through action |
+| 22 | The squeeze | H | FDC pressure costs someone Haruki needs; despair beat |
+| 23 | The listener | H | Kuroda bar meeting; the lane; **"Reshaped by whom?"** — resolve moment |
+| 24 | Near-miss | braid | The hunter closes; both pairs cross the same night |
+| 25 | Collision | braid | Full fight; Haruki's speech lands and isn't enough |
+| 26 | Go Home | K→H | Cornered, Kaito turns the Word on Haruki — *"Stop following me. Go home."* Volume ends on the command landing (twist #5 stays unspent) |
 
 ---
 

@@ -4,7 +4,7 @@ Naming: Japanese order (Surname Given). Prose uses first names for the trio.
 Each bio includes a **camera moment** — the vivid intro beat that fixes them in the reader's mind.
 
 **POV schedule:** `README.md` only — do not duplicate here.  
-**Live status:** `PROGRESS.md`. Chapter numbers in bios below are seeds from the archived pass; rebuild against the new outline.
+**Live status:** `PROGRESS.md`. **Live prose = clean-rewrite pass, Ch 1–10 (Part One).** The 2026-07-24 pass (old Ch 1–15) is archived at `archive/live-pass-2026-07-24/` — claims below tagged "previous pass" or with old chapter numbers are texture, not canon. Any claim tagged **ARCHIVE SEED** is planning material from even older drafts; nothing is "paid" until it exists in live prose.
 
 ---
 
@@ -12,33 +12,34 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 
 ### Aoyama Haruki (青山 陽生) — 15 (main camera)
 
-**Camera moment:** Catching a stranger's dropped train pass mid-air without looking up from his phone, then apologizing to *himself* out of reflex.
+**Camera moment (live, Ch 1):** Catching a salaryman's dropped train pass without meaning to, handing it back, and saying "Sorry" — apologizing for a fight that never existed.
 
-- **Looks:** Fifteen, about 170 cm — average height, soft build, the kind of body that looks like it grew sideways into competence rather than upward into presence. Black hair, a little too long at the fringe, always falling into his eyes no matter how he pushes it back; warm brown eyes that make people over-explain themselves. Ordinary face: not striking until you're looking for him, then somehow hard to look away from. Pale under the summer, faintly tired around the lids (nurse-mother genetics / chronic late nights). Uniform usually clean but a little wrinkled — he does his own laundry and isn't precious about it. **Hidden tell:** faint pale birthmark behind left ear, identical to Kaito's — Haruki notices the match in prologue Ch 3; withholds it.
+- **Looks:** Fifteen, about 170 cm — average height, soft build, the kind of body that looks like it grew sideways into competence rather than upward into presence. Black hair, a little too long at the fringe, always falling into his eyes no matter how he pushes it back; warm brown eyes that make people over-explain themselves. Ordinary face: not striking until you're looking for him, then somehow hard to look away from. Pale under the summer, faintly tired around the lids (nurse-mother genetics / chronic late nights). Uniform usually clean but a little wrinkled — he does his own laundry and isn't precious about it. **Hidden tell:** faint pale birthmark behind left ear, identical to Kaito's (thumbnail-size, notch in one edge) — Haruki notices the match at the vending machine on the road west (Ch 4); withholds it.
 - **Nature:** The steady one. A natural mediator who reads a room the way other people read the weather. Hates conflict so much he'll absorb it. Kind almost to a fault — the kind of kid who remembers everyone's konbini order.
 - **Personality:** Dry, observational humor. Deflects praise. Quietly anxious; keeps a mental ledger of everyone's moods and tries to keep the numbers balanced. Underneath: a fear that being *needed* is the only reason he's *wanted*.
 - **Background:** Raised by a single mother (nurse, night shifts) in a Rail Loop apartment. His father is an absence he's stopped asking about. Effectively co-parents himself; extremely competent at small domestic things.
 - **The Word (hidden):** His strain expresses *softly* — he calms, he defuses, people just... agree with him. Reads as empathy and charisma. His nosebleeds get blamed on the dry AC. **Because his commands tend to be gentle and de-escalating, his corruption risk is lower — for now.**
 - **Voice on the page:** Warm, precise, self-deprecating narration. Notices textures and light. Undercuts his own feelings with a joke. Present-frame Haruki (Ch 1 open) is older-sounding, spare, willing to withhold pages.
 - **Arc seed:** The one who *watches* his best friend fall — and slowly realizes he shares the same terrible gift, and that his gentleness was never a guarantee. His tragedy is complicity through inaction.
-- **Word self-knowledge (live):** Does **not** knowingly own through Parts One–Three (pad *Stop!* = panic/refusal file). **Vol 4 Susuichi (Ch 42–46):** admits *I am one too* — ownership as responsibility, not throne.
-- **Ideals thread (series):** Growing conviction that the war is not weather — *someone stands in the kitchen and stirs*. Later bar/ideal beats re-earn when the new outline needs them. Kuroda's future hinge: **"Reshaped by whom?"** — do not answer cheaply.
-- **Status (end Part One / Ch 8):** Leaves Nagihama alone to follow Kaito inland. Cat with Sugi. Birthmark secret kept.
+- **Word self-knowledge (live):** Does **not** knowingly own it. The "voice column" is live: Ch 1 (Loop argument dies), Ch 5 (voice too useful at gates, noted in passing), Ch 10 (gray-suit interview believed "faster than the lie deserves"; the lie to Hanae that "works on the broken, works best on them"). By Ch 10 he no longer believes the column totals *polite* — "Kaito's is loud. Whatever I carry came quieter" is as far as he lets the sum run. ARCHIVE SEED: Vol 4 ownership admission (*I am one too*) — re-earn.
+- **Despair thread (live from Ch 10):** "The world stops being a place that is failing and starts being a place that is *wrong*… Nobody is coming to fix any of this" — written in the ledger, can't be marked false. This is the seed Kuroda's **"Reshaped by whom?"** hinge lands on in Vol 2. Do not answer cheaply.
+- **Status (end Part One / Ch 10):** Leaves Nagihama alone with Sato's paper (transit chit, work reference, "family errand" cover). One day behind, on the herring road to Kuroishi. Cat with Sugi (her stated "hook"). Birthmark secret kept. Owes Kaito the finished sentence — stated goal of the chase.
 
 
 
 ### Kurosawa Kaito (黒沢 海斗) — 15 (main camera)
 
-**Camera moment:** Stepping between Haruki and a third-year without a word — hands loose, chin up, grinning like he's already won a fight he hasn't started.
+**Camera moment (live, Ch 1):** Telling a third-year with half a head on him "Back off. Go back to your class" — not loud, just final — and the older kid's body obeying a beat before his face catches up. Pinprick nosebleed wiped on the jacket like it bores him.
 
-- **Looks:** Fifteen, about 178 cm — half a head taller than Haruki, broader in the shoulders, built like someone who runs into trouble and wins more often than he should. Sharp black hair cut shorter at the sides, still wet and messy in the mornings; dark eyes with a hard bright edge that softens only for two people. A thin white nick through his left eyebrow from an old fight. Hands always moving; knuckles often scraped; collects bruises the way Haruki collects apologies. Almost always wears yesterday's dark jacket over today's uniform. Presence takes up more space than his body. **Hidden tell:** same pale birthmark behind left ear — Haruki saw it in prologue Ch 3; Kaito still doesn't know they match (or what it means).
+- **Looks:** Fifteen, about 178 cm — half a head taller than Haruki, broader in the shoulders, built like someone who runs into trouble and wins more often than he should. Sharp black hair cut shorter at the sides, still wet and messy in the mornings; dark eyes with a hard bright edge that softens only for two people. A thin white nick through his left eyebrow from an old fight. Hands always moving; knuckles often scraped; collects bruises the way Haruki collects apologies (live Ch 1–2: grip-shaped bruises on the forearm, uncle-adjacent, in Haruki's "things Kaito would deny" column). Almost always wears yesterday's dark jacket over today's uniform. Presence takes up more space than his body. **Hidden tell:** same pale birthmark behind left ear — Haruki saw it in Ch 4; Kaito still doesn't know they match (or what it means).
 - **Nature:** The blade of the group. Loyal to the bone, allergic to unfairness, runs hot. Would burn the world down for the two people he loves and call it Tuesday.
 - **Personality:** Charismatic, funny, a little reckless. Leads with his chest. Deeply insecure under the swagger — abandonment does that. Trusts actions, not words, which is a savage irony given what his words can do.
 - **Background:** Bounced through relatives after his parents' marriage detonated; landed with a distant uncle in Kōgetsu two years ago. Haruki was the first person who made the city feel like home; Ryn was the second. He has decided, privately and absolutely, that he will never lose either. This vow is the crack the corruption grows in.
 - **The Word (hidden):** His strain expresses *hard* — he commands, and the world flinches. Bullies back off, dogs sit, a bus door "happens" to reopen. Coded as intimidating presence and dumb luck. **His idiom-heavy, aggressive speech is a loaded gun; he's the one who will say "let her go."**
 - **Voice on the page:** Loud, quick, physical. Talks with his hands. Shorter sentences under stress. Guilt sits in the body before it sits in language. Never writes himself as a villain choosing power.
 - **Arc seed:** The roof. Guilt over the leverage-drop + the Backwash (see magic doc) hollows out the warmth until only the command is left. He doesn't become a villain who wants power; he becomes a boy who can no longer *stop* using it. Tragic, not evil.
-- **Status (end Part One / Ch 7–8):** Hard split after lethal command; leaves Nagihama with Mira inland. STAGE 3 door open.
+- **Control arc (live, Ch 6–9):** Gull test fails → learns the *understand* requirement in his own words ("the understanding is the door the weight walks through — it only works on people"). Night-wall sentence drills — drafts commands and closes their "exits" like dry-firing (Harada's lantern nearly catches him). The refused test: a clean, loaded *Let me help you* aimed at Jun, swallowed — "Jun doesn't get to be a rep"; draws the line *nobody I love, nobody kind*, and notes "a line like that has another edge, and the other edge is a permission." Then the buyer test (clean command, posted price paid; first full success). Costs on-page: heavy nosebleed, coin taste, skull drum, half-obeying his own whispered *sit up*. The double entry he hides: "part of me is glad, and I go looking for it again." Writes the clean roof sentence — *Pull her up* — as his reason to keep practicing.
+- **Status (end Part One / Ch 9):** Lethal command in the shrine yard ("Why don't you shut up. Or better — why don't you just kill yourself.") — soldier dies by own rifle. Refuses Haruki's broken absolution at the gate ("It was. You saw it. It was."). Fled inland with Mira over the herring ridge track. Knows the command came out "perfectly clean, first throw" — and that part of him lifted.
 
 
 
@@ -52,8 +53,9 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Background:** Works shifts at Fullmoon Mart to help her grandmother, who raised her. Her older brother is FDC, deployed east — his letters have thinned to nothing, and she pretends not to count the days. This is why the war feels personal to her when it's abstract to the boys.
 - **The Word:** None (as far as anyone knows — keep a door open, but she is not a carrier in the current plan). Her ordinariness is the point: she is the human stakes, not a power.
 - **Voice on the page:** Sharp dialogue, teasing, occasionally devastating sincerity that lands harder for being rare.
-- **Arc seed:** Her sixteenth birthday is the hinge of the whole story. She is the person whose loss breaks Kaito — so Chapter 1 must make the reader *adore* her.
-- **Status:** **DEAD** (prologue Ch 2 rooftop). Body never recovered (Kōgetsu fallen/sealed). Symbolic remain: the arcade cat plush (with Sugi after Part One). Not a Word-carrier.
+- **Arc seed:** Her sixteenth birthday is the hinge of the whole story. She is the person whose loss breaks Kaito — so Ch 1–2 must make the reader *adore* her (Ch 2 "Day Before" exists for exactly this).
+- **Brother thread (live, Ch 2):** Tōru's six-line letter — "*tell her it's better, she'll believe that from me*" — Ryn decodes the code aloud to Haruki; grief pre-paid before the roof.
+- **Status:** **DEAD** (Ch 3 rooftop — dropped on Kaito's "LET HER GO", the soldier's hand opening evenly). Body never recovered (Kōgetsu fallen/sealed). Symbolic remain: the arcade cat plush, given to the sea at the Ch 4 rite and **pulled back out by Kaito** — now on Sugi's shelf, her declared "hook" for the boys' return. Not a Word-carrier.
 
 ---
 
@@ -63,49 +65,53 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 
 
 
-### Jun (ジュン) — ~15–16, Hanae's brother — DECEASED (Ch 7)
+### Amano Jun (天野 ジュン) — 23, Nagihama netman — DECEASED (Ch 9)
 
-**Surname:** Not given on-page yet (Haiga refugee family). Do not invent mid-prose without updating here.
-**Camera moment:** Grinning at Sugi's umeboshi like it's a festival — then later, the trust-look at Kaito in the lane before the shot.
+**Surname (locked, live Ch 9):** **Amano** — the lieutenant reads it off the registry. Nagihama is the Amano home town ("Amano-side people," Ch 6); Jun is distant kin of Sugi's late husband's line, never spelled out on-page. The quiet rhyme — the boys shelter among Ryn's people and another Amano dies — stays implicit; nobody says it in dialogue.
+**Camera moment (live, Ch 6):** "You're doing that with your anger instead of your thumb" — about a knot, and also not. Splits his mother's too-big lunch without asking; pickled radish cut in careful fans.
 
-- **Looks:** Fifteen or sixteen; Haiga dust ghosting shoe seams; temple mark from Ch 5 pier. Ordinary refugee kid — alive in the wrong arithmetic.
-- **Nature:** Brave past sense; believes papers and *no* still mean something. Steps toward family even from a detainment line.
-- **Continuity (redesign):**
-  - **Ch 5 (Kaito):** Pier detention — muddy commands; temple injury.
-  - **Ch 7:** Still detained — walked through Nagihama lanes in Tuesday-truck verification line; sees Hanae; refuses "on the ground"; **shot** while Kaito's Stop loop fails. Dead under the plum tree, papers half in hand.
-- **Story role:** Human cost of incomplete control; the despair engine that triggers Kaito's lethal command; Hanae's grief in Ch 8.
-
-
-
-### Hanae (ハナエ) — Jun's older sister, ~late teens / early 20s
-
-**Surname:** Same open question as Jun — keep consistent once locked.
-**Camera moment (Ch 8):** Dust in her hair, hands shaking before she speaks; asking if he suffered.
-
-- **Looks:** Older than Jun by a handful of years; refugee dust; grief raw, not performative.
-- **Nature:** Practical love — wants facts she can spend (*was it quick*). Does **not** know the true sentence (Word / Stop loop / Kill yourself).
-- **Continuity:** Mentions via widows; on-page Ch 8 at Sugi's door. Remaining west-coast anchor of that family.
-- **Story role:** Makes Jun a hole in someone else's kitchen, not only Haruki's ledger.
+- **Looks:** Twenty-three; forearms like dock rope; big, slow-moving, no clock anywhere in his body. Born two lanes over; never wanted to be anywhere else.
+- **Nature:** Patient kindness of big calm men. Says the grim ones cheerfully. Decided the FDC gets to stand in his town but not inside his family.
+- **Continuity (live):**
+  - **Ch 6:** Runs the north-pier mending frames; teaches Kaito splices; pulled to secondary at verification (Haiga cousin dependency — cousin real, papers lane-made via Sato's shed); clears by Tuesday ("half the town owes Hanae dinner").
+  - **Ch 9:** File reopened ("the office has been *advised*" — the Listener's doing). Stonewalls to protect the cousin and the lane's paper; steps between the table and his mother; **shot through the chest for half-turning to check on her.** Dies in the shrine yard.
+- **Story role:** Kaito's found-work friendship (shown, never named); the death that detonates the lethal command; Hanae's grief in Ch 10.
 
 
 
-### Sato (サトウ) — Mira's former runner, ~15–17
+### Amano Hanae (天野 ハナエ) — Jun's mother, ~50s
 
-**Camera moment (Ch 6):** Cornered in the shed alley with a satchel; gun on her chest; later biting a rag while a widow packs her arm.
-**Full name:** Sato used as surname-or-given on-page — treat as **family name Sato** for now; given name unused. Don't dual-name without updating this file.
+**Surname:** Amano by marriage — same lock as Jun.
+**Camera moment (live, Ch 6):** Delivering the lunch bundle to the pier with a running list of Jun's sins since breakfast — half his size, and he calls her *boss* without any joke in it. Then (Ch 10): at Sugi's table at first light, thumb moving on a cup rim she never drinks from: "Tell me what I saw."
 
-- **Looks:** About the trio's age; split lip (Ch 6 tip night); upper-arm wound (ugly, non-fatal) from unfinished "Don't—" freeze + wild shot; sling in Ch 8.
-- **Nature:** Angry, afraid after the alley wound. Still helps locals with paper when she can. Will not follow inland — injury and fear, not a Mira-hate turn (Mira is still only the helpful neighbor on-page).
-- **Continuity (redesign):**
-  - **Ch 6:** Runner for name-crates; wounded in alley.
-  - **Ch 8:** Leftover stamps clear Haruki one checkpoint/day; Kuroishi tip; "stop him if you can"; steps back because of the arm / last night, not a blame pitch at Mira.
-- **Story role:** Bridge off Mira's cell without recruiting Haruki; gives the chase a direction.
+- **Looks:** A mother who packed too much lunch for twenty-three years; grief raw, not performative; eyes like two burned-out rooms with one lamp still moving at the back.
+- **Nature:** Practical love. "Feeding is just what her worry looks like." Counts thank-yous as arguing; counts eating all of it as thank you. Fed half of Haiga's boats when the harbors closed. Wants a shape she can live holding — and in Ch 10 Haruki's soft voice hands her one built on a structural lie. She believes it. **She does not know the true sentence.**
+- **Continuity (live):** On-page at the pier with the lunch bundle; puts Kaito "on the list" (Ch 6). At the sweep when Jun dies shielding her line to the table (Ch 9). Asks Haruki her one question (Ch 10). Keeper of the Haiga cousin, who survives off-page.
+- **Story role:** The blackest entry in Haruki's voice column: "it works on the broken, too. Works best on them."
 
 
 
-### Jun & Hanae's widow-aunt (unnamed)
+### Sato Kimi (佐藤 キミ) — ~50, retired harbor records clerk
 
-Optional caregiver/grief presence if needed; do not invent on-page action that contradicts Jun still being detained through Ch 7. Hanae is the on-page family face. Do not give the aunt a name until locked here.
+**Camera moment (live, Ch 8):** Stepping **in front of** the tin box when the rifles come up — thirty years of filing instinct putting her body where the paper is.
+
+- **Looks:** Fifty, built like a bollard; knees retired her from the harbor office; a beautiful old hand-stamp collection in a locked tin box in Orihara's net shed.
+- **Nature:** Records-clerk exactness with a lane-sized conscience. "You look honest and boring. That's the whole uniform." Pays her debts down to the yen, including truth-debts.
+- **The shed (live, Ch 8):** The town's second set of paper — real stamps applied with merciful timing; a boy whose Haiga records burned becomes somebody's cousin. Not a resistance; a lane taking care of its paper. Her successor at the harbor office grew up two doors down. **No Mira connection** — this pass she is the lane's own institution.
+- **Continuity (live):**
+  - **Ch 8:** Recruits Haruki as envelope carrier (Tuesdays/Fridays); wounded through the upper arm by the partner's wild shot when Kaito's commanded soldier stepped back into him. Keeps the arm.
+  - **Ch 10:** Builds Haruki's road paper one-handed (transit chit, work reference, family-errand cover). Won't come: "My nerve's cracked… a woman who drops when the world bangs is a danger to whoever she's walking beside." Points him at Kuroishi via the herring road. "Bring him back a person. Paper I can fix. That, I can't."
+- **Story role:** Criminalized mercy — a main engine of Haruki's despair thread; gives the chase its direction and its paper.
+
+
+
+### The Listener — gray suit, no name on-page (bible working name: Sawatari)
+
+**Camera moment (live, Ch 9):** In the shrine-yard chaos he stands very still with his **hands over his ears** — in a yard where the shooting is finished — eyes going through the crowd like a hook through water, hunting a mouth.
+
+- **Who (bible):** Civilian-suited intelligence attached to the FDC's asset-acquisition current (Kanzaki's cell or a rival desk — keep open). Briefed on the ear protocol. Reopened Jun's file to shake the town and see what surfaced.
+- **Continuity (live):** Ch 7 — Mira's warning ("he doesn't stamp anything, he just listens") plus the Kōgetsu checkpoint-sergeant story riding the delivery routes. Ch 9 — "advises" the registry, watches the sweep, covers his ears. Ch 10 — interviews the yard by seating chart; places Haruki to the meter; is believed *faster than the lie deserves* and files him as nothing.
+- **Story role:** Vol 2's hunter circling the trail. He has heard Kaito's sentence land once and been lied to by Haruki's voice once — one entry per boy, neither understood yet. Do not let him understand cheaply.
 
 ---
 
@@ -117,22 +123,22 @@ Optional caregiver/grief presence if needed; do not invent on-page action that c
 
 ### Orii (折井) — Kuroishi dried-goods
 
-**Camera moment (Ch 9):** Points upstairs without smiling; "One night. Maybe two."
+**Camera moment (previous pass — re-earn in Vol 2 Ch 11):** Points upstairs without smiling; "One night. Maybe two."
 
 - **Looks / nature:** Middle-aged shopkeeper; refuses to stock the war as conversation. Practical, short with strangers.
-- **Continuity:** Puts up Kaito + Mira one/two nights above the shop. **Ch 10:** Tells Haruki he's late; points toward Ishibashi — Haruki never learns her name on-page. Not Remnant. Surname unused on-page yet — given/family open.
+- **Plan (Vol 2):** Puts up Kaito + Mira one/two nights above the shop (Ch 11); tells Haruki he's late and points toward Ishibashi (Ch 13) — Haruki never learns her name on-page. Not Remnant. Surname unused on-page yet — given/family open. **Not yet live in the clean pass.**
 
 
 
 ### Nakahara Riku (中原 陸) — ~17, future right hand (not yet)
 
-**Camera moment (Ch 11 seed):** Hauls Haruki out of a shakedown by the collar, clicks his tongue once, grins with a crooked front tooth: *"Soft boy. You walk like the road owes you manners."*
-**Camera moment (Ch 13 — PAID):** Kicks Haruki's ankle into stance in East Yards lot: *"Good. You look like someone who might survive a Tuesday."*
+**Camera moment (previous pass — re-earn in Vol 2 Ch 14):** Hauls Haruki out of a shakedown by the collar, clicks his tongue once, grins with a crooked front tooth: *"Soft boy. You walk like the road owes you manners."*
+**Camera moment (previous pass — East Yards stance test):** Shoves Haruki's shoulder to test his stance; Haruki stumbles, catches, doesn't fall: *"Good. You look like someone who might survive a Tuesday."*
 
 - **Looks:** Seventeen, about 175 cm, lean-hard (dock/road muscle, not gym-pretty). Messy dark hair tied back with a scrap of cloth when it gets in his eyes; crooked front tooth from an old fight; scraped knuckles as default. Cheap work jacket over layers; boots that have walked more than they've been cleaned. Moves like he always knows where the exits are. Recurring tell: **clicks his tongue once** before he decides to help.
 - **Nature:** Blunt, funny, allergic to speeches. Teases Haruki's apology reflex. Will not recruit himself as "partner" — stays for pay, boredom, or spite at FDC until it becomes loyalty. Speaks in short cuts; laughs with his whole face when he lets himself.
 - **On-page skill:** Hand-to-hand first (later chapters); firearms when trust + stakes earn it. Teaches **bodies**, not Words. Does not know Haruki is a carrier; must not lecture kotodama.
-- **Backstory (PAID — Ch 18, roof sake night). On-page facts, keep consistent:**
+- **Backstory (ARCHIVE SEED — old Ch 18 roof sake night; not live, re-earn in new outline). Planned facts, keep consistent when paid:**
   - Sixteen, inland ridge town smaller than Kuroishi. Youth **civil-defense volunteer** unit — town quotas, sewn armbands (市民防衛); "volunteer" = FDC's cheapest meat, owed nothing, never in the books.
   - Used as perimeter for asset sweeps ("a runner won't hurt a neighbor's kid"). His unit had rifles that month.
   - A boy, **fourteen**, flagged *asset-adjacent*, ran his stretch. Soldier shouted *stop him*. Riku fired. Boy died. Post-review of the flag: **"inconclusive"** — one afternoon of theirs, three years of his.
@@ -140,9 +146,10 @@ Optional caregiver/grief presence if needed; do not invent on-page action that c
   - Deserted the next week; armband folded on the bunk. "They don't chase volunteers — you were never here."
   - Haruki's response (no absolution, no judgment): the boy got carried, not filed — "the worst possible way for it to be something." Riku's thank-you: pouring from the empty bottle.
   - Parallel to Mira (FDC made weapons of both; he hates being anyone's gun, she wants to aim one) — **implied only, never named on-page**.
-- **The curriculum (stated Ch 18):** "I teach you so nobody gets to use you. Not paper. Not causes. Not friends with beautiful reasons." Fist-knock instead of the word *partner* — refusal softened, word now unnecessary.
-- **Status (end Ch 25):** Imprisoned with Haruki in mansion FDC hold. Training paid on-page (Ch 24–25). Worded to drop/sit on the pad; tore free after clash. Tag: partner-in-practice (`riku-seed` soft stick — word *partner* unspoken).
-- **Vol 3 (Ch 26–35):** Shizuhara. Volunteer-disposal truth detonates his Ch 18 wound. Confronts Mira mid-volume. Breakout; after wipe, drags Haruki out with Mei.
+- **The curriculum (ARCHIVE SEED — old Ch 18):** "I teach you so nobody gets to use you. Not paper. Not causes. Not friends with beautiful reasons." Fist-knock instead of the word *partner*.
+- **ARCHIVE SEED (old Ch 24–25):** Imprisoned with Haruki in mansion FDC hold; training paid; worded on the pad; tore free after clash.
+- **ARCHIVE SEED (old Vol 3, Ch 26–35):** Shizuhara. Volunteer-disposal truth detonates the sake-night wound. Confronts Mira mid-volume. Breakout; after wipe, drags Haruki out with Mei.
+- **Status (clean pass):** Not yet on-page. Enters Vol 2 (outline Ch 14, road shakedown — now under the fights-are-complete-scenes rule). Previous-pass beats (boots, stance, Minato, courier work) are texture to rebuild, not canon.
 
 ---
 
@@ -154,30 +161,30 @@ Optional caregiver/grief presence if needed; do not invent on-page action that c
 
 ### Serizawa Mei (芹沢 芽衣) — ~17–18, Haruki’s future left hand
 
-**Camera moment (Ch 27 — PAID):** Corrects a guard’s corridor count out loud, takes the tablet / wall display, finishes the tally herself — smiling like the numbers were always hers.
+**Camera moment (ARCHIVE SEED — old Ch 27, not live):** Corrects a guard’s corridor count out loud, takes the tablet / wall display, finishes the tally herself — smiling like the numbers were always hers.
 
 - **Looks:** Seventeen or eighteen; taller than Ryn (~168 cm); sharper jaw; short practical dark hair; a pale scar across the left knuckles (not romanticized — work or cuff). Moves like she owns the yard’s geometry. War-prisoner issue clothes worn like a choice.
 - **Nature:** Blunt, warm, teases soft boys, organizes without speeches — **Ryn’s character engine, different face**. Fearless in the “fear is boring” register; not reckless, decisive.
 - **Not a volunteer.** Eastern-front **war prisoner** paperwork.
 - **Hidden (BIBLE):** last recognized **Amatsu civil heir** — the name/claim of the fallen house, while the Word was split into the two commoner boys (**split vessels**). Unpaid on-page through Vol 3; **pays Vol 4** (Clear Day + keeper truth).
-- **Arc (Vol 3):** imprisoned ally → escape partner → with Riku, pulls Haruki out after the wipe. Romance = seed only.
-- **Arc (Vol 4):** Ashiro → Susuichi; **Clear Day with Kanda Iori**; refuses crown road; stays with Haruki; carries “next time, enemies.”
-- **Status (end Ch 36):** Free with Haruki + Riku on service road; extract target unfinished for Remnant.
+- **Arc (ARCHIVE SEED — Vol 3):** imprisoned ally → escape partner → with Riku, pulls Haruki out after the wipe. Romance = seed only.
+- **Arc (ARCHIVE SEED — Vol 4):** Ashiro → Susuichi; **Clear Day with Kanda Iori**; refuses crown road; stays with Haruki; carries “next time, enemies.”
+- **Status (live):** Not yet on-page. Everything above is planning material.
 
 
 
 ### Colonel Habu (土生) — Shizuhara commandant, ~50s
 
-**Camera moment (Ch 26):** Welcomes intake in a glass lobby with soft voice and a tablet; calls a child *inventory* without changing tone.
+**Camera moment (ARCHIVE SEED — old Ch 26, not live):** Welcomes intake in a glass lobby with soft voice and a tablet; calls a child *inventory* without changing tone.
 
 - Soft voice; files children as inventory loss. Contingency: **inventory zero**. Survives or is believed dead — **returns later** either way.
-- **Status (end Ch 35):** Fate ambiguous in Massacre chaos (Ch 35) — **haunt seed**; treat as survivable until bible kills him later.
+- **Status (live):** Not yet on-page. Archive fate (ambiguous in old Ch 35 chaos) is a haunt seed only.
 
 
 
 ### Medic Yano (矢野) — intake physician, ~40s
 
-**Camera moment (Ch 30):** Cheerful as a school nurse while marking who is “still useful.”
+**Camera moment (ARCHIVE SEED — old Ch 30, not live):** Cheerful as a school nurse while marking who is “still useful.”
 
 - Small, bright, unforgettable. Seed for later volumes.
 
@@ -191,22 +198,23 @@ Optional caregiver/grief presence if needed; do not invent on-page action that c
 
 ### Suzumori (鈴守) — "the Bellkeeper" — old Amatsu keeper (given name TBD on page)
 
-**Camera moment (Ch 25 — PAID):** Small, calm on the mansion H-pad, humming under rotor-wash — the only person on the roof who does not flinch at the Word clash.
+**Camera moment (ARCHIVE SEED — old Ch 25, not live):** Small, calm on the mansion H-pad, humming under rotor-wash — the only person on the roof who does not flinch at the Word clash.
 
 - **Who:** An old woman (70s+), keeper of what's left of Amatsu memory — rites, names, the meaning of marks. Held by the FDC in the hospital stack's **quiet floors** as an uncatalogued "asset," awaiting transfer east.
 - **What she knows (BIBLE — do not spend early):** the **split inheritance** — that the last heir's Word was divided and hidden in two infants. She can read the birthmark. She is the single largest lore-payoff character alive; ration her.
-- **What she does on-page (Vol 2):** Rescued off-page **Ch 20** by Kaito/Mira. Names **Lt. Aihara** (off Haruki's camera). **Ch 25:** on mansion H-pad; hums through clash; extracted by air with Kaito/Mira. Haruki meets her only as a calm stranger on the pad.
-- **Vol 3:** Enters Shizuhara **with** Kaito + Mira to extract **Serizawa Mei** (does not lead with *heir*). Extract fails mid-reach when children are wiped; escapes with Remnant thread (exact exit flexible — not left in FDC hands).
-- **Vol 4:** Speaks split inheritance / civil claim; friction with Mira open; **Keeper Law** (Ch 49) — walks a third path when Kaito chooses hollow road.
+- **ARCHIVE SEED (old Vol 2):** Rescued off-page Ch 20 by Kaito/Mira. Names **Lt. Aihara** (off Haruki's camera). Old Ch 25: mansion H-pad; hums through clash; air-extracted with Kaito/Mira.
+- **ARCHIVE SEED (old Vol 3):** Enters Shizuhara **with** Kaito + Mira to extract **Serizawa Mei** (does not lead with *heir*). Extract fails mid-reach when children are wiped; escapes with Remnant thread.
+- **ARCHIVE SEED (old Vol 4):** Speaks split inheritance / civil claim; friction with Mira open; **Keeper Law** (old Ch 49) — walks a third path when Kaito chooses hollow road.
+- **Status (live):** Not yet on-page.
 - **Nature:** Unhurried, oblique, speaks in kept things (bells, knots, seasons). Not senile — *pre-modern*. Treats the Word as a responsibility, not a weapon, which will make her Kaito's most uncomfortable ally.
 - **Story role:** The real objective of the Takamatsu mission; the voice that aims Kaito at Aihara; Amatsu twist key (Vol 4 payoff).
 
 
 
-### Lieutenant Aihara (相原) — FDC, ~50s — DECEASED (Ch 24)
+### Lieutenant Aihara (相原) — FDC, ~50s — ARCHIVE SEED (planned death, old Ch 24 — not live)
 
-**Camera moment (Ch 23 seed — PAID):** Mild civilian at garden table feeding koi; captain standing; rank unclear a beat.
-**Death (Ch 24 — PAID):** Interrogated by Kaito's Word (school night / dragnet / boys as assets); killed on deliberate *"Kill yourself."* Haruki in the room — failed mid-lunge intervention. Kaito's first premeditated kill.
+**Camera moment (ARCHIVE SEED — old Ch 23):** Mild civilian at garden table feeding koi; captain standing; rank unclear a beat.
+**Planned death (ARCHIVE SEED — old Ch 24):** Interrogated by Kaito's Word (school night / dragnet / boys as assets); killed on deliberate *"Kill yourself."* Haruki in the room — failed mid-lunge intervention. Kaito's first premeditated kill. Alive and unmet in live prose.
 
 - **Who:** Senior FDC intelligence; quiet hand running Takamatsu from the mansion.
 - **Continuity guard:** Different man from Kanzaki — blade vs filing hand. Do not resurrect.
@@ -217,33 +225,34 @@ Optional caregiver/grief presence if needed; do not invent on-page action that c
 
 The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu Remnant**. The one voice Mira obeys without argument.
 
-- **Vol 2–3:** Pressure and debt only (summons / off-page).
-- **Vol 4 (Ch 39 — on-page):** **Kurohata** table. Wants Mei (civil claim) + both Voices as harvest/legitimacy. Blesses Kaito’s reshape weather. Opposed by Suzumori’s keeper law. Backs Mira at Keeper Law break (Ch 49).
-- **Camera moment (Ch 39):** Hands that still smell faintly of smoke from an old FDC fire; sets a cup down like a verdict without raising her voice.
+- **ARCHIVE SEED (old Vol 2–3):** Pressure and debt only (summons / off-page).
+- **ARCHIVE SEED (old Vol 4, Ch 39):** **Kurohata** table. Wants Mei (civil claim) + both Voices as harvest/legitimacy. Blesses Kaito’s reshape weather. Opposed by Suzumori’s keeper law. Backs Mira at Keeper Law break (old Ch 49).
+- **Camera moment (ARCHIVE SEED — old Ch 39):** Hands that still smell faintly of smoke from an old FDC fire; sets a cup down like a verdict without raising her voice.
+- **Status (live):** Not yet on-page.
 
 
 
 ### Mama Machi (町) — Bar Minato, ~50s — the bar mama
 
-**Camera moment (Ch 14 — PAID, Kaito+Mira first):** Sets down two bowls of oden before they have sat: *"Trouble eats standing up. That's how I know."* Sends them to North Market. **Ch 15 (Haruki+Riku):** "Second pair"; same tip; warns soft boy not to shout names across a yard.
+**Camera moment (previous pass — re-earn in Vol 2 Ch 17/20):** Sets down two bowls of oden before they have sat: *"Trouble eats standing up. That's how I know."* Second-pair beat ("Trouble comes in shifts"; how Kaito held his bowl) also previous pass — rebuild against the new Takamatsu block.
 
 - **Looks:** Fifty-something, broad-shouldered, bun speared with a chopstick; forearms of a woman who has carried kegs and coffins. Flat harbor-master gaze that prices you in one pass.
 - **Who:** Ran a bar by an eastern harbor until the war ate the harbor; rebuilt inland and kept the name — **Minato (みなと)**, a harbor two ridges from any salt. Feeds working boys on principle and Thursdays on ceremony.
 - **Nature:** Gruff mercy, zero sentimentality on the surface, total sentimentality in the broth. Nobody in her bar is *from* anywhere; everyone is from *before*. The Sugi-shaped space in the Takamatsu arc — but sharper-tongued and running a business in an occupied-ish town.
-- **Story role:** Home base; the human web that entangles the boys with the mansion's crackdown — collision by community, not clues. Serves Haruki's ideals their first real audience (Ch 16) and hosted the **Kuroda bar meet** (Ch 19). **Ch 21:** paid the hardened squeeze; watched Gorō taken; told the boys they don't get to keep him.
+- **Story role:** Home base; the human web that entangles the boys with the mansion's crackdown — collision by community, not clues. ARCHIVE SEEDS (old Ch 16 / 19 / 21, not live): first audience for Haruki's ideals; hosted the Kuroda bar meet; paid the hardened squeeze and watched Gorō taken.
 
 
 
 ### Gorō (五郎) — retired tram driver, ~70s — Minato regular
 
-**Camera moment (Ch 14 — PAID, with Kaito+Mira):** Nurses one beer; taxes under-thirties *one new fact*; names himself; sundown / gate-has-ears warning.
+**Camera moment (previous pass — re-earn in Vol 2 Ch 17/20):** Nurses one beer he isn't finishing; "That's a report, not an answer"; names himself; gives the one-new-fact toll — North Market's casual line dies at sundown.
 
 - **Looks:** Ginger-root hands, laugh like a gearbox, cardigan in all seasons.
 - **Who:** Drove Takamatsu's trams for forty years; knows every ward, cut-through, and depot from a driver's window — the boys' living map of the city (replaces rumor-mongering as their info texture).
-- **Nature:** Opinionated, generous, immovable on the stool. His line got shortened twice for "materiel priority"; his grudge against the mansion is personal before it's political. Started to name "the hill" over the squeeze (Ch 17); Machi shut it down with one word.
-- **On-page (Ch 17):** Flood-of-'02 story ("nobody drowns during a bad chorus"); vouched for the boys twice — association work, then **night deliveries** with his old tram-freight crew ("show up twice, owe once; third time I'll want a favor").
-- **Status (end Ch 24):** **Fled** into the pines during mansion chaos — not escorted, not signed out; "tell Machi I walked." Free and gone (Minato learns later). Alive. Do not kill off-page.
-- **Story role:** City texture and warmth; the boys' job connector; Ch 21 hit → Ch 23 human reason to enter the mansion.
+- **Nature:** Opinionated, generous, immovable on the stool. His line got shortened twice for "materiel priority"; his grudge against the mansion is personal before it's political.
+- **ARCHIVE SEEDS (old Ch 17 / 21 / 24, not live):** Flood-of-'02 story; vouching the boys into night deliveries; naming "the hill"; taken in the squeeze; fled into the pines ("tell Machi I walked").
+- **Status (clean pass):** Not yet on-page; enters the Vol 2 Takamatsu block. Do not kill off-page.
+- **Story role:** City texture and warmth; the boys' job connector; the FDC squeeze that costs Haruki someone he needs (outline Ch 22) may land on him or Machi — decide at the desk, on-page.
 
 
 
@@ -258,7 +267,8 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 - **Looks:** Seventeen; dark hair cut blunt at the jaw; easy smile; moves like a neighbor, not a hunter. Burn-scar on the inside of her left forearm exists (FDC history) but stays covered early — do not stage it as a reveal prop every scene.
 - **Entry (rewrite lock):** She does **not** know who Kaito is or what he can do when she meets them. She is simply friendly — the kind of person a grieving household accepts without argument. No one has reason to distrust her at first.
 - **Arc (flow, not reveal dump):** The more she *witnesses* what Kaito's mouth does, the more she understands what he is — and the more she begins to convince him to come with her. Belief grows from observation; recruitment is gradual, never a cold open pitch.
-- **Continuity (rewrite):** Witness pier (Ch 5) + alley (Ch 6). **Ch 7:** After lethal command, offers inland path (*Kuroishi*) as survival door — not craft lessons, not Remnant pitch on-page yet. Leaves with Kaito. **Ch 9:** Kuroishi with him (Orii room); counts what she's seen; warns talk-leaves-a-mark; names further hiding people ahead without doctrine.
+- **Continuity (live, Part One):** Ch 4 — rice/towels entry; watches the rite from the sea wall. Ch 5 — laundry-line probe ("He doesn't talk about home"), declines the follow-up; Haiga cousin mention. Ch 6 — pier: heatstroke-cousin act pulls Kaito out; "you looked like a boy about to spend something he couldn't get back." Ch 7 — nosebleed count; the Kōgetsu checkpoint-sergeant story via her aunt's delivery drivers; warns about the Listener; "do it where the town can't see you. Or better, stop." Ch 8 — arrives at the gunshot with kit packed; invents the net-hook story in one breath; sits up with Sato. Ch 9 — at the lane mouth with a sack packed *days* in advance and a ridge-track route; "the man in the gray suit is why I know"; leaves with Kaito.
+- **Watch her ledger (writer-only):** Every scene above is staged as neighborliness and reads as neighborliness from Haruki's and Kaito's cameras. The pre-packed sack, the route knowledge, and the delivery-driver intelligence are the only on-page cracks so far. Keep it that way until Vol 2 spends her contacts.
 - **Nature (later):** True believer once she has seen enough. Calm certainty. Not a mustache-twirler; a wounded idealist who decides mercy is a luxury the powerless can't afford. Tied to anti-FDC / Remnant currents under the coast — shown late, not announced on meet.
 - **Voice on the page:** Early = warm, practical, lightly teasing. Later = quieter, level, devastating certainty. Do not start her on the cold register.
 - **Story role:** Becomes the permission structure beside Kaito's grief — only after the power has shown itself to her eyes.
@@ -267,12 +277,12 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 
 ### Lieutenant Kanzaki Reiji (神崎 玲司) — FDC, ~30s
 
-**Camera moment (Ch 2):** Standing perfectly still on a chaotic platform while everyone else runs, checking his watch as if the calamity is behind schedule.
+**Camera moment (live, Ch 3):** Arriving on the chaotic school roof and standing perfectly still while everyone else runs, checking his silver watch as if the calamity is behind schedule.
 
 - **Looks:** Early thirties, tall and lean — the kind of tall that makes a room rearrange around him without him raising his voice. Short black hair parted with military exactness; clean-shaven; pale, precise face; cool grey-brown eyes that don't blink enough. Immaculate FDC gray-green uniform, not a crease wrong. Silver watch on his left wrist (the signature). Speaks softly; stands still while others run. Looks like a man who has never once been late, and never once been kind without paperwork.
 - **Nature:** Cold, precise, terrifyingly literal. Not sadistic — *procedural*. Follows orders to the letter, which is exactly the horror the King's Word will later exploit through him.
 - **Background (seeded):** FDC's quiet "asset acquisition" cell — hunting word-touched teenagers without saying so. Obedience is his religion; literal compliance is the horror the Word exploits through men like him and his soldiers.
-- **Continuity:** Roof arrival Ch 2–3 (confirms the Word on radio; "cover your ears" around Kaito). **Not** the soldier who held Ryn / who died by "Kill yourself" — those were other FDC bodies. Off-page after the roof; heat rises after Nagihama sweep (Ch 9–10).
+- **Continuity (live):** Roof arrival Ch 3 (confirms "the Word is awake" on radio; the cover-your-ears order; "alive is the whole point"). **Not** the soldier who held Ryn / who died by "Kill yourself" — those were other FDC bodies. Off-page after the roof. The Listener (Ch 7–10) may be his cell's civilian arm — keep the wiring off-page until it pays.
 
 
 
@@ -281,6 +291,7 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 Night-shift nurse. Exhausted, loving, funny in three-word bursts before she falls asleep in her scrubs. Represents the ordinary life the war is coming for. Her absence-through-overwork is why Haruki is so self-sufficient.
 
 - **Looks:** Same warm brown eyes as Haruki, shorter; dark hair always escaping a hurried clip; permanently half in scrubs. Soft face worn thin by night shifts; smell of hospital soap and instant coffee.
+- **Continuity (live):** Ch 2 — bakes Ryn's cake post-shift ("I'll beat. You measure."); fridge note "*H has it handled*"; draws the deranged cat on the box; leaves for her Saturday shift before the fall. Ch 5 — alive west of the line: hospitals were relocated first; new address unknown; presumed checking intake lists for Haruki's name. **Not dead. Do not kill or reunite off-page.**
 
 
 
@@ -289,7 +300,7 @@ Night-shift nurse. Exhausted, loving, funny in three-word bursts before she fall
 Runs a tiny pickle stall; sharp-tongued, feeds all three kids on principle. The story's warmth incarnate. A war widow herself — she has seen this before and says almost nothing about it, which says everything.
 
 - **Looks:** Small, wiry, sun-darkened hands stained with vinegar; white hair pinned in a ruthless bun; eyes like Ryn's without the youth. Always in a faded indigo apron. Smells like pickled plum and charcoal.
-- **Continuity:** Stall in Kōgetsu; roots/home in **Nagihama**. Feeds the boys after the fall. Low-tide rite. Distrust of **Mira**, if it comes, is earned later — not day-one (Mira starts as ordinary helpful neighbor). Keep the **arcade cat** when the boys leave.
+- **Continuity (live):** Stall in the alley mouth off Sakaba-dōri, Kōgetsu (Ch 2 — pickle-end cones, "you're the house now"); got out on the last Saturday train with the other stall-keepers; house in **Nagihama** (roots there; Jun is her late husband's side, implicit only). Frame listener for Ch 1/4. Counts heads at the door. Low-tide rite (Ch 4). Hauls Kaito out of the shrine yard (Ch 9). Lets Haruki go with the choice talk + collar fix (Ch 10); keeps the **arcade cat** as her declared hook. Distrust of **Mira**, if it comes, is earned later — not day-one.
 
 
 
@@ -303,26 +314,28 @@ Homeroom teacher, perpetually one deadline from collapse. Comic relief with a sp
 
 ### Kuroda Ren (黒田 連) — the Silent Stranger (working name; tweakable)
 
-**On-page so far:** Rail Loop (Ch 2, phone screen); Nagihama edges (rewrite); **Bar Minato, Takamatsu (Ch 18, undisguised — "the plum man" / coat)**. Boys do not know his name.
+**On-page so far (live):** Rail Loop evening car, birthday night (Ch 3 — watching-still, turns a phone screen toward the trio for one second; Haruki forgets him "completely" and says he'd give a great deal not to have). Planned next: the Vol 2 bar meeting (outline Ch 23). Boys do not know his name.
 
 **Camera moment (field):** A face that refuses to stick; watching-still on a train while the whole car softens around Kaito — he alone does not soften. Turns a phone screen toward them. Gone.
 
-**Camera moment (bar — PAID, Ch 18):** Silent corner-sitter who only *listens* — then exits when Haruki exits. Outside: Blackbeard jolly — head-back laughter, *follow your ideals / never let anyone bring you down*, renters-laugh-loudest. Grinning question — **"Reshaped by WHOM, boy?"** — then more laughter at *I don't know yet*. Parting: *"The world only ever listens to one voice at a time…"* Collected at the lane mouth by **two wordless coated figures**. Haruki cannot hold his face afterward.
+**Camera moment (bar — ARCHIVE SEED, old Ch 18, not live):** Silent corner-sitter who only *listens* — then exits when Haruki exits. Outside: Blackbeard jolly — head-back laughter, *follow your ideals / never let anyone bring you down*, renters-laugh-loudest. Grinning question — **"Reshaped by WHOM, boy?"** — then more laughter at *I don't know yet*. Parting: *"The world only ever listens to one voice at a time…"* Collected at the lane mouth by **two wordless coated figures**. Haruki cannot hold his face afterward.
 
 - **Looks (disguise / field):** Mid-thirties to forties-seeming; plain dark coat too warm for the season; short unremarkable hair; face designed to be forgotten. Stillness is the only signature.
 - **Looks (true / later):** Same man without the coat — ordinary, warm enough to trust, easy to sit beside. The horror is the continuity, not a monster-face.
 - **Nature:** Patient. Evaluative. Speaks to ideals with real weight; never mocks them. His own ideal is himself on the throne.
 - **Agenda (BIBLE):** Not a loyal Chinmoku mute. May wear Silence/hunt colors as camouflage. True goal: be the **one left standing who rules**. The King's Word is the right to rule the world (normally only one Voice); Kuroda wants that seat. A-plot is Kaito's descent; Kuroda is the secret end-boss both boys may eventually face (or one falls — open).
 - **Power — LOCKED: Rewrite (改言 / Kaigon):** Innate, permanent, always his — kept even in a victory state. He can edit a spoken sentence before it finishes landing (word, target, verb). Needs to hear the utterance; revises, does not originate the King's Word. Smaller edits cost less. See `magic-kings-word.md`.
-- **Retinue (seeded Ch 18/19):** two silent coated attendants who wait where the light gives up and fold in behind him without greeting. Chinmoku-coded; never speak on-page early.
-- **Meeting pattern:** Train (Ch 2) → Nagihama edges → **Bar Minato / lane (Ch 18 — PAID)** → Shizuhara lobby edge (Ch 31) → **Susuichi true re-meet (Vol 4)** → Rewrite clear demo (Ch 47) → endgame.
-- **Vol 4:** Jolly among smugglers; *whom?* again; first clear mid-air Rewrite at Susuichi clash — never names the power on-page.
+- **Retinue (ARCHIVE SEED — old Ch 18/19):** two silent coated attendants who wait where the light gives up and fold in behind him without greeting. Chinmoku-coded; never speak on-page early.
+- **Meeting pattern (live + ARCHIVE plan):** Train (Ch 2, live) → then archive plan: Nagihama edges → Bar Minato / lane → Shizuhara lobby edge → Susuichi true re-meet → Rewrite clear demo → endgame. Re-stage against the new outline.
+- **ARCHIVE SEED (old Vol 4):** Jolly among smugglers; *whom?* again; first clear mid-air Rewrite at Susuichi clash — never names the power on-page.
 
 
 
 ### Amano Tōru (天野 徹) — Ryn's brother (offscreen)
 
 FDC soldier deployed east. Present only through thinning letters and Ryn's rationed worry. Humanizes the war and sets up a future reunion/loss.
+
+- **Continuity (live, Ch 2):** The six-line letter on FDC stationery — "*tell Grandma the east isn't what the news says — tell her it's better, she'll believe that from me*" — read by Haruki and Kaito at Ryn's request. His "west is—" advice surfaces in Ryn's mouth on the roof (Ch 3). Fate after the line broke: **open**. He is Sugi's last blood; do not resolve him casually.
 
 - **Looks (for later):** Tall like Kanzaki's world, not Kaito's; same amber-brown eyes as Ryn; short military cut; a smile that used to look like hers before the letters stopped sounding like him.
 
@@ -356,7 +369,7 @@ FDC soldier deployed east. Present only through thinning letters and Ryn's ratio
 
 
 
-## Relationship map (end Ch 50 — Volume 4 close)
+## Relationship map (ARCHIVE SEED — old end-Ch-50 target state, not live)
 
 ```
 Haruki + Riku + Mei — FREE (road past Susuichi); partner named; Iori scar; Haruki owns Voice
@@ -370,11 +383,20 @@ Children — WIPED; feeds still lie | Habu haunt unused this volume
 
 
 
+## Camera voice keys (one-paragraph test)
+
+A reader should know whose chapter it is within one paragraph, without the name. Keys per main camera:
+
+- **Haruki:** careful, precise, self-deprecating. Files people and problems into columns; apologizes in math ("if I had said it two weeks ago, when it was cheap"). Notices textures, light, and what a kindness costs. Feelings arrive as ledger entries he tries to balance.
+- **Kaito:** heat and body. Sentences are physical objects — they stack behind his teeth, they cost his throat, they land or they break. Shorter lines under stress. Guilt sits in his hands and his nose before it reaches language. He notices exits, threats, and who's about to get hurt.
+
+If a paragraph could be swapped between cameras unchanged, rewrite it.
+
 ## Anti-repetition / continuity guardrails
 
 - Haruki = *reactive/soft*; Kaito = *proactive/hard*; Ryn = *decisive/human*. Never let two of them make the same joke or solve a problem the same way.
 - Each has a distinct verbal tic: Haruki apologizes reflexively; Kaito issues challenges; Ryn gives orders framed as favors.
-- Give every named character exactly one concrete, physical signature (Sugi's pickles, Kanzaki's watch, Sato's sling, Jun's Haiga-dust shoes) so intros never feel like a list.
-- **Looks on the page:** Establish face/body/hair within a character's first real scene — through Haruki's noticing, not a checklist. Reinforce sparingly. **Mira's burn: once at intro (Ch 4), not every entrance.**
+- Give every named character exactly one concrete, physical signature (Sugi's vinegar hands, Kanzaki's watch, Sato's tin box, Jun's fanned pickled radish, Mika's escaping hair clip) so intros never feel like a list.
+- **Looks on the page:** Establish face/body/hair within a character's first real scene — through the POV's noticing, not a checklist. Reinforce sparingly. **Mira's burn scar: NOT yet shown in any live chapter.** When it pays, show it once and never stage it as a recurring reveal prop.
 - **New named characters:** Add a short entry here the same session they appear (Jun, Hanae, Sato pattern). Lock surnames before using them in prose.
 

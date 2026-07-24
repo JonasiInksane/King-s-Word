@@ -58,7 +58,7 @@ He clicks his tongue once. "Don't. You looked like you were about to apologize t
 
 "Ishibashi." I push off the post. "I'm looking for someone."
 
-"Everyone on this road is looking for someone." He starts walking without checking if I follow. After three steps he glances back. "Well? Soft boy. Legs still attached?"
+"Everyone on this road is looking for someone." He starts walking without checking if I follow. After three steps he glances back. "Well? Legs still attached?"
 
 ---
 
@@ -70,13 +70,13 @@ We walk the ditch side where the trucks throw less dust. He doesn't offer his na
 
 "No."
 
-"That explains the falling-over walk." He digs in his jacket and tosses me a hard rice cracker that tastes like salt and old paper. "Don't thank me for food either. Makes me itchy."
+"That explains the falling-over walk." He digs in his jacket and tosses me a hard rice cracker that tastes like salt and old paper. "Eat walking. And don't start the thanking again."
 
 "Then what am I allowed to say."
 
 "Directions. Facts. Who you're chasing and why I should care if the next shed has more pipes."
 
-"My friend left Kuroishi yesterday. Tall. Scraped voice. Girl with him, dark hair, sack. They were headed to Ishibashi."
+"My friend left Kuroishi yesterday, heading for Ishibashi. There's a girl traveling with him. He's — you'd know him if you heard him. His voice has been wrecked for weeks and he still talks like the room belongs to him."
 
 Riku chews his own cracker and watches a truck pass. "Loud one and a girl. Yeah. Market talk under the bridge yesterday evening said two like that came through asking about rooms that don't ask questions. FDC paper's thin in Ishibashi, but it still bites if you stand in the wrong doorway."
 
@@ -94,7 +94,7 @@ He shrugs. "Bored. And I hate shed tolls. Also you walk like someone is going to
 
 "I don't have much money."
 
-"Then you have less after the stall. That's how money works." He kicks a stone off the ditch into the road. "I'm going as far as Ishibashi anyway. Work. Not you. You can walk behind me if you don't slow me down, and if another pipe shows up, you let me talk first. Soft mouths get people killed when they try to be polite mid-swing."
+"Then you have less after the stall. That's how money works." He kicks a stone off the ditch into the road. "I'm going as far as Ishibashi anyway. Work — not you. You can walk behind me if you don't slow me down, and if another pipe shows up, you let me talk first. Polite gets people killed mid-swing."
 
 "Okay," I say.
 

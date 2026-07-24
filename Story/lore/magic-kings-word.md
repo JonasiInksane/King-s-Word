@@ -67,6 +67,6 @@ The reader should *feel* something is off; no one in-story should name it yet.
 - A single shared physical tell links the two boys (see the plot twist in `plot-outline.md`) — planted, never explained.
 
 ## The mystery threads (for later payoff)
-- **Why two commoner boys?** Not coincidence. (See `plot-outline.md` — blood/experiment twist.)
+- **Why two commoner boys?** Not coincidence. (See `plot-outline.md` — the **split inheritance**: the last heir's Word divided and hidden in two infants during the purge.)
 - **What are the *kai*?** Their possible immunity to the Word, and their origin, tie back to what the old king's atrocity actually unleashed.
 - **The birthday.** The calamity striking on Ryn's 16th is drawn to a Word *awakening* — proximity, or a threshold the boys are about to cross.

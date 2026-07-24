@@ -32,8 +32,8 @@ Short chapters that only hand off the next location are **not done**. Lean dialo
 | Rule | Number |
 |---|---|
 | **Floor (hard)** | **1,000 words** minimum for a finished live chapter |
-| **Comfort band** | **1,100–1,600** is fine for many road/ask chapters |
-| **Longer is allowed** | **1,600–2,400+** when the beat earns it (two cameras, a chase + aftermath, a full night). Floor is not a target and not a ceiling. |
+| **Target band (clean-rewrite pass)** | **1,400–2,200** — slow, detailed, epic pacing; the floor is not the target |
+| **Longer is allowed** | **2,200–2,800+** when the beat earns it (two cameras, a chase + aftermath, a full night) |
 
 **How to check (required before finishing):**
 
@@ -62,6 +62,16 @@ Canon POV lives in `README.md`. Reminder for drafting:
 - **Default is one camera per chapter — not a lock.** Multi-POV in one chapter is allowed whenever a cut earns it (`---` + clear new camera). Never muddy.
 - **After the hard split (Ch 7), do not strand the story on Haruki's chase only.** Live draft drifted Haruki-only from **Ch 10 →** while Kaito+Mira ran ahead off-camera. That was habit, not policy. Prefer cutting to Kaito/Mira (or a guest) when their road, cost, or choice matters — especially near-misses, Word strain, Mira steering, night pay, pine road.
 - Knowledge hygiene still binds across cuts: each camera only knows what it knows.
+
+## HARD — POV switching
+
+A camera switch is a promise to the reader that the new camera has something the old one can't give. Enforce all five:
+
+1. **A switch must answer a question the leaving camera can't.** Never switch just to keep a rotation fair. If a second camera enters a location the reader already toured, the second visit must **change the meaning** of the scene (new threat, new information, a different read on the same people) — not swap the asker's name and replay the beats. Same question answered twice = cut one.
+2. **Every camera chapter runs on that character's own want** — not just a delayed copy of the other lead's plot. Haruki chapters need Haruki's problem (his too-useful voice, what he'll actually say when he catches Kaito, the unpaid absolution), not only trail progress. Kaito chapters need Kaito's (control the mouth, hide, decide about Mira).
+3. **One-paragraph voice test.** A reader should know whose chapter it is within one paragraph, without the name. Voice keys live in `lore/characters.md` (Haruki: careful, columns, apologizes in math; Kaito: heat, throat, sentences as physical objects). If a paragraph could swap cameras unchanged, rewrite it.
+4. **Close every POV block on a hook** — a reveal, a threat, or a new question that pulls the reader across the switch. Never a walking button ("Come on. Day's not done."). Never the same close two blocks running.
+5. **Block rhythm (post-collision):** after the Takamatsu near-miss arc resolves, switch in **blocks of 2–4 chapters per lead** instead of per-chapter ping-pong. Intra-chapter cuts are reserved for convergence beats (near-miss, collision, same room). Canon home for this rhythm: `README.md` POV section.
 
 ---
 
@@ -93,6 +103,27 @@ Never put these in dialogue, narration, or thoughts unless the camera already le
 - Haruki may hunt a "scraped voice." He does not casually name metal taste unless he has earned that sensory fact on-page.
 
 ---
+
+## HARD — Found family is shown, never named
+
+Relationships deepen through action only: work shared, food paid back, risks taken for each other, a name finally used, a door left unlocked. The narration and dialogue never announce the bond.
+
+- Banned: "like a brother," "he's family now," "my people," "we were a family," any narrator line that files a relationship into a labeled box.
+- Allowed: the reader concluding it themselves because Riku waited, because Machi kept rice back, because Haruki spent money he didn't have.
+- Same discipline for distance: Kaito's narrowing to Mira is shown by what he stops doing (learning names, sitting down, asking questions) — never stated as "I only had her."
+
+## HARD — Fights are complete scenes
+
+When combat happens, it gets full scene treatment — never a two-sentence summary.
+
+- Geography first: where everyone stands, what's between them, where the exits are.
+- Bodies: individual moves, hits that cost, mistakes, weight and breath. No choreography blur ("they fought; he won").
+- Consequence: injuries persist into later chapters; fear and adrenaline get aftermath beats.
+- The Word in a fight follows the magic rules exactly (heard + understood, literal stage, Backwash cost on-page).
+
+## Dialogue length
+
+Lean means no wasted clauses — it does not mean short scenes. If an exchange reads like a plot handoff, lengthen it with real friction (a wrong follow-up, a refusal, a bargain, an interruption) until it reads like two people actually talking.
 
 ## Progression (no stall, no spam)
 

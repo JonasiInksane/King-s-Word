@@ -48,7 +48,7 @@ Small fishing port up a branch line. Refuge after Kōgetsu falls.
 Half-day inland from the cove. Salt dies; dust and checkpoint paper take over. Long main street, shuttered tool shops, bus depot, blackened shrine gate. FDC clipboard presence without full occupation.
 
 - **Texture:** Hot asphalt, copy-paper, croquette oil, diesel.
-- **Story role:** First inland hitching post of the chase. Word rumor residue. Seed meet with **Nakahara Riku**. Road continues toward **Ishibashi**.
+- **Story role:** First inland hitching post of the chase. Word rumor residue (well bag-check). Road continues toward **Ishibashi** — **Nakahara Riku** meets Haruki on that road (Ch 11 shakedown), not in Kuroishi itself.
 
 ## Ishibashi (石橋) — "Stone Bridge"
 
