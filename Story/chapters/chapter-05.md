@@ -1,6 +1,6 @@
 # Chapter 5 — Two Weeks
 
-Sugi wakes us by setting bowls down hard. Rice, pickles, tea still too hot to drink. The kitchen smells like charcoal and plum, and outside the lane is already moving — boats, shutters, somebody arguing with a bicycle.
+Sugi wakes us by setting bowls down hard — rice and pickles, tea still too hot to drink. The kitchen smells like charcoal and plum, and outside the lane is already moving — boats, shutters, somebody arguing with a bicycle.
 
 "Sit," she says, tying her apron. "And listen, because I am only saying this once. You are not guests. Guests smile, eat, leave. Boys who sleep under my roof make themselves useful, or they start packing."
 

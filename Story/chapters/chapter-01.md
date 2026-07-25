@@ -126,7 +126,7 @@ She shoved him a full step, and he let her, and I looked at the pavement because
 
 "Saturday," Ryn said, taking the sidewalk like she owned it, which on that street she basically did. "Since you're both incapable of surprising me, you might as well tell me the plan and let me fix it."
 
-"Sakaba-dōri," Kaito said. "Arcade, ramen—"
+"Sakaba-dōri," Kaito said. "The arcade, then ramen—"
 
 "We do that every week. It's my *sixteenth*, not a Tuesday."
 
@@ -136,7 +136,7 @@ She shoved him a full step, and he let her, and I looked at the pavement because
 
 They both looked at me. Ryn's eyebrows went up. Kaito's grin paused halfway, which for him was a full stop.
 
-"The school roof," I said. "Midnight. The chain's been broken all year — nobody checks, nobody cares. You can see the whole city from up there. The Loop, the river, all of Sakaba-dōri at once. We bring the cake up and you turn sixteen where you can see every light in the city at the same time."
+"The school roof," I said. "At midnight. The chain's been broken all year — nobody checks, nobody cares. You can see the whole city from up there. The Loop, the river, all of Sakaba-dōri at once. We bring the cake up and you turn sixteen where you can see every light in the city at the same time."
 
 "That's trespassing," Ryn said.
 

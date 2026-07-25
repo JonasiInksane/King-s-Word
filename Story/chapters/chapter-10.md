@@ -38,7 +38,7 @@ So I stop pretending, somewhere before morning, and pack.
 
 ---
 
-Hanae comes to Sugi's at first light. I am not describing how she looks. She sits where Sugi puts her, holds the tea she doesn't drink, and asks me one question.
+Hanae comes to Sugi's at first light, wearing yesterday's clothes, moving like the air has gotten heavier overnight. She sits where Sugi puts her, holds the tea she doesn't drink, and asks me one question.
 
 Not about Jun. She's past questions about Jun; there's nothing about Jun anyone can tell her that the stones of the yard didn't.
 
@@ -66,7 +66,7 @@ She works one-handed while she talks, and what she builds me is a boy who exists
 
 "Come with me as far as the junction," I say. "You can't stamp with that arm. Orihara can hide the box better than—"
 
-"I can't." Flat. Then — because she is Sato, and she does not give easy answers when true ones are owed — she gives me the true one. "Not with this arm. Not after the alley. My nerve's cracked, boy. I heard that shot in the yard yesterday and I was on the floor of this shop before I knew I'd moved. A woman who drops when the world bangs is a danger to whoever she's walking beside." She squares the chit's edges, slides it across. "So I stay, and I stamp, and that's my share. Yours is the road. They went inland — the ridge track drops to the old herring road, and the herring road has one town with water on it, and that's Kuroishi. A day, day and a half, if that girl walks him hard, and she will. She strikes me as someone who's planned a route before."
+"I can't." Flat. Then — because she is Sato, and she does not give easy answers when true ones are owed — she gives me the true one. "Not with this arm. Not after that yard. My nerve's cracked, boy. I heard that shot in the yard yesterday and I was on the floor of this shop before I knew I'd moved. A woman who drops when the world bangs is a danger to whoever she's walking beside." She squares the chit's edges, slides it across. "So I stay, and I stamp, and that's my share. Yours is the road. They went inland — the ridge track drops to the old herring road, and the herring road has one town with water on it, and that's Kuroishi. A day, day and a half, if that girl walks him hard, and she will. She strikes me as someone who's planned a route before."
 
 She says it perfectly level. I meet her eyes, and neither of us puts anything more on the table than that — just two people looking at the same handful of maybes and declining to say any of them out loud.
 

@@ -34,7 +34,7 @@ I eat all of it. Both mornings. For a couple of weeks a woman I barely know deci
 
 ---
 
-The verification line runs on the harbor office pier all week, and by Friday it's Jun's turn, and I'm the one who walks down with him. That's the whole accident of it. Hanae asked him to go early, get it stamped, come back for the afternoon tide. I'm carrying the frame hooks back to the shed anyway. Company for the boring part, he says. Some things you agree to with half a mouth of rice and pay for the rest of your life.
+The verification line runs on the harbor office pier all week, and by Friday it's Jun's turn, and I'm the one who walks down with him. That's the whole accident of it. Hanae asked him to go early, get it stamped, come back for the afternoon tide. I'm carrying the frame hooks back to the shed anyway. Company for the boring part, he says. I say yes with half a mouth of rice, the way you say yes to anything Jun asks.
 
 The line is fishermen and mainland families, mixed. Two soldiers work the tables, a third stands by the truck with his rifle slung, and the lieutenant from the clipboard sits behind the folding table like a man doing a boring job at the boring pace it deserves.
 
@@ -60,23 +60,23 @@ I don't go on.
 
 I don't shout. I don't swing. I've been two weeks quiet, two weeks lifting instead of talking, two weeks whispering into the dark after Haru's breathing goes even — practicing alone, the thing I can't tell anyone I'm practicing. Standing on that pier watching them park Jun under *pending*, I think: I can fix this. I have a thing in my mouth that opens hands. Just once. Aimed right. Small.
 
-I got in the line's blind spot, close to the second soldier, and I pitched it low, under the harbor noise, the way I'd practiced against the dark:
+I get in the line's blind spot, close to the second soldier, and I pitch it low, under the harbor noise, the way I've practiced against the dark:
 
 "You don't need him. He's nothing. Let it go."
 
-Copper came up the back of my throat — that taste like sucking on a coin, the one that comes when the words go out with weight on them. The soldier's head turned a degree. His eyes did something loose for half a second, like a radio hunting between stations.
+Copper comes up the back of my throat — the taste that comes when the words go out with weight on them. The soldier's head turns a degree. His eyes do something loose for half a second, like a radio hunting between stations.
 
-Then they came back. He frowned at me, at nothing, at the middle distance. Rolled his shoulder. The words had gone in and found — what? *You don't need him.* Who's *him*? Need for what? *He's nothing* — nothing to whom? *Let it go* — let *what* go? I'd handed a machine a sentence full of pronouns and it had turned it over, found no purchase, and dropped it.
+Then they come back. He frowns at me, at nothing, at the middle distance. Rolls his shoulder. The words have gone in and found — what? *You don't need him.* Who's *him*? Need for what? *He's nothing* — nothing to whom? *Let it go* — let *what* go? I've handed a machine a sentence full of pronouns, and it has turned it over, found no purchase, and dropped it.
 
-The weight of it still came out of me, though. The coin taste, the prickle high in my nose, my own pulse suddenly loud. Cost, no goods. And the soldier was still frowning at the space where the odd feeling had come from, and the space contained one refugee kid standing too close to a verification line with his lips just barely moving.
+The weight still comes out of me, though. The copper, the prickle high in my nose, my own pulse hammering. I've paid and gotten nothing for it. And the soldier is still frowning at the space where the odd feeling came from, and the space contains one refugee kid standing too close to a verification line with his lips just barely moving.
 
-"You." His sling came off the shoulder. Not aimed. Adjusted. "Step back from the line."
+"You." His sling comes off the shoulder. Not aimed. Adjusted. "Step back from the line."
 
 "I'm waiting for my friend—"
 
 "Step *back*."
 
-I step wrong. I couldn't tell you if it's defiance or clumsiness — body full of spent adrenaline with nowhere to put it — but I step sideways instead of back, toward Jun's rail, and the soldier reads it the way soldiers read things, and his palm hits my chest. Pier planks are uneven. The bollard behind me isn't going anywhere. I go down onto it, temple first, and the harbor rings like a struck pot and goes white at the edges.
+I step wrong. I can't tell if it's defiance or clumsiness — body full of spent adrenaline with nowhere to put it — but I step sideways instead of back, toward Jun's rail, and the soldier reads it the way soldiers read things, and his palm hits my chest. Pier planks are uneven. The bollard behind me isn't going anywhere. I go down onto it, temple first, and the harbor rings like a struck pot and goes white at the edges.
 
 Sound comes back with Jun's voice in it — Jun off the rail, one arm out, not swinging, planting himself between me and the soldier like a piling.
 
@@ -110,7 +110,7 @@ She walks me two lanes on rubber legs before she lets the act drop. Sits me on t
 
 Sugi's table that night is its own kind of checkpoint.
 
-The pier version of the story beats me home, the way everything in this town beats everyone home. By the time I slide the door she has the disinfectant out on the table, not asking, just out, and Haru is sitting over his ledgers doing an extremely bad impression of a boy interested in ledgers.
+The pier version of the story beats me home, the way everything in this town beats everyone home. By the time I slide the door she has the disinfectant out on the table, not asking, just out, and Haru is sitting over Orihara's account books doing an extremely bad impression of a boy interested in account books.
 
 "Heatstroke," Sugi says. "That's the story the lane's telling. Saeki girl walked you off the pier scolding you about hats."
 
@@ -136,7 +136,7 @@ Jun clears by Tuesday, like she said. He comes up the lane himself to tell me, w
 
 So no harm, right? Nobody hurt but my own head.
 
-Here is the part I will never tell Haru. On the pier, in the half second when that soldier's eyes went loose and hunting — before the sentence failed, before the shove, before any of it — something in my chest lifted. Like a hand finding a grip. It didn't work, and I still walked away knowing *why* it didn't work: too many pronouns. No name. No clear thing to do. The machine needs it clean.
+I don't tell Haru this part. On the pier, in the half second when that soldier's eyes went loose and hunting — before the sentence failed, before the shove, before any of it — something in my chest lifted. Like a hand finding a grip. It didn't work, and I still walked away knowing *why* it didn't work: too many pronouns. No name. No clear thing to do. The machine needs it clean.
 
 I'm not practicing against the dark anymore to make it stop.
 

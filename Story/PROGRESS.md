@@ -12,16 +12,16 @@
 
 | Ch | Title | POV | Words | Beat landed |
 |----|-------|-----|-------|-------------|
-| 1 | The Plan | H | 2,184 | Opens on the Tuesday train pass (no frame); both boys' deniable tells (K: third-year match argument, full scene; H: Loop argument); roof plan |
-| 2 | Day Before | H | 1,744 | Mika + cake; Sugi's Kōgetsu stall; Tōru's six-line letter; Kaito's floor nights / bruises unspoken; "hostage list" close |
-| 3 | Let Her Go | H | 3,189 | Birthday; Kuroda on the Loop (unnamed); white sky; Kanzaki; "LET HER GO"; Ryn dies; "the Word is awake"; escape; withheld absolution |
-| 4 | Low Tide | H | 2,375 | Exodus; birthmark match withheld; Sugi counts heads at the door; the telling over tea ("You told it straight"); tense pivots to present; Mira enters ordinary; rite — both open their hands; empty shelf |
-| 5 | Two Weeks | H | — | Sugi assigns work; co-op quiet; Orihara Fumie hires via the lying ration column; Mira laundry; registry truck; sea wall — absolution declined |
-| 6 | The Pier | K | 2,322 | Jun + splices; Hanae's lunch list ("you're on the list now"); the line's shoulder-lesson; muddy command fails (pronouns); bollard temple; Mira's extraction; Sugi's table (she's worked it out) + Haru's one question |
-| 7 | Practice | K | 2,388 | Gull test → *understand* rule; night-wall sentence drills (Harada's lantern); the refused test on Jun ("Jun doesn't get to be a rep" / the line's other edge is a permission); buyer test succeeds; Backwash on-page; Mira's Listener warning; *Bring her onto the roof and set her down* |
-| 8 | Drop It | H | 2,259 | Sato's shed/second paper; drying-yard rifles; "Drop it"/"Step back" witnessed; wild shot wounds Sato; Kaito's confession + help promise |
-| 9 | Kill Yourself | K | 2,172 | Three-truck sweep; Jun shot checking on Hanae; the lethal command; the Listener covers his ears; gate split ("It was. You saw it."); ridge track with Mira |
-| 10 | Toward Kuroishi | H | 2,228 | Listener interview (voice makes people stop looking); grief night; Hanae's question + the structural lie; Sato's paper; Sugi's hook; road out — finish the sentence |
+| 1 | The Plan | H | 2,128 | Opens on the Tuesday train pass (no frame); both boys' deniable tells (K: third-year match argument, full scene; H: Loop argument); roof plan |
+| 2 | Day Before | H | 1,674 | Mika + cake; Sugi's Kōgetsu stall; Tōru's six-line letter; Kaito's floor nights / bruises unspoken; "hostage list" close |
+| 3 | Let Her Go | H | 4,054 | Birthday; Kuroda on the Loop (unnamed); white sky; Kanzaki; "LET HER GO"; Ryn dies; "the Word is awake"; escape; withheld absolution |
+| 4 | Low Tide | H | 2,369 | Exodus; birthmark match withheld; Sugi counts heads at the door; the telling over tea ("You told it straight"); tense pivots to present; Mira enters ordinary; rite — both open their hands; empty shelf; unpaid-sentence close |
+| 5 | Two Weeks | H | 2,655 | Sugi assigns work; co-op quiet; Orihara Fumie hires via the lying ration column; Mira laundry; registry truck; sea wall — absolution declined |
+| 6 | The Pier | K | 2,270 | Jun + splices; Hanae's lunch list ("you're on the list now"); the line's shoulder-lesson; muddy command fails (pronouns); bollard temple; Mira's extraction; Sugi's table (she's worked it out) + Haru's one question |
+| 7 | Practice | K | 2,308 | Gull test → *understand* rule; night-wall sentence drills (Harada's lantern); the refused test on Jun ("Jun doesn't get to be a rep" / the line's other edge is a permission); buyer test succeeds; Backwash on-page; Mira's Listener warning; *Bring her onto the roof and set her down* |
+| 8 | Drop It | H | 2,055 | Sato's shed/second paper; drying-yard rifles; "Drop it"/"Step back" witnessed; wild shot wounds Sato; Kaito's confession + help promise |
+| 9 | Kill Yourself | K | 1,943 | Three-truck sweep; Jun shot checking on Hanae; the lethal command; the Listener covers his ears; gate split ("It was. You saw it."); ridge close on Mira's "grieve on your feet" |
+| 10 | Toward Kuroishi | H | 2,014 | Listener interview (voice makes people stop looking); grief night; Hanae's question + the structural lie; Sato's paper; Sugi's hook; road out — finish the sentence |
 
 ## POV structure (Part One)
 
@@ -32,9 +32,9 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 ## Cast state (end Ch 10)
 
 - **Haruki:** On the herring road to Kuroishi, one day behind. Carries Sato's paper (transit chit, work ref, family-errand cover) + Sugi's onigiri. Voice-tell thread now includes the gray suit and Hanae. Despair seed landed ("nobody is coming to fix any of this"). Goal: finish the sentence.
-- **Kaito:** Fled with Mira over the ridge track. Lethal command paid — "perfectly clean, first throw," and part of him lifted. Refused the broken absolution. Knows the understand-rule and the clean-sentence craft in his own words.
+- **Kaito:** Fled with Mira over the ridge track; Ch 9 closes on her "You can grieve on your feet." Lethal command paid. Refused the broken absolution at the gate. Knows the understand-rule and the clean-sentence craft in his own words; the glad-it-worked interior is on record only at the Ch 7 buyer test.
 - **Mira:** With Kaito. Sack packed days early; knows routes and the Listener; contacts unspent. Still reads as neighbor from both cameras.
-- **Ryn:** Dead (Ch 3). Cat on Sugi's shelf — her declared hook.
+- **Ryn:** Dead (Ch 3). The cat went to the sea at the rite; Sugi's declared hook is the **empty shelf** where it sat.
 - **Sugi:** Nagihama. Heard the whole story over tea (Ch 4); empty shelf after the rite; let Haruki go with the choice talk.
 - **Jun:** DEAD (Ch 9, shrine yard). **Hanae:** believes Haruki's merciful lie. Haiga cousin alive off-page.
 - **Sato:** Alive, arm wounded, nerve cracked; stays and stamps.
@@ -52,7 +52,7 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 5. Kuroda's phone screen on the Loop (Ch 3) — unexplained; bar meeting planned (Vol 2 Ch 23).
 6. Mira's cracks — pre-packed sack, ridge route, driver intelligence; contacts surface in Vol 2.
 7. Sugi's hook — empty shelf; "one of you has to come back and look at it eventually."
-8. Kaito's self-obeying whisper (Ch 7) — Backwash door left open, unexplained.
+8. Kaito's untested self-cost (Ch 7) — he refuses to Word himself and fears what the weight takes when it leaves; Backwash door left open, unexplained.
 9. Haruki's despair thread — feeds toward Kuroda's "Reshaped by whom?"
 10. Mika + Tōru — family fates deliberately open.
 

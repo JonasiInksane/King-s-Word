@@ -37,11 +37,11 @@ Short chapters that only hand off the next location are **not done**. Lean dialo
 
 **How to check (required before finishing):**
 
-```powershell
-(Get-Content "chapters/chapter-NN.md" | Measure-Object -Word).Words
+```bash
+wc -w chapters/chapter-NN.md
 ```
 
-Or equivalent word count. If under **1,000**, do not stop — add scene, not garnish:
+If under **1,000**, do not stop — add scene, not garnish:
 
 - Another real exchange (wrong follow-up, refusal, bargain)
 - Body of the walk / ask / wait (cost on the body, gray-green, who answers)
@@ -60,7 +60,7 @@ Canon POV lives in `README.md`. Reminder for drafting:
 
 - **Mains:** Haruki **and** Kaito. Guests when they show what the boys cannot.
 - **Default is one camera per chapter — not a lock.** Multi-POV in one chapter is allowed whenever a cut earns it (`---` + clear new camera). Never muddy.
-- **After the hard split (Ch 7), do not strand the story on Haruki's chase only.** Live draft drifted Haruki-only from **Ch 10 →** while Kaito+Mira ran ahead off-camera. That was habit, not policy. Prefer cutting to Kaito/Mira (or a guest) when their road, cost, or choice matters — especially near-misses, Word strain, Mira steering, night pay, pine road.
+- **After the hard split (Ch 9 gate), do not strand the story on Haruki's chase only.** An earlier draft drifted Haruki-only after the split while Kaito+Mira ran ahead off-camera. That was habit, not policy. Prefer cutting to Kaito/Mira (or a guest) when their road, cost, or choice matters — especially near-misses, Word strain, Mira steering, night pay, pine road.
 - Knowledge hygiene still binds across cuts: each camera only knows what it knows.
 
 ## HARD — POV switching
@@ -130,8 +130,8 @@ Lean means no wasted clauses — it does not mean short scenes. If an exchange r
 - Each scene advances a want, a cost, or a relationship.
 - Don't re-teach the roof, Word tell, birthmark, or vow every chapter.
 - **No ledger/record/filed language, ever** — see HARD "Narrator is a person, not a record." Cap litany language. Don't end consecutive chapters on sleep / "tomorrow."
-- **No absolution litany spam** at chapter ends. Paid once at hard split (Ch 7).
-- **Mira is not dish duty.** Do not make her wash cups/bowls/sinks every lodging or bar as her personality beat. Orii's cup-wash (Ch 9) already paid once; later rooms/bars get work, pay, steering — not another sink scene.
+- **No absolution litany spam** at chapter ends. The withheld absolution pays at the Ch 9 gate split ("It was. You saw it.") — do not re-litigate it every chapter.
+- **Mira is not dish duty.** Do not make her wash cups/bowls/sinks every lodging or bar as her personality beat. If a cup-wash beat lands (Vol 2, Orii's room), it pays once; later rooms/bars get work, pay, steering — not another sink scene.
 - **No "written down" spam.** Ban as default caution line: *get written down* / *write your name down* / *writes names* / *worth the ink* / *boys who argue with clipboards get written down*. FDC danger is real — show it (cones, questions, crossing early, a list on a pier) instead of repeating the catchphrase every chapter. If it must appear, once per arc max, not twice in one chapter.
 - **No trail-formula spam.** Do not reuse the same hunt/description stamp every ask: *Tall boy, scraped voice. Girl with him, dark hair, sack* / *Girl did the asking. Boy looked like his throat hurt.* Vary what Haruki asks and what people actually noticed (direction, payment, tea, boots, timing). One concrete detail beats the full wanted-poster every time. NPCs talking *to* Kaito+Mira never narrate that poster about them.
 
@@ -173,7 +173,7 @@ Do **not** use *soft* as road/code bulletin language — instruction stacks, rul
 
 **Engage.** Not plot-handoff teleports. People interrupt, ask wrong follow-ups, refuse partway, bargain, answer sideways. Important info lands through a real exchange.
 
-**Lean (match live Ch 13–14+):**
+**Lean (match the live canon pass, Ch 5–10):**
 
 | Do | Don't |
 |---|---|

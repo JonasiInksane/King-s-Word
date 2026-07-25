@@ -1,7 +1,7 @@
 # Plot Outline
 
 > Spoiler-heavy working doc. Skeleton only; chapters are the flesh.
-> **Clean slate:** Post-prologue volumes are TBD. All old drafts and outlines are deleted — build forward from here only.
+> **Clean slate:** All old drafts and outlines are deleted — the live chapters (Part One, Ch 1–10) plus this doc are the plan. Never reconstruct an old pass.
 > **POV rules:** see `README.md` only — not restated here.
 
 ## Thematic spine
@@ -22,9 +22,9 @@ Paid beats (chapter count flexible on rewrite):
 
 ---
 
-## AFTER PROLOGUE — TBD
+## AFTER PROLOGUE
 
-Rebuild volume by volume here, from scratch.
+Part One (Ch 1–10) is live; Volume 2 onward is planned below and stays flexible until written.
 
 **Known long engines (keep):**
 
@@ -43,15 +43,15 @@ POV: Haruki anchor in Kōgetsu; hinge-switches in Nagihama (both boys share the 
 
 | Ch | Title (working) | POV | Beat |
 |----|-------|-----|------|
-| 1 | The Plan | H | Kitchen frame → ordinary Tuesday; trio; deniable Word tells; rooftop birthday plan |
+| 1 | The Plan | H | Train-pass open (no frame) → ordinary Tuesday; trio; deniable Word tells; rooftop birthday plan |
 | 2 | Day Before | H | NEW — birthday eve; Ryn's world (Sugi's stall, the brother whose letters thinned); war creeping; trio at full warmth |
 | 3 | Let Her Go | H | Birthday night; calamity; roof; Kanzaki; Ryn dies; escape west |
 | 4 | Low Tide | H | Exodus; birthmark match (unspoken); Nagihama; Mira enters ordinary; the rite — both let go |
 | 5 | Two Weeks | H | Salt life; the gray-green truck; sea wall — absolution withheld |
-| 6 | The Pier | K | Jun detained; muddy commands fail; temple wound; Mira witnesses and pulls him out |
+| 6 | The Pier | K | Jun pulled to secondary review; muddy commands fail; temple wound; Mira witnesses and pulls him out |
 | 7 | Practice | K | NEW — trying to master the mouth; Backwash on-page; the part of him that likes it working; Mira watching closer |
-| 8 | Drop It | H | Shed alley; clean commands work; Sato wounded by the wild shot; confession; the help promise |
-| 9 | Kill Yourself | K | Tuesday-truck sweep; Jun shot; the lethal command; hard split — full escalation, complete scene |
+| 8 | Drop It | H | Drying yard; clean commands work; Sato wounded by the wild shot; confession; the help promise |
+| 9 | Kill Yourself | K | Tuesday-truck sweep; Jun shot; the lethal command; Listener covers his ears; gate "It was" — hard split; ridge close on Mira's line |
 | 10 | Toward Kuroishi | H | Grief night; Hanae's question; Sato's stamps; Sugi's choice talk; the road out (Part One close) |
 
 ### Volume 2 — "The Question" (~16 ch, ends on the clash)

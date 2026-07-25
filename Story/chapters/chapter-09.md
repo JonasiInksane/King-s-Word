@@ -42,7 +42,7 @@ The shove comes from the flank soldier, two hands, center of Jun's chest, and Ju
 
 "Hands behind your head. Last warning."
 
-The yard has gone tide-flat silent. I'm thirty meters back in the crowd with copper already climbing my throat, sentences stacking behind my teeth — clean ones, I've *practiced*, name the act, close the exits — and Haru's eyes find me from across the yard with a message in them as loud as a shout: *don't. Not here. A hundred witnesses, the gray suit, don't.* And I was obeying him. I stood there with my mouth shut, being counseled by my best friend's terrified face across a shrine yard, both of us betting that the ordinary machinery of a bad day would grind through boring and land everyone home by supper.
+The yard has gone tide-flat silent. I'm thirty meters back in the crowd with copper already climbing my throat, sentences stacking behind my teeth — clean ones, I've *practiced*, name the act, close the exits — and Haru's eyes find me from across the yard with a message in them as clear as a shout: *don't — not with a hundred people watching and the gray suit at the table.* And I am obeying him. I stand there with my mouth shut, being counseled by my best friend's terrified face across a shrine yard, both of us betting that the ordinary machinery of a bad day will grind through boring and land everyone home by supper.
 
 "Last chance," the soldier says. "Hands."
 
@@ -68,7 +68,7 @@ The words go out of me like a spine being pulled. My knees go. Blood comes down 
 
 — and the soldier turns the rifle under his own jaw and fires.
 
-I'm not describing it past the sentence. The rest lives behind my eyes, and it can stay there.
+I look away before it finishes. It doesn't help.
 
 The yard breaks. Screaming, the crowd going in every direction at once, soldiers shouting cover and contact and pointing rifles at a threat that isn't there, that is *me*, that they can't see — because who fired? The man fired at himself. Nobody knows what they've witnessed. Except: at the table, the man in the gray suit stands very still in the middle of the smashing wave, hands over his ears — over his *ears*, in a yard where the shooting is finished — and his eyes go through the crowd like a hook through water, hunting, and what they are hunting is a mouth.
 

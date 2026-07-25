@@ -6,7 +6,7 @@ Kōgetsu came apart behind us politely, which was somehow the worst part. No pan
 
 The trains were finished by midnight — not stopped, *taken*, requisitioned for the wards closer to the line — so we walked. Out through the west gates of the city with the crowd, then along the coast road when the crowd thinned into the ones who had nowhere particular to be walking to. Ash came down for a while around two in the morning, fine and gray, like the beginning of snow that had changed its mind. It got into our socks. It got into everything.
 
-The arcade cat was jammed under my arm. I don't remember deciding to carry it. It had been under Ryn's arm on the roof, and then it was beside the crate, and then it was mine, and at some point in the night I understood that I would fight anyone who tried to take it, which frightened me more than the sky had.
+The arcade cat was jammed under my arm. I never decided to carry it. It had been under Ryn's arm on the roof, and then it was beside the crate, and then it was mine, and at some point in the night I understood that I would fight anyone who tried to take it, which frightened me more than the sky had.
 
 Kaito walked half a step ahead the whole way and barely spoke. When he did, his voice came out scraped, like the shout on the roof had taken the finish off it. Around four we stopped at a vending machine that still had power — one machine, humming alone on the edge of a dark town, stupidly cheerful. He bent to drink from the bottle I bought, and his hair fell away from the side of his face, and I saw it.
 
@@ -14,7 +14,7 @@ Behind his left ear. A pale mark, the size and shape of a pressed thumbnail, wit
 
 The same mark. The same ear. On two boys born in different cities to different families.
 
-I reached up and touched mine, the way you check your pocket after seeing someone robbed. Then I put my hand down, and I didn't say anything. I want to be honest about why. It wasn't tact. It was that a soldier had already looked at us that night and said *both of them* — and some sums, once you write them down, you can't unwrite. I wasn't ready to know what I was already starting to know.
+I reached up and touched mine, the way you check your pocket after seeing someone robbed. Then I put my hand down, and I didn't say anything. It wasn't tact. It was that a soldier had already looked at us that night and said *both of them*, and I wasn't ready to follow that thought to where it went.
 
 We walked on. Dawn came up gray at our backs. A two-car branch train was running from the junction town — some railway man had decided on his own authority that it would run, and stood on the platform waving people aboard like it was any Sunday — and it carried us over the coastal hills with a load of quiet strangers, down to where the land folded into a cove and the sea finally stopped looking like something on fire.
 
@@ -70,8 +70,6 @@ When the door shuts, Sugi watches it for a moment.
 
 "Good kid," she says. "The lane's full of them, if you look."
 
-Rice, towels, no questions. A helpful neighbor.
-
 ---
 
 They hold the send-off three days from now, at low tide, out on the flats past the sea wall.
@@ -82,7 +80,7 @@ Sugi sets the arcade cat on the cloth.
 
 It should be ridiculous — a plastic game prize with one milky eye standing in for a girl who vaulted counters and stole chashu and said *okay* when the sky went white. It is ridiculous. My throat closes anyway. The birthday sticker is still on its side. Nine hundred yen of Kaito's pride and my accidental win and her arm around it on a roof that doesn't exist anymore. Sugi doesn't explain. She has buried more people than we have met, and she doesn't waste words on the ones still standing.
 
-The widows begin a song I don't know. Low. Almost not a song — more like breath passed from chest to chest along the line of them. The eastern horizon still carries its wrong glow, faint from here, a bruise the sky won't admit to. Wind off the flats finds every gap in my borrowed jacket. Sugi's hand locks around my wrist, hard enough to hurt, and I understand she is holding me up. I cry without making any sound. Beside me Kaito does not cry. His face has gone blank in a way that frightens me more than tears would have — like someone turned the volume down on the whole boy and left the shell running.
+The widows begin a song I don't know. Low. Almost not a song — more like breath passed from chest to chest along the line of them. The eastern horizon still carries its wrong glow, faint from here, a bruise the sky won't admit to. Wind off the flats finds every gap in my borrowed jacket. Sugi's hand locks around my wrist, hard enough to hurt, and I understand she is holding me up. I cry without making any sound. Beside me Kaito does not cry. His face has gone blank in a way that frightens me more than tears would have.
 
 One of the widows steps forward and says the old words over the cloth. She means them the way this coast has always meant them. She does not know what those three words did to us five nights ago. She cannot know. The phrase is older than our ruin:
 
@@ -124,10 +122,4 @@ Inside, the shelf by the window is empty where the cat was. Kaito sits against t
 
 She nods once and goes to put rice on. The city, the roof, the road, the water — that part is all one piece, and it's finished.
 
-What started after that didn't announce itself. It came into the house the way the salt does — through the seams, a little every day, while everyone was busy surviving. It came disguised as a quiet boy getting quieter, and a kind neighbor being kind, and a word I still hadn't said out loud sitting in my chest like a swallowed stone.
-
-I'd promised myself I'd say it when he could hear it. *It wasn't your fault.*
-
-On the night I first slept under Sugi's roof, I still believed both halves of that sentence — that I'd say it, and that it was true.
-
-Neither half survived the summer.
+I'd promised myself I'd say it when he could hear it. *It wasn't your fault.* On my first night under Sugi's roof I lie awake with the sentence ready, listening to his breathing stay too even across the room, and I don't say it then either.

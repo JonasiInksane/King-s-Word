@@ -41,14 +41,14 @@ Small fishing port up a branch line. Refuge after Kōgetsu falls.
 - **Geography:** Two-car local over coastal hills; main street to the water; shuttered pachinko, shrine, dried-fish shop; boats under blue tarps; sea wall. Amano ancestral house at the end of a tile-roof row, plum tree.
 - **Amano connection:** Ryn's family origin. Grandmother **Amano Sugi** evacuated here when the city fell. Childhood summers for the trio.
 - **Texture:** Salt, diesel, fish, tide-line rot, woodsmoke. Town swollen with refugees who check the eastern horizon and feel guilty for being safe. *Nagi* = dead-calm sea before weather turns.
-- **Story role:** False safe-harbor. Grief lands; birthmark noticed; Mira surfaces; corruption roots. Later unsafe; west ridge road out.
+- **Story role:** False safe-harbor. Grief lands; birthmark noticed; Mira surfaces; corruption roots. Falls apart at the Ch 9 sweep; the way out is the herring-cart ridge track, dropping to the old herring road that runs inland to Kuroishi (pre-tunnel cart route — Mira knows it).
 
 ## Kuroishi (黒石) — "Black Stone" (inland)
 
 Half-day inland from the cove. Salt dies; dust and checkpoint paper take over. Long main street, shuttered tool shops, bus depot, blackened shrine gate. FDC clipboard presence without full occupation.
 
 - **Texture:** Hot asphalt, copy-paper, croquette oil, diesel.
-- **Story role:** First inland hitching post of the chase. Word rumor residue (well bag-check). Road continues toward **Ishibashi** — **Nakahara Riku** meets Haruki on that road (Ch 11 shakedown), not in Kuroishi itself.
+- **Story role:** First inland hitching post of the chase. Word rumor residue (well bag-check). Road continues toward **Ishibashi** — **Nakahara Riku** meets Haruki on that road (outline Ch 14 shakedown), not in Kuroishi itself.
 
 ## Ishibashi (石橋) — "Stone Bridge"
 

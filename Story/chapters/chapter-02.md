@@ -2,7 +2,7 @@
 
 My mother came off a twelve-hour shift on Friday morning and baked a cake before she would let herself sleep.
 
-I'd told her I could do it alone. I had the recipe card, I had the eggs, I'd watched her do it every year since I was six. She stood in the doorway of our kitchen in yesterday's scrubs, dark hair escaping its hurried clip, the same warm brown eyes she'd handed down to me sitting in a face worn thin by night shifts, and looked at me the way she looks at patients who say they can walk unassisted.
+I'd told her I could do it alone. I had the recipe card, I had the eggs, I'd watched her do it every year since I was six. She stood in the doorway of our kitchen in yesterday's scrubs, dark hair escaping its hurried clip, the same warm brown eyes she'd handed down to me sitting in a face worn thin by night shifts, and looked at me the way she looked at patients who said they could walk unassisted.
 
 "You'll overbeat it," she said.
 
@@ -18,8 +18,6 @@ So we made Ryn's cake the way we always made it, in the too-small kitchen with t
 
 I stood there longer than I needed to, reading my own name in her handwriting.
 
-What we lost, when the sky came apart, was that kitchen. That's the whole answer. Everything that happened afterward happened to boys who used to live in mornings like that one and didn't know it was something you could lose.
-
 ---
 
 Sugi's pickle stall sat in the alley mouth off Sakaba-dōri, between a shuttered camera shop and a pachinko hall, and it had been there so long the pachinko hall's neon had a pickle-shaped burn shadow on its lowest sign. Two crates, one plank, jars in rows, and a folding stool nobody had ever seen her sit on.
@@ -30,7 +28,7 @@ Friday after school, Ryn was behind the plank with her grandmother, weighing out
 
 "When have you seen royalty," Kaito said.
 
-"I've seen boys who thought they were. Same manners. Worse shoes." She jerked her chin at his sneakers, which were held together on one side with a strip of black tape. The old women found this very funny. Kaito took it the way he took everything from Sugi, which was on the chin and grinning, because Sugi was the only person alive he never argued with. I had a theory about that. The theory was that nobody had ever fed him regularly without being required to, and he didn't have a shelf to put it on, so he just carried it.
+"I've seen boys who thought they were. Same manners. Worse shoes." She jerked her chin at his sneakers, which were held together on one side with a strip of black tape. The old women found this very funny. Kaito took it the way he took everything from Sugi, which was on the chin and grinning, because Sugi was the only person alive he never argued with. I had a theory about that. The theory was that nobody had ever fed him regularly without being required to, and he didn't know what to do with it except keep showing up.
 
 When the line thinned she filled two paper cones with broken pickle ends — the ones she couldn't sell — and put them in our hands like it was a transaction we'd paid for.
 
@@ -46,7 +44,7 @@ Ryn came around the plank untying her apron. Off shift, hair down, the silver st
 
 "I've been *helping* since two. There's a difference, legally." She stole a pickle end out of Kaito's cone as she passed, which he allowed with the long-suffering face of a man taxed by his government. "Ten minutes. I have to show Haruki a thing."
 
-Sugi waved us off and turned to the next customer, and the alley folded back around her stall the way it had for thirty years, and none of us thought for one second that we were seeing it close to the last time.
+Sugi waved us off and turned to the next customer, and the alley folded back around her stall the way it had for thirty years.
 
 ---
 
@@ -74,9 +72,9 @@ Kaito, to his infinite credit, did not miss the step. "Haru apologized to two gr
 
 "It's *useful*," I said.
 
-"It's creepy *and* useful. Like Grandma." She breathed out, and the flat skip was gone, packed away wherever she packed things. "Okay. Break's over. Both of you go home and sleep, because if either of you yawns on my birthday I'm pushing you off the roof."
+"It's creepy *and* useful. Like Grandma." She breathed out, and the flat skip was gone. "Okay. Break's over. Both of you go home and sleep, because if either of you yawns on my birthday I'm pushing you off the roof."
 
-She meant it as a joke. We said things like that all the time. Everyone does. Words don't weigh anything, until they do.
+She meant it as a joke. We said things like that all the time. Everyone does.
 
 ---
 
@@ -96,7 +94,7 @@ It's a list of hostages. I just didn't know it yet.
 
 ---
 
-Saturday morning he was gone before I woke — the futon folded wrong, the way he always folded it, and a note in his terrible handwriting on the back of a receipt: *getting the plan ready. dead K. 6. don't be a butler.*
+Saturday morning he was gone before I woke — the futon folded wrong, the way he always folded it, and a note in his terrible handwriting on the back of a receipt: *getting the plan ready. meet at the dead K at six. don't be a butler.*
 
 The cake sat in its box on the counter with sixteen candles taped to the lid in a sandwich bag. Mom had drawn a cat on the box before she left for her Saturday shift. It looked deranged. It was perfect.
 

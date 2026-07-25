@@ -8,7 +8,7 @@ Sato Kimi is fifty, built like a bollard, and spent thirty years as the harbor o
 
 "You can carry for me," Sato says, that first day, sizing me up like a crate. "You look honest and boring. That's the whole uniform."
 
-So Tuesdays and Fridays I carry — envelopes between the shed and the shop, the numbers in my head where no soldier can read them. I tell Sugi. She grunts like I've told her the tide is in. I do not tell Kaito, and I am honest about why: he has enough to carry, and I like having one thing that is mine — one small brave thing I am doing with my boring honest face while he lifts ice and gets quieter. Pride, dressed up as protection. It is not the last time I make that mistake.
+So Tuesdays and Fridays I carry — envelopes between the shed and the shop, the numbers in my head where no soldier can read them. I tell Sugi. She grunts like I've told her the tide is in. I do not tell Kaito, and I am honest about why: he has enough to carry, and I like having one thing that is mine — one small brave thing I am doing with my boring honest face while he lifts ice and gets quieter. Pride, dressed up as protection.
 
 ---
 
@@ -26,7 +26,7 @@ They stop at the open gate and look in — and see the shed, the open box, the s
 
 "Step away from the bench." His rifle comes off the shoulder. His partner's too, a half-beat late. "Hands where I can see them. Away from the box."
 
-Sato does something I will respect until I die and cursed at the time: she steps *in front of* the box. Thirty years a records clerk. She knows exactly what a tin of loose stamps means at a registry verification, and exactly which names are in the ledger, and she puts her body where the paper is like it is the most natural thing in the world.
+Sato does something I curse her for and admire her for in the same breath: she steps *in front of* the box. Thirty years a records clerk. She knows exactly what a tin of loose stamps means at a registry verification, and exactly which names are in the ledger, and she puts her body where the paper is like it is the most natural thing in the world.
 
 "This is net-mending storage," she says. "You're holding rifles in a widow's drying yard."
 
@@ -46,7 +46,7 @@ I see it happen four steps away in good afternoon light. The soldier's fingers o
 
 The partner decides first. The young one, the half-beat one — he sees his sergeant's weapon fall for no reason in the middle of a stand-off, and his body does the thing scared bodies do around a trigger.
 
-"Step back," Kaito says, at the first one, second command, coin-quick — and the disarmed soldier obeys, instantly, the machine walking him backward, and backward is where his partner is standing. Eighty kilos of commanded man steps into the younger one's rifle arm.
+"Step back," Kaito says, at the first one — second command, out before I finish blinking — and the disarmed soldier obeys, instantly, the machine walking him backward, and backward is where his partner is standing. Eighty kilos of commanded man steps into the younger one's rifle arm.
 
 The shot goes into the yard like the end of the world.
 
@@ -92,4 +92,4 @@ Kaito looks at the black water for a while.
 
 "She'd run it," I say, and it is the first time either of us has touched the subject of her lightly, and it holds — barely, but it holds.
 
-We walk back up the lane past Orihara's dark shop. In her front room a lamp is still burning where Mira is sitting up with Sato. Neither of us says much. She got there first with a kit. She invented a story that let us walk away. That is what neighbors here do.
+We walk back up the lane past Orihara's dark shop. In her front room a lamp is still burning where Mira is sitting up with Sato. Neither of us says much. She got there first with a kit, and she invented the story that let us walk away, and that is what neighbors here do.

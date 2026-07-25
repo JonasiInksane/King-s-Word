@@ -1,12 +1,12 @@
 # Chapter 7 — Practice
 
-The gulls were the first thing I tried, because gulls don't file reports.
+The gulls are the first thing I try, because gulls can't tell anyone.
 
-North end of the sea wall, an hour before the boats go out, nobody but me and forty birds fighting over the co-op's gut bucket. I picked the big one on the piling, got my voice down into the register where the weight lives — I can feel it now, the way you feel a lifted crate settle onto your spine — and told it: "Fly away."
+North end of the sea wall, an hour before the boats go out, nobody but me and forty birds fighting over the co-op's gut bucket. I pick the big one on the piling, get my voice down into the register where the weight lives — I can feel it now, the way you feel a lifted crate settle onto your spine — and tell it: "Fly away."
 
-Nothing. It looked at me with one flat yellow eye and went back to screaming at the other gulls.
+Nothing. It looks at me with one flat yellow eye and goes back to screaming at the other gulls.
 
-I tried again, closer, cleaner. *Fly away. Leave. Go.* Coin taste rising faint at the back of my throat each time, weight going out of me — and nothing coming back. Forty gulls, and not one of them cared what I said, and on the walk to work it came together like a splice under Jun's thumb: the soldier on the roof heard me *and knew what the words meant.* The one on the pier heard me and couldn't find the meaning — pronouns, no handles — and it slid off.
+I try again, closer, cleaner. *Fly away. Leave. Go.* Copper rising faint at the back of my throat each time, weight going out of me — and nothing coming back. Forty gulls, and not one of them cares what I say, and on the walk to work it comes together like a splice under Jun's thumb: the soldier on the roof heard me *and knew what the words meant.* The one on the pier heard me and couldn't find the meaning — pronouns, no handles — and it slid off.
 
 It's not a shout. It's not volume at all. It's a sentence going into a mind that *understands* it, and the understanding is the door the weight walks through.
 
@@ -20,7 +20,7 @@ The nights are different. Most nights I end up on the north wall again.
 
 Practice looks like this: a boy on cold stone past midnight, building sentences out loud with no weight on them, the way you dry-fire a rifle. I pick a job — *make a man put down a knife, make a man step out of a doorway, make a man forget he saw me* — and then I draft the sentence and attack my own draft. *Put the knife down* — which knife, what if he's holding two things, does *down* mean drop or set. *Step aside* — aside which way, what if aside is off a pier. Every sentence has exits, and everything I love about how I've talked my whole life — fast, hot, first thing out of my mouth — is exactly what leaves the exits open. So I sand them. Shorter. Fewer doors. Say it, hear the gap, close the gap, say it again. Some nights I get one sentence smooth in two hours, and my throat aches like I've been shouting even though nothing I said all night was louder than the tide.
 
-Twice I put a hair of weight on one, just to feel the coin taste rise, aimed at nothing and nobody — and even that spent something. I could feel it come out of me: a faint pressure behind the eyes, gone by morning, but real.
+Twice I put a hair of weight on one, just to feel the copper rise, aimed at nothing and nobody — and even that spends something. I can feel it come out of me: a faint pressure behind the eyes, gone by morning, but real.
 
 The second time, a lantern comes up the wall path. Old Harada, checking his skiff lines the way he does when his hips won't let him sleep. I sit still and let him find me being a boy staring at the sea, which is a thing this town's boys are allowed to be at night, and he grunts something about the swell and goes back down. I tell myself he saw nothing.
 
@@ -28,9 +28,9 @@ The town notices things too. That comes clear on Friday.
 
 ---
 
-I know what the gulls proved. Every real test has to be a person. I starting creating tests, and I know exactly what I am doing — the version where I stumble into it is a comfort I haven't earned.
+I know what the gulls proved. Every real test has to be a person. I start creating tests, and I know exactly what I am doing — the version where I stumble into it is a comfort I haven't earned.
 
-I build them the way Haru would. That is the part that makes my skin crawl — I can hear the shape of his thinking in mine, careful, step by step: *a real test needs a result you can't explain away.* Telling a co-op man "take the other end" proves nothing; he would have taken the other end anyway. For a week I do those anyway — little deniable nothings, "hand me the hook," "mind the ice" — and get nothing but maybes and the faint coin taste, spending pieces of myself to learn nothing.
+I build them the way Haru would. That is the part that makes my skin crawl — I can hear the shape of his thinking in mine, careful, step by step: *a real test needs a result you can't explain away.* Telling a co-op man "take the other end" proves nothing; he would have taken the other end anyway. For a week I do those anyway — little deniable nothings, "hand me the hook," "mind the ice" — and get nothing but maybes and the faint copper, spending pieces of myself to learn nothing.
 
 A real test needs someone doing a thing they would never otherwise do.
 
@@ -42,7 +42,7 @@ I stand there with it loaded and look at him — at the radish fans in the lunch
 
 Not because it is cruel. Because it isn't. Because it is *help*, and it is still me reaching into my friend's head and rearranging the furniture, and if I let myself start with the kind ones I already know exactly where that ends. Every rep is a person. Jun doesn't get to be a rep.
 
-I help him anyway, the ordinary way, by ignoring his waving-off and grabbing the tar panel, and he calls me a mule and splits the lunch, and I sit there eating Hanae's rice with my unspent sentence dissolving in my mouth like a coin I almost paid with.
+I help him anyway, the ordinary way, by ignoring his waving-off and grabbing the tar panel, and he calls me a mule and splits the lunch, and I sit there eating Hanae's rice with the unspent sentence still dissolving on my tongue.
 
 I have already drawn the line: nobody I love. Nobody kind. It doesn't occur to me yet that a line like that has another edge to it, and the other edge is a permission.
 
@@ -54,7 +54,7 @@ Thursday, he's mid-shortchange — foreman's neck going red, Jun's mouth doing i
 
 "Pay the posted price. Don't argue."
 
-The coin taste comes up hard this time, a proper mouthful of it, and my nose prickles high up behind the bridge, and the buyer stops mid-sentence.
+The copper comes up hard this time, and my nose prickles high up behind the bridge, and the buyer stops mid-sentence.
 
 Stops. Blinks at the chalkboard. And pays the posted price — counts it out flat, no argument, while the foreman stands there with his rebuttal dying in his mouth and the whole shed goes quiet at the miracle. The buyer looks confused doing it. That is the detail that sticks. He watches his own hands count the money like a man watching rain fall out of a clear sky, mutters something about fixing the numbers next week, and drives off.
 
