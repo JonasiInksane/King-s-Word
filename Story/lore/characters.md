@@ -91,6 +91,14 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 
 
 
+### Orihara Fumie (折原 文恵) — ~60s, dry-goods shop
+
+**Camera moment (live, Ch 5):** Does not look up for the bell; tests Haruki on a lying ration column before she lets him shelve miso.
+
+- **Looks:** Gray bob tucked behind both ears; gold-rimmed glasses on a cord; ink-and-plum fingers; the face of someone who has been arguing with the same pencil for forty years.
+- **Nature:** Short with strangers, exact with numbers, pays in vegetables and grudging trust. Shop is the lane's noon market for goods and afternoon market for information.
+- **Continuity (live):** Hires Haruki for sums (Ch 5); shelf hauls / shed yard (Ch 8); shrine-yard crowd (Ch 9); Sato uses her back room (Ch 10).
+
 ### Sato Kimi (佐藤 キミ) — ~50, retired harbor records clerk
 
 **Camera moment (live, Ch 8):** Stepping **in front of** the tin box when the rifles come up — thirty years of filing instinct putting her body where the paper is.
@@ -265,13 +273,13 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 **Camera moment (first):** Hands full of rice or bandages in a Nagihama doorway — warm, ordinary helpfulness. Nobody flinches. Nobody doubts her.
 
 - **Looks:** Seventeen; short for it, sturdy through the shoulders; dark hair cut blunt at the jaw (uneven on one side — home cut); warm outdoor skin; clear dark eyes. Moves like a neighbor, not a hunter. Burn-scar on the inside of her left forearm exists (FDC history) but stays covered early — do not stage it as a reveal prop every scene.
-- **Entry (rewrite lock):** She does **not** know who Kaito is or what he can do when she meets them. She is simply friendly — the kind of person a grieving household accepts without argument. No one has reason to distrust her at first.
-- **Arc (flow, not reveal dump):** The more she *witnesses* what Kaito's mouth does, the more she understands what he is — and the more she begins to convince him to come with her. Belief grows from observation; recruitment is gradual, never a cold open pitch.
-- **Continuity (live, Part One):** Ch 4 — rice/towels entry; watches the rite from the sea wall. Ch 5 — laundry-line probe ("He doesn't talk about home"), declines the follow-up; Haiga cousin mention. Ch 6 — pier: heatstroke-cousin act pulls Kaito out; "you looked like a boy about to spend something he couldn't get back." Ch 7 — nosebleed count; the Kōgetsu checkpoint-sergeant story via her aunt's delivery drivers; warns about the Listener; "do it where the town can't see you. Or better, stop." Ch 8 — arrives at the gunshot with kit packed; invents the net-hook story in one breath; sits up with Sato. Ch 9 — at the lane mouth with a sack packed *days* in advance and a ridge-track route; "the man in the gray suit is why I know"; leaves with Kaito.
-- **Watch her cracks (writer-only):** Every scene above is staged as neighborliness and reads as neighborliness from Haruki's and Kaito's cameras. The pre-packed sack, the route knowledge, and the delivery-driver intelligence are the only on-page cracks so far. Keep it that way until Vol 2 spends her contacts.
-- **Nature (later):** True believer once she has seen enough. Calm certainty. Not a mustache-twirler; a wounded idealist who decides mercy is a luxury the powerless can't afford. Tied to anti-FDC / Remnant currents under the coast — shown late, not announced on meet.
+- **Entry (rewrite lock):** She does **not** know who Kaito is or what he can do when she meets them. She is simply friendly — the kind of person a grieving household accepts without argument. Early chapters: write her as a real good neighbor. No evil wink, no "nothing else showed," no reader-tip that she is a plant.
+- **Arc (flow, not reveal dump):** Later she *witnesses* what Kaito's mouth can do and decides he needs help — protection, direction, someone who won't flinch. The more they see happen together, the more she steers him along the road he is already on, believing he is the one who will have to reshape the world. Not a villain reveal; a true believer formed by what she sees. Belief and steering grow from observation; never a cold open pitch on meet.
+- **Continuity (live, Part One):** Ch 4 — rice/towels entry; watches the rite from the sea wall. Ch 5 — laundry-line talk (Kaito quiet / Haiga cousin / shelves); genuine warmth. Ch 6 — pier: heatstroke-cousin act pulls Kaito out; "you looked like a boy about to spend something he couldn't get back." Ch 7 — nosebleed count; the Kōgetsu checkpoint-sergeant story via her aunt's delivery drivers; warns about the Listener; "do it where the town can't see you. Or better, stop." Ch 8 — arrives at the gunshot with kit packed; invents the net-hook story in one breath; sits up with Sato. Ch 9 — at the lane mouth with a sack packed *days* in advance and a ridge-track route; "the man in the gray suit is why I know"; leaves with Kaito.
+- **Watch her cracks (writer-only):** Part One cracks (pre-packed sack, route knowledge, delivery-driver intel) can read as a sharp coast girl who hears things — not as Remnant recruitment. Spend contacts / reshape ideology in Vol 2+, after she has seen the Word work.
+- **Nature (later):** True believer once she has seen enough. Calm certainty. Not cartoon-evil; a wounded idealist who decides mercy is a luxury the powerless can't afford, and that Kaito's mouth is the tool that can change the map. Tied to anti-FDC / Remnant currents under the coast — shown late, not announced on meet.
 - **Voice on the page:** Early = warm, practical, lightly teasing. Later = quieter, level, devastating certainty. Do not start her on the cold register.
-- **Story role:** Becomes the permission structure beside Kaito's grief — only after the power has shown itself to her eyes.
+- **Story role:** Becomes the permission structure beside Kaito's grief — only after the power has shown itself to her eyes — then steers that grief toward reshape.
 
 
 

@@ -1,48 +1,110 @@
 # Chapter 5 — Two Weeks
 
-Two weeks in Nagihama teaches you the town's whole clock.
+Sugi wakes us by setting bowls down hard. Rice, pickles, tea still too hot to drink. The kitchen smells like charcoal and plum, and outside the lane is already moving — boats, shutters, somebody arguing with a bicycle.
 
-The boats that still run go out before light and come back mid-morning, and everything else arranges itself around that. The co-op weighs and ices what comes in. The widows trade at Orihara's dry-goods shop before noon and information after. School happens in the shrine gym now, three grades to a room, because the real school building is full of mainland families sleeping in the classrooms. By four the lane smells like grilling fish oil, and by nine the town is dark and pretending the east doesn't glow.
+"Sit," she says, tying her apron. "And listen, because I am only saying this once. You are not guests. Guests smile, eat, leave. Boys who sleep under my roof make themselves useful, or they start packing."
 
-We have jobs, because Sugi does not run a hotel. Kaito hauls at the co-op — ice, crates, net frames, anything heavy enough to be honest work. The foreman took one look at his shoulders and didn't ask for papers. I do sums. It started with Sugi's ration book, then Orihara's shop ledger, then half the lane, because it turns out a town absorbing three hundred refugees generates arithmetic faster than it generates anyone willing to sit still and do it. I get paid in vegetables and in being known. Both spend.
+Kaito is already standing. He has been, every morning since we got here — up before the kettle, boots on, one look through the doorway before he commits to the room. Mira's aunt's boots, still a half-size too big. He takes the bowl standing up anyway and starts eating before she finishes.
 
-"You count fast," Orihara says, over the gold-rimmed glasses she wears on a cord, gray bob tucked behind both ears, watching me total her week in the margins of yesterday's newspaper. "Your mother teach you?"
+"I can haul," he says, around the rice. "Co-op's got ice coming in. I heard them yelling about it from the lane."
 
-"She's a nurse. She counts everything twice."
+"Of course you can haul. You have been looking for something heavy enough to hold still since you walked through my door." She tips her chin at me. "You. Not the co-op. Orihara's books have been lying to her for a week and she won't admit it. Go down there, tell her Sugi sent you, and find the mistake before she takes it out on the widows."
 
-"Is she—" and then she catches herself, because you don't finish that question this summer.
+"What if she doesn't want help?"
 
-"West of the line, last I knew. The hospitals got moved out first." I keep my eyes on the column so we can both pretend the number I'm carrying is the one on the page. Somewhere west, in a relocated hospital with a new address I don't have yet, my mother is checking a list of intake names for mine. The mail will find its way eventually. Everyone says that. *Eventually* is doing a lot of lifting this summer.
+"Then you sit on her stool until she does. She hates an empty stool more than she hates being wrong." Sugi pours the tea she already knows we won't drink hot. "Eat. Both of you. I did not cook for the air."
 
-Kaito works. That's the good part. He goes at six with the borrowed boots Mira's aunt sent over, comes back at two smelling like brine, eats whatever Sugi puts in front of him, and works on the seawall repair crew till dark because sitting still has stopped being something he can do. The town approves of him. Loud boys who carry ice make sense to a fishing town.
+"Yes, Sugi-san," I say.
 
-What I don't say out loud: he's gotten quiet in a way that isn't calm. He checks doorways before he goes through them. He sits where he can see the lane. And he has stopped finishing his sentences — not the way grief does it, trailing off. He stops them on purpose, half a beat before the end, like a man setting down a knife he's noticed in his own hand.
+Kaito just nods, finishes the bowl, and is gone before the tea has a chance.
 
-At night, from my futon, I can hear that he's awake. Neither of us mentions it. We have, without ever negotiating it, divided the nights: he doesn't mention what I said on the sea wall in Kōgetsu — the nothing, the six syllables I still owe — and I don't mention that he whispers to the dark sometimes, so quietly I can't make out words, like a man doing scales with the volume off.
+---
+
+The co-op yard smells like ice and diesel and wet wood. I cut through on the way to Orihara's and find him with a crate on his shoulder, frost on his cheek, already two hours into the morning. The other boys are talking over each other by the scale. He isn't. When he sees me he stops at the gate a second too long — eyes on the opening, then through it — before he comes out.
+
+"You're early for the shop," he says. "She throw you out?"
+
+"She sent me to catch Orihara's books cheating. You look frozen."
+
+"Ice detail. Foreman asked if I had a problem with cold and I said no, which was a lie, but he stopped asking about papers after that, so." He shifts the crate against his shoulder and tips his head at the talking boys. "They keep trying to put me on the lunch pool. I told them I eat at Sugi's. Tell her that, or she'll pack me two lunches and pretend she didn't."
+
+"She'll pack you two anyway."
+
+"Then eat the second one on the way home and don't get caught." The almost-grin shows for a second — real this time, thin, but his — and then he glances past me toward the lane again, automatic. "Orihara's going to test you. She tested the last three boys and sent them home. Don't apologize when she does it. She hates that more than the wrong numbers."
+
+"I wasn't going to apologize."
+
+"You were. You always are." He bumps the crate against the gatepost, already turning back toward the ice house. "Two o'clock. If you're not at the table she starts inventing reasons. Go on. And Haru—"
+
+"Yeah?"
+
+"Don't let her put you on the high shelves. Last boy broke his wrist, and I am not carrying you home."
+
+---
+
+Orihara's dry-goods shop is dim between pickle jars and ball string, and the woman behind the counter looks like she has been arguing with the same pencil for forty years. Gray bob tucked behind both ears. Gold-rimmed glasses on a cord. Fingers stained with ink and dried plum. She does not look up when the bell goes.
+
+"If you're here for rice, there isn't any until the afternoon boat," she says. "If you're here for charity, the shrine's that way, and if you're here to sell me something I already refused last week, the door works in both directions."
+
+"Sugi sent me. She says your ration numbers are wrong."
+
+That gets her eyes. She looks me over the way she looks over a jar with a cracked lid — keep it, or throw it out.
+
+"Sugi says a lot of things. Mostly about other people's business." She sets the pencil down. "You're one of the Kōgetsu boys. The quiet one."
+
+"Aoyama Haruki."
+
+"Orihara Fumie. And I don't need a boy. I need a week that adds up." She pulls a stool out with her foot anyway and drops a newspaper on the counter — yesterday's, the margins already dense with her handwriting. "Sit. Find where I went wrong. If you can't, you can tell Sugi I said she is welcome to come do it herself, and I will enjoy watching her try."
+
+I sit. The column is a mess of refugee households, half-names, doubled entries, a five that wants to be an eight. I find the doubled line in a minute and the wrong carry in two. When I turn the paper toward her she follows my finger, grunts once, and does not say thank you.
+
+"Lucky," she says.
+
+"I can do the rest of the week."
+
+"Can you." Not a question. She slides the pencil across. "Then do it. After that the miso wants shelving where my knees won't reach, and if you fall I am not writing to your mother." She watches me start on the next page. Softer, almost as an afterthought: "Your people. Still east?"
+
+"My mother's a nurse. West of the line, last I knew. The hospitals moved first."
+
+"Good. Nurses know how to wait in lines." A widow comes in for thread; Orihara is already reaching for the right spool without looking. "Boy. Tuesday's five is wrong again. If you make me find it a second time, the stool goes back under the counter."
+
+By the end of the first week I am there most afternoons. She pays me in vegetables. The lane pays me by knowing my name. After that, other households start bringing their ration books too — not because I am special, because I will sit still and add things up when nobody else wants to.
 
 ---
 
 Mira comes by most days, because Mira comes by everywhere most days.
 
-I've watched her long enough now to have the picture: seventeen, aunt with a bathhouse gate and a bad hip, an errand network that covers the whole lane. She's the one who knows which family has extra futons and which grandmother stopped cooking for herself. When the shrine gym flooded its corner last week she had four boys with buckets there before the priest finished noticing. Nobody organized her. She's just the kind of current a town runs on.
+Seventeen, aunt with the blue gate and a bad hip, an errand network that covers the whole lane. She's the one who knows which family has extra futons and which grandmother stopped cooking for herself. When the shrine gym flooded its corner last week she had four boys with buckets there before the priest finished noticing. Nobody organized her. She's just the kind of current a town runs on. With us she doesn't do the refugee voice — she argues with Kaito about whether the co-op scale is honest, she borrows a kilo weight to prove him right, she brings her aunt's spare radio for Sugi and stays through the marine forecast like it's entertainment.
 
-With us she's easy in a way I'm grateful for. She doesn't do the refugee voice. She argues with Kaito about whether the co-op scale is honest (it isn't, and he's right, and she makes him prove it with a borrowed kilo weight, and the foreman grumbles and fixes it, and for one afternoon Kaito looks like himself). She brings her aunt's spare radio for Sugi and stays to hear the marine forecast like it's entertainment.
+One afternoon she turns up while Sugi's washing is still dripping in the tubs and says, "Those will mildew if you leave them," as if the sheets had personally offended her. Ten minutes later we are in the yard with the line strung between the plum tree and the eaves, pegs in a tin bowl, wet cotton heavy in our hands. Kaito is down the lane carrying a new shelf for Orihara like it weighs nothing. From here he is just a dark shape and a piece of wood.
 
-Once — only once, and I noticed because noticing is my whole personality now — she asks me a question with edges on it.
+Mira has a peg in her mouth. She pins a corner, takes another peg, and talks around it like people who hang laundry for a living.
 
-"He doesn't talk about home," she says. We're pinning laundry; Kaito is down the lane carrying Orihara's new shelf like it weighs nothing. "You do. A little. He doesn't at all."
+"Can I ask you something without you getting weird about it?"
 
-"He was closer to it than me."
+"Probably not," I say.
 
-"To the city?"
+"I'll ask anyway. Your friend. He carries half the lane's furniture and never says where he's from. You at least mention your mother. He doesn't even do that."
 
-"To what happened in it."
+"He doesn't like talking about it."
 
-She takes a peg out of her mouth and pins a sheet, and she doesn't ask the follow-up that's sitting right there. I watch her decide not to ask it. I took it for kindness — and that day, it probably even was.
+"I noticed." She shakes out the next sheet; it snaps once in the wind off the cove. "Is he always like this, or is this the new version?"
 
-"My cousin came back from Haiga like that," is all she says. "Quiet with the pin still in it. It went better once somebody gave him something to do with his hands." She nods down the lane at Kaito and the shelf. "So. Shelves."
+"There's an old version. Louder. This is—" I look down the lane at him, shelf on his shoulder, already halfway to Orihara's. "This is after."
 
-"Shelves," I agree, and we finish the laundry, and I like her. I liked her from the first week — she earned it, and not one thing she did that summer looked like anything but a neighbor being good at it.
+She waits. Not pushing. Just holding the sheet up so I have to take the other end. I take it.
+
+"He was closer to what happened than I was," I say. "That's all I know how to tell you."
+
+"All right." She pins her side. I pin mine. For a few pegs neither of us says anything, and I can feel the question she is not asking sitting between us like a wet sock. Then she says, lighter: "My cousin came back from Haiga the same way. Barely talked. Ate standing up. Drove my aunt mad. Got better when somebody put work in his hands and stopped asking him to explain himself." She nods toward Kaito's shrinking back. "So. Furniture. I'm not complaining."
+
+"Neither is Orihara. That's her third shelf this month."
+
+"Fourth. She told me she was done buying them, which means she'll buy another by Friday." Mira grins, quick, then softens. "I'm not digging, Haruki. I just don't like watching people go quiet alone. Bad habit of the coast."
+
+"I know," I say. "Thanks for not pushing."
+
+We finish the line. I like her. She shows up, she hangs sheets, she leaves people their silence when they ask for it. That afternoon, that is enough.
 
 ---
 
@@ -54,52 +116,74 @@ The whole market goes half a step quieter. Not silent — silent would be a conf
 
 They post a notice on the harbor office board. NEW ARRIVALS SINCE 6/1 — REGISTRY VERIFICATION. All persons arrived since June first to present at the harbor office with identification over the coming weeks. Households sheltering arrivals to declare them. It's phrased like paperwork. Everything they do is phrased like paperwork.
 
-I read it twice and go home the long way, past the co-op, where Kaito is stacking crates with his back to the street. He's already seen the truck. I know because of the stacking — too fast, too clean, a man keeping his hands full so they'll stay hands.
+I read it twice and go home the long way, past the co-op. Kaito is stacking crates with his back to the street, too fast and too neat — the way he works when he has already seen something and decided not to look at it again.
 
-"Registry," I tell him.
+"You saw the truck," I say.
 
-"Heard." Crate. Crate. "Sugi has to declare us?"
+"Hard to miss a gray-green thing that big." He takes the next crate without turning. "What's on the board?"
 
-"Everyone sheltering arrivals declares."
+"Registry verification. Anyone who arrived after June first has to present. Households sheltering arrivals have to declare them."
 
-"Then we get her a different word than *shelter*." He stops stacking and looks at me, and for a second the old volume is back in his face, pressed flat under the new quiet like a spring under a board. "She counts as family, we're visiting — Haru, they wrote things down on that roof. That officer knew us. If our names go on a coast list—"
+That gets him to stop. He sets the crate down and wipes his hands on his thighs, once each.
+
+"Sheltering," he says. "That's a stupid word for what she's doing."
+
+"It's their word."
+
+"Then we give them a better one. We're family. Visiting. Her sister's side, whatever — Haru, listen to me." He faces me properly now, and for a second he sounds like the boy from before the roof, loud enough that a man two stacks over glances over. He drops his voice. "They wrote us down that night. The officer with the watch. He knew our faces. If our names go up on a coast list as *arrivals from Kōgetsu*, that is not a refugee list. That is them finishing a job."
 
 "I know."
 
-"—then it's not a list of refugees, it's a—" He stops the sentence half a beat early. Sets down the crate. Wipes his hands on his thighs, one deliberate motion each, the way I've watched him wipe them all summer, like something might be on them. "Ask Sugi," he says, quiet again. "She'll know how the town handles its paper."
-
-She does know. That night she says, "Nephews. Sister's grandsons, out of Kōgetsu. Half this lane is suddenly cousins with somebody — the clerk at the harbor office grew up two doors down, and he stamps what keeps his neighbors fed. It'll hold for a registry week. It won't hold if anyone gives them a reason to look twice." She looks at Kaito when she says the last part. Not unkind. Accurate.
-
-He takes his bowl to the sink and washes it, and says nothing, and washes it again.
+"Do you? Because if Sugi puts her name next to ours and they come asking, she goes on the list too." He picks the crate back up, like his hands need something legal to hold. "Talk to her tonight. She knows how this town does its paper. I don't. I just know I am not handing her to them because we were too polite to lie."
 
 ---
 
-The sea wall, after. That's the part of this fortnight I keep going back to, even though nothing happens in it. Especially because nothing happens in it.
+That night Sugi listens all the way through before she answers. She has already set three bowls. She always sets three bowls.
 
-He's sitting up on the wall at dusk with his heels against the stone, where the wall bends and you can see the whole cove pretend to be at peace. I climb up next to him. For a while it's just the water sound.
+"Nephews," she says, finally. "My sister's grandsons, out of Kōgetsu. You came west with the stall-keepers. You are staying until the mail finds your mother." She looks at me, then at Kaito. "Half this lane is suddenly cousins with somebody. The clerk at the harbor office grew up two doors down from me. He stamps what keeps his neighbors fed. It will hold for a registry week."
 
-"Foreman says I lift wrong," he says. "Says I lift angry and it'll take my back by thirty."
+"And after that?" Kaito says.
 
-"Are you going to lift less angry?"
+"After that we are careful." She does not soften it. "It will not hold if either of you gives them a reason to look twice. No shouting in the market. No disappearing when a truck parks. No clever stories that do not match the one I just gave you." Her eyes stay on him a beat longer. "Especially you."
 
-"I'm going to lift quieter." He almost smiles. The nick in his eyebrow shows for a second and then goes away again. Then, without any change in his voice, without looking at me: "I keep hearing it. The order I gave. Not — the roof, not all of it. Just my own voice. Three words on a loop, like a song stuck." His thumb runs across the pads of his fingers, back and forth. "You were down. On the concrete. But you saw his hand."
+He nods once. Takes his bowl to the sink when he is done, washes it, and washes it again, as if the second pass might rinse the day.
 
-Here is the door, opening. Two weeks I've known it was coming.
+---
 
-"I saw it," I say.
+After dinner I find him on the sea wall.
 
-"Was it—" Half a beat early, he stops. Sets the knife down. When the sentence comes back it's been swapped for a smaller one. "Did it look like he chose it?"
+He is sitting at the bend where you can see the whole cove, heels against the stone, dusk coming in off the water. I climb up next to him. For a while neither of us talks. The tide does the work.
 
-Six syllables. *It wasn't your fault.* They're in my chest, where they've been since the underpass, and this is the cheap day — the day the shop is open and the price is one sentence and all I have to do is not be sure it's a lie.
+"Foreman chewed me out today," he says. "Says I lift angry. Says I'll wreck my back by thirty if I keep doing it like I'm mad at the ice."
 
-I saw the fingers uncurl all at once. Evenly. Nobody home.
+"Are you mad at the ice?"
 
-"It looked fast," I say. "It was dark, and it was fast, and everyone was screaming." Every word true. All of it counterfeit. The coin I actually owe stays where it is, and I feel him, beside me, weigh what I've handed him and know exactly what it isn't.
+"I'm mad at everything. Ice is just what's in my hands." He almost smiles. The nick in his eyebrow shows for a second, then goes. "I told him I'd lift quieter. He laughed."
+
+A gull crosses the cove and vanishes into the dark over the boats. Kaito's thumbs rub the pads of his fingers, back and forth.
+
+"Haru." Still not looking at me. "Can I ask you something. About that night."
+
+My mouth goes dry. "Yeah."
+
+"Not all of it. Just — my voice. I keep hearing the three words. Over and over. Like a song I can't shut off." He swallows. "You were on the ground. I know that. But you were looking. You saw his hand."
+
+"I saw it."
+
+"Did it look like he chose to let go?" He says it flat, like he has been practicing the question all day and still hates the sound of it. "Or did it look like something else."
+
+*It wasn't your fault.* The sentence is right there. It has been right there since the underpass. All I have to do is say it.
+
+I remember the fingers. Uncurling all at once. Evenly. Nobody home.
+
+"It looked fast," I say. "It was dark, and everyone was screaming, and it happened fast. That's what I saw."
+
+He is quiet long enough that I hear my own pulse in my ears. Then he nods once, small.
 
 "Yeah," he says. "Fast."
 
-He looks at the water. The gray-green truck is parked up by the harbor office for the night, and the eastern sky is doing its faint wrong glow over the hills, and my best friend sits next to me with three words stuck in his head on a loop, and I am fifteen and careful and I have just, very kindly, in the gentlest possible voice, declined to say the only sentence he asked me for.
+He knows what I did not say. I can feel him knowing it, sitting there with the gray-green truck parked up by the harbor office and the east still glowing wrong over the hills. He asked for one thing and I gave him a weather report.
 
-He never asks again. From this night on, whatever he does about the thing in his mouth, he does having already learned what my silence costs, and having decided to carry it without me.
+He does not ask again. He drops off the wall and lands light, like the conversation never happened.
 
-"Come on," he says, dropping off the wall. "Sugi holds rice hostage after eight."
+"Come on," he says. "Sugi holds rice hostage after eight, and I already washed my bowl twice. She'll invent a third crime if we're late."

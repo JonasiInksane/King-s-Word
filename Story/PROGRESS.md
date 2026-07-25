@@ -16,7 +16,7 @@
 | 2 | Day Before | H | 1,744 | Mika + cake; Sugi's Kōgetsu stall; Tōru's six-line letter; Kaito's floor nights / bruises unspoken; "hostage list" close |
 | 3 | Let Her Go | H | 3,189 | Birthday; Kuroda on the Loop (unnamed); white sky; Kanzaki; "LET HER GO"; Ryn dies; "the Word is awake"; escape; withheld absolution |
 | 4 | Low Tide | H | 2,375 | Exodus; birthmark match withheld; Sugi counts heads at the door; the telling over tea ("You told it straight"); tense pivots to present; Mira enters ordinary; rite — both open their hands; empty shelf |
-| 5 | Two Weeks | H | 1,826 | Salt life; sums work; registry truck + notice; Mira's laundry probe; sea wall — the cheap day, absolution declined |
+| 5 | Two Weeks | H | — | Sugi assigns work; co-op quiet; Orihara Fumie hires via the lying ration column; Mira laundry; registry truck; sea wall — absolution declined |
 | 6 | The Pier | K | 2,322 | Jun + splices; Hanae's lunch list ("you're on the list now"); the line's shoulder-lesson; muddy command fails (pronouns); bollard temple; Mira's extraction; Sugi's table (she's worked it out) + Haru's one question |
 | 7 | Practice | K | 2,388 | Gull test → *understand* rule; night-wall sentence drills (Harada's lantern); the refused test on Jun ("Jun doesn't get to be a rep" / the line's other edge is a permission); buyer test succeeds; Backwash on-page; Mira's Listener warning; *Pull her up* |
 | 8 | Drop It | H | 2,259 | Sato's shed/second paper; drying-yard rifles; "Drop it"/"Step back" witnessed; wild shot wounds Sato; Kaito's confession + help promise |

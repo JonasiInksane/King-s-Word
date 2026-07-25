@@ -70,7 +70,7 @@ When the door shuts, Sugi watches it for a moment.
 
 "Good kid," she says. "The lane's full of them, if you look."
 
-Rice, towels, no questions. A helpful neighbor. That afternoon, nothing else showed.
+Rice, towels, no questions. A helpful neighbor.
 
 ---
 
