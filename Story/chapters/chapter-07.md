@@ -20,7 +20,7 @@ The nights are different. Most nights I end up on the north wall again.
 
 Practice looks like this: a boy on cold stone past midnight, building sentences out loud with no weight on them, the way you dry-fire a rifle. I pick a job — *make a man put down a knife, make a man step out of a doorway, make a man forget he saw me* — and then I draft the sentence and attack my own draft. *Put the knife down* — which knife, what if he's holding two things, does *down* mean drop or set. *Step aside* — aside which way, what if aside is off a pier. Every sentence has exits, and everything I love about how I've talked my whole life — fast, hot, first thing out of my mouth — is exactly what leaves the exits open. So I sand them. Shorter. Fewer doors. Say it, hear the gap, close the gap, say it again. Some nights I get one sentence smooth in two hours, and my throat aches like I've been shouting even though nothing I said all night was louder than the tide.
 
-Twice I put a hair of weight on one, just to feel the copper rise, aimed at nothing and nobody — and even that spends something. I can feel it come out of me: a faint pressure behind the eyes, gone by morning, but real.
+Twice I put a hair of weight on one, aimed at nothing and nobody, just to feel it catch — and even that spends something. I can feel it come out of me: a faint pressure behind the eyes, gone by morning, but real.
 
 The second time, a lantern comes up the wall path. Old Harada, checking his skiff lines the way he does when his hips won't let him sleep. I sit still and let him find me being a boy staring at the sea, which is a thing this town's boys are allowed to be at night, and he grunts something about the swell and goes back down. I tell myself he saw nothing.
 
@@ -30,7 +30,7 @@ The town notices things too. That comes clear on Friday.
 
 I know what the gulls proved. Every real test has to be a person. I start creating tests, and I know exactly what I am doing — the version where I stumble into it is a comfort I haven't earned.
 
-I build them the way Haru would. That is the part that makes my skin crawl — I can hear the shape of his thinking in mine, careful, step by step: *a real test needs a result you can't explain away.* Telling a co-op man "take the other end" proves nothing; he would have taken the other end anyway. For a week I do those anyway — little deniable nothings, "hand me the hook," "mind the ice" — and get nothing but maybes and the faint copper, spending pieces of myself to learn nothing.
+I build them the way Haru would. That is the part that makes my skin crawl — I can hear the shape of his thinking in mine, careful, step by step: *a real test needs a result you can't explain away.* Telling a co-op man "take the other end" proves nothing; he would have taken the other end anyway. For a week I do those anyway — little deniable nothings, "hand me the hook," "mind the ice" — and get nothing but maybes, spending pieces of myself to learn nothing.
 
 A real test needs someone doing a thing they would never otherwise do.
 

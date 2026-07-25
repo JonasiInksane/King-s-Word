@@ -4,9 +4,9 @@
 
 ## Status
 
-- **Written (live): Part One complete — Ch 1–10.** Awaiting user review before Volume 2 starts.
+- **Written (live): Part One complete — Ch 1–10. Vol 2 — Ch 11–14.**
 - **Plan:** `lore/plot-outline.md` clean-rewrite tables (Part One 10 ch, Volume 2 ~16 ch ending on the clash).
-- **Next (after review):** Vol 2 Kaito block — Ch 11 (Kuroishi/Orii) → Ch 12 (Ishibashi, NEW on-camera leg).
+- **Next:** Ch 15 (Kaito, Takamatsu — East Yards day work / cash roof / Mira's hour away). Old outline Ch 15 "Under the Bridge" folded into Ch 14; Vol 2 renumbered (now ~15 ch, clash at Ch 25).
 
 ## Chapters (live)
 
@@ -22,6 +22,10 @@
 | 8 | Drop It | H | 2,055 | Sato's shed/second paper; drying-yard rifles; "Drop it"/"Step back" witnessed; wild shot wounds Sato; Kaito's confession + help promise |
 | 9 | Kill Yourself | K | 1,943 | Three-truck sweep; Jun shot checking on Hanae; the lethal command; the Listener covers his ears; gate split ("It was. You saw it."); ridge close on Mira's "grieve on your feet" |
 | 10 | Toward Kuroishi | H | 2,014 | Listener interview (voice makes people stop looking); grief night; Hanae's question + the structural lie; Sato's paper; Sugi's hook; road out — finish the sentence |
+| 11 | Inland | K | 1,564 | Ridge → Kuroishi; Orii (one night, no war talk); well bag-check — "Look the other way. You never saw me."; Mira: leave at first light; Word-rumor planted for Ch 13 |
+| 12 | Bus Fare | K | 1,820 | Ishibashi market work for fare; Kaito stops learning names; dawn bus talk (aunt story dies / East Yards); arrive Takamatsu — split at East Yards water tower / day-work line |
+| 13 | One Day Behind | H | 1,579 | Opens on lag ("supposed to catch him"); Orii unnamed ("You're late" / Takamatsu); well rumor; refuses depot bus; west fork to Ishibashi |
+| 14 | Soft Boy | H | 2,122 | Ditch shakedown (full fight); chit stolen; Nakahara Riku; favor owed; Ishibashi by dusk — squid-stall ask (Mira's trays), dawn bus gone, **missed by half a day**; ice-yard truck west before dawn |
 
 ## POV structure (Part One)
 
@@ -29,11 +33,13 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 
 **Narration (locked 2026-07-24):** No frame, no listener, no "record/ledger" narrator voice, no reader address. Past tense through Ch 4's arrival at Sugi's door; present tense from Nagihama onward. Rare quiet hindsight only.
 
-## Cast state (end Ch 10)
+## Cast state (end Ch 14)
 
-- **Haruki:** On the herring road to Kuroishi, one day behind. Carries Sato's paper (transit chit, work ref, family-errand cover) + Sugi's onigiri. Voice-tell thread now includes the gray suit and Hanae. Despair seed landed ("nobody is coming to fix any of this"). Goal: finish the sentence.
-- **Kaito:** Fled with Mira over the ridge track; Ch 9 closes on her "You can grieve on your feet." Lethal command paid. Refused the broken absolution at the gate. Knows the understand-rule and the clean-sentence craft in his own words; the glad-it-worked interior is on record only at the Ch 7 buyer test.
-- **Mira:** With Kaito. Sack packed days early; knows routes and the Listener; contacts unspent. Still reads as neighbor from both cameras.
+- **Haruki:** In Ishibashi with Nakahara Riku (arches, no stamps). Squid-stall ask landed: Kaito+Mira took the dawn bus to Takamatsu — **missed by half a day**. No chit, no yen; Riku's ice-yard truck west before dawn (hands, not papers). Goal unchanged: finish the sentence.
+- **Kaito:** Ahead — on the ground in Takamatsu East Yards at end Ch 12 (split from Mira for day work / cash roof). Off-camera this block.
+- **Mira:** With Kaito in Takamatsu East Yards (split for cash roof). Off-camera this block.
+- **Orii:** Unnamed on Haruki's camera; told him he's late; pointed at Ishibashi road; warned about mouths.
+- **Nakahara Riku:** On-page. Cleared the ditch crew; got Haruki into Ishibashi's arches; buys skewers on grill-scrap credit; knows an ice-yard man who runs west twice a week. Favor still unnamed (won't stack a second).
 - **Ryn:** Dead (Ch 3). The cat went to the sea at the rite; Sugi's declared hook is the **empty shelf** where it sat.
 - **Sugi:** Nagihama. Heard the whole story over tea (Ch 4); empty shelf after the rite; let Haruki go with the choice talk.
 - **Jun:** DEAD (Ch 9, shrine yard). **Hanae:** believes Haruki's merciful lie. Haiga cousin alive off-page.
@@ -49,7 +55,7 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 2. Birthmark match — Haruki knows, withholds (Ch 4). Kaito doesn't know they match.
 3. The Listener — one entry per boy in his file; hunts the trail in Vol 2.
 4. Kanzaki's "we've been looking for you two for a very long time" — unexplained.
-5. Kuroda's phone screen on the Loop (Ch 3) — unexplained; bar meeting planned (Vol 2 Ch 23).
+5. Kuroda's phone screen on the Loop (Ch 3) — unexplained; bar meeting planned (Vol 2 Ch 22).
 6. Mira's cracks — pre-packed sack, ridge route, driver intelligence; contacts surface in Vol 2.
 7. Sugi's hook — empty shelf; "one of you has to come back and look at it eventually."
 8. Kaito's untested self-cost (Ch 7) — he refuses to Word himself and fears what the weight takes when it leaves; Backwash door left open, unexplained.

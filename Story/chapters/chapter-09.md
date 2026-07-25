@@ -42,7 +42,7 @@ The shove comes from the flank soldier, two hands, center of Jun's chest, and Ju
 
 "Hands behind your head. Last warning."
 
-The yard has gone tide-flat silent. I'm thirty meters back in the crowd with copper already climbing my throat, sentences stacking behind my teeth — clean ones, I've *practiced*, name the act, close the exits — and Haru's eyes find me from across the yard with a message in them as clear as a shout: *don't — not with a hundred people watching and the gray suit at the table.* And I am obeying him. I stand there with my mouth shut, being counseled by my best friend's terrified face across a shrine yard, both of us betting that the ordinary machinery of a bad day will grind through boring and land everyone home by supper.
+The yard has gone tide-flat silent. I'm thirty meters back in the crowd with words already gathering in my throat, and Haru's eyes find me from across the yard with a message in them as clear as a shout: *don't — not with a hundred people watching and the gray suit at the table.* And I am obeying him. I stand there with my mouth shut, being counseled by my best friend's terrified face across a shrine yard, both of us betting the day will grind through and land everyone home by supper.
 
 "Last chance," the soldier says. "Hands."
 
@@ -60,7 +60,7 @@ My voice. Already too loud, tearing out of thirty meters of stunned crowd. I don
 
 "Shut up," the soldier says, muzzle steadying on my chest. "One more sound out of you and—"
 
-He faces me. He hears me and *understands* me, and I hear and understand him, and my mouth is already full of copper — a month of whispering in the dark, a month of clean sentences ready — Jun's blood still finding the gaps between the stones — and what I say, I say with every gram of weight my ruined voice can put under it:
+He faces me. He hears me and *understands* me, and I hear and understand him — a month of whispering in the dark, a month of clean sentences ready — Jun's blood still finding the gaps between the stones — and what I say, I say with every gram of weight my ruined voice can put under it:
 
 "Why don't you shut up. Or better — why don't you just kill yourself."
 

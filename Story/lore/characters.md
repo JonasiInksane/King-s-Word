@@ -23,7 +23,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Arc seed:** The one who *watches* his best friend fall — and slowly realizes he shares the same terrible gift, and that his gentleness was never a guarantee. His tragedy is complicity through inaction.
 - **Word self-knowledge (live):** Does **not** knowingly own it. The voice-tell thread is live: Ch 1 (Loop argument dies), Ch 5 (voice too useful at gates, noted in passing), Ch 10 (gray-suit interview believed "faster than the lie deserves"; the lie to Hanae that "works on the broken, works best on them"). By Ch 10 he no longer believes the word for what he does is *polite* — "Kaito's mouth makes people move. Whatever I carry makes them quiet" is as far as he lets the thought run. ARCHIVE SEED: Vol 4 ownership admission (*I am one too*) — re-earn.
 - **Despair thread (live from Ch 10):** "The world stops being a place that is failing and starts being a place that is *wrong*… Nobody is coming to fix any of this" — a sentence he turns over and can't make false. This is the seed Kuroda's **"Reshaped by whom?"** hinge lands on in Vol 2. Do not answer cheaply.
-- **Status (end Part One / Ch 10):** Leaves Nagihama alone with Sato's paper (transit chit, work reference, "family errand" cover). One day behind, on the herring road to Kuroishi. The cat went to the sea at the rite; Sugi's stated hook is the **empty shelf**. Birthmark secret kept. Owes Kaito the finished sentence — stated goal of the chase.
+- **Status (end Ch 14):** Through Kuroishi one day late (Orii unnamed: "You're late"; well rumor heard). Sato's transit chit stolen on the Ishibashi road. In Ishibashi with Nakahara Riku by dusk — squid-stall ask: Kaito+Mira took the dawn bus to Takamatsu, **missed by half a day**; no papers, no fare; truck west planned. Birthmark secret kept. Still owes Kaito the finished sentence.
 
 
 
@@ -39,7 +39,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Voice on the page:** Loud, quick, physical. Talks with his hands. Shorter sentences under stress. Guilt sits in the body before it sits in language. Never writes himself as a villain choosing power.
 - **Arc seed:** The roof. Guilt over the leverage-drop + the Backwash (see magic doc) hollows out the warmth until only the command is left. He doesn't become a villain who wants power; he becomes a boy who can no longer *stop* using it. Tragic, not evil.
 - **Control arc (live, Ch 6–9):** Gull test fails → learns the *understand* requirement in his own words ("the understanding is the door the weight walks through — it only works on people"). Night-wall sentence drills — drafts commands and closes their "exits" like dry-firing (Harada's lantern nearly catches him). The refused test: a clean, loaded *Let me help you* aimed at Jun, swallowed — "Jun doesn't get to be a rep"; draws the line *nobody I love, nobody kind*, and notes "a line like that has another edge, and the other edge is a permission." Then the buyer test (clean command, posted price paid; first full success). Costs on-page: heavy nosebleed, copper taste, skull drum; that night he refuses even dry-fire, afraid of what the weight takes from him when it leaves. Does **not** test the Word on himself. The double entry he hides: "part of me is glad, and I go looking for it again." Writes the clean roof sentence — *Bring her onto the roof and set her down* — as his reason to keep practicing (she was held out over the drop; *let her go* opens a hand over air).
-- **Status (end Part One / Ch 9):** Lethal command in the shrine yard ("Why don't you shut up. Or better — why don't you just kill yourself.") — soldier dies by own rifle. Refuses Haruki's broken absolution at the gate ("It was. You saw it. It was."). Fled inland with Mira over the herring ridge track; the chapter closes on her "You can grieve on your feet." The glad-it-worked interior lives in Ch 7 (buyer test), not on the ridge.
+- **Status (end Ch 12):** Lethal command paid (Ch 9). Inland with Mira: Kuroishi well bag-check — "Look the other way. You never saw me." (Word rumor planted). Ishibashi — earned bus fare, stopped learning names. Dawn bus to Takamatsu (no aisle repeat): Mira kills the aunt story for city rules, steers them off before Station Plaza secondary. On the ground in East Yards — split for an hour (him day work / her cash roof), meet at the water tower. Glad-it-worked interior still only on record at Ch 7 buyer test; the well-lift is felt and hated on-page in Ch 11.
 
 
 
@@ -131,17 +131,16 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 
 ### Orii (折井) — Kuroishi dried-goods
 
-**Camera moment (previous pass — re-earn in Vol 2 Ch 11):** Points upstairs without smiling; "One night. Maybe two."
+**Camera moment (live, Ch 11):** Points upstairs without smiling; "One night. Maybe two." Hair pinned flat; apron the color of old paper; finishes counting tea boxes before she looks up.
 
 - **Looks / nature:** Middle-aged shopkeeper; refuses to stock the war as conversation. Practical, short with strangers.
-- **Plan (Vol 2):** Puts up Kaito + Mira one/two nights above the shop (Ch 11); tells Haruki he's late and points toward Ishibashi (Ch 13) — Haruki never learns her name on-page. Not Remnant. Surname unused on-page yet — given/family open. **Not yet live in the clean pass.**
+- **Continuity (live):** Puts up Kaito + Mira one night above the shop (Ch 11); payment is hauling stock; warns about clipboards asking about mouths; sends them toward the Ishibashi bus with onigiri and a written time. **Plan (Ch 13):** tells Haruki he's late and points toward Ishibashi — Haruki never learns her name on-page. Not Remnant. Surname unused on-page yet.
 
 
 
-### Nakahara Riku (中原 陸) — ~17, future right hand (not yet)
+### Nakahara Riku (中原 陸) — ~17, future right hand
 
-**Camera moment (previous pass — re-earn in Vol 2 Ch 14):** Hauls Haruki out of a shakedown by the collar, clicks his tongue once, grins with a crooked front tooth: *"Soft boy. You walk like the road owes you manners."*
-**Camera moment (previous pass — East Yards stance test):** Shoves Haruki's shoulder to test his stance; Haruki stumbles, catches, doesn't fall: *"Good. You look like someone who might survive a Tuesday."*
+**Camera moment (live, Ch 14):** Hauls Haruki out of a ditch shakedown by the collar, clicks his tongue once, grins with a crooked front tooth: *"Soft boy. You walk like the road owes you manners."* Later: *"You looked like someone who might survive a Tuesday if somebody shoved him upright first."*
 
 - **Looks:** Seventeen, about 175 cm, lean-hard (dock/road muscle, not gym-pretty). Messy dark hair tied back with a scrap of cloth when it gets in his eyes; crooked front tooth from an old fight; scraped knuckles as default. Cheap work jacket over layers; boots that have walked more than they've been cleaned. Moves like he always knows where the exits are. Recurring tell: **clicks his tongue once** before he decides to help.
 - **Nature:** Blunt, funny, allergic to speeches. Teases Haruki's apology reflex. Will not recruit himself as "partner" — stays for pay, boredom, or spite at FDC until it becomes loyalty. Speaks in short cuts; laughs with his whole face when he lets himself.
@@ -157,7 +156,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **The curriculum (ARCHIVE SEED — old Ch 18):** "I teach you so nobody gets to use you. Not paper. Not causes. Not friends with beautiful reasons." Fist-knock instead of the word *partner*.
 - **ARCHIVE SEED (old Ch 24–25):** Imprisoned with Haruki in mansion FDC hold; training paid; worded on the pad; tore free after clash.
 - **ARCHIVE SEED (old Vol 3, Ch 26–35):** Shizuhara. Volunteer-disposal truth detonates the sake-night wound. Confronts Mira mid-volume. Breakout; after wipe, drags Haruki out with Mei.
-- **Status (clean pass):** Not yet on-page. Enters Vol 2 (outline Ch 14, road shakedown — now under the fights-are-complete-scenes rule). Previous-pass beats (boots, stance, Minato, courier work) are texture to rebuild, not canon.
+- **Status (live, end Ch 14):** In Ishibashi with Haruki (arches, no stamps; buys skewers on unexplained credit). Cleared three ditch boys (pipe / knife / watcher). Took no pay — favor owed instead, still unnamed. Knows trucks west that count hands instead of papers. Does not know Haruki is a carrier. Does not ask about the scraped-voice cousin. Previous-pass beats (boots, stance, Minato, courier work) remain texture to rebuild, not canon.
 
 ---
 
@@ -242,7 +241,7 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 
 ### Mama Machi (町) — Bar Minato, ~50s — the bar mama
 
-**Camera moment (previous pass — re-earn in Vol 2 Ch 17/20):** Sets down two bowls of oden before they have sat: *"Trouble eats standing up. That's how I know."* Second-pair beat ("Trouble comes in shifts"; how Kaito held his bowl) also previous pass — rebuild against the new Takamatsu block.
+**Camera moment (previous pass — re-earn in Vol 2 Ch 16/19):** Sets down two bowls of oden before they have sat: *"Trouble eats standing up. That's how I know."* Second-pair beat ("Trouble comes in shifts"; how Kaito held his bowl) also previous pass — rebuild against the new Takamatsu block.
 
 - **Looks:** Fifty-something, broad-shouldered, bun speared with a chopstick; forearms of a woman who has carried kegs and coffins. Flat harbor-master gaze that prices you in one pass.
 - **Who:** Ran a bar by an eastern harbor until the war ate the harbor; rebuilt inland and kept the name — **Minato (みなと)**, a harbor two ridges from any salt. Feeds working boys on principle and Thursdays on ceremony.
@@ -253,14 +252,14 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 
 ### Gorō (五郎) — retired tram driver, ~70s — Minato regular
 
-**Camera moment (previous pass — re-earn in Vol 2 Ch 17/20):** Nurses one beer he isn't finishing; "That's a report, not an answer"; names himself; gives the one-new-fact toll — North Market's casual line dies at sundown.
+**Camera moment (previous pass — re-earn in Vol 2 Ch 16/19):** Nurses one beer he isn't finishing; "That's a report, not an answer"; names himself; gives the one-new-fact toll — North Market's casual line dies at sundown.
 
 - **Looks:** Ginger-root hands, laugh like a gearbox, cardigan in all seasons.
 - **Who:** Drove Takamatsu's trams for forty years; knows every ward, cut-through, and depot from a driver's window — the boys' living map of the city (replaces rumor-mongering as their info texture).
 - **Nature:** Opinionated, generous, immovable on the stool. His line got shortened twice for "materiel priority"; his grudge against the mansion is personal before it's political.
 - **ARCHIVE SEEDS (old Ch 17 / 21 / 24, not live):** Flood-of-'02 story; vouching the boys into night deliveries; naming "the hill"; taken in the squeeze; fled into the pines ("tell Machi I walked").
 - **Status (clean pass):** Not yet on-page; enters the Vol 2 Takamatsu block. Do not kill off-page.
-- **Story role:** City texture and warmth; the boys' job connector; the FDC squeeze that costs Haruki someone he needs (outline Ch 22) may land on him or Machi — decide at the desk, on-page.
+- **Story role:** City texture and warmth; the boys' job connector; the FDC squeeze that costs Haruki someone he needs (outline Ch 21) may land on him or Machi — decide at the desk, on-page.
 
 
 
@@ -275,7 +274,7 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 - **Looks:** Seventeen; short for it, sturdy through the shoulders; dark hair cut blunt at the jaw (uneven on one side — home cut); warm outdoor skin; clear dark eyes. Moves like a neighbor, not a hunter. Burn-scar on the inside of her left forearm exists (FDC history) but stays covered early — do not stage it as a reveal prop every scene.
 - **Entry (rewrite lock):** She does **not** know who Kaito is or what he can do when she meets them. She is simply friendly — the kind of person a grieving household accepts without argument. Early chapters: write her as a real good neighbor. No evil wink, no "nothing else showed," no reader-tip that she is a plant.
 - **Arc (flow, not reveal dump):** Later she *witnesses* what Kaito's mouth can do and decides he needs help — protection, direction, someone who won't flinch. The more they see happen together, the more she steers him along the road he is already on, believing he is the one who will have to reshape the world. Not a villain reveal; a true believer formed by what she sees. Belief and steering grow from observation; never a cold open pitch on meet.
-- **Continuity (live, Part One):** Ch 4 — rice/towels entry; watches the rite from the sea wall. Ch 5 — laundry-line talk (Kaito quiet / Haiga cousin / shelves); genuine warmth. Ch 6 — pier: heatstroke-cousin act pulls Kaito out; "you looked like a boy about to throw away something he couldn't get back." Ch 7 — nosebleed count; the Kōgetsu checkpoint-sergeant story via her aunt's delivery drivers; warns about the Listener; "do it where the town can't see you. Or better, stop." Ch 8 — arrives at the gunshot with kit packed; invents the net-hook story in one breath; sits up with Sato. Ch 9 — at the lane mouth with a sack packed *days* in advance and a ridge-track route; "the man in the gray suit is why I know"; leaves with Kaito.
+- **Continuity (live, Part One):** Ch 4 — rice/towels entry; watches the rite from the sea wall. Ch 5 — laundry-line talk (Kaito quiet / Haiga cousin / shelves); genuine warmth. Ch 6 — pier: heatstroke-cousin act pulls Kaito out; "you looked like a boy about to throw away something he couldn't get back." Ch 7 — nosebleed count; the Kōgetsu checkpoint-sergeant story via her aunt's delivery drivers; warns about the Listener; "do it where the town can't see you. Or better, stop." Ch 8 — arrives at the gunshot with kit packed; invents the net-hook story in one breath; sits up with Sato. Ch 9 — at the lane mouth with a sack packed *days* in advance and a ridge-track route; "the man in the gray suit is why I know"; leaves with Kaito. Ch 11 — steers Kuroishi exit after the well Word ("that leaves a mark"); "I talk first." Ch 12 — works the squid stall, draws the no-Word-for-fare line; names offered once then stopped; on the Takamatsu bus kills the aunt story for city rules; steers off before Station Plaza secondary; splits at East Yards (roof / day work).
 - **Watch her cracks (writer-only):** Part One cracks (pre-packed sack, route knowledge, delivery-driver intel) can read as a sharp coast girl who hears things — not as Remnant recruitment. Spend contacts / reshape ideology in Vol 2+, after she has seen the Word work.
 - **Nature (later):** True believer once she has seen enough. Calm certainty. Not cartoon-evil; a wounded idealist who decides mercy is a luxury the powerless can't afford, and that Kaito's mouth is the tool that can change the map. Tied to anti-FDC / Remnant currents under the coast — shown late, not announced on meet.
 - **Voice on the page:** Early = warm, practical, lightly teasing. Later = quieter, level, devastating certainty. Do not start her on the cold register.
@@ -322,7 +321,7 @@ Homeroom teacher, perpetually one deadline from collapse. Comic relief with a sp
 
 ### Kuroda Ren (黒田 連) — the Silent Stranger (working name; tweakable)
 
-**On-page so far (live):** Rail Loop evening car, birthday night (Ch 3 — watching-still, turns a phone screen toward the trio for one second; Haruki forgets him completely by the top of the school stairs). Planned next: the Vol 2 bar meeting (outline Ch 23). Boys do not know his name.
+**On-page so far (live):** Rail Loop evening car, birthday night (Ch 3 — watching-still, turns a phone screen toward the trio for one second; Haruki forgets him completely by the top of the school stairs). Planned next: the Vol 2 bar meeting (outline Ch 22). Boys do not know his name.
 
 **Camera moment (field):** A face that refuses to stick; watching-still on a train while the whole car softens around Kaito — he alone does not soften. Turns a phone screen toward them. Gone.
 

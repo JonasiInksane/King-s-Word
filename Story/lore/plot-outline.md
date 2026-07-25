@@ -54,28 +54,27 @@ POV: Haruki anchor in Kōgetsu; hinge-switches in Nagihama (both boys share the 
 | 9 | Kill Yourself | K | Tuesday-truck sweep; Jun shot; the lethal command; Listener covers his ears; gate "It was" — hard split; ridge close on Mira's line |
 | 10 | Toward Kuroishi | H | Grief night; Hanae's question; Sato's stamps; Sugi's choice talk; the road out (Part One close) |
 
-### Volume 2 — "The Question" (~16 ch, ends on the clash)
+### Volume 2 — "The Question" (~15 ch, ends on the clash)
 
 Engine: chase inland → Takamatsu lives built over days → hunter pressure → Kuroda resolve moment → collision → **Kaito turns the Word on Haruki** (volume close). Boys still ignorant of the Word's name. Mira's contacts surface gradually. Beats loose until written.
 
 | Ch | Working shape | POV | Beat |
 |----|-------|-----|------|
 | 11 | Inland | K | Road out; Kuroishi; Orii's room; the well bag-check |
-| 12 | Bus Fare | K | NEW — Ishibashi leg on-camera; thin money; one night; Kaito's narrowing shown |
+| 12 | Bus Fare | K | NEW — Ishibashi leg on-camera; thin money; one night; Kaito's narrowing shown; bus talk + on-ground Takamatsu arrival (East Yards split) |
 | 13 | One Day Behind | H | Kuroishi one day late; the mark Kaito's mouth left; what Haruki will say |
-| 14 | Soft Boy | H | Road shakedown (full fight); Riku |
-| 15 | Under the Bridge | H | Ishibashi market; boots; missed by half a day |
-| 16 | Takamatsu (K) | K | Arrival; East Yards; cash room; secondary checks for coast travelers |
-| 17 | Minato first | K | Machi + Gorō; work; Mira's first contact surfaces — someone Kaito doesn't know |
-| 18 | Kaito's silence | K | Silent work; a meeting Mira attends without him; block hook |
-| 19 | Takamatsu (H) | H | Arrival with Riku; trail through arcade doors |
-| 20 | Second pair | H | Minato; stance lesson; first paid job with Riku |
-| 21 | The city that works | H | Days of work; Gorō's city; family accreting through action |
-| 22 | The squeeze | H | FDC pressure costs someone Haruki needs; despair beat |
-| 23 | The listener | H | Kuroda bar meeting; the lane; **"Reshaped by whom?"** — resolve moment |
-| 24 | Near-miss | braid | The hunter closes; both pairs cross the same night |
-| 25 | Collision | braid | Full fight; Haruki's speech lands and isn't enough |
-| 26 | Go Home | K→H | Cornered, Kaito turns the Word on Haruki — *"Stop following me. Go home."* Volume ends on the command landing (twist #5 stays unspent) |
+| 14 | Soft Boy | H | Road shakedown (full fight); Riku; Ishibashi by dark — squid-stall ask, missed by half a day, no fare; truck west tomorrow |
+| 15 | Takamatsu (K) | K | East Yards day work lands; cash roof; city secondary pressure; Mira's hour away |
+| 16 | Minato first | K | Machi + Gorō; work; Mira's first contact surfaces — someone Kaito doesn't know |
+| 17 | Kaito's silence | K | Silent work; a meeting Mira attends without him; block hook |
+| 18 | Takamatsu (H) | H | Arrival with Riku; trail through arcade doors |
+| 19 | Second pair | H | Minato; stance lesson; first paid job with Riku |
+| 20 | The city that works | H | Days of work; Gorō's city; family accreting through action |
+| 21 | The squeeze | H | FDC pressure costs someone Haruki needs; despair beat |
+| 22 | The listener | H | Kuroda bar meeting; the lane; **"Reshaped by whom?"** — resolve moment |
+| 23 | Near-miss | braid | The hunter closes; both pairs cross the same night |
+| 24 | Collision | braid | Full fight; Haruki's speech lands and isn't enough |
+| 25 | Go Home | K→H | Cornered, Kaito turns the Word on Haruki — *"Stop following me. Go home."* Volume ends on the command landing (twist #5 stays unspent) |
 
 ---
 
