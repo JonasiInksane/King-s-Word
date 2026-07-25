@@ -138,6 +138,6 @@ We get off with the yard shift at a stop before Station Plaza — Mira's hand on
 
 "It won't."
 
-"Good." She almost smiles. It doesn't reach her eyes. "Welcome to Takamatsu!"
+"Good." She almost smiles. It doesn't reach her eyes. "Water tower. Whistle. Go."
 
 I walk into the yards and join the line of boys waiting for the afternoon load.

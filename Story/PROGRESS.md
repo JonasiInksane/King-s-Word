@@ -5,8 +5,8 @@
 ## Status
 
 - **Written (live): Part One complete — Ch 1–10. Vol 2 — Ch 11–14.**
-- **Plan:** `lore/plot-outline.md` clean-rewrite tables (Part One 10 ch, Volume 2 ~16 ch ending on the clash).
-- **Next:** Ch 15 (Kaito, Takamatsu — East Yards day work / cash roof / Mira's hour away). Old outline Ch 15 "Under the Bridge" folded into Ch 14; Vol 2 renumbered (now ~15 ch, clash at Ch 25).
+- **Plan:** `lore/plot-outline.md` clean-rewrite tables (Part One 10 ch, Volume 2 ~13 ch ending on the clash).
+- **Next:** Ch 15 (Haruki — ice truck into Takamatsu with Riku; Minato first night). Vol 2 restructured: Kaito's camera dark after Ch 12 (mystery kept); Haruki block 15–18 (city, family, Kuroda, break-in news); Kaito block 19–20 opens the day of the break-in, time-jumped. Cut East Yards Kaito pin archived in `archive/cut/` — salvage beats for Ch 19.
 
 ## Chapters (live)
 
@@ -35,9 +35,9 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 
 ## Cast state (end Ch 14)
 
-- **Haruki:** In Ishibashi with Nakahara Riku (arches, no stamps). Squid-stall ask landed: Kaito+Mira took the dawn bus to Takamatsu — **missed by half a day**. No chit, no yen; Riku's ice-yard truck west before dawn (hands, not papers). Goal unchanged: finish the sentence.
-- **Kaito:** Ahead — on the ground in Takamatsu East Yards at end Ch 12 (split from Mira for day work / cash roof). Off-camera this block.
-- **Mira:** With Kaito in Takamatsu East Yards (split for cash roof). Off-camera this block.
+- **Haruki:** In Ishibashi with Nakahara Riku (arches, no stamps). Missed the dawn bus by half a day; ice-yard truck west before first light. Goal unchanged: finish the sentence.
+- **Kaito:** Camera dark since Ch 12 — last seen walking into the East Yards day-work line, money thin, water-tower meet with Mira pending. Stays dark until Ch 19 (break-in day). Do not show his state through other cameras except rumor.
+- **Mira:** With Kaito, off-camera. Whatever she builds in the gap surfaces in Ch 19–20, not before.
 - **Orii:** Unnamed on Haruki's camera; told him he's late; pointed at Ishibashi road; warned about mouths.
 - **Nakahara Riku:** On-page. Cleared the ditch crew; got Haruki into Ishibashi's arches; buys skewers on grill-scrap credit; knows an ice-yard man who runs west twice a week. Favor still unnamed (won't stack a second).
 - **Ryn:** Dead (Ch 3). The cat went to the sea at the rite; Sugi's declared hook is the **empty shelf** where it sat.
@@ -55,7 +55,7 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 2. Birthmark match — Haruki knows, withholds (Ch 4). Kaito doesn't know they match.
 3. The Listener — one entry per boy in his file; hunts the trail in Vol 2.
 4. Kanzaki's "we've been looking for you two for a very long time" — unexplained.
-5. Kuroda's phone screen on the Loop (Ch 3) — unexplained; bar meeting planned (Vol 2 Ch 22).
+5. Kuroda's phone screen on the Loop (Ch 3) — unexplained; bar meeting planned (Vol 2 Ch 18).
 6. Mira's cracks — pre-packed sack, ridge route, driver intelligence; contacts surface in Vol 2.
 7. Sugi's hook — empty shelf; "one of you has to come back and look at it eventually."
 8. Kaito's untested self-cost (Ch 7) — he refuses to Word himself and fears what the weight takes when it leaves; Backwash door left open, unexplained.
