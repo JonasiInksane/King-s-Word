@@ -28,7 +28,7 @@ Jun leaves my side, ambles up, easy, twenty-three years of nothing-to-hide in hi
 
 "I don't keep his boots by my door."
 
-It builds from there, and I have it exact, because afterward everyone in that yard will remember it differently, at whatever speed their fear ran. It builds slow. The lieutenant asks the same question four different ways. Jun answers wide four different ways, cheerful going flat, flat going careful, because the cousin's papers are the lane's paper — Sato's shed, the tin box, the merciful stamps — and every soul in the yard knows it and knows that Jun knows, and Jun, being Jun, has decided with no clock in his body that the FDC gets to stand in his town but not inside his family.
+It builds from there, slow. The lieutenant asks the same question four different ways. Jun answers wide four different ways — cheerful going flat, flat going careful — because the cousin's papers are the lane's paper — Sato's shed, the tin box, the merciful stamps — and every soul in the yard knows it, and knows that Jun knows. Jun, being Jun, has decided with no clock in his body that the FDC gets to stand in his town but not inside his family.
 
 Then Hanae starts forward — mother's instinct, the lunch cloth twisting — and a soldier puts an arm across her path, and Jun's voice changes register for the first time.
 
@@ -52,15 +52,15 @@ The rifle takes him through the chest.
 
 No warning past the two he'd had. No aiming beat you could point to. One crack, flat off the shrine wall, and the biggest gentlest man I've met since the world ended goes down onto the stones of the yard he was baptized in, and the sound Hanae makes bypasses every human word ever coined, and the crowd folds inward and outward at once — toward him, away from the rifles — and Jun coughs twice at the sky, at the camphor leaves, and stops.
 
-I need one line here that has nothing loud in it: he was checking on his mother. That's the movement they shot him for.
+He was checking on his mother. That is the movement they shoot him for.
 
 "NO—"
 
-That's me. That's my voice, already too loud, tearing out of thirty meters of stunned crowd. I don't remember choosing it, I remember the yard rearranging — soldiers pivoting, the lieutenant standing, gray suit rising off his stool with his head cocked like a listening dog — and the shooter's rifle swinging across the crowd toward the noise, toward me, faces scattering out of the line between us until there's nothing in it but him and me and Jun on the ground.
+My voice. Already too loud, tearing out of thirty meters of stunned crowd. I don't remember choosing it. I remember the yard rearranging — soldiers pivoting, the lieutenant standing, gray suit rising off his stool with his head cocked like a listening dog — and the shooter's rifle swinging across the crowd toward the noise, toward me, faces scattering out of the line between us until there is nothing in it but him and me and Jun on the ground.
 
 "Shut up," the soldier says, muzzle steadying on my chest. "One more sound out of you and—"
 
-And here it is. The sentence the whole summer had been walking toward. He faced me. He heard me and *understood* me, and I heard and understood him, and my mouth was already full of copper, a month of scales in the dark, a month of clean sentences racked and ready, Jun's blood still finding the gaps between the stones — and what I said, I said with every gram of weight my ruined voice could put under it:
+He faces me. He hears me and *understands* me, and I hear and understand him, and my mouth is already full of copper — a month of whispering in the dark, a month of clean sentences ready — Jun's blood still finding the gaps between the stones — and what I say, I say with every gram of weight my ruined voice can put under it:
 
 "Why don't you shut up. Or better — why don't you just kill yourself."
 
@@ -80,38 +80,36 @@ I ran.
 
 The lane past Orihara's, the drying-yard cut, the gap in the wall fence Jun showed me my first week so we could beat the lunch line. My body ran the town like it had been rehearsing the route all summer. Behind me the shrine kept screaming. My nose poured. Twice the world went gray at the edges and I ran through the gray.
 
-Haru caught me at Sugi's gate.
+Haru catches me at Sugi's gate.
 
-He must have run the parallel lane — he was there first, cake-carrier, sum-runner, chest heaving, arm out, and I stopped, because it was him. One breath, the two of us in the gateway where we'd stood every evening of this whole salvaged summer.
+He must have run the parallel lane — he is there first, chest heaving, arm out, and I stop, because it is him. One breath. The two of us in the gateway where we have stood every evening of this salvaged summer.
 
-"Kaito—" His hand got my sleeve. His face was working faster than I've ever watched it go and losing anyway. "It wasn't—"
+"Kaito—" His hand gets my sleeve. His face is working faster than I have ever watched it go, and losing. "It wasn't—"
 
-And it stopped. Half a beat early. His mouth open around the rest of it — *your fault*, three syllables, the balance of a debt he's been carrying since a vending-machine light in the dark outside Kōgetsu — and it would not come. Even now. Even with Jun's blood on the stones and a man dead by his own hand with my sentence in his ears, even at the absolute bottom of the world, my best friend is too honest to finish it, because he watched a soldier put a rifle under his own jaw *because I told him to*, and no true sentence starting with *it wasn't* survives that.
+And it stops. Half a beat early. His mouth open around the rest of it — *your fault* — the sentence he has owed me since the dark outside Kōgetsu — and it will not come. Even now. Even with Jun's blood on the stones and a man dead by his own hand with my words in his ears. My best friend is too honest to finish it, because he just watched a soldier put a rifle under his own jaw *because I told him to*, and no true sentence starting with *it wasn't* survives that.
 
-I know what I said back. Every word of it:
+"It was," I say. "You saw it. It was."
 
-"It was. You saw it. It was."
+I pull my sleeve out of his hand. Gently. That is the one mercy I have left — I do it gently.
 
-I pulled my sleeve out of his hand. Gently. That's the one mercy I had left in me — I did it gently.
+Mira is at the lane mouth. Kit on her shoulder, a cloth sack already packed, her aunt's bicycle leaned against the wall. No expression on her face except that tide-chart steadiness. I understand in one look that she packed that sack before the shrine yard — days before — the way you pack for weather you have watched coming up the coast.
 
-Mira was at the lane mouth. Of course she was at the lane mouth. Kit on her shoulder, and a cloth sack already packed, and her aunt's bicycle leaned against the wall, and no expression on her face at all except the tide-chart steadiness, and I understood in one look that she'd packed that sack before the shrine yard, days before, the way you pack for weather you've watched coming up the coast.
+"Not the coast road," she says. "They'll rope that first. There's a foot track over the ridge the herring carts used before the tunnel. I know it." And then, when I don't move: "Kaito. The man in the gray suit is why I know. Come *now*, or sit down and wait for him."
 
-"Not the coast road," she said. "They'll rope the coast road first. There's a foot track over the ridge that the herring carts used before the tunnel. I know it." And then, when I didn't move: "Kaito. The man in the gray suit is why I know. Come *now* or sit down and wait for him."
+One more look back. Sugi's plum tree over the wall. The empty stretch of shelf through the window where the cat used to sit. Haru in the gateway, hand still open where my sleeve was, mouth still open around the sentence he couldn't close, and behind him up the lane the sound of a town learning what the day is.
 
-One more look back. I paid for it and I'd pay again. Sugi's plum tree over the wall. The empty stretch of shelf through the window where the cat used to sit. Haru in the gateway, hand still open where my sleeve had been, mouth still open around the sentence he couldn't close, and behind him up the lane the sound of a town learning what the day was.
-
-Everything I have ever loved fits in one gateway. I turned and followed her at a run.
+Everything I have ever loved fits in one gateway. I turn and follow her at a run.
 
 ---
 
 The ridge track in the dark, then. Roots and herring-cart stones, Mira's shape ahead of me, the cove dropping away behind until Nagihama was just a handful of lit grains spilled at the sea's edge, with three gray-green trucks parked in it.
 
-She let us stop at the top, two minutes, water from the sack. She'd packed for two. I drank and my throat felt like a rope something heavy had gone down too fast, and I looked at my hands in the dark and let the last truth of the summer arrive, the one I'll be paying for the longest:
+She lets us stop at the top, two minutes, water from the sack. She packed for two. I drink and my throat feels like a rope something heavy went down too fast, and I look at my hands in the dark and let the last truth of the summer arrive:
 
-A month of practice. All those nights, all that blood down the back of my throat, learning to make it clean — and it was never for the buyer, or the yard, or even for three words that would have pulled her up. Some part of me was always building toward a sentence with a man's whole life inside it. Tonight it came out clean. Perfectly clean. First throw.
+A month of practice. All those nights, all that blood down the back of my throat, learning to make it clean — and it was never only for the buyer, or the yard, or even for the clean roof sentence that would have put her back on the concrete. Some part of me was always building toward a sentence with a man's whole life inside it. Tonight it came out clean. Perfectly clean. First throw.
 
 It works. God help everyone in walking distance of my mouth — it works, and I know how, and the part of me I hate still lifted when it landed.
 
-"Move," Mira said gently, from the dark ahead. "Grieve walking. It's what there is."
+"Move," Mira says gently, from the dark ahead. "Grieve walking. It's what there is."
 
-We moved. West again. There's always more west.
+We move. West again. There is always more west.

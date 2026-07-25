@@ -1,8 +1,8 @@
 # Chapter 6 — The Pier
 
-The co-op put me on ice the first week and nets the second, and the nets are where Jun found me.
+The co-op has me on ice the first week and nets the second, and the nets are where I meet Jun.
 
-Amano-side people would say the nets found me. Everything in this town is nets if you stand still long enough. Jun runs the mending frames on the north pier — Amano Jun, twenty-three, big and unhurried, forearms like dock rope, a wide sunburnt face that settles naturally into cheerfulness, born two lanes over and never once wanted to be anywhere else. First thing he ever said to me was "You're doing that with your anger instead of your thumb," which was about a knot, and also wasn't.
+Amano-side people would say the nets meet you. Everything in this town is nets if you stand still long enough. Jun runs the mending frames on the north pier — Amano Jun, twenty-three, big and unhurried, forearms like dock rope, a wide sunburnt face that settles naturally into cheerfulness, born two lanes over and never once wanted to be anywhere else. First thing he says to me is, "You're doing that with your anger instead of your thumb," which is about a knot, and also isn't.
 
 He fixes my thumb. Then my elbow. Then, over two weeks of mornings, most of my netting, because I'm bad at it and he's patient the way big calm men are patient, like there's no clock anywhere in his body. He splits his lunch without asking — his mother Hanae packs it, always too much, always with the pickled radish cut in careful little fans — and he talks enough for both of us, which suits me, because my voice comes out scraped these days and I've got reasons to spend it carefully.
 
@@ -18,23 +18,23 @@ I know where Haiga is now. Everyone knows where Haiga is now.
 
 "He got out." Jun ties off, bites the tag end, spits it. "Papers didn't. So now he's twenty and he exists because my mother swears he does. You want the second rice ball? You're looking at it like it insulted you."
 
-That's Jun. Hold that version of him, because it matters for everything that comes after: a big slow-moving kindness with too much lunch, teaching a refugee kid splices so he'd have winter work in a town he wasn't planning to stay in.
+That's Jun: a big slow kindness with too much lunch, teaching a refugee kid splices so he'll have winter work in a town he isn't planning to stay in.
 
-The too-much lunch has a source, and the source delivers it herself most mornings. Amano Hanae comes down to the pier around ten — half Jun's size, gray threading her bun, sleeves rolled like she's mid-task even when she isn't — with the cloth bundle and a running list of everything Jun has done wrong since breakfast: he left the gate unlatched, he promised the Moriyamas a hand with their engine and forgot, he's sitting on damp stone again like a boy who's never heard of kidneys. Jun takes it the way the pier takes weather. He calls her *boss* without any joke in it.
+The too-much lunch has a source. Amano Hanae comes down to the pier around ten — half Jun's size, gray threading her bun, sleeves rolled like she's mid-task even when she isn't — with the cloth bundle and a running list of everything Jun has done wrong since breakfast. He left the gate unlatched. He promised the Moriyamas a hand with their engine and forgot. He's sitting on damp stone again like a boy who's never heard of kidneys. Jun takes it the way the pier takes weather. He calls her *boss* without any joke in it.
 
-The second morning she catches me sharing his lunch she looks at me hard enough to inventory me, and the next day the bundle is bigger and the radish fans come in two rows.
+The second morning she catches me sharing his lunch. She looks me over hard — height, wrists, the scrape in my voice — and the next day the bundle is bigger and the radish fans come in two rows.
 
-"You'll say thank you once," Jun advises, quiet, "and then never again. She counts thank-yous as arguing."
+"You'll say thank you once," Jun advises, quiet, "and then never again. She treats thank-yous like arguing."
 
-"What does she count as thank you?"
+"What does she want instead?"
 
-"Eating all of it." He hands me the second rice ball without checking whether I want it, which I'm learning is the whole family grammar. "She fed half of Haiga's boats when the harbors closed. Feeding is just what her worry looks like. You're on the list now. There's no getting off the list."
+"Eating all of it." He hands me the second rice ball without checking whether I want it. "She fed half of Haiga's boats when the harbors closed. Feeding is just what her worry looks like. You're on the list now. There's no getting off."
 
-I eat all of it. Both mornings. For a couple of weeks, in the middle of everything, a woman I barely knew decided my lunch was her business, and it was the closest thing to ordinary I'd felt since the roof.
+I eat all of it. Both mornings. For a couple of weeks a woman I barely know decides my lunch is her business, and it is the closest thing to ordinary I've felt since the roof.
 
 ---
 
-The verification line runs on the harbor office pier all week, and by Friday it's Jun's turn, and I'm the one who walks down with him. That's the whole accident of it. Hanae had asked him to go early, get it stamped, come back for the afternoon tide. I was carrying the frame hooks back to the shed anyway. Company for the boring part, he said. Some things you agree to with half a mouth of rice and pay for the rest of your life.
+The verification line runs on the harbor office pier all week, and by Friday it's Jun's turn, and I'm the one who walks down with him. That's the whole accident of it. Hanae asked him to go early, get it stamped, come back for the afternoon tide. I'm carrying the frame hooks back to the shed anyway. Company for the boring part, he says. Some things you agree to with half a mouth of rice and pay for the rest of your life.
 
 The line is fishermen and mainland families, mixed. Two soldiers work the tables, a third stands by the truck with his rifle slung, and the lieutenant from the clipboard sits behind the folding table like a man doing a boring job at the boring pace it deserves.
 
@@ -54,11 +54,11 @@ It moves fine. It moves fine right up until Jun.
 
 "Meaning you wait to the side."
 
-And Jun — big, calm, no-clock Jun — waits to the side. Puts his back against the rail, folds his arms, gives me a look across the pier that means *go on, I'll be along.* The soldier by the truck shifts his sling. Not a threat. Bookkeeping. Everything they do is bookkeeping until the moment it isn't.
+And Jun — big, calm, no-clock Jun — waits to the side. Puts his back against the rail, folds his arms, gives me a look across the pier that means *go on, I'll be along.* The soldier by the truck shifts his sling. Not a threat. Paperwork. Everything they do is paperwork until the moment it isn't.
 
 I don't go on.
 
-Here's what I did instead, and I'm telling it straight because nobody else can. I didn't shout. I didn't swing. I'd been two weeks quiet, two weeks lifting instead of talking, two weeks doing scales in the dark with the volume off — practicing, alone, in whispers, the thing I couldn't tell anyone I was practicing. And standing on that pier watching them file Jun under *pending*, what I thought was: I could fix this. I have a thing in my mouth that opens hands. Just once, aimed right, small.
+I don't shout. I don't swing. I've been two weeks quiet, two weeks lifting instead of talking, two weeks whispering into the dark after Haru's breathing goes even — practicing alone, the thing I can't tell anyone I'm practicing. Standing on that pier watching them park Jun under *pending*, I think: I can fix this. I have a thing in my mouth that opens hands. Just once. Aimed right. Small.
 
 I got in the line's blind spot, close to the second soldier, and I pitched it low, under the harbor noise, the way I'd practiced against the dark:
 
@@ -76,27 +76,35 @@ The weight of it still came out of me, though. The coin taste, the prickle high 
 
 "Step *back*."
 
-I stepped wrong. To this day I couldn't tell you if it was defiance or clumsiness — my body full of spent adrenaline with nowhere to put it — but I stepped sideways instead of back, toward Jun's rail, and the soldier read it the way soldiers read things, and his palm hit my chest. Pier planks are uneven. The bollard behind me wasn't going anywhere. I went down onto it, temple first, and the harbor rang like a struck pot and went white at the edges.
+I step wrong. I couldn't tell you if it's defiance or clumsiness — body full of spent adrenaline with nowhere to put it — but I step sideways instead of back, toward Jun's rail, and the soldier reads it the way soldiers read things, and his palm hits my chest. Pier planks are uneven. The bollard behind me isn't going anywhere. I go down onto it, temple first, and the harbor rings like a struck pot and goes white at the edges.
 
-Sound came back with Jun's voice in it — Jun off the rail, one arm out, not swinging, planting himself between me and the soldier like a piling, saying easy, easy, he's a kid, he's heat-sick, half these refugee kids haven't eaten right in a month — and the lieutenant's voice cutting over it, bored and final: "Get him off my pier before I have a reason to write him down."
+Sound comes back with Jun's voice in it — Jun off the rail, one arm out, not swinging, planting himself between me and the soldier like a piling.
 
-And then Mira was there.
+"Easy — easy — he's a kid," Jun says. "He's heat-sick. Half these refugee kids haven't eaten right in a month."
 
-I didn't see where from. She was just suddenly kneeling in front of me with her thumb hard under my chin, tilting my head, loud enough for exactly the audience that mattered: "There it is — look at his eyes, that's heatstroke, my aunt had it twice this month. Up. *Up.* You don't make the bathhouse boil water all morning and then stand in the sun with no hat, I *told* you—" scolding me, a cousin's scolding, marching me by the sleeve through a pier full of soldiers who wanted nothing to do with a girl managing a fainting relative. Bookkeeping resumed behind us. The line moved.
+The lieutenant cuts over him, bored and final: "Get him off my pier before I have a reason to write him down."
 
-She walked me two lanes on my rubber legs before she let the act drop. Sat me on the bathhouse step. Looked at my temple, which I could feel now, hot and wet at the hairline.
+And then Mira is there.
 
-"Press this." A cloth, out of nowhere, like the towels on the first day. Then she was quiet a moment, and the quiet had weight in it.
+I don't see where from. She is suddenly kneeling in front of me with her thumb hard under my chin, tilting my head, loud enough for exactly the audience that matters.
 
-"You said something to that soldier," she said. "Before he pushed you. I watched his face do something strange."
+"There it is — look at his eyes, that's heatstroke. My aunt had it twice this month. Up. *Up.* You don't make the bathhouse boil water all morning and then stand in the sun with no hat, I *told* you—"
+
+She scolds me like a cousin and marches me by the sleeve through a pier full of soldiers who want nothing to do with a girl managing a fainting relative. Paperwork resumes behind us. The line moves.
+
+She walks me two lanes on rubber legs before she lets the act drop. Sits me on the bathhouse step. Looks at my temple, which I can feel now, hot and wet at the hairline.
+
+"Press this." A cloth, out of nowhere, like the towels on the first day. Then she is quiet a moment.
+
+"You said something to that soldier," she says. "Before he pushed you. I was watching the line. His face went strange for a second — like he'd lost the next thought."
 
 "I asked him to leave Jun alone."
 
-"Mm." She took the cloth back, refolded it clean side out, pressed it back to my head. Didn't call me a liar. Didn't ask again. "Jun will clear. Half the town owes Hanae dinner; the clerk will lose that file by Tuesday." She checked the bleeding. "Your head's harder than the bollard. Go home before Sugi hears the pier version, which by tonight will have you fighting four men."
+"Asked him." She takes the cloth back, refolds it clean side out, presses it to my head again. She doesn't call me a liar. She doesn't ask twice. "Jun will clear. Half the town owes Hanae dinner. The clerk will lose that file by Tuesday if he knows what's good for him." She checks the bleeding. "Your head is harder than the bollard. Go home before Sugi hears the pier version. By tonight you'll have fought four men and won."
 
-"Why'd you do the cousin thing?"
+"Why the cousin act?"
 
-"Because it worked." She stood, brushed her knees, and looked down at me for a second with an expression I couldn't place. "Because you looked like a boy about to spend something he couldn't get back."
+"Because it worked." She stands, brushes her knees, and looks down at me for a second with something careful in her face — worry, maybe, or the start of a question she isn't ready to ask. "Because you looked like a boy about to throw away something he couldn't get back. Go home, Kaito."
 
 ---
 
@@ -114,7 +122,7 @@ I don't answer that. She doesn't need me to; she just wants me to know it's been
 
 "Jun's people have been getting boys off that pier for a hundred years," Sugi says, pressing the plaster down with her thumb. "He'll clear. What you'll do, since you're suddenly so interested in lines, is stay off them. Boys who go looking for the Federation's elbow generally find it." She packs the kit shut. "Eat. Both of you. The rice won't apologize for itself."
 
-Later, on the futons, in the dark, Haru finally spends one question. He picks it the way he picks everything, carefully, the least loaded one in the box:
+Later, on the futons, in the dark, Haru finally asks one question. He picks the smallest one he can find.
 
 "Does it hurt?"
 
@@ -124,11 +132,11 @@ Both of us lie there listening to how much I didn't answer.
 
 ---
 
-Jun cleared by Tuesday, like she said. He came up the lane himself to tell me, with a lunch his mother packed for two, and we ate it on the sea wall like nothing.
+Jun clears by Tuesday, like she said. He comes up the lane himself to tell me, with a lunch his mother packed for two, and we eat it on the sea wall like nothing happened.
 
-So no harm, right? Nobody hurt but my own head, Jun free, the line moved on.
+So no harm, right? Nobody hurt but my own head.
 
-Here's the part I'd never let Haru see. On the pier, in the half second when that soldier's eyes went loose and hunting — before the sentence failed, before the shove, before any of it — something in my chest lifted. Like a hand finding a grip. It didn't work, and I still walked away knowing *why* it didn't work: too many pronouns. No name, no clear thing to do. The machine needs it clean.
+Here is the part I will never tell Haru. On the pier, in the half second when that soldier's eyes went loose and hunting — before the sentence failed, before the shove, before any of it — something in my chest lifted. Like a hand finding a grip. It didn't work, and I still walked away knowing *why* it didn't work: too many pronouns. No name. No clear thing to do. The machine needs it clean.
 
 I'm not practicing against the dark anymore to make it stop.
 
