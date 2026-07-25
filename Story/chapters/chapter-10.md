@@ -4,11 +4,11 @@ The town spends the next day being questioned, and I spend it being boring, and 
 
 They rope the coast road by midnight and post pairs at the bridge and the prefecture road by dawn. The official account congeals fast, the way official accounts do: an armed incident during a flow assessment, one civilian casualty, one member of the detail dead by — the phrase they land on is *discharge under review*. Nobody in Nagihama corrects them. The whole town watched a soldier turn his rifle under his own jaw for no reason the eye could find, and the whole town has, without one meeting being held, decided it saw confusion, smoke, an angle blocked by the camphor tree.
 
-The man in the gray suit conducts interviews in the harbor office all day. Not everyone. He picks. And the picking has a shape: everyone who stood within earshot of the shooter, worked back methodically, name by name, as if grief were a seating chart.
+The man in the gray suit conducts interviews in the harbor office all day. Not everyone. He picks. He works through everyone who stood near the shooter, name by name.
 
-My turn comes mid-afternoon. A soldier walks me up — polite, tired — and the gray suit sits across the clerk's table with no clipboard, no pen, nothing to do but listen, which I now understand is the most frightening way a man can furnish himself.
+My turn comes mid-afternoon. A soldier walks me up — polite, tired — and the gray suit sits across the clerk's table with no clipboard, no pen, nothing to do but listen. That is the most frightening way a man can sit.
 
-"You knew the deceased." Flat. Which deceased, he doesn't say. He means both, and he means *tell me which one you flinch at.*
+"You knew the deceased." Flat. He doesn't say which one. He wants to hear which name I reach for.
 
 "Jun taught my friend net splices. Everyone knew Jun."
 
@@ -18,17 +18,17 @@ My turn comes mid-afternoon. A soldier walks me up — polite, tired — and the
 
 "Mm. He shouted *no.* And the soldier turned his weapon from the crowd, addressed him — and then." Nothing on his face. Water has more expression. "You were across the yard. Between the well and the cistern shed. You see well from there?"
 
-He'd placed me to the meter, a day later, out of a crowd of six hundred, and that should have been the moment I came apart. Instead — and this is the part I'd rather not admit — I felt the room settle onto rails I knew. A frightened man across a table, needing to be told a believable shape for a bad day. I've been doing that since I was ten. I dropped my shoulders and let my voice go soft and steady, the one that works, the one that's been working all summer at gates and lines and counters, and I gave him a fifteen-year-old's honest confusion — the tree was in the way, the crowd surged, I heard two shots and hit the ground with everyone, my friend ran because I was screaming at everyone to run, I don't know where he went, his uncle's people were mainland, maybe—
+He has me placed to the meter, a day later, out of a crowd of six hundred, and that should be the moment I come apart. Instead — and this is the part I'd rather not admit — the room settles onto rails I know. A frightened man across a table, needing a believable shape for a bad day. I've been doing that since I was ten. I drop my shoulders and let my voice go soft and steady, the one that works, the one that has been working all summer at gates and lines and counters, and I give him a fifteen-year-old's honest confusion — the tree was in the way, the crowd surged, I heard two shots and hit the ground with everyone, my friend ran because I was screaming at everyone to run, I don't know where he went, his uncle's people were mainland, maybe—
 
-He believed me faster than the lie deserved. I watched it land, watched the file behind his eyes get its tidy line — *bystander, nothing, next* — and he thanked me in a voice like a receipt and had me walked out, and standing in the sun outside the harbor office I finally shook, not from fear but from the other thing.
+He believes me faster than the lie deserves. I watch it land. He thanks me and has me walked out, and standing in the sun outside the harbor office I finally shake, not from fear but from the other thing.
 
-It's not charm. Charm doesn't work on men furnished like that. Something in my voice closes files. It has happened all my life — the train men, the gates, the checkpoint smiles — and now a gray suit, and I no longer believe the word for what I do is *polite*.
+It isn't charm. Charm doesn't work on men like that. Something in my voice makes people stop looking. It has happened all my life — the train men, the gates, the checkpoint smiles — and now a gray suit, and I no longer believe the word for what I do is *polite*.
 
-Kaito's is loud. Whatever it is I carry came quieter. That's as far as I let the thought run that day. There was too much else in the yard.
+Kaito's mouth makes people move. Whatever I carry makes them quiet. That is as far as I let the thought run. There is too much else from the yard still in my head.
 
 ---
 
-I don't sleep. The room has his futon in it, folded wrong the way he always folds it, and the shelf is empty where the cat used to sit, and I lie there running the whole summer back looking for the one sentence that would have changed anything.
+I don't sleep. The room has his futon in it, folded wrong, and the shelf is still empty, and I lie there running the whole summer back looking for the one sentence that would have changed anything.
 
 It is not a short list. If I'd said it on the sea wall at dusk, when he asked me if the hand looked like a choice. If I'd said it in the underpass dark the first night, when it was almost easy. I had a hundred openings and a true thing to say through every one of them — *it wasn't your fault, I saw the hand, nobody chooses that* — and I kept it. Last night at the gate I finally reached for it with the whole town screaming behind us, and I got two words out, and my honesty — my precious, useless, careful honesty — jammed the rest in my throat, because by then it had watched a man die on the end of my best friend's sentence and would not let me lie.
 
@@ -38,11 +38,11 @@ So I stop pretending, somewhere before morning, and pack.
 
 ---
 
-Hanae comes to Sugi's at first light. I will carry how she looked for the rest of my life, and I'm not describing it. She sits where Sugi puts her, holds the tea she doesn't drink, and asks me one question.
+Hanae comes to Sugi's at first light. I am not describing how she looks. She sits where Sugi puts her, holds the tea she doesn't drink, and asks me one question.
 
 Not about Jun. She's past questions about Jun; there's nothing about Jun anyone can tell her that the stones of the yard didn't.
 
-"Your friend," she says. "The loud one. Jun fed him all summer." Her thumb moves on the cup rim, once, twice. "He shouted when they — everyone else held still, and he shouted. And then the man who did it pointed his rifle at your friend and said something, and then the man was dead of his own hand." She looks up at me. Her eyes are two burned-out rooms, and somewhere at the back of one of them a lamp I wish I couldn't see is still moving. "You were there. Tell me what I saw."
+"Your friend," she says. "The loud one. Jun fed him all summer." Her thumb moves on the cup rim, once, twice. "He shouted when they — everyone else held still, and he shouted. And then the man who did it pointed his rifle at your friend and said something, and then the man was dead of his own hand." She looks up at me. "You were there. Tell me what I saw."
 
 Sugi's kitchen is absolutely silent. The kettle isn't on. She chose for it not to be.
 
@@ -52,9 +52,7 @@ And I do the thing. My shoulders drop. The soft steady voice comes up.
 
 She believes me. That is the horror. She is not a gray suit; she *wants* a shape she can live holding, and my voice hands her one, and I watch a little of the weight leave her shoulders — a mercy, a real one, built out of a lie so deep the whole roof of her grief now rests on it. She holds my hand at the door with both of hers and thanks me.
 
-And now I know the blackest thing about it yet: it works on the broken, too. Works best on them.
-
-I stand in the entryway a long time after she's gone, and this is the morning the world stops being a place that is failing and starts being a place that is *wrong*. Jun checked on his mother and the machinery shot him for the angle of his shoulders. The paper that would have saved him was mercy, criminalized. The man with the listening face files children by the meter, and the only tools that work — the only things I have watched actually bend this summer even one degree toward kindness — are a boy's mouth that kills and a boy's voice that lies.
+I stand in the entryway a long time after she's gone, and this is the morning the world stops being a place that is failing and starts being a place that is *wrong*. Jun checked on his mother and they shot him for the angle of his shoulders. The paper that would have saved him was mercy, and mercy is what they came to punish. The man with the listening face puts boys on maps by the meter, and the only tools that have bent anything this summer toward kindness are a boy's mouth that kills and a boy's voice that lies.
 
 Nobody is coming to fix any of this. I turn the sentence over every way I know, and I can't make it false.
 
@@ -88,18 +86,16 @@ She watches me pack the onigiri she made without being asked — the paper of st
 
 She fixes my collar like a grandmother, one pull, done.
 
-"That shelf stays empty," she says. "I am not filling it. So one of you has to come back and look at it eventually. That's not sentiment. That's a hook, and I'm baiting it, and you'll tell him so."
+"That shelf stays empty," she says. "I am not filling it. So one of you has to come back and look at it eventually. That's not sentiment and you'll tell him so."
 
 "I will."
 
 "Go, then. Before I invent a reason to feed you again."
 
-The plum tree over the wall. The lane, gray-gold, going about its morning with soldiers in it. At the edge of town the pairs are checking paper, and I hand mine over with my shoulders down and my voice soft, a boring boy on a family errand, and the soldier stamps me through while he's still reading — believes me faster than the lie deserves, again, always — and then the town is behind me and the herring road is under my feet, dust instead of salt, running inland between dry hills toward a water tower I can't see yet.
-
-One day behind. Maybe a day and a half, if she walks him hard.
+The plum tree over the wall. The lane, gray-gold, going about its morning with soldiers in it. At the edge of town the pairs are checking paper, and I hand mine over with my shoulders down and my voice soft, a boring boy on a family errand, and the soldier stamps me through while he's still reading and then the town is behind me and the herring road is under my feet, dust instead of salt, running inland between dry hills toward a water tower I can't see yet.
 
 I spend the first hour composing what I'll say when I catch him, and throw all of it away by the second. Every draft is a speech, and speeches are what I do instead of the thing. I have owed him one sentence since a vending-machine light outside Kōgetsu — six syllables — and it has only gotten heavier, and I am done offering substitutes.
 
 He told me it was his fault, and I let the town burn the last bridge before I argued.
 
-So: Kuroishi. Then wherever the road goes after Kuroishi. However far west there is, however long it takes — I am going to stand in front of Kurosawa Kaito, and I am going to finish the sentence.
+So: Kuroishi. Then wherever the road goes after Kuroishi. However far west there is, however long it takes — until I am in front of Kurosawa Kaito, and the sentence is finished.

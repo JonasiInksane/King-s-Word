@@ -50,7 +50,7 @@ Jun, twenty-three, with his mother behind him and his cousin's forged life sitti
 
 The rifle takes him through the chest.
 
-No warning past the two he'd had. No aiming beat you could point to. One crack, flat off the shrine wall, and the biggest gentlest man I've met since the world ended goes down onto the stones of the yard he was baptized in, and the sound Hanae makes bypasses every human word ever coined, and the crowd folds inward and outward at once — toward him, away from the rifles — and Jun coughs twice at the sky, at the camphor leaves, and stops.
+No warning past the two he'd had. No aiming beat you could point to. One crack, flat off the shrine wall, and the biggest gentlest man I've met since the world ended goes down onto the stones of the yard he was baptized in, and the sound Hanae makes bypasses every human word ever made, and the crowd folds inward and outward at once — toward him, away from the rifles — and Jun coughs twice at the sky, at the camphor leaves, and stops.
 
 He was checking on his mother. That is the movement they shoot him for.
 
@@ -64,21 +64,19 @@ He faces me. He hears me and *understands* me, and I hear and understand him, an
 
 "Why don't you shut up. Or better — why don't you just kill yourself."
 
-The words went out of me like a spine being pulled. My knees went. Blood came down over my lip, both barrels, and the taste in my mouth was a mouthful of coins, and the yard tipped sideways —
+The words go out of me like a spine being pulled. My knees go. Blood comes down over my lip, the copper fills my mouth, the yard tips sideways —
 
-— and the soldier turned the rifle under his own jaw and fired.
+— and the soldier turns the rifle under his own jaw and fires.
 
 I'm not describing it past the sentence. The rest lives behind my eyes, and it can stay there.
 
-The yard broke. Screaming, the crowd going in every direction at once, soldiers shouting cover and contact and pointing rifles at a threat that wasn't there, that was *me*, that they couldn't see — because who fired? The man fired at himself. Nobody knew what they'd witnessed. Except: at the table, the man in the gray suit stood very still in the middle of the smashing wave, hands over his ears — over his *ears*, in a yard where the shooting was finished — and his eyes went through the crowd like a hook through water, hunting, and what they were hunting was a mouth.
+The yard breaks. Screaming, the crowd going in every direction at once, soldiers shouting cover and contact and pointing rifles at a threat that isn't there, that is *me*, that they can't see — because who fired? The man fired at himself. Nobody knows what they've witnessed. Except: at the table, the man in the gray suit stands very still in the middle of the smashing wave, hands over his ears — over his *ears*, in a yard where the shooting is finished — and his eyes go through the crowd like a hook through water, hunting, and what they are hunting is a mouth.
 
-Somebody's hand closed on my arm. Sugi — I don't know how she crossed that yard at her age at that speed — Sugi, hauling me up off my knees with vinegar-stained fingers, shoving me lane-ward through the crush, and her face said *run* before her voice did.
-
-I ran.
+Somebody's hand closes on my arm. Sugi — I don't know how she crosses that yard at her age at that speed — Sugi, hauling me up off my knees with vinegar-stained fingers, shoving me lane-ward through the crush, and her face says *run* before her voice does.
 
 ---
 
-The lane past Orihara's, the drying-yard cut, the gap in the wall fence Jun showed me my first week so we could beat the lunch line. My body ran the town like it had been rehearsing the route all summer. Behind me the shrine kept screaming. My nose poured. Twice the world went gray at the edges and I ran through the gray.
+The lane past Orihara's, the drying-yard cut, the gap in the wall fence Jun showed me my first week so we could beat the lunch line. My body runs the town like it has been rehearsing the route all summer. Behind me the shrine keeps screaming. My nose pours. Twice the world goes gray at the edges and I run through the gray.
 
 Haru catches me at Sugi's gate.
 
@@ -102,14 +100,10 @@ Everything I have ever loved fits in one gateway. I turn and follow her at a run
 
 ---
 
-The ridge track in the dark, then. Roots and herring-cart stones, Mira's shape ahead of me, the cove dropping away behind until Nagihama was just a handful of lit grains spilled at the sea's edge, with three gray-green trucks parked in it.
+The ridge track in the dark, then. Roots and herring-cart stones, Mira's shape ahead of me, the cove dropping away behind until Nagihama is just a handful of lit grains spilled at the sea's edge, with three gray-green trucks parked in it.
 
-She lets us stop at the top, two minutes, water from the sack. She packed for two. I drink and my throat feels like a rope something heavy went down too fast, and I look at my hands in the dark and let the last truth of the summer arrive:
+She lets us stop at the top. Two minutes. She hands me water from the sack — she packed enough for both of us — and I drink while Nagihama stays lit below the ridge.
 
-A month of practice. All those nights, all that blood down the back of my throat, learning to make it clean — and it was never only for the buyer, or the yard, or even for the clean roof sentence that would have put her back on the concrete. Some part of me was always building toward a sentence with a man's whole life inside it. Tonight it came out clean. Perfectly clean. First throw.
+"We have to keep moving," Mira says from the dark ahead. Gentle. "You can grieve on your feet."
 
-It works. God help everyone in walking distance of my mouth — it works, and I know how, and the part of me I hate still lifted when it landed.
-
-"Move," Mira says gently, from the dark ahead. "Grieve walking. It's what there is."
-
-We move. West again. There is always more west.
+We move west again. There is always more west.

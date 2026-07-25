@@ -21,7 +21,7 @@
 | 7 | Practice | K | 2,388 | Gull test → *understand* rule; night-wall sentence drills (Harada's lantern); the refused test on Jun ("Jun doesn't get to be a rep" / the line's other edge is a permission); buyer test succeeds; Backwash on-page; Mira's Listener warning; *Bring her onto the roof and set her down* |
 | 8 | Drop It | H | 2,259 | Sato's shed/second paper; drying-yard rifles; "Drop it"/"Step back" witnessed; wild shot wounds Sato; Kaito's confession + help promise |
 | 9 | Kill Yourself | K | 2,172 | Three-truck sweep; Jun shot checking on Hanae; the lethal command; the Listener covers his ears; gate split ("It was. You saw it."); ridge track with Mira |
-| 10 | Toward Kuroishi | H | 2,228 | Listener interview (voice closes files); grief night; Hanae's question + the structural lie; Sato's paper; Sugi's hook; road out — "finish the sentence" |
+| 10 | Toward Kuroishi | H | 2,228 | Listener interview (voice makes people stop looking); grief night; Hanae's question + the structural lie; Sato's paper; Sugi's hook; road out — finish the sentence |
 
 ## POV structure (Part One)
 
@@ -38,7 +38,7 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 - **Sugi:** Nagihama. Heard the whole story over tea (Ch 4); empty shelf after the rite; let Haruki go with the choice talk.
 - **Jun:** DEAD (Ch 9, shrine yard). **Hanae:** believes Haruki's merciful lie. Haiga cousin alive off-page.
 - **Sato:** Alive, arm wounded, nerve cracked; stays and stamps.
-- **The Listener (gray suit):** Filed Haruki as nothing; hunting a mouth. Vol 2 hunter.
+- **The Listener (gray suit):** Believes Haruki is nothing; hunting a mouth. Vol 2 hunter.
 - **Kanzaki:** Off-page since roof. **Kuroda:** one live appearance (Ch 3 Loop, unnamed).
 - **Mika (H's mother):** Alive west of the line, relocated hospital, address unknown.
 - **Tōru:** Fate open after the line broke.
@@ -58,4 +58,4 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 
 ## Craft flags (carry into Vol 2)
 
-- Target band 1,400–2,200 (floor 1,000). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV blocks 2–4 ch per lead on separate roads; every block closes on a hook. No recap buttons, no bulletin speech, rumors labeled. No record/ledger/column narrator voice, no reader address (device removed — see rules).
+- Target band 1,400–2,200 (floor 1,000). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV blocks 2–4 ch per lead on separate roads; every block closes on a hook. No recap buttons, no bulletin speech, rumors labeled. No filing/ledger narrator voice, no reader address. Present tense from Nagihama on — no future-memory lines. Clean dialogue (full sentences, no telegram/epigrams).
