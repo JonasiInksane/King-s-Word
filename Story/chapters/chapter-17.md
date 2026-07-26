@@ -2,9 +2,9 @@
 
 The notice stays up seven days. On the third, Tanabe starts counting differently.
 
-He still pays me at sundown, coins into the palm, twice, but he doesn't look at me while he does it. The casual line at North Market thins by half before noon. Boys who used to wait by the fish trucks for overflow work aren't there. The ones who are have paper in their jackets and show it to each other like a joke that isn't funny.
+He still pays me at sundown, but he doesn't look at me while he does it. Before noon the casual line at North Market is almost gone — the boys who used to wait by the fish trucks for overflow work have cleared out, and the few who stay keep paper in their jackets and flash it at each other like they're not sure whether to laugh.
 
-On the fourth day a gray-green pair walks the roofed street with a notebook and stops at every cellar mouth. They don't take anyone. They write. Tanabe watches them pass his doorway with his pencil held so tight the wood creaks, and when they're gone he says, without looking at me, "Finish the mender's ward and come back. Don't take the noodle row today."
+On the fourth day a gray-green pair walks the roofed street with a notebook and stops at every cellar mouth. They don't take anyone; they write names and move on. Tanabe watches them pass his doorway with his pencil held so tight the wood creaks, and when they're gone he says, without looking at me, "Finish the mender's ward and come back. Don't take the noodle row today."
 
 "Why not?"
 
@@ -34,7 +34,7 @@ Riku is waiting outside with his hands in his jacket. He heard enough through th
 
 Minato is quieter that night. Thursday ceremony feels like a smaller room. Machi still feeds whoever comes, but fewer come, and the ones who do keep their eyes on the curtain. Gorō's beer is in its usual place. He isn't drinking it any more than usual, but he's talking more — low, for the counter, about the counting pairs and the hill and how every time this city gets sick the sickness starts with a clipboard.
 
-"They counted the docks," he says. "They counted the market. Next they count the bars that feed the hands they just made illegal." He taps the counter once, the old toll gesture with nothing to trade for. "I drove trams for forty years. I know when a line is being shortened. This isn't about labor. This is about finding out who doesn't belong on a page."
+"They counted the docks," he says. "They counted the market. Next they count the bars that feed the hands they just made illegal." He taps the counter once, the old toll gesture with nothing to trade for. "I drove trams for forty years. This isn't about labor. This is about finding out who doesn't belong on a page."
 
 "Keep your voice down," Machi says from the pots, not unkind. "I like this stool occupied."
 
@@ -54,7 +54,7 @@ Riku, beside me, has gone very still. "You shouldn't talk like that with the cur
 
 Machi sets a bowl in front of him that he didn't order. "Eat and shut up. Both of you — eat. The boy looks like a notice ate him."
 
-I eat. The broth is the same as every other night. It doesn't help as much as it used to.
+I eat. The broth is the same as every other night, but It doesn't help as much as it used to.
 
 ---
 
@@ -62,9 +62,7 @@ On the sixth morning the pairs are at North Market before the fish trucks. They 
 
 Riku finds me an hour's scrap work behind Station Plaza — sorting metal from a collapsed shed for a man who pays in the afternoon and doesn't ask where anyone slept. My hands come away gray. The two-fares knot stays in my cloth, untouched.
 
-That evening Gorō's stool is empty.
-
-Not early-empty. Not beer-waiting-empty. The stool is pushed in, and the beer that always stands sentry isn't there, and Machi is wiping the same stretch of counter in a circle that doesn't need wiping.
+That evening Gorō's stool is empty — pushed in, no beer standing sentry — and Machi is wiping the same stretch of counter in a circle that doesn't need wiping.
 
 "Where is he?" Riku asks, before I can.
 
@@ -72,7 +70,7 @@ Machi doesn't look up. "Two men in gray-green came at midafternoon. Not the coun
 
 "Walked where?"
 
-"He didn't say." She finally looks at us. Her eyes are dry and furious. "If he walked, he walked. If he didn't, there's nothing two boys can do at a desk that takes old men for talking. You sit down. You eat. You don't go asking at ward offices. Clear?"
+"He didn't say." She finally looks at us. Her eyes are dry and furious. "If he walked, he walked. If he didn't, there's nothing two boys can do at a desk that takes old men for talking. Sit down, eat, and stay away from the ward offices. Clear?"
 
 "Clear," Riku says.
 
@@ -86,14 +84,14 @@ After closing I wash bowls I didn't use and lie on the mat in the back room with
 
 Riku doesn't answer for a long time. Then: "Then the hill took him, and the hill takes people, and we don't get to go get them back with a handcart and a good attitude." He rolls onto his side, facing the wall. "Sleep anyway. Tomorrow we still need coins."
 
-I don't sleep. The notice and the closed cellar and the pushed-in stool keep turning over, and the old sentence from Nagihama comes back without me asking for it: the world isn't failing. The world is wrong. Nobody is coming to fix any of this. I try it the other way — somebody is coming, somebody has to be — and the second version won't stand.
+I don't sleep. The notice and the closed cellar and the pushed-in stool keep turning over, and that morning in Nagihama comes back without me asking for it — the world stopped being a place that was failing and started being a place that was wrong, and nobody is coming to fix any of this. I try it the other way — somebody is coming, somebody has to be — and that version still won't stand.
 
 In the morning Machi puts breakfast in front of us without asking. "His coat's gone from the hook. The good shoes too. So either they let him dress for a long ride, or he got a minute alone and took what he needed." She fills my cup. "I choose the second. You two choose whatever keeps you eating."
 
-Riku meets my eye across the counter. "Scrap yard again. Then we ask around the night market whether anyone's seen an old man in a cardigan walking north. Quietly."
+Riku finishes his rice and tips his chin at the curtain. "Scrap today. Tonight we ask the night market if anyone's seen a cardigan walking north. Quietly."
 
-"And if the pairs are at the night market?"
+"And if the pairs are there?"
 
-"Then we ask quieter." He finishes his rice. "Come on."
+"Then we ask quieter."
 
-I follow him out through the rope curtain. Behind us the stool stays empty. Ahead of us the city goes on counting hands.
+I look once at the empty stool. Then I follow him out.

@@ -3,17 +3,25 @@
 ## Concept
 In this world, the old belief in **kotodama (言霊)** — "word-spirit," the idea that spoken words carry real power — is literally true, but only faintly, and only for a rare few. Most "word-touched" people have a whisper of it: a salesman who's a little too convincing, a teacher whose "sit down" lands a half-second before anyone decides to.
 
-The **Ō no Kotodama** — the *King's Word* — is the apex strain. A royal bloodline power, thought extinct for three generations. When a King's Word carrier gives a direct command that another person **hears and understands**, that person's body obeys — whether they want to or not.
+The **Ō no Kotodama** — the *King's Word* — is the apex strain. A royal bloodline power, thought extinct for three generations.
 
-It is not persuasion. It is not hypnosis. In the beginning it is **grammar overriding will** — the *words* are the spell. But as a carrier grows, it becomes something worse: **will overriding will** — the *intent* is the spell, and the words are only the trigger that carries it. That shift is the arc of the whole power (see Rule 2).
+**Three grades (locked — see `old-world-seal.md`):**
+- **I — People-command (live now):** A direct command that another person **hears and understands** — body obeys. What the boys have; what FDC hunts.
+- **II — Thing-command (mid volumes, sooner than III):** Inanimate matter and local physical law begin to listen — doors, weapons, **bullets**, falling stone. *"Stop"* aimed at a round can freeze it mid-air (gravity/momentum overruled). Bridge grade. Brutal Backwash. Not cosmology yet.
+- **III — World-command (Vol 5+):** A worthy / matured Voice — **everything** listens (reality's shape, Seal, kai-relations). How the sealed world was made / can be unmade. Do not teach on-page early.
+
+Grade I arc still holds: early = **grammar overriding will**; growing = **will overriding will** (Rule 2). Grades = *what can hear*; Intent = *how the wish lands*. Do not skip II.
 
 ---
 
 ## The Rules (the "physics" — keep these consistent)
 
-1. **Heard + Understood.** The target must both *hear* the command (with their ears — it is sound, not telepathy) and *understand its meaning* in a language they know. Earplugs, deafness, a foreign language, or a wall thick enough to muffle the words all break it. Whispering to yourself does nothing.
+1. **Heard + Understood (Grade I).** Against people, the target must both *hear* the command (sound, not telepathy) and *understand its meaning* in a language they know. Earplugs, deafness, a foreign language, or a muffling wall break it. Whispering to yourself does nothing.
 
-1b. **Living minds only — objects never obey.** The Word compels *will*; a thing without a will cannot be commanded. Doors, locks, machines, fire, weather — all deaf to it. "Drop it" works because it commands the *person holding* the thing; "open" does nothing to a padlock but everything to the watchman with the key. A carrier who wants through a door must find whoever owns it. (This is the horror in miniature: the power has no workaround that isn't a person.)
+1b. **What can hear — by grade.**
+   - **Grade I (live now):** Living minds only. Objects never obey. "Drop it" commands the *holder*; "open" does nothing to a padlock — find the watchman with the key. This is the horror in miniature: no workaround that isn't a person.
+   - **Grade II (mid volumes):** Inanimate matter + local law listen. The Word no longer needs a mind that "understands" language — the carrier's spoken command binds the *thing* / the *motion*. Signature: *"Stop"* at a bullet and the round stops; a blade hangs; a collapsing beam holds for a breath. Cost is savage. Range short; duration short unless held. Mis-aimed Grade II still risks Grade I bleed (people nearby who hear "Stop" may freeze too — scope carefully).
+   - **Grade III (Vol 5+):** Reality's shape listens. Seal / world-edit territory. See `old-world-seal.md`.
 
 2. **The Literal → Intent spectrum — the curse at the heart of the story.** How the Word interprets a command depends on how *strong* the carrier is. This is the single most important rule; it drives both the tragedy and the corruption arc.
    - **Weak / untrained (where both boys begin):** the Word obeys the *words spoken*, not the intent behind them. The body parses the sentence like a cruelly literal machine. The carrier's own meaning is irrelevant — only the surface grammar reaches the target.
@@ -31,31 +39,33 @@ It is not persuasion. It is not hypnosis. In the beginning it is **grammar overr
 
 4. **Directness.** It must be a genuine command aimed at a person, in the imperative. Questions, wishes, and descriptions don't trigger it. "I wish you'd stop" does nothing. "Stop" does everything. (At the apex/intent stage this softens: a strong carrier's phrasing can be less strictly imperative, because the Word is reading the *demand under the words*.)
 
-5. **Duration & release.** Simple commands resolve instantly ("sit"). Sustained commands ("stay") hold until (a) the carrier releases it, (b) the target physically cannot continue (collapse), or (c) enough time/distance/muffling erodes the link. A command can't force the impossible — "fly" just makes someone strain upward and fall.
+5. **Duration & release.** Simple commands resolve instantly ("sit"). Sustained commands ("stay") hold until (a) the carrier releases it, (b) the target physically cannot continue (collapse), or (c) enough time/distance/muffling erodes the link. **Grade I:** a command can't force the physically impossible for a body — "fly" just makes someone strain upward and fall. **Grade II:** local impossibility is exactly the point (stopped bullet, hanging blade) — brief, costly, not free physics rewrite of a whole district. **Grade III:** district-and-up is the risk.
 
-6. **Scale = volume + carriers heard.** A quiet word bends one nearby person. A **shout** in a crowd where everyone hears it can bend a *crowd* at once. This is why the calamity/military value it: one voice, an army's worth of obedience.
+6. **Scale = volume + carriers heard (Grade I).** A quiet word bends one nearby person. A **shout** in a crowd where everyone hears it can bend a *crowd* at once. Militaries value it. Grade II scales by how much matter/motion the shout binds, not by how many ears understand. Grade III: `old-world-seal.md`.
 
 7. **Cost — the Backwash (反響, hankyō, "echo").** Using the Word costs the carrier. Small commands: a nosebleed, a splitting headache, a day of their own voice going hoarse or briefly *muted*. Large, muddy, or repeated commands cost more — vague sentences the Word must strain to interpret bleed the carrier harder than clean ones. Long-term: the carrier's own will erodes — they start to speak in commands reflexively, lose the softness in their voice, and (eventually) the empathy behind it. **The corruption arc is mechanically grounded here:** the more Kaito uses it, the more the Word uses him back — *and* the further he climbs the Literal→Intent spectrum, so his darkening intent becomes the thing his power obeys.
 
-8. **No command over the willing-blank.** Someone with no mind to override in the moment — deeply unconscious, or the Pact's *kai* which may not "understand" human language — can be immune. This is a plot lever for later.
+8. **No command over the willing-blank / kai (early grades).** Someone with no mind to override — deeply unconscious — can be immune at Grade I. **Kai** sit outside Grade I and usually Grade II (they are not ordinary matter or sealed-world minds). A carrier cannot simply shout them away with people- or thing-command. Deliberate limiter until/unless Grade III changes the rules.
 
 ---
 
 ## The One Throne (一座) — metaphysics
 - The King's Word is the power that **rules the world**. There should normally be **only one** carrier — one throne, one Voice.
-- Haruki + Kaito existing together is the anomaly (split-inheritance / Amatsu twist; see `plot-outline.md`).
-- Factions that understand this (Amatsu, Chinmoku, Kuroda) all treat "two Voices" as either a miracle, a crisis, or a harvest.
+- Full grade = **III / world-command**. Grade II (things/laws) is the audible crack before that. The sealed modern world is residue of a Grade-III reshape gone wrong — see `old-world-seal.md`.
+- Haruki + Kaito existing together is the anomaly (split-inheritance / Amatsu twist; see `plot-outline.md`). Two half-Voices may be the only safe (or only possible) key to Grade III — or the reason neither should do it alone.
+- Factions that understand pieces of this (Amatsu, Chinmoku, Kuroda) treat "two Voices" as miracle, crisis, or harvest.
 
 ## Rewrite (改言 / Kaigon) — Kuroda Ren's power (BIBLE; not yet named on-page)
-Innate, permanent, always his — he keeps it even if he somehow wins the throne / the Voice.
+Innate, permanent, always his — he keeps it even if a Voice claims the throne.
 - **What it does:** Edits a spoken sentence before it finishes landing — change a word, a target, a verb. Example: "Let her go" → "hold her" / "let *him* go."
 - **Constraints:** Must hear the utterance in progress (same Heard constraint). Cannot invent a King's Word command from silence — he **revises**, he does not originate compulsion. Smaller edits cost less; rewriting a shout mid-air costs more.
-- **Story role:** Weapon for clearing rivals and owning *meaning*. Stacks nightmarishly if he also ever holds the King's Word. Deniable tells early (crowd hears the "wrong" word for a beat) before any reveal.
-- **Not his kit:** Crown-Claim / Word-Thief / pure nullify-as-identity. See `characters.md` (Kuroda Ren).
+- **Cosmic cost (LOCKED):** At the hinge when a true Voice tried to reshape the living world, Kuroda's Rewrite interfered. The edit stuck as the **Seal** — modern world in, old world out. He did not mean to lose his family / home; Rewrite also made him **unable to forget** the pre-edit world. See `old-world-seal.md`, `characters.md`.
+- **Story role (early):** Deniable tells (crowd hears the "wrong" word for a beat); quiet shaping of both boys through Grade I → **II**. **(Late / Vol 5):** End-boss who forces reversion once they reach Grade III.
+- **Not his kit:** Crown-Claim / Word-Thief / pure nullify-as-identity.
 
 ## Why it's hidden and feared
-- The old sovereign house (see `factions.md`, the **Amatsu remnant**) ruled by the Word for centuries — a monarchy of literal obedience. It ended in an atrocity now scrubbed from textbooks: a king's careless sentence that killed a city. After that, the bloodline was hunted to "extinction."
-- The **Chinmoku Order (沈黙, "Silence")** exists to find and neutralize any resurgence. Their creed: *a voice that cannot be disobeyed cannot be allowed to speak.* They are the anti-kotodama, and thematically the story's hunters. (**Kuroda may wear their colors; he is not their loyal dog** — own agenda.)
+- Public textbook story (partial / scrubbed): the old sovereign house (**Amatsu**) ruled by the Word; an atrocity ended it; bloodline hunted to "extinction." Useful cover — keep using it on-page as what people believe.
+- Deeper truth (Vol 5): the atrocity and the Seal are tangled with a **world-reshape** and Kuroda's unwilling edit — not only a city-killing sentence. Chinmoku's real job skews toward **keeping the seal** (Silence as lock), not only hunting mouths. Creed still fits: *a voice that cannot be disobeyed cannot be allowed to speak.*
 - Because everyone believes the line died out, two ordinary Kōgetsu boys carrying it is impossible — which is exactly why nobody, including the boys, suspects it.
 
 ---
@@ -68,5 +78,6 @@ The reader should *feel* something is off; no one in-story should name it yet.
 
 ## The mystery threads (for later payoff)
 - **Why two commoner boys?** Not coincidence. (See `plot-outline.md` — the **split inheritance**: the last heir's Word divided and hidden in two infants during the purge.)
-- **What are the *kai*?** Their possible immunity to the Word, and their origin, tie back to what the old king's atrocity actually unleashed.
-- **The birthday.** The calamity striking on Ryn's 16th is drawn to a Word *awakening* — proximity, or a threshold the boys are about to cross.
+- **What are the *kai*?** LOCKED — bleed-through from the sealed-out old world; Word-immune under Grades I–II. Full reveal ~Vol 5 (`old-world-seal.md`). Early: symptoms only.
+- **The birthday.** The calamity / bleed striking on Ryn's 16th is drawn to a Word *awakening* — the seal flexes toward a living Voice.
+- **Reshaped by whom?** Kuroda's question (Ch 18) is the series thesis — paid as cosmology in Vol 5, not answered cheaply before.

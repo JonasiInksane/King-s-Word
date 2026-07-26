@@ -48,6 +48,7 @@ Aim for the propulsion of `assets/example-chapter-1`: **story in clear sentences
 - **Naming:** Japanese order Surname Given. Prose uses first names for the trio.
 - **Spelling:** **gray-green** in prose.
 - **Prologue restraint:** no Word-naming to the boys, no sentence-craft lesson, no Literal→Intent teaching. Soft fork only.
+- **Seal / old-world restraint (hard):** no naming the Seal, old living world, world-command, or Kuroda-as-cause on-page before **Vol 5**. Symptoms and questions only (`lore/old-world-seal.md`).
 
 ### Hard rules (AI + drafting)
 
@@ -66,8 +67,9 @@ README.md                 <- you are here (POV + style live here)
 PROGRESS.md               <- living continuity (rewrite from scratch)
 lore/
   world.md                <- places, geography, daily texture
-  magic-kings-word.md     <- Word rules + Rewrite
-  factions.md             <- nations / orders / war
+  magic-kings-word.md     <- Word rules + Rewrite + 3 grades (people / things / world)
+  old-world-seal.md       <- Vol 5+ cosmology (Seal, kai, Kuroda cause) — NO early dump
+  factions.md             <- nations / orders / war / Kuroda long game
   characters.md           <- bios, voices, secrets (not POV schedule)
   plot-outline.md         <- arc spine; post-prologue rebuilds here
 chapters/                 <- live blank-page drafts only

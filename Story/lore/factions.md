@@ -1,12 +1,14 @@
 # Factions & Politics — Why the War Rages
 
 ## The short version
-A modern federation (home) is losing a war of attrition to an eastern power that fields human soldiers **and** inhuman *kai*. Underneath the visible war is a hidden one: a secret order and a scattered royal remnant both racing to control the resurgence of the King's Word. The visible war is partly a smokescreen — and a dragnet — for the hidden one.
+A modern federation (home) is losing a war of attrition to an eastern power. Underneath: a secret order and a scattered royal remnant racing over the King's Word. **Deeper still (Vol 5):** the modern world is a **Seal** over a larger living world; *kai* are bleed-through; Kuroda is the unwilling cause of the Seal and the end-boss who wants reversion. See `old-world-seal.md`.
+
+Surface politics stay true for Vol 1–4 prose. Do not dump Seal cosmology early.
 
 ---
 
 ## 1. The Kirisaki Federation (霧咲連邦) — HOME
-**What they are:** A modern, bureaucratic, media-saturated democracy-in-name. Prosperous west, sacrificial east. Runs on managed information and the fiction that the war is "contained."
+**What they are:** A modern, bureaucratic, media-saturated democracy-in-name. Prosperous west, sacrificial east. Runs on managed information and the fiction that the war is "contained." (Life inside the Seal — they don't know that.)
 
 **What they want:** To hold the line without admitting how badly they're losing, and to keep the west calm and productive.
 
@@ -20,52 +22,69 @@ A modern federation (home) is losing a war of attrition to an eastern power that
 
 ---
 
-## 2. The Meikai Pact (冥界協約) — THE INVADER
-**What they are:** An eastern coalition that broke a decades-old ceasefire. They field conventional forces *and* the **kai (怪)** — the "Anomalous Materiel." Where the Pact advances, cities like Haiga and Kuromori don't just fall; they're *changed*.
+## 2. The Meikai Pact (冥界協約) — THE INVADER (surface)
+**What they are (what the sealed world believes):** An eastern coalition that broke a decades-old ceasefire. They advance with conventional forces through wards that go wrong — Haiga, Kuromori. News calls the inhuman side **Anomalous Materiel**; people say **kai (怪)**.
 
-**What they want:** Publicly, territory and resources. Actually (later reveal): they are following something — drawn west toward Kōgetsu, toward the same awakening the calamity chases. The Pact may know what the boys are before the boys do.
+**What they want (surface):** Territory and resources.
 
-**The kai:** Not fully explained early. Glimpsed on TV, in refugees' accounts. Possibly immune to the King's Word (they don't "understand" human speech), which makes them the one enemy a carrier can't simply command away — a deliberate limiter on the protagonists' power.
+**Deeper (Vol 5 — supersedes "Pact fields monsters as weapons"):** The war is partly **seal pressure**. Kai are bleed-through from the sealed-out old world, drawn toward Voice awakenings. Meikai may be herding / following / exploiting that pressure without fully owning its origin — or may know more than the Federation. Keep open which leaders understand the Seal; early prose treats them as the eastern enemy on the news.
 
-**Story role:** The external apocalypse. The weather that finally breaks over Kōgetsu at the end of Chapter 2.
+**Kai:** Bleed-through beasts / old-world laws. Word-immune under people-command. Cities "change" where they linger. Full ontology: `old-world-seal.md`.
+
+**Story role:** External apocalypse / horizon pressure. Roof night (Ch 3) is bleed answering an awakening.
 
 ---
 
-## 3. The Chinmoku Order (沈黙, "Silence") — THE HUNTERS
-**What they are:** An ancient, deniable order that predates the Federation. Founded after the old king's atrocity with one mandate: ensure the King's Word never speaks again. Their agents take a vow of literal silence in the field and communicate by sign and text — because they, of all people, understand that a command overheard is a leash.
+## 3. The Chinmoku Order (沈黙, "Silence") — THE HUNTERS / SEAL-KEEPERS
+**What they are:** An ancient, deniable order. Public creed: ensure the King's Word never speaks again. Agents take a vow of literal silence in the field and communicate by sign and text.
 
-**What they want:** Detect, verify, and neutralize any resurgence of the Ō no Kotodama. "Neutralize" is deliberately ambiguous — sever, seal, or kill.
+**What they want (surface):** Detect, verify, neutralize any resurgence. "Neutralize" deliberately ambiguous — sever, seal, or kill.
 
 **Creed:** *"A voice that cannot be disobeyed cannot be allowed to speak."*
 
-**Story role:** The thematic antagonist — Silence versus the Voice. They will come for Haruki and Kaito once the awakening is undeniable. Morally gray: they are not wrong that an unchecked King's Word is a catastrophe.
+**Deeper (Vol 5):** They are half-right. Silence is also a **lock on the Seal**. An unchecked world-command Voice could reopen the old world — or break this one. Morally gray: protecting the sealed world's living people *and* burying the truth of what was lost.
 
-**Note — Kuroda Ren:** May appear Chinmoku-adjacent in the field (stillness, phone/sign, hunt posture). He is **not** a loyal Order dog. Own agenda: claim the One Throne / sole Voice for himself. Power: Rewrite (改言). See `characters.md`, `magic-kings-word.md`.
+**Story role:** Thematic antagonist — Silence versus the Voice. Come for the boys once the awakening is undeniable.
+
+**Note — Kuroda Ren:** May wear Chinmoku-adjacent stillness (phone/sign, hunt posture). He is **not** their loyal dog. See below / `characters.md` / `old-world-seal.md`.
 
 ---
 
 ## 4. The Amatsu Remnant (天津) — THE FALLEN CROWN
-**What they are:** Scattered descendants and loyalists of the sovereign house that once ruled by the Word, hunted to supposed extinction. Now a frayed underground — some seeking restoration, some seeking only survival, some seeking revenge on the Order that erased them.
+**What they are:** Scattered descendants and loyalists of the sovereign house that once held the Voice, hunted to supposed extinction. Frayed underground — restoration, survival, revenge, and (later) split over **whether the sealed world should stand**.
 
-**What they want:** To find and protect (or use) any new carrier. To them, Haruki and Kaito are either princes or weapons — and the Remnant itself is split on which.
+**What they want:** Find and protect (or use) any new carrier. Haruki and Kaito are princes or weapons depending on the cell.
 
-**The hidden link:** The reason two *commoner* boys carry the Word traces back to the Remnant's desperate acts during the purge (see `plot-outline.md`). They are the faction that knows *why* the boys exist.
+**The hidden link:** Two *commoner* boys carry the Word because of Remnant acts during the purge (split inheritance — `plot-outline.md`).
 
-**Story role:** The wildcard. Rescuers who might also be recruiters. The source of the story's biggest identity twist.
+**Deeper (Vol 5):** Some cells want the old living world back; some want the king's tame sealed world forever. Mira's later ideology can lean "reshape" without knowing she's walking Kuroda's preferred road.
+
+**Story role:** Wildcard. Identity twist. Later, a factional mirror of the keep-vs-revert war.
+
+---
+
+## 5. Kuroda Ren + two coats — SECRET END-BOSS (~Vol 5)
+Not a national faction. A man, a Rewrite, and two silent companions.
+
+- **Cause of the Seal** (unwilling): interfered with a world-reshape; edit stuck; family/home on the wrong side of memory.
+- **Want:** Revert the world. Anything necessary once the boys reach Grade III (world-command). Farms Grade II (things/laws) as the bridge.
+- **Method (Vol 2–4):** Feed ideals; help both boys behind the screen; shape power; do not explain the old world; do not look like the villain yet.
+- Full lock: `old-world-seal.md`, `characters.md`.
 
 ---
 
 ## Local: Susuichi smuggler code (Vol 4 — not a national faction)
 Dark-market ethics in **Susuichi (煤市)**: debts, silence-for-hire, thin law, thick code (don’t burn the market; don’t sell kids; pay what you swear). Hosts Vol 4 branch days. May shelter or sell Voices depending on debt — neither Chinmoku nor Remnant owns the town cleanly. See `world.md`.
 
-## The three-layered conflict (how it fits together)
+## The layered conflict
 ```
-LAYER 1 (visible):   Federation  vs  Meikai Pact        — the war on the news
-LAYER 2 (hidden):    Chinmoku Order  vs  Amatsu Remnant  — the secret war over the Word
-LAYER 3 (personal):  Haruki  vs  Kaito                   — the friendship the whole thing breaks
+LAYER 1 (visible):   Federation  vs  Meikai / kai pressure     — the war on the news
+LAYER 2 (hidden):    Chinmoku (seal)  vs  Amatsu Remnant       — who owns Voices
+LAYER 3 (personal):  Haruki  vs  Kaito                         — which love / which world
+LAYER 4 (Vol 5):     Keep the Seal  vs  Revert the old world   — Kuroda forces the question
 (+ local Susuichi code in Vol 4 — refuses to be anyone’s clean property)
 ```
 Every faction's real objective eventually converges on the same two boys. The war the world is fighting and the war for the boys' souls are the same war — the characters just don't know it yet.
 
 ## Politics in Chapters 1-2
-Kept ambient and deniable: news chyrons, a J-Alert chime, a refugee classmate from Haiga, an FDC recruitment poster, a single silent stranger in a train car — that stranger is **Kuroda Ren** wearing Chinmoku-adjacent stillness (see `characters.md`; planted, never explained on-page). The reader collects pieces; no character lectures.
+Kept ambient and deniable: news chyrons, a J-Alert chime, a refugee classmate from Haiga, an FDC recruitment poster, a single silent stranger in a train car — that stranger is **Kuroda Ren** (see `characters.md`; planted, never explained on-page). The reader collects pieces; no character lectures.

@@ -29,7 +29,9 @@ Part One (Ch 1–10) is live; Volume 2 onward is planned below and stays flexibl
 **Known long engines (keep):**
 
 - **A-plot:** Kaito's descent (grief + vow; Mira arrives friendly and only later recruits as she witnesses his power).
-- **Secret B-plot / end-boss:** **Kuroda Ren** — innate **Rewrite (改言)**; wants the One Throne. Edge meetings → later unrecognized contact with Haruki → endgame.
+- **Secret B-plot / end-boss (~Vol 5):** **Kuroda Ren** — innate **Rewrite (改言)**; unwilling cause of the **Seal**; feeds both boys' ideals/powers behind the screen; pushes **Grade I → II → III** (people → things/laws → world); reveals as villain at Grade III; wants **reversion**. Canon: `old-world-seal.md`. Edge meetings (Ch 3, Ch 18 live) → quiet shaping → Vol 5 reveal.
+- **Word grades:** I people (live) → II things/laws mid-series (bullet *"Stop"*) → III world ~Vol 5. See `magic-kings-word.md`.
+- **Cosmology (Vol 5):** Keep the sealed world vs revert the old world (beasts, wider laws). Who decides = who can make the world listen — theme refuses a clean answer. Hint only before Vol 5.
 - **Geography seeds** (from `world.md`, not chapter locks): Nagihama → inland road → Takamatsu → Shizuhara → Ashiro / Susuichi / Kurohata as needed.
 
 ### Clean-rewrite pass (2026-07-24) — current live plan
@@ -80,11 +82,26 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 
 ## Planted twists (carry forward)
 
-1. **The calamity is drawn to an awakening, not random.** Seed in prologue (timing; Kanzaki's watch).
-2. **The military hunts word-bearers; the war is partly a dragnet.** Seed: FDC, Kanzaki.
-3. **Two commoner boys share an extinct royal power.** Seed: matching birthmark. Payoff: split inheritance / Amatsu.
-4. **Silence hunting the Voice is not purely villainous.** Order half-right — later.
+1. **The calamity / bleed is drawn to an awakening, not random.** Seed in prologue (timing; Kanzaki's watch). Payoff: seal flexes toward Voices (`old-world-seal.md`).
+2. **The military hunts word-bearers; the war is partly a dragnet / seal pressure.** Seed: FDC, Kanzaki, kai on the horizon.
+3. **Two commoner boys share an extinct royal power.** Seed: matching birthmark. Payoff: split inheritance / Amatsu — possible key to world-command.
+4. **Silence hunting the Voice is not purely villainous.** Chinmoku half-right — seal-keepers as well as hunters (Vol 5).
 5. **Haruki's "gentle" Word is not safe — it's just slower.** Seed: people agree with him.
+6. **Reshaped by whom?** Kuroda (Ch 18) — series thesis. Cosmology + moral war pay ~Vol 5. Do not answer cheaply.
+7. **Kuroda caused the Seal (unwilling) and will force reversion.** Seed: kindness, ideals talk, two coats. Reveal when powers mature — not when he first looks strange.
+
+---
+
+## Volume sketch (post–Vol 2 — flexible until written)
+
+| Vol | Working name | Engine (skeleton) |
+|-----|--------------|-------------------|
+| 2 | The Question | Live plan above — clash; "Go home."; Kuroda question planted |
+| 3 | Shizuhara / detention | Hunter pressure; found-family cost; still no Seal dump |
+| 4 | Road / Susuichi | Mira contacts; Remnant; Kuroda quiet help continues; kai pressure rises |
+| 5 | The Seal / Whom | Old world truth; Kuroda villain reveal; keep vs revert; who decides; **Kaito's revert lean baited by possible Ryn return** (not proven cheap) |
+
+Hint discipline: symptoms every volume; **names and lectures only in Vol 5.**
 
 ---
 
@@ -94,12 +111,14 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 - Casual *let* / imperatives before the roof so the fatal line is the same language weaponized.
 - Soft fork before hard fork.
 - Boys ignorant of the *name* into early Part One; reader one step ahead.
+- No old-world / Seal / world-command dump before Vol 5.
 
 ---
 
 ## Open questions
 
-- Volume chapter counts / titles after prologue
+- Volume chapter counts / titles after Vol 2
 - Guest POV slate per volume
-- Latent Ryn thread? (door cracked)
-- What exactly are the kai, and why Word-immune?
+- Latent Ryn thread — **cracked open for Vol 5+:** unsealing / world-command as possible path to bring her back (bait for Kaito's revert; may be true, partial, or a lie). Not mid-series resurrection.
+- Exact beat of Kuroda's original Rewrite (who spoke the world-sentence; what word he changed) — lock when writing Vol 5
+- Ending path: keep / revert / third way (stabilize bleed) — prefer forced onto the boys, not Kuroda's clean win; Ryn-bait must not make revert morally free

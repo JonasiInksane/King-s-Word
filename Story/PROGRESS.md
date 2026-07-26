@@ -4,9 +4,9 @@
 
 ## Status
 
-- **Written (live): Part One complete — Ch 1–10. Vol 2 — Ch 11–18 (Haruki Takamatsu block closed).**
+- **Written (live): Part One complete — Ch 1–10. Vol 2 — Ch 11–20.**
 - **Plan:** `lore/plot-outline.md` clean-rewrite tables (Part One 10 ch, Volume 2 ~13 ch ending on the clash).
-- **Next:** Ch 19 (The Break-In — Kaito camera, time-jump to same day as the warehouse news; established life as status quo, then the break-in on-page). Salvage from `archive/cut/` East Yards pin as needed.
+- **Next:** Ch 21 (Near-miss braid — hunter closes; both pairs cross the same night).
 
 ## Chapters (live)
 
@@ -30,6 +30,8 @@
 | 16 | The City That Works | H | 1,848 | Tanabe route (voice tell — the "no" dissolves; Riku's wet-umbrella look); Gorō's counter map + hill grudge; false dock lead dies; Thursday ceremony, door rehung; stance lesson ("you are expected"); two-fares knot; close: labor-registration notice, seven days — "That's aimed at us" |
 | 17 | The Squeeze | H | 1,540 | Deadline tightens; Tanabe drops unregistered hands; Gorō talks hill too loud, taken midafternoon ("tell anyone he walked"); coat+shoes gone — Machi chooses fled; despair beat lands ("nobody is coming to fix any of this"); night-market ask planned |
 | 18 | The Listener at the Bar | H | 1,790 | Unnamed coat-man (Kuroda) at Minato; alley: ideals talk, **"Reshaped by whom?"** / "I don't know yet"; two silent coats collect him; dock-runner news — east warehouse break-in, guard opened the door / never saw; Haruki knows the Word shape; heads there with Riku |
+| 19 | The Break-In | K | 1,817 | Time-jump status quo (tool-shop roof, fever lie, no-Word law, Minato shifts); hill kitchen pull; Word on gate guard — open / never saw; copper paid; Mira names first contact (rail sheds); walk toward meeting |
+| 20 | Kaito's Silence | K | 1,641 | Contact meeting (night hauls; Listener in city); three days silent work; Machi rice-to-go; Listener walks yard road (well + gate + Minato); Mira meets contact alone — favor bought for a move; Kaito demands to know before they pay it |
 
 ## POV structure (Part One)
 
@@ -37,42 +39,40 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 
 **Narration (locked 2026-07-24):** No frame, no listener, no "record/ledger" narrator voice, no reader address. Past tense through Ch 4's arrival at Sugi's door; present tense from Nagihama onward. Rare quiet hindsight only.
 
-## Cast state (end Ch 18)
+## Cast state (end Ch 20)
 
-- **Haruki:** No papers, no Tanabe route. Minato still feeds/houses him. Despair sentence landed hard after Gorō. Met unnamed coat-man (Kuroda) — "Reshaped by whom?" / "I don't know yet." Recognized Kaito's Word-shape in east-warehouse break-in rumor; walking there with Riku at chapter close. Goal unchanged: finish the sentence — now with a live trail shape again.
-- **Kaito:** Camera dark since Ch 12. Off-camera action implied by Ch 18 rumor (warehouse door / guard never saw). On-page next in Ch 19 (break-in day, time-jumped established life).
-- **Mira:** With Kaito, off-camera. Surfaces Ch 19–20.
-- **Nakahara Riku:** Still with Haruki. Scrap work; night-market Gorō ask; angry Haruki followed the coat alone; coming to the warehouse. Still does not know Haruki is a carrier.
-- **Machi (Minato):** Paid the squeeze beat — watched Gorō taken; chooses "he walked"; warned boys off ward offices; pointed them to the back alley for the warehouse run.
-- **Gorō:** Taken midafternoon by gray-greens for talking hill; told Machi to say he walked; coat + good shoes gone from the hook (fled or dressed for a ride — open, do not kill off-page). Stool empty.
-- **Tanabe:** Dropped Haruki before the form deadline — "I never had one." Still in the cellar.
-- **Kuroda (unnamed on-page):** Second live appearance (after Ch 3 Loop). Minato corner; alley ideals talk; "Reshaped by whom?"; one-voice line; collected by two silent coats. Face still won't stick.
-- **Ryn:** Dead (Ch 3). The cat went to the sea at the rite; Sugi's declared hook is the **empty shelf** where it sat.
-- **Sugi:** Nagihama. Heard the whole story over tea (Ch 4); empty shelf after the rite; let Haruki go with the choice talk.
-- **Jun:** DEAD (Ch 9, shrine yard). **Hanae:** believes Haruki's merciful lie. Haiga cousin alive off-page.
-- **Sato:** Alive, arm wounded, nerve cracked; stays and stamps.
-- **The Listener (gray suit):** Believes Haruki is nothing; hunting a mouth. Vol 2 hunter.
-- **Kanzaki:** Off-page since roof. **Kuroda:** one live appearance (Ch 3 Loop, unnamed).
-- **Mika (H's mother):** Alive west of the line, relocated hospital, address unknown.
-- **Tōru:** Fate open after the line broke.
+- **Haruki:** Last on-page Ch 18 — heading to east warehouse with Riku. Off Kaito camera; braid next (Ch 21). Goal unchanged: finish the sentence.
+- **Kaito:** Live. Tool-shop roof; fever lie; broke no-Word law at warehouse gate (Ch 19); night hauls; refused Word when Listener walked the yard road (Ch 20); wants Mira's favor named before they pay it.
+- **Mira:** First contact live (unnamed, rail sheds). Steering harder; met contact alone; bought a ward-move with an unnamed favor.
+- **Listener:** In Takamatsu — linking Kuroishi well + warehouse gate; aiming at Minato. Not seated there yet.
+- **Nakahara Riku:** With Haruki (pending braid). Still doesn't know about carriers.
+- **Machi:** Both shift-crowds; rice-to-go for Kaito/Mira; Gorō's stool empty; warned about suits.
+- **Gorō:** Still "walked" / missing. Do not kill off-page.
+- **Tanabe:** Dropped Haruki (Ch 17). Still in the cellar.
+- **Kuroda:** Live Ch 3 + Ch 18 only; off this block. Seal/cause = Vol 5 bible.
+- **Ryn:** Dead (Ch 3). **Sugi:** Nagihama, empty shelf. **Jun:** Dead. **Hanae:** has the lie. **Sato:** stays and stamps.
+- **Kanzaki:** Off-page since roof. **Mika / Tōru:** fates open.
 
 ## Open threads
 
 1. The six syllables — Haruki owes the finished sentence; stated chase goal (Ch 10).
 2. Birthmark match — Haruki knows, withholds (Ch 4). Kaito doesn't know they match.
-3. The Listener — one entry per boy in his file; hunts the trail in Vol 2.
+3. The Listener — in Takamatsu (Ch 20); well + gate linked; Minato next. Still thinks Haruki is nothing.
 4. Kanzaki's "we've been looking for you two for a very long time" — unexplained.
-5. Kuroda's phone screen on the Loop (Ch 3) — still unexplained; bar/alley meet paid (Ch 18) — "Reshaped by whom?" / one-voice line / two silent coats. Face still won't stick; Rewrite unshown.
-6. Mira's cracks — pre-packed sack, ridge route, driver intelligence; contacts surface in Vol 2 (Ch 19+).
+5. Kuroda — phone (Ch 3); alley (Ch 18). Long game locked Vol 5. Do not dump early.
+6. Mira's contact + unnamed favor (Ch 19–20) — ward-move price; Kaito not told yet.
 7. Sugi's hook — empty shelf; "one of you has to come back and look at it eventually."
 8. Kaito's untested self-cost (Ch 7) — he refuses to Word himself and fears what the weight takes when it leaves; Backwash door left open, unexplained.
-9. Haruki's despair thread — landed Ch 17; answered (not resolved) by Kuroda's "Reshaped by whom?" in Ch 18 — Haruki: "I don't know yet."
+9. Haruki's despair thread — landed Ch 17; Kuroda's "Reshaped by whom?" (Ch 18) — "I don't know yet." Cosmology payoff ~Vol 5.
 10. Mika + Tōru — family fates deliberately open.
 11. Haruki's too-fast persuasion — Tanabe's "no" dissolving (Ch 16). Twist #5 seed; growing.
 12. Labor registration — detonated Ch 17 (Tanabe drop; Gorō taken). Economy still hostile.
 13. Gorō — taken / possibly fled ("he walked"); fate open; do not kill off-page.
-14. East warehouse break-in (Ch 18 rumor) — Haruki recognized the shape; on-page payoff is Kaito Ch 19.
+14. East warehouse break-in — paid on Kaito camera (Ch 19); Haruki still approaching from Ch 18 close.
+15. Kai / roof shape (Ch 3) — bleed-through from sealed-out old world (bible locked). Symptoms only until Vol 5.
+16. Keep vs revert (Vol 5) — who decides which world is real; ending path still open.
+17. Ryn latent (Vol 5+) — Kaito's reason to revert may be bringing her back via unseal / world-command; bait not proof; no early resurrection.
 
 ## Craft flags (carry into Vol 2)
 
-- Target band 1,400–2,200 (floor 1,000). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV blocks 2–4 ch per lead on separate roads; every block closes on a hook. No recap buttons, no bulletin speech, rumors labeled. No filing/ledger narrator voice, no reader address. Present tense from Nagihama on — no future-memory lines. Clean dialogue (full sentences, no telegram/epigrams).
+- Target band 1,400–2,200 (floor 1,000). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV blocks 2–4 ch per lead on separate roads; every block closes on a hook. No recap buttons, no bulletin speech, rumors labeled. No filing/ledger narrator voice, no reader address. Present tense from Nagihama on — no future-memory lines. Clean dialogue (full sentences, no telegram/epigrams). **No Seal / old-world / world-command dump before Vol 5** — hints only (`lore/old-world-seal.md`).

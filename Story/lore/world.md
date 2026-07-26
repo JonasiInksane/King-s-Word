@@ -6,6 +6,8 @@ A modern nation that looks and feels like present-day Japan — trains, konbini,
 
 **Reference feeling:** Chainsaw Man's Japan — grimy, vibrant, funny, and suddenly brutal. Neon and blood. Ordinary and cosmic.
 
+**Writer note (Vol 5+):** This "modern Japan" texture is life **inside the Seal** — a rewritten, smaller world. The prior world was larger (beasts, older laws). Do not name that on-page early. Ontology: `old-world-seal.md`.
+
 ---
 
 ## The Kirisaki Federation (霧咲連邦)
@@ -29,8 +31,8 @@ Home of the trio. Vibrant western metropolis not yet touched by fighting.
 
 ## The Eastern Wards — Haiga (廃河) & Kuromori (黒森)
 
-- **Haiga (廃河, "Ruined River")** — former river-delta hub. Collapsed overpasses, drowned subway, yellow tape that means nothing. Refugees carry ash-gray dust that never fully washes out.
-- **Kuromori (黒森, "Black Forest")** — hill town swallowed by the Pact. Officially "under recovery." Soldiers go and stop writing home.
+- **Haiga (廃河, "Ruined River")** — former river-delta hub. Collapsed overpasses, drowned subway, yellow tape that means nothing. Refugees carry ash-gray dust that never fully washes out. (Bleed / "changed" city texture — seal pressure, not only shells.)
+- **Kuromori (黒森, "Black Forest")** — hill town swallowed by the eastern advance. Officially "under recovery." Soldiers go and stop writing home.
 
 ---
 
@@ -98,4 +100,4 @@ Pine-shadow Remnant billet. Elder table, Mira's equations, Suzumori's quiet. Hol
 - Smartphones; government war-feed app (**J-Alert / 警**) cannot be uninstalled — hated two-tone chime.
 - Trains stay polite and on time during drills.
 - Konbini, cram schools, arcades, karaoke fully functional. Normalcy as denial.
-- **Devils / calamity-things:** Meikai fields *things* — news: "Anomalous Materiel"; people: **kai (怪)**. Glimpsed early, not explained. Ties to Kotodama lore — see `magic-kings-word.md`.
+- **Kai / calamity-things:** News: "Anomalous Materiel"; people: **kai (怪)**. Glimpsed early (Ch 3 roof shape). **LOCKED (writer):** bleed-through from the sealed-out old world — beasts / laws seeking what was lost. Word-immune under people-command. Full reveal ~Vol 5. See `old-world-seal.md`, `magic-kings-word.md`.
