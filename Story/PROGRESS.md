@@ -4,9 +4,9 @@
 
 ## Status
 
-- **Written (live): Part One complete — Ch 1–10. Vol 2 — Ch 11–14.**
+- **Written (live): Part One complete — Ch 1–10. Vol 2 — Ch 11–18 (Haruki Takamatsu block closed).**
 - **Plan:** `lore/plot-outline.md` clean-rewrite tables (Part One 10 ch, Volume 2 ~13 ch ending on the clash).
-- **Next:** Ch 15 (Haruki — ice truck into Takamatsu with Riku; Minato first night). Vol 2 restructured: Kaito's camera dark after Ch 12 (mystery kept); Haruki block 15–18 (city, family, Kuroda, break-in news); Kaito block 19–20 opens the day of the break-in, time-jumped. Cut East Yards Kaito pin archived in `archive/cut/` — salvage beats for Ch 19.
+- **Next:** Ch 19 (The Break-In — Kaito camera, time-jump to same day as the warehouse news; established life as status quo, then the break-in on-page). Salvage from `archive/cut/` East Yards pin as needed.
 
 ## Chapters (live)
 
@@ -26,6 +26,10 @@
 | 12 | Bus Fare | K | 1,820 | Ishibashi market work for fare; Kaito stops learning names; dawn bus talk (aunt story dies / East Yards); arrive Takamatsu — split at East Yards water tower / day-work line |
 | 13 | One Day Behind | H | 1,579 | Opens on lag ("supposed to catch him"); Orii unnamed ("You're late" / Takamatsu); well rumor; refuses depot bus; west fork to Ishibashi |
 | 14 | Soft Boy | H | 2,122 | Ditch shakedown (full fight); chit stolen; Nakahara Riku; favor owed; Ishibashi by dusk — squid-stall ask (Mira's trays), dawn bus gone, **missed by half a day**; ice-yard truck west before dawn |
+| 15 | Hands, Not Papers | H | 2,420 | Ice truck west (crew, no papers, barrier waved); Riku's "Say you catch him — then what?"; tea seller: faces don't keep, stand near work/food/sleep; Minato first night — Machi's oden ("Trouble eats standing up"), Gorō's toll; favor called: Tanabe vouch tomorrow |
+| 16 | The City That Works | H | 1,848 | Tanabe route (voice tell — the "no" dissolves; Riku's wet-umbrella look); Gorō's counter map + hill grudge; false dock lead dies; Thursday ceremony, door rehung; stance lesson ("you are expected"); two-fares knot; close: labor-registration notice, seven days — "That's aimed at us" |
+| 17 | The Squeeze | H | 1,540 | Deadline tightens; Tanabe drops unregistered hands; Gorō talks hill too loud, taken midafternoon ("tell anyone he walked"); coat+shoes gone — Machi chooses fled; despair beat lands ("nobody is coming to fix any of this"); night-market ask planned |
+| 18 | The Listener at the Bar | H | 1,790 | Unnamed coat-man (Kuroda) at Minato; alley: ideals talk, **"Reshaped by whom?"** / "I don't know yet"; two silent coats collect him; dock-runner news — east warehouse break-in, guard opened the door / never saw; Haruki knows the Word shape; heads there with Riku |
 
 ## POV structure (Part One)
 
@@ -33,13 +37,16 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 
 **Narration (locked 2026-07-24):** No frame, no listener, no "record/ledger" narrator voice, no reader address. Past tense through Ch 4's arrival at Sugi's door; present tense from Nagihama onward. Rare quiet hindsight only.
 
-## Cast state (end Ch 14)
+## Cast state (end Ch 18)
 
-- **Haruki:** In Ishibashi with Nakahara Riku (arches, no stamps). Missed the dawn bus by half a day; ice-yard truck west before first light. Goal unchanged: finish the sentence.
-- **Kaito:** Camera dark since Ch 12 — last seen walking into the East Yards day-work line, money thin, water-tower meet with Mira pending. Stays dark until Ch 19 (break-in day). Do not show his state through other cameras except rumor.
-- **Mira:** With Kaito, off-camera. Whatever she builds in the gap surfaces in Ch 19–20, not before.
-- **Orii:** Unnamed on Haruki's camera; told him he's late; pointed at Ishibashi road; warned about mouths.
-- **Nakahara Riku:** On-page. Cleared the ditch crew; got Haruki into Ishibashi's arches; buys skewers on grill-scrap credit; knows an ice-yard man who runs west twice a week. Favor still unnamed (won't stack a second).
+- **Haruki:** No papers, no Tanabe route. Minato still feeds/houses him. Despair sentence landed hard after Gorō. Met unnamed coat-man (Kuroda) — "Reshaped by whom?" / "I don't know yet." Recognized Kaito's Word-shape in east-warehouse break-in rumor; walking there with Riku at chapter close. Goal unchanged: finish the sentence — now with a live trail shape again.
+- **Kaito:** Camera dark since Ch 12. Off-camera action implied by Ch 18 rumor (warehouse door / guard never saw). On-page next in Ch 19 (break-in day, time-jumped established life).
+- **Mira:** With Kaito, off-camera. Surfaces Ch 19–20.
+- **Nakahara Riku:** Still with Haruki. Scrap work; night-market Gorō ask; angry Haruki followed the coat alone; coming to the warehouse. Still does not know Haruki is a carrier.
+- **Machi (Minato):** Paid the squeeze beat — watched Gorō taken; chooses "he walked"; warned boys off ward offices; pointed them to the back alley for the warehouse run.
+- **Gorō:** Taken midafternoon by gray-greens for talking hill; told Machi to say he walked; coat + good shoes gone from the hook (fled or dressed for a ride — open, do not kill off-page). Stool empty.
+- **Tanabe:** Dropped Haruki before the form deadline — "I never had one." Still in the cellar.
+- **Kuroda (unnamed on-page):** Second live appearance (after Ch 3 Loop). Minato corner; alley ideals talk; "Reshaped by whom?"; one-voice line; collected by two silent coats. Face still won't stick.
 - **Ryn:** Dead (Ch 3). The cat went to the sea at the rite; Sugi's declared hook is the **empty shelf** where it sat.
 - **Sugi:** Nagihama. Heard the whole story over tea (Ch 4); empty shelf after the rite; let Haruki go with the choice talk.
 - **Jun:** DEAD (Ch 9, shrine yard). **Hanae:** believes Haruki's merciful lie. Haiga cousin alive off-page.
@@ -55,12 +62,16 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 2. Birthmark match — Haruki knows, withholds (Ch 4). Kaito doesn't know they match.
 3. The Listener — one entry per boy in his file; hunts the trail in Vol 2.
 4. Kanzaki's "we've been looking for you two for a very long time" — unexplained.
-5. Kuroda's phone screen on the Loop (Ch 3) — unexplained; bar meeting planned (Vol 2 Ch 18).
-6. Mira's cracks — pre-packed sack, ridge route, driver intelligence; contacts surface in Vol 2.
+5. Kuroda's phone screen on the Loop (Ch 3) — still unexplained; bar/alley meet paid (Ch 18) — "Reshaped by whom?" / one-voice line / two silent coats. Face still won't stick; Rewrite unshown.
+6. Mira's cracks — pre-packed sack, ridge route, driver intelligence; contacts surface in Vol 2 (Ch 19+).
 7. Sugi's hook — empty shelf; "one of you has to come back and look at it eventually."
 8. Kaito's untested self-cost (Ch 7) — he refuses to Word himself and fears what the weight takes when it leaves; Backwash door left open, unexplained.
-9. Haruki's despair thread — feeds toward Kuroda's "Reshaped by whom?"
+9. Haruki's despair thread — landed Ch 17; answered (not resolved) by Kuroda's "Reshaped by whom?" in Ch 18 — Haruki: "I don't know yet."
 10. Mika + Tōru — family fates deliberately open.
+11. Haruki's too-fast persuasion — Tanabe's "no" dissolving (Ch 16). Twist #5 seed; growing.
+12. Labor registration — detonated Ch 17 (Tanabe drop; Gorō taken). Economy still hostile.
+13. Gorō — taken / possibly fled ("he walked"); fate open; do not kill off-page.
+14. East warehouse break-in (Ch 18 rumor) — Haruki recognized the shape; on-page payoff is Kaito Ch 19.
 
 ## Craft flags (carry into Vol 2)
 

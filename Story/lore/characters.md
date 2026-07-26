@@ -23,7 +23,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Arc seed:** The one who *watches* his best friend fall — and slowly realizes he shares the same terrible gift, and that his gentleness was never a guarantee. His tragedy is complicity through inaction.
 - **Word self-knowledge (live):** Does **not** knowingly own it. The voice-tell thread is live: Ch 1 (Loop argument dies), Ch 5 (voice too useful at gates, noted in passing), Ch 10 (gray-suit interview believed "faster than the lie deserves"; the lie to Hanae that "works on the broken, works best on them"). By Ch 10 he no longer believes the word for what he does is *polite* — "Kaito's mouth makes people move. Whatever I carry makes them quiet" is as far as he lets the thought run. ARCHIVE SEED: Vol 4 ownership admission (*I am one too*) — re-earn.
 - **Despair thread (live from Ch 10):** "The world stops being a place that is failing and starts being a place that is *wrong*… Nobody is coming to fix any of this" — a sentence he turns over and can't make false. This is the seed Kuroda's **"Reshaped by whom?"** hinge lands on in Vol 2. Do not answer cheaply.
-- **Status (end Ch 14):** Through Kuroishi one day late (Orii unnamed: "You're late"; well rumor heard). Sato's transit chit stolen on the Ishibashi road. In Ishibashi with Nakahara Riku by dusk — squid-stall ask: Kaito+Mira took the dawn bus to Takamatsu, **missed by half a day**; no papers, no fare; truck west planned. Birthmark secret kept. Still owes Kaito the finished sentence.
+- **Status (end Ch 18):** In Takamatsu, no papers. Tanabe route lost to registration squeeze (Ch 17). Gorō taken — despair sentence landed ("nobody is coming to fix any of this"). Kuroda alley meet (Ch 18): **"Reshaped by whom?"** / "I don't know yet." Recognized Kaito's Word-shape in east-warehouse break-in rumor (guard opened door / never saw); heading there with Riku. Two-fares knot still held. Birthmark secret kept. Voice tell still unexplained.
 
 
 
@@ -156,7 +156,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **The curriculum (ARCHIVE SEED — old Ch 18):** "I teach you so nobody gets to use you. Not paper. Not causes. Not friends with beautiful reasons." Fist-knock instead of the word *partner*.
 - **ARCHIVE SEED (old Ch 24–25):** Imprisoned with Haruki in mansion FDC hold; training paid; worded on the pad; tore free after clash.
 - **ARCHIVE SEED (old Vol 3, Ch 26–35):** Shizuhara. Volunteer-disposal truth detonates the sake-night wound. Confronts Mira mid-volume. Breakout; after wipe, drags Haruki out with Mei.
-- **Status (live, end Ch 14):** In Ishibashi with Haruki (arches, no stamps; buys skewers on unexplained credit). Cleared three ditch boys (pipe / knife / watcher). Took no pay — favor owed instead, still unnamed. Knows trucks west that count hands instead of papers. Does not know Haruki is a carrier. Does not ask about the scraped-voice cousin. Previous-pass beats (boots, stance, Minato, courier work) remain texture to rebuild, not canon.
+- **Status (live, end Ch 18):** In Takamatsu with Haruki. Favor closed (Tanabe vouch). After squeeze: scrap work, night-market ask for Gorō. Angry Haruki followed the coat-man alone — rule set: next time take me or don't go. Coming to the east warehouse on Haruki's Word-shape read. Still does not know Haruki is a carrier.
 
 ---
 
@@ -241,7 +241,9 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 
 ### Mama Machi (町) — Bar Minato, ~50s — the bar mama
 
-**Camera moment (previous pass — re-earn in Vol 2 Ch 15 Haruki-side / Ch 19 Kaito-side):** Sets down two bowls of oden before they have sat: *"Trouble eats standing up. That's how I know."* Second-pair beat ("Trouble comes in shifts"; how Kaito held his bowl) also previous pass — rebuild against the new Takamatsu block. **Note (restructure):** Haruki meets Minato first (Ch 15, via Riku); Kaito+Mira turn out to be regulars on a different shift, revealed Ch 19.
+**Camera moment (LIVE, Ch 15 — Haruki-side):** Sets down two bowls of oden before they have sat: *"Trouble eats standing up. That's how I know."* Second-pair beat ("Trouble comes in shifts"; how Kaito held his bowl) still to re-earn Kaito-side in Ch 19. **Note (restructure):** Haruki met Minato first (Ch 15, via Riku); Kaito+Mira turn out to be regulars on a different shift, revealed Ch 19.
+
+- **Status (live, end Ch 18):** House rule spoken; back room; Thursday feeds; egg-for-the-door. Watched Gorō taken (Ch 17); told boys he said he walked; coat+shoes gone — she chooses fled. Warned them off ward offices. Pointed them to the back alley for the warehouse run (Ch 18). Still does not ask what Haruki chases.
 
 - **Looks:** Fifty-something, broad-shouldered, bun speared with a chopstick; forearms of a woman who has carried kegs and coffins. Flat harbor-master gaze that prices you in one pass.
 - **Who:** Ran a bar by an eastern harbor until the war ate the harbor; rebuilt inland and kept the name — **Minato (みなと)**, a harbor two ridges from any salt. Feeds working boys on principle and Thursdays on ceremony.
@@ -252,14 +254,14 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 
 ### Gorō (五郎) — retired tram driver, ~70s — Minato regular
 
-**Camera moment (previous pass — re-earn in Vol 2 Ch 15–16, Haruki-side):** Nurses one beer he isn't finishing; "That's a report, not an answer"; names himself; gives the one-new-fact toll — North Market's casual line dies at sundown.
+**Camera moment (LIVE, Ch 15):** Nurses one beer he isn't finishing; "That's a report, not an answer"; names himself; gives the one-new-fact toll — North Market's casual line dies at sundown.
 
 - **Looks:** Ginger-root hands, laugh like a gearbox, cardigan in all seasons.
 - **Who:** Drove Takamatsu's trams for forty years; knows every ward, cut-through, and depot from a driver's window — the boys' living map of the city (replaces rumor-mongering as their info texture).
 - **Nature:** Opinionated, generous, immovable on the stool. His line got shortened twice for "materiel priority"; his grudge against the mansion is personal before it's political.
-- **ARCHIVE SEEDS (old Ch 17 / 21 / 24, not live):** Flood-of-'02 story; vouching the boys into night deliveries; naming "the hill"; taken in the squeeze; fled into the pines ("tell Machi I walked").
-- **Status (clean pass):** Not yet on-page; enters the Vol 2 Takamatsu block. Do not kill off-page.
-- **Story role:** City texture and warmth; the boys' job connector; the FDC squeeze that costs Haruki someone he needs (outline Ch 17) may land on him or Machi — decide at the desk, on-page.
+- **ARCHIVE SEEDS (old Ch 17 / 21 / 24, not live):** Vouching the boys into night deliveries; taken in the squeeze; fled into the pines ("tell Machi I walked").
+- **Status (live, end Ch 18):** Taken midafternoon Ch 17 by gray-greens for talking hill too loud; told Machi to say he walked; coat + good shoes gone from the hook (fled vs long ride — open). Stool empty. Do not kill off-page.
+- **Story role:** City texture and warmth; the squeeze cost Haruki needed (paid Ch 17).
 
 
 
@@ -321,11 +323,11 @@ Homeroom teacher, perpetually one deadline from collapse. Comic relief with a sp
 
 ### Kuroda Ren (黒田 連) — the Silent Stranger (working name; tweakable)
 
-**On-page so far (live):** Rail Loop evening car, birthday night (Ch 3 — watching-still, turns a phone screen toward the trio for one second; Haruki forgets him completely by the top of the school stairs). Planned next: the Vol 2 bar meeting (outline Ch 18). Boys do not know his name.
+**On-page so far (live):** Rail Loop (Ch 3 — phone screen; face forgotten by school stairs). Minato alley (Ch 18 — unpaid name; "Reshaped by whom?"; one-voice line; two silent coats). Boys do not know his name.
 
-**Camera moment (field):** A face that refuses to stick; watching-still on a train while the whole car softens around Kaito — he alone does not soften. Turns a phone screen toward them. Gone.
+**Camera moment (field, Ch 3):** A face that refuses to stick; watching-still on a train while the whole car softens around Kaito — he alone does not soften. Turns a phone screen toward them. Gone.
 
-**Camera moment (bar — ARCHIVE SEED, old Ch 18, not live):** Silent corner-sitter who only *listens* — then exits when Haruki exits. Outside: Blackbeard jolly — head-back laughter, *follow your ideals / never let anyone bring you down*, renters-laugh-loudest. Grinning question — **"Reshaped by WHOM, boy?"** — then more laughter at *I don't know yet*. Parting: *"The world only ever listens to one voice at a time…"* Collected at the lane mouth by **two wordless coated figures**. Haruki cannot hold his face afterward.
+**Camera moment (bar/alley, LIVE Ch 18):** Silent corner-sitter, cold tea; Haruki follows him out. Alley: asks what Haruki would do about a crooked world; head-back laughter; **"Reshaped by whom, boy?"** — laughs at *I don't know yet*; *"The world only ever listens to one voice at a time, Aoyama"*; knows surname from overhearing Riku. Collected at the alley mouth by **two wordless coated figures**. Haruki cannot hold his face afterward.
 
 - **Looks (disguise / field):** Mid-thirties to forties-seeming; plain dark coat too warm for the season; short unremarkable hair; face designed to be forgotten. Stillness is the only signature.
 - **Looks (true / later):** Same man without the coat — ordinary, warm enough to trust, easy to sit beside. The horror is the continuity, not a monster-face.

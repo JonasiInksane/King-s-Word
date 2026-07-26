@@ -40,7 +40,7 @@ The words land harder than they should. "How late?"
 
 "What did the clipboards ask, exactly?"
 
-She snorts once. "Whether anyone had heard a boy talk strangely. Whether anyone had paid posted price without arguing. Whether a coast voice had made someone do a thing they wouldn't have done. The kind of questions that make shopkeepers close early." She taps the pencil against the counter. "I told them I sell rice like I am telling you the. Can I get back to my boxes."
+She snorts once. "Whether anyone had heard a boy talk strangely. Whether anyone had paid posted price without arguing. Whether a coast voice had made someone do a thing they wouldn't have done. The kind of questions that make shopkeepers close early." She taps the pencil against the counter. "I told them the same thing I'm telling you: I sell rice. Now can I get back to my boxes?"
 
 "Can I buy water first?"
 
