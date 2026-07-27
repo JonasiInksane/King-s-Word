@@ -4,7 +4,7 @@ The co-op has me on ice the first week and nets the second, and the nets are whe
 
 Amano-side people would say the nets meet you. Everything in this town is nets if you stand still long enough. Jun runs the mending frames on the north pier — Amano Jun, twenty-three, big and unhurried, forearms like dock rope, a wide sunburnt face that settles naturally into cheerfulness, born two lanes over and never once wanted to be anywhere else. First thing he says to me is, "You're doing that with your anger instead of your thumb," which is about a knot, and also isn't.
 
-He fixes my thumb. Then my elbow. Then, over two weeks of mornings, most of my netting, because I'm bad at it and he's patient the way big calm men are patient, like there's no clock anywhere in his body. He splits his lunch without asking — his mother Hanae packs it, always too much, always with the pickled radish cut in careful little fans — and he talks enough for both of us, which suits me, because my voice comes out scraped these days and I've got reasons to spend it carefully.
+He fixes my thumb. Then my elbow. Then, over two weeks of mornings, most of my netting, because I'm bad at it and he's patient the way big calm men are patient, like there's no clock anywhere in his body. He splits his lunch without asking — his mother Hanae packs it, always too much, always with the pickled radish cut in careful little fans — and he talks enough for both of us, which suits me, because my voice comes out scraped these days and I've got reasons to be careful with it.
 
 "You'll get winter work if you learn splices," he says. "Co-op always needs splices. You planning to be here for winter?"
 

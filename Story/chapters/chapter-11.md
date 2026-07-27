@@ -114,7 +114,7 @@ She sees it anyway. Cloth out, thumb under my chin, the same move as the pier.
 
 "I told him he never saw me."
 
-She holds the cloth there a second longer than the blood needs. Her face does the tide-chart thing — steady, reading weather that hasn't arrived yet.
+She holds the cloth there a second longer than the blood needs. Her face stays level — reading weather that hasn't arrived yet.
 
 "That leaves a mark," she says. "Not on paper. On people. Someone at that well is going to tell a story about a boy whose mouth made a clipboard man forget his job." She lowers the cloth. "We leave at first light. Ishibashi. Before the story grows legs."
 
@@ -128,4 +128,4 @@ Mira ties the sack shut.
 
 "Sleep," she says. "Tomorrow we walk again. And Kaito — next time a clipboard asks for paper, you let me talk first. Your mouth is what they're hunting. Mine is just a girl's."
 
-She says it like logistics. I nod like logistics. Outside the window the well square is still busy — bottles, crank, somebody laughing at a joke I can't hear. I lie down on the mat and keep my mouth shut until morning, the way she asked.
+She says it like logistics. I nod like logistics. Outside the window the well square is still busy — bottles, crank, somebody laughing at a joke I can't hear. Somewhere down there is a man who forgot his job for half a minute tonight, and somewhere is whoever he tells about it first.

@@ -20,19 +20,43 @@ Nobody asks where we are from. The war app buzzes once in somebody's pocket and 
 
 Mira leans her head against the glass and closes her eyes — resting, not sleeping. I watch the road go by and keep my mouth shut.
 
-An hour in, a pair of soldiers reaches the aisle from the front, checking tickets and faces. The woman across from us hands hers over with a smile that costs her. When they get to us Mira has both tickets ready and a story about cousins and a family errand already shaped in her mouth.
+An hour in, a pair of soldiers works the aisle from the front, checking tickets and faces. The woman across from us hands hers over with a smile that costs her. When they get to us Mira has both tickets ready and a story about cousins and a family errand already shaped in her mouth.
 
 "Ishibashi," she says. "Our aunt's people are expecting us."
 
-The taller one looks at me longer than he looked at her — at the dust on my knees, at a boy who doesn't smile when smiled at.
+The taller one takes the tickets and does not stamp them. He looks at me longer than he looked at her — at the dust on my knees, at a boy who doesn't smile when smiled at. Then back to Mira.
+
+"Your aunt's people. Which house?"
+
+It is a small question. It is exactly the size of question that sinks people.
+
+"Off the bridge square. The Moris — they take in mending." She says it with the mild boredom of a girl who has answered for her family a hundred times. "If they're not at the house, they're at the stall."
+
+"There's a mending stall on the bridge square?" He says it half to the bus, almost friendly. Behind us a seat creaks, and an old man's voice arrives, helpful, terrible: "Square's all fish these days. Mending would be new."
+
+The soldier's eyes come back to Mira. The whole bus is very interested in its windows.
+
+"New since spring," Mira says, unhurried. "Half of everything is new since spring — that's why they need hands." She lets one breath of annoyance show, exactly one. "You're welcome to walk us there off the bus. My aunt will feed you for the trouble, but she'll also tell you about her knees, and that costs an afternoon."
+
+It is good. It might even have been enough. But he is still holding the tickets, and now he tips his chin at me.
 
 "You," he says, mild. "Say something."
 
-Mira's shoulder touches mine — not a shove, a reminder that she talks first.
+Mira's shoulder touches mine — not a shove, a reminder that she talks first. Except he asked me, in front of the whole bus, and *he's shy* only works on a man who hasn't dug in.
 
-"He's shy," she says. "And half heat-sick from walking the ridge. He'll be good company again when he's had water."
+The sentence is already there, assembled before I ask for it — *Stamp the tickets and move on* — four words, clean, no exits. I make my mouth do the harder thing instead.
 
-The soldier waits half a beat longer than polite, then stamps both tickets and moves on. Mira does not let her breath out until the pair has reached the next row. I keep my mouth shut the whole way to Ishibashi.
+"We're going for the work," I say. My voice comes out the way it comes out these days. His eyebrows move at the scrape of it. "Sir."
+
+"What happened to your voice?"
+
+"Fever in the spring." The lie Mira built for me, ordinary in my own mouth for the first time. "It never came back right."
+
+He looks at me for a long beat with the bus jolting under all of us. Then he stamps both tickets and moves on, and the old man behind us tells his window that mending is a good trade after all, as if he had been on our side the whole time.
+
+Mira does not let her breath out until the pair reaches the front. She doesn't say anything either. She just passes me the water like it's about the heat, and I drink, and my pulse comes down slow off the sentence I didn't say.
+
+I keep my mouth shut the rest of the way to Ishibashi.
 
 ---
 
@@ -100,7 +124,7 @@ Before first light Mira shakes my shoulder. Yesterday's pay is still counted int
 
 For the first hour we don't talk. Then Mira does, quiet enough that the seat ahead can't use it.
 
-"Once we're in, the aunt story dies," she says. "Cities ask for addresses. If we give them one that isn't real, somebody checks it by supper."
+"Once we're in, the aunt story dies," she says. "It nearly died yesterday over a mending stall. Cities ask for addresses. If we give them one that isn't real, somebody checks it by supper."
 
 "So what do we say?"
 

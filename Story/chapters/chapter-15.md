@@ -82,11 +82,15 @@ I have never seen anything like it — a roofed street and then another roofed s
 
 The driver pays me in coins, counting them twice into my palm so we both see the number, and tells Riku he runs again Friday. Then he's gone, and I'm standing in the middle of the largest crowd of my life with wet boots and money I earned with my back.
 
-I try asking if someone has seen him once, because not trying isn't in me. There's a tea seller at the mouth of the roofed street, old enough to have seen everything twice, and when the crowd thins I ask her whether she'd notice a boy off the coast buses — tall, quiet, a scraped voice, a girl with him who does the talking.
+I try asking if someone has seen him once, because not trying isn't in me. There's a tea seller at the mouth of the roofed street, old enough to have seen everything twice, with a queue that never quite dies. I buy a cup with the driver's coins and drink it standing at the end of her boards, and when the queue thins I ask whether she'd notice a boy off the coast buses — tall, quiet, a scraped voice, a girl with him who does the talking.
 
-She doesn't even pause her pour. "Son, half the coast has walked through this market in the last month. Burned out, registered out, walked out. Faces don't keep here. You want to find one person in Takamatsu, you don't ask a market. You find where they have to keep going back to — work, food, sleep — and you stand near it." She hands a customer his change. "That's free, because you asked politely, and it's the last thing free in this city."
+"Notice him doing what — buying tea?" She doesn't pause her pour. "Half the coast has walked through this market in the last month. Burned out, registered out, walked out. Faces don't keep here."
 
-It lands like the shop woman in Kuroishi and the squid woman in Ishibashi, except in those towns the trail was a day old and warm. Here the trail walked into a machine for not knowing people. I put the coins away and find Riku leaning on a pillar, watching me learn it.
+"He'd have come through hungry. Somebody sold him his first meal."
+
+"Somebody sells everyone their first meal. That's the whole city." She hands a customer his change and takes my empty cup back like the conversation is measured by the porcelain. Then, because I have paid and I am still standing there and the queue has died properly: "You want to find one person in Takamatsu, stop asking markets. Find what he has to keep going back to — work, food, sleep — and stand near it. Now move along, you're blocking a paying man's elbow."
+
+It lands like the shop woman in Kuroishi and the squid woman in Ishibashi, except in those towns the trail was a day old and warm. Here it walked into eight hundred streets of strangers. I put the coins away and find Riku leaning on a pillar, watching me learn it.
 
 "Cold trail?" he says.
 
@@ -144,6 +148,4 @@ I stop with my jacket half folded. "Calling it how?"
 
 "That's the whole favor. You were expecting a kidney?" He rolls over, away from the lamp. "Sleep, Aoyama. The city starts loud."
 
-I lie down on the mat and listen to Takamatsu through the wall — a late tram somewhere, the bath house letting out, a thousand streets' worth of strangers going home to rooms I will never see. Kaito is behind one of those walls tonight, or none of them. Work, food, sleep, the tea seller said. Stand near where they have to keep going back to.
-
-Tomorrow I start standing near.
+I lie down on the mat and listen to Takamatsu through the wall — a late tram somewhere, the bath house letting out, a thousand streets' worth of strangers going home to rooms I will never see. Kaito is behind one of those walls tonight, or none of them.

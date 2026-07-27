@@ -10,7 +10,7 @@ I'd told her I could do it alone. I had the recipe card, I had the eggs, I'd wat
 
 "You overbeat everything. You think if you keep going it gets better. That's true of homework and untrue of eggs." She pushed off the doorframe and took the whisk out of my hand. "I'll beat. You measure. Talk to me so I don't fall asleep standing up."
 
-So we made Ryn's cake the way we always made it, in the too-small kitchen with the window open to the sound of the Loop, and my mother stayed upright by asking questions with her eyes half closed. How's Kaito. Loud. How's school. Fine. Is the Amano girl really sixteen already, I remember her at eight, she bit a boy who stole your hat.
+So we made Ryn's cake the way we always made it, in the too-small kitchen with the window open to the sound of the Loop, and my mother stayed upright by asking questions with her eyes half closed. How's Kaito. Loud. How's school. Fine. Is the Amano girl really eighteen already, I remember her at eight, she bit a boy who stole your hat.
 
 "She'd bite him again," I said.
 
@@ -30,6 +30,12 @@ Friday after school, Ryn was behind the plank with her grandmother, weighing out
 
 "I've seen boys who thought they were. Same manners. Worse shoes." She jerked her chin at his sneakers, which were held together on one side with a strip of black tape. The old women found this very funny. Kaito took it the way he took everything from Sugi, which was on the chin and grinning, because Sugi was the only person alive he never argued with. I had a theory about that. The theory was that nobody had ever fed him regularly without being required to, and he didn't know what to do with it except keep showing up.
 
+So we waited, and the line talked, because that was what the line was for. Ahead of us a woman in a sun visor was buying plum for a daughter-in-law she clearly didn't like, and telling the woman behind her about a nephew out east who had stopped writing in May. "Not stopped," she corrected herself, counting coins out of a purse that snapped. "Slowed. The post is slow out there, with everything." The other woman said "with everything" back in the exact same voice, and they both looked at the jars, and neither of them said the word for what everything was.
+
+Then the visor woman reached the plank and found somewhere better to put it. "You're lucky, Sugi-san. A granddaughter. They don't take the girls."
+
+Sugi weighed out the plum and tipped in one extra with her thumb, the way she did for people she'd decided deserved it that day. "Nobody's lucky this year," she said. "Some people are just still here. Tell your sister to come before Thursday — the barrels turn over." The visor woman went pink like she'd been caught at something, paid, and didn't mention anyone's nephew again.
+
 When the line thinned she filled two paper cones with broken pickle ends — the ones she couldn't sell — and put them in our hands like it was a transaction we'd paid for.
 
 "Eat. You're both the wrong color." She looked at me a second longer than the sentence needed. "Your mother working nights again?"
@@ -44,7 +50,7 @@ Ryn came around the plank untying her apron. Off shift, hair down, the silver st
 
 "I've been *helping* since two. There's a difference, legally." She stole a pickle end out of Kaito's cone as she passed, which he allowed with the long-suffering face of a man taxed by his government. "Ten minutes. I have to show Haruki a thing."
 
-Sugi waved us off and turned to the next customer, and the alley folded back around her stall the way it had for thirty years.
+Sugi waved us off and turned to the next customer, already reaching for the plum jar before the woman had said a word.
 
 ---
 
@@ -86,17 +92,13 @@ His forearm had slid out of the sleeve. The bruise I'd seen on the train had gon
 
 He would have denied all of it if I'd asked. So I never asked.
 
-I put the spare futon down next to the couch. He woke up enough to move to it, muttered something about candles, and was gone again. I lay in my own room with the window open, listening to the Loop run its last circuits, and went through the same names I went through every night that June — Mom at the hospital, Ryn above the stall, Kaito on my floor, everyone I had, all inside one train line, all fine. The war app buzzed once, far off in the kitchen where I'd left it on purpose.
-
-Everyone I had, all inside one train line. A thought like that feels like a fortress when you're fifteen.
-
-It's a list of hostages. I just didn't know it yet.
+I put the spare futon down next to the couch. He woke up enough to move to it, muttered something about candles, and was gone again. I lay in my own room with the window open, listening to the Loop run its last circuits, and went through the same names I went through every night that June — Mom at the hospital, Ryn above the stall, Kaito on my floor, everyone I had, all inside one train line, all fine. The war app buzzed once, far off in the kitchen where I'd left it on purpose. I didn't get up to read it. In the next room Kaito turned over, said a whole sentence with no words in it, and went still again, and I fell asleep counting stations instead of names.
 
 ---
 
 Saturday morning he was gone before I woke — the futon folded wrong, the way he always folded it, and a note in his terrible handwriting on the back of a receipt: *getting the plan ready. meet at the dead K at six. don't be a butler.*
 
-The cake sat in its box on the counter with sixteen candles taped to the lid in a sandwich bag. Mom had drawn a cat on the box before she left for her Saturday shift. It looked deranged. It was perfect.
+The cake sat in its box on the counter with eighteen candles taped to the lid in a sandwich bag. Mom had drawn a cat on the box before she left for her Saturday shift. It looked deranged. It was perfect.
 
 I texted Ryn: *Tonight. Bring nothing. It's handled.*
 

@@ -60,7 +60,7 @@ POV: Haruki anchor in Kōgetsu; hinge-switches in Nagihama (both boys share the 
 
 Engine: chase inland → Takamatsu lives built over days → hunter pressure → Kuroda resolve moment → collision → **Kaito turns the Word on Haruki** (volume close). Boys still ignorant of the Word's name. Mira's contacts surface gradually. Beats loose until written.
 
-**Block structure (locked):** Kaito's camera goes dark after Ch 12 (East Yards split). Haruki Ch 13–18 builds city life while the trail is cold; Ch 18 closes on **next-day** Word-shape rumor of the hospital quiet-floors break-in (same Haruki-evening as Kuroda's "whom?"). Kaito Ch 19–20 = **the break-in day itself** (weeks after Ch 12): clean apartment status quo, Suzumori extraction, Word-mark that feeds Ch 18's rumor. Dual feed into Vol 5: Kuroda asks Haruki *whom* while Remnant already uses Kaito's mouth as a door-key. Braid Ch 21+.
+**Block structure (locked):** Kaito's camera goes dark after Ch 12 (East Yards split). Haruki Ch 13–18 builds city life while the trail is cold; Ch 18 closes on **next-day** Word-shape rumor of the hospital quiet-floors break-in (same Haruki-evening as Kuroda's "whom?"). Kaito Ch 19–20 = **the break-in day itself** (weeks after Ch 12): clean apartment status quo, Suzumori extraction, Word-mark that feeds Ch 18's rumor. Dual feed into Vol 5: Kuroda asks Haruki *whom* while Remnant already uses Kaito's mouth as a door-key. **Ch 21–23 = Kaito block to volume close** — Haruki stays off-camera after Ch 18 until he walks into Kaito's frame at the collision; near-miss is felt on Kaito's camera only; no Haruki POV until Vol 3.
 
 | Ch | Working shape | POV | Beat |
 |----|-------|-----|------|
@@ -73,10 +73,10 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 17 | The Squeeze | H | FDC pressure costs someone Haruki needs; despair beat sharpens ("nobody is coming to fix any of this") |
 | 18 | The Listener at the Bar | H | Kuroda alley; **"Reshaped by whom?"**; close: hospital quiet-floors Word-shape rumor (clerk opened / never saw; room empty) — Haruki + Riku head north hill |
 | 19 | Clean Rooms | K | Break-in day: clean apartment (how they got it); Kaito darker; Mira asks — Suzumori transfer east tonight; plan the hit |
-| 20 | Quiet Floors | K | Full rescue: Word on clerk + soldier; Suzumori out; hand-off inland; apartment burned; braid hook |
-| 21 | Near-miss | braid | The hunter closes; both pairs cross the same night |
-| 22 | Collision | braid | Full fight; Haruki's speech lands and isn't enough |
-| 23 | Go Home | K→H | Cornered, Kaito turns the Word on Haruki — *"Stop following me. Go home."* Volume ends on the command landing (twist #5 stays unspent) |
+| 20 | Quiet Floors | K | Full rescue: Word on clerk + soldier; Suzumori out; hand-off inland; flee to pine fringe |
+| 21 | Pine Edge | K | Fringe hide; Listener heat; near-miss from Kaito's side only (unnamed chase on service path); inland signal |
+| 22 | Tight Road | K | Catch Suzumori/contact; hunter closes; Haruki's hospital hunt becomes a threat on this camera |
+| 23 | Go Home | K | Collision on Kaito's camera; Haruki's speech isn't enough; *"Stop following me. Go home."* Volume ends on impact (twist #5 unspent) |
 
 ---
 

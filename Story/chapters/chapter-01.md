@@ -8,7 +8,7 @@ I caught it without meaning to — plastic, still warm from his pocket — held 
 
 "I apologized to the situation."
 
-"You apologized to a *rectangle*." Kurosawa Kaito dropped onto the bench beside me before I had even turned around — taller than me, wider at the shoulders, built like someone who ran into trouble and won more often than he should. Sharp black hair still wet from a shower he'd obviously taken at a run, scraped knuckles, dark eyes with a hard bright edge, and a thin white nick through his left eyebrow that only showed when he grinned, which was always. He was wearing yesterday's dark jacket over today's uniform and he was already too loud for the hour. "One day you're going to apologize to a guy mid-swing and he'll be so confused he just leaves."
+"You apologized to a *rectangle*." Kurosawa Kaito dropped onto the bench beside me before I had even turned around — taller than me, wider at the shoulders, built like someone who ran into trouble and won more often than he should. Scraped knuckles, a thin white nick through his left eyebrow that only showed when he grinned, which was always, and yesterday's dark jacket over today's uniform. He was already too loud for the hour. "One day you're going to apologize to a guy mid-swing and he'll be so confused he just leaves."
 
 "That's the plan."
 
@@ -128,7 +128,7 @@ She shoved him a full step, and he let her, and I looked at the pavement because
 
 "Sakaba-dōri," Kaito said. "The arcade, then ramen—"
 
-"We do that every week. It's my *sixteenth*, not a Tuesday."
+"We do that every week. It's my *eighteenth*, not a Tuesday."
 
 "The dead 'K' is tradition—"
 
@@ -136,17 +136,27 @@ She shoved him a full step, and he let her, and I looked at the pavement because
 
 They both looked at me. Ryn's eyebrows went up. Kaito's grin paused halfway, which for him was a full stop.
 
-"The school roof," I said. "At midnight. The chain's been broken all year — nobody checks, nobody cares. You can see the whole city from up there. The Loop, the river, all of Sakaba-dōri at once. We bring the cake up and you turn sixteen where you can see every light in the city at the same time."
+"The school roof," I said. "At midnight. The chain's been broken all year — nobody checks, nobody cares. You can see the whole city from up there. The Loop, the river, all of Sakaba-dōri at once. We bring the cake up and you turn eighteen where you can see every light in the city at the same time."
 
 "That's trespassing," Ryn said.
 
 "Mildly."
 
-"After curfew."
+"No — listen." She stopped walking, under the pachinko neon, so we had to stop too. "If a patrol picks up two boys after curfew, it's a story you get to tell at lunch on Monday. If they pick up me, they walk me back to Grandma. She won't yell. She'll just rearrange the stall schedule until I never have a free evening again, and she'll do it without once mentioning why. That's the price, and you two aren't the ones who'd pay it."
 
-"Technically."
+Kaito opened his mouth. She pointed at him without looking at him, and he closed it.
 
-"With cake." She was quiet for a second, neon from the pachinko hall sliding across the silver stud in her ear, and then she smiled — not the counter smile, the rare one, the one she gave you when you'd accidentally gotten something exactly right. "Yeah. Okay. Let's do the roof."
+"So don't sell me the view," she said to me. "Tell me why it's worth that."
+
+I didn't have anything clever, so I gave her the true thing instead. "Because you plan everything. The store, the stall, Saturday, us. Somebody should hand you one night you didn't have to build yourself. And if it goes wrong, I'll stand in front of Sugi and tell her the roof was my idea and you argued against it, which will even be true."
+
+"You'd last four seconds in front of Grandma."
+
+"Then I'll apologize for four seconds. It's my best event."
+
+She was quiet for a moment, neon from the pachinko hall sliding across the silver stud in her ear, and I watched her decide. Then she smiled — not the counter smile, the rare one, the one she gave you when you'd accidentally gotten something exactly right.
+
+"Yeah. Okay. Let's do the roof."
 
 Beside me Kaito had gone still, which I felt before I saw. No joke loaded, no volume ready. Just looking at her like the smile had knocked the wind out of him and he'd rather die than admit it. Then he caught me noticing, laughed too loud at nothing, and hooked an arm around each of our necks so we had to walk the rest of the block bent over like conspirators.
 

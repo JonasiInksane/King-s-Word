@@ -2,7 +2,7 @@
 
 Kuroishi is supposed to be where I catch him.
 
-I know it isn't before I clear the last bend — the road has the wrong weight to it, like a room someone has already left. Dust and scrub for hours behind me, a water tower rising and falling until I stop believing in it, then a town at the bottom of the tip — blackened shrine gate at one end, bus depot at the other, the smell of hot asphalt and croquette oil and copy paper from an open office door. Sato's transit chit is inside my jacket where rain can't argue with it. Sugi's last onigiri is gone by noon. The sentence I have been carrying since a vending-machine light outside Kōgetsu is still unfinished in my mouth, and every kilometer since Nagihama has been the same argument: I am late, and late is how I lose him.
+I know it isn't before I clear the last bend — the road has the wrong weight to it, like a room someone has already left. Dust and scrub for hours behind me, a water tower rising and falling until I stop believing in it, then a town at the bottom of the tip — blackened shrine gate at one end, bus depot at the other, the smell of hot asphalt and croquette oil and copy paper from an open office door. Sato's transit chit rides dry inside my jacket. Sugi's last onigiri is gone by noon. The sentence I have been carrying since a vending-machine light outside Kōgetsu is still unfinished in my mouth, and every kilometer since Nagihama has been the same argument: I am late, and late is how I lose him.
 
 At the edge of town a pair stops me under a shade cloth — polite, tired, already halfway through the next stamp. The older one holds out a hand for papers without looking up from the previous boy.
 
@@ -28,7 +28,13 @@ She looks at me for a long time, measuring.
 
 The words land harder than they should. "How late?"
 
-"They hauled stock this morning and took the Ishibashi bus at nine, if it ran." She tips her pencil toward the depot end of the street. "If it didn't, same road, but a lot dustier. Either way they're ahead of you."
+She doesn't answer that. She looks at the stack of tea boxes, then at the storeroom door, then back at me, and names a price without calling it one.
+
+"There's stock in the back that wants moving and a back here that doesn't. You're built like your cousin. Haul it, and I'll tell you what I remember while you work."
+
+So I haul — tea, then rice, then a crate of soap that has no business weighing what it weighs — and she counts boxes and talks, to the shelves as much as to me.
+
+"They hauled stock this morning, same as you're doing now, and took the Ishibashi bus at nine, if it ran. If it didn't, same road, only dustier. Either way they're ahead of you."
 
 "Did he look all right?"
 
@@ -56,7 +62,11 @@ The well sits in a square off the main street — low stone wall, iron crank, a 
 
 "I'm looking for whoever was here yesterday."
 
-"He's at the depot today. Won't come back to the well." She corks the bottle, wipes her hands on her apron. "Something went wrong with his head. One minute he's checking bags like always. Next minute he's staring at the depot like somebody moved the town, and a boy walks past with an empty bottle and blood on his lip, and the stool man doesn't see him. Then he asks the next person for their bag as if nothing happened. He's been telling that story to anyone who'll listen. Half of them think heat. Half of them think the boy said something."
+"Then you're looking for the stool man." She corks the bottle and makes no move to leave. "And I'm an old woman who hauls water twice a day on wrists that are done being brave about it. Take the crank a while and I'll talk."
+
+I take the crank. She sits on the well wall and pays me in the town's favorite story.
+
+"He's at the depot today. Won't come back to the well. Something went wrong with his head. One minute he's checking bags like always. Next minute he's staring at the depot like somebody moved the town, and a boy walks past with an empty bottle and blood on his lip, and the stool man doesn't see him. Then he asks the next person for their bag as if nothing happened. He's been telling that story to anyone who'll listen. Half of them think heat. Half of them think the boy said something."
 
 "What kind of something?"
 
@@ -66,7 +76,9 @@ She shrugs. "The kind that makes a clipboard forget his job. We've had coast boy
 
 "Then walk faster. Stories grow legs in this town, and the depot has ears."
 
-A younger man at the crank has been listening. He adds, helpful and wrong: "I heard the boy told him to go home. Or look away. Something like that. The stool man won't say the words. Says he can't remember them clean."
+A younger man waiting for the crank has been listening. He adds, helpful and wrong at least once: "I heard the boy told him to go home. Or look away. Something like that. The stool man won't say the words — says he can't remember them clean. And my brother-in-law swears the same boy bought two tickets east the next morning. Coast people always go back east. Can't help themselves."
+
+East is a burned coast and a sealed word on the radio. Either his brother-in-law saw a different boy, or the shop woman watched a ghost haul her stock and board west. One of these people counted a morning's work at arm's length; the other one has a brother-in-law.
 
 "Did anyone see a girl with him?" I ask.
 
@@ -84,7 +96,7 @@ I turn around before anyone at the depot looks at me twice.
 
 At the croquette cart by the shrine gate I spend the last of Sugi's vegetable money. The woman wraps it in paper and asks if I want the bus schedule; I tell her I'm walking, and she looks at me like that is a stupid choice and a free one, which is fair. A delivery boy on a bicycle slows and asks if I need the depot; I tell him I already know where it is, and he pedals on.
 
-I eat standing under the gate, looking west along the road the shop woman pointed at and count what I still have: Sato's chit, half a bottle, and enough afternoon light to put kilometers behind me before dark.
+I eat standing under the gate, looking west along the road the shop woman pointed at, and count what I still have: Sato's chit, half a bottle, and enough afternoon light to put kilometers behind me before dark. If the crank man's brother-in-law is right, I am about to spend two days walking the wrong way. But nobody hauls rice all morning to buy a ticket back into the fire, and the shop woman counted their work with her own eyes. I believe the woman who charged me.
 
 I put the croquette paper in a bin. I check Sato's chit once, inside the jacket, and start walking west before the afternoon heat finishes climbing. The first kilometer out of town is still asphalt. The second breaks at the edges. A truck headed coast-bound lifts two fingers off the wheel without slowing; I lift mine back.
 

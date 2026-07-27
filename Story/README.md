@@ -4,7 +4,7 @@ A modern-Japan webnovel: neon cities, a creeping war, ordinary teenagers at the 
 
 ## Logline
 
-Three high-school friends in Kōgetsu City live an ordinary life — until two of the boys discover they carry the **Ō no Kotodama (王の言霊)**, the King's Word: a near-extinct power that forces anyone who *hears and understands* a command to obey it. On the night of the girl's sixteenth birthday, the war reaches home. What follows fractures a friendship, one careless sentence at a time.
+Three high-school friends in Kōgetsu City live an ordinary life — until two of the boys discover they carry the **Ō no Kotodama (王の言霊)**, the King's Word: a near-extinct power that forces anyone who *hears and understands* a command to obey it. On the night of the girl's eighteenth birthday, the war reaches home. What follows fractures a friendship, one careless sentence at a time.
 
 ## Core tragedy (prologue)
 

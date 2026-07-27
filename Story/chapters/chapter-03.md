@@ -56,7 +56,7 @@ Kaito tried to teach me how to drink the broth without making a sound and failed
 
 "Worth it."
 
-"You're not sixteen till midnight," he added, fishing the last piece of pork out from under her chopsticks. "Until then you're a regular criminal."
+"You're not eighteen till midnight," he added, fishing the last piece of pork out from under her chopsticks. "Until then you're a regular criminal."
 
 "Then at midnight it becomes retroactively legal." She stood, slapped money on the counter before either of us could, and was already at the door. "Eat faster next year. I want to win things."
 
@@ -134,9 +134,9 @@ The doors opened at the hill station. Ryn pulled us out by two sleeves at once, 
 
 The chain on the rooftop door hung off its broken padlock, same as all year. We climbed through into open air.
 
-From up there the city was worth every rule we were breaking. The Rail Loop drew its ring of light around us. Sakaba-dōri was a smear of pink and gold with one dead letter in it. Planes of rooftops stepped down toward the river, and past all of it, east, where the bright ended, a low uneven orange sat against the horizon line. We all knew what it was. Nobody named it. It had sat there for weeks, and it had learned to be part of the view.
+From up there the city was worth every rule we were breaking. The Rail Loop drew its ring of light around us. Sakaba-dōri was a smear of pink and gold with one dead letter in it. Planes of rooftops stepped down toward the river, and past all of it, east, where the bright ended, a low uneven orange sat against the horizon line. We all knew what it was. Nobody named it. It had sat there for weeks, and we had all stopped seeing it.
 
-I set the cake on an upturned crate. Kaito produced a lighter from somewhere, because Kaito could always produce a lighter from somewhere, and cupped the flame against the warm wind while I planted sixteen candles.
+I set the cake on an upturned crate. Kaito produced a lighter from somewhere, because Kaito could always produce a lighter from somewhere, and cupped the flame against the warm wind while I planted eighteen candles.
 
 Ryn stood over her cake with the plush cat under her arm and the candlelight moving on her face, and she looked — I didn't have the word then. Unguarded. Like someone had told her she was allowed to have all of it, and she was still deciding whether to believe them.
 
@@ -154,13 +154,13 @@ She never finished the sentence.
 
 The sky over the eastern wards turned white.
 
-Not orange. White — hard, total, a photographer's flash the size of a horizon. It printed the whole rooftop in black and silver: Ryn's shut eyes, Kaito's open mouth, sixteen little flames gone suddenly pointless. No sound. Light first, and the space where sound should be, long enough for your body to lean into the wrongness of it. Then the air arrived — not a noise so much as a shove, through the chest, through the water tanks, through every window below us, and the city went off all at once like a struck hive. Car alarms. The Loop's horns. Dogs.
+Not orange. White — hard, total, a photographer's flash the size of a horizon. It printed the whole rooftop in black and silver: Ryn's shut eyes, Kaito's open mouth, eighteen little flames gone suddenly pointless. No sound. Light first, and the space where sound should be, long enough for your body to lean into the wrongness of it. Then the air arrived — not a noise so much as a shove, through the chest, through the water tanks, through every window below us, and the city went off all at once like a struck hive. Car alarms. The Loop's horns. Dogs.
 
 Then our phones. All three at once, and not the two tones. A third tone under them, low, felt in the back teeth, a sound I had never heard the app make. Every screen on every pole and every building went the same flat red, and on the red, in the calm government font that had lied to us every single morning:
 
 **LINE BROKEN. RUN WEST.**
 
-East, where the white was fading, something was rising into the space it left. Not smoke. Smoke moves like it's escaping. This moved like it was *arriving* — vast, wrong, unhurried, the shape the news called Anomalous Materiel and the refugees with gray shoes called things they wouldn't say twice. I looked at it and my legs understood before I did. Some things you don't see so much as owe money to.
+East, where the white was fading, something was rising into the space it left. Not smoke. Smoke moves like it's escaping. This moved like it was *arriving* — vast, wrong, unhurried, the shape the news called Anomalous Materiel and the refugees with gray shoes called things they wouldn't say twice. I looked at it and my legs understood before I did.
 
 "Okay," Ryn said.
 
@@ -242,7 +242,7 @@ Then the lip of the roof held nothing, and the space where she'd been was just c
 
 What came next didn't stay in order.
 
-I was screaming — my throat was raw for three days afterward. Two soldiers dragged me back from the lip and I fought them with everything I didn't have and it accomplished nothing at all.
+I was screaming — I only knew it was me by the tearing in my throat. Two soldiers dragged me back from the lip and I fought them with everything I didn't have and it accomplished nothing at all.
 
 Kaito had gone silent. Both arms held, on his knees, mouth open, no sound coming out. The soldiers around him had gone strange — the one who'd held her was kneeling on the roof staring into his own open hand, turning it over, like it belonged to someone else and had been mailed to him by mistake.
 
@@ -250,7 +250,7 @@ And I know the officer walked to the lip, looked down at the street for exactly 
 
 "Confirmed," he said, to the radio on his collar. "It's the Word. Both flagged, the loud one is active." A pause while the radio talked. He glanced at the kneeling soldier the way you glance at a spent tool. "One casualty. Civilian. Yes — it was instructive." He stood there, in the middle of all of it, and checked his watch again. "Bring both. Alive is the entire point. And if the loud one opens his mouth — hands over your ears, and you do not listen to one word he says. That order stands until I revoke it."
 
-Fifteen years old, face-down on a rooftop, Ryn gone, the east ending, and a man in a pressed uniform talking about my best friend's *mouth* like it was the thing he'd been sent to collect. I understood nothing.
+Seventeen years old, face-down on a rooftop, Ryn gone, the east ending, and a man in a pressed uniform talking about my best friend's *mouth* like it was the thing he'd been sent to collect. I understood nothing.
 
 Then the east stairwell exploded.
 

@@ -12,7 +12,7 @@ Machi serves him once and doesn't chat. Riku glances over, dismisses him, goes b
 
 Later, when the dock hand leaves and the counter is quieter, Riku knocks my bowl with a knuckle. "You're somewhere else."
 
-"Gorō isn't coming back because somebody is going to fix this," I say, low, for him. "Nobody is coming to fix any of this. The world isn't failing. It's wrong."
+"Gorō isn't coming back," I say, low, for him. "And nobody is coming after him to make it right. The world isn't failing, Riku. It's wrong."
 
 Riku looks at me a second. "Eat anyway." He doesn't argue. He doesn't make a speech. That is as much answer as I get, and I take it.
 

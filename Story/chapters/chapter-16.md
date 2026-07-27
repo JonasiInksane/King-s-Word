@@ -46,7 +46,7 @@ I walk the long way home. Wrong boy. Next time I hear about a coast voice, I'll 
 
 Thursday, I learn, is a ceremony.
 
-Thursday nights Machi feeds working boys whether they can pay or not — one bowl, one refill, no discussion. The counter fills with dock hands and market boys and a tram conductor who knew Gorō when they were both young enough to be handsome, according to Gorō. Machi runs it like a harbor master, and I watch her price every new face at the curtain the way she priced mine, and I never once see her get it wrong.
+Thursday nights Machi feeds working boys whether they can pay or not — one bowl, one refill, no discussion. The counter fills with dock hands and market boys and a tram conductor who knew Gorō when they were both young enough to be handsome, according to Gorō. Machi runs it like a harbor master, and I watch her read every new face at the curtain the way she read mine, and I never once see her get it wrong.
 
 The door to her back room drags. It has dragged since I first slept behind it — you have to lift the handle and shoulder it, and everyone does, and nobody fixes it, because a bar full of working men is somehow never working. The second Thursday I borrow a plane and a screwdriver from the tool sharpener up the street, take the door off its hinges before the evening rush, and rehang it square.
 

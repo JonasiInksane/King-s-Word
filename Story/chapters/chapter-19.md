@@ -14,7 +14,7 @@ Mira is at the low table with a paper map and yesterday's pay already sorted. Fo
 
 I sit. My shoulders are still set for the east run — crates, diesel, a foreman who likes that I don't ask questions. Pulling me off it means she needs the mouth, or she needs me not at the yards when something happens. Either way my hands want work they aren't getting.
 
-Mira watches me the way she watched the pier soldier's face, once — checking for the tell before she spends her own words.
+Mira watches me the way she watched the pier soldier's face, once — checking for the tell before she says anything she can't take back.
 
 "Last night the contact came upstairs," she says. "You were asleep. I let you stay that way."
 
@@ -34,7 +34,7 @@ There it is. The thing under the rent. The reason the contact found us a clean r
 
 "And if I say no?"
 
-"Then I still go, and I fail, and she rides east, and we keep stacking crates until the gray suit sits at Minato and points at your mouth." She says it without drama. Tide-chart voice. "I'm not threatening you with that. I'm telling you the road. You've been angry for weeks, Kaito. You sleep like you're waiting for a fight. Something is going to give — I'd rather it be a door we choose."
+"Then I still go, and I fail, and she rides east, and we keep stacking crates until the gray suit sits at Minato and points at your mouth." She says it without drama, level as a timetable. "I'm not threatening you with that. I'm telling you the road. You've been angry for weeks, Kaito. You sleep like you're waiting for a fight. Something is going to give — I'd rather it be a door we choose."
 
 I want to argue. The argument comes out smaller than I mean it to.
 
@@ -74,7 +74,7 @@ We spend the day like people who still belong to the city.
 
 Mira buys rice and vinegar like any aunt's errand. I walk the service road behind the hospital once, alone, a wage boy looking for a shortcut — laundry chimneys, chain-link with a cut wire near the drain, loading dock with a folding chair for a night clerk, stairwell door painted the same green as every municipal building that wants to be ignored. I count the cameras that work and the ones that don't. I count how many steps from the court to the quiet-floor landing if the contact's pencil is honest.
 
-At midday I almost open my mouth at a pair of gray-greens who stop a cart boy for papers he doesn't have. The words come up ready — then I crush them by putting my hands in my pockets and taking the long way around the block. The cart boy gets a shove and a warning instead of a cell. That is the city's kindness. I walk until my pulse stops trying to spend itself.
+At midday I almost open my mouth at a pair of gray-greens who stop a cart boy for papers he doesn't have. The words come up ready — then I crush them by putting my hands in my pockets and taking the long way around the block. The cart boy gets a shove and a warning instead of a cell. That is the city's kindness. I walk until my pulse settles.
 
 Mira finds me at the water tower we used the first afternoon. She doesn't ask where I went. She hands me a rice ball and says, "Clerk changes at eleven. Transfer truck is staged for three. We go in the gap."
 

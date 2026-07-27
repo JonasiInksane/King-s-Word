@@ -79,5 +79,5 @@ The reader should *feel* something is off; no one in-story should name it yet.
 ## The mystery threads (for later payoff)
 - **Why two commoner boys?** Not coincidence. (See `plot-outline.md` — the **split inheritance**: the last heir's Word divided and hidden in two infants during the purge.)
 - **What are the *kai*?** LOCKED — bleed-through from the sealed-out old world; Word-immune under Grades I–II. Full reveal ~Vol 5 (`old-world-seal.md`). Early: symptoms only.
-- **The birthday.** The calamity / bleed striking on Ryn's 16th is drawn to a Word *awakening* — the seal flexes toward a living Voice.
+- **The birthday.** The calamity / bleed striking on Ryn's 18th is drawn to a Word *awakening* — the seal flexes toward a living Voice.
 - **Reshaped by whom?** Kuroda's question (Ch 18) is the series thesis — paid as cosmology in Vol 5, not answered cheaply before.

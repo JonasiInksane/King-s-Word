@@ -90,7 +90,7 @@ And it stops. Half a beat early. His mouth open around the rest of it — *your 
 
 I pull my sleeve out of his hand. Gently. That is the one mercy I have left — I do it gently.
 
-Mira is at the lane mouth. Kit on her shoulder, a cloth sack already packed, her aunt's bicycle leaned against the wall. No expression on her face except that tide-chart steadiness. I understand in one look that she packed that sack before the shrine yard — days before — the way you pack for weather you have watched coming up the coast.
+Mira is at the lane mouth. Kit on her shoulder, a cloth sack already packed, her aunt's bicycle leaned against the wall. No expression on her face at all. Just readiness. I understand in one look that she packed that sack before the shrine yard — days before — the way you pack for weather you have watched coming up the coast.
 
 "Not the coast road," she says. "They'll rope that first. There's a foot track over the ridge the herring carts used before the tunnel. I know it." And then, when I don't move: "Kaito. The man in the gray suit is why I know. Come *now*, or sit down and wait for him."
 

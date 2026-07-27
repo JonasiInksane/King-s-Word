@@ -10,13 +10,39 @@ On the fourth day a gray-green pair walks the roofed street with a notebook and 
 
 "Because the noodle row has a clerk who likes being useful to soldiers." He goes back to his sums. "And because I said so."
 
-I finish the mender's ward. I don't take the noodle row. At sundown he pays me and holds the last coin a second longer than usual.
+The mender's ward nearly finishes me anyway.
+
+I'm unloading oil at the seamstress's shop when a pair comes up the street with a third man half a step behind — civilian jacket, board under his arm, the one who writes. They work the doorways one by one, and the street does the thing streets do now: keeps moving, a little too attentively. When they reach the seamstress's she comes out to meet them on the step, scissors still in her apron pocket, and plants herself like a woman with nothing in the back room.
+
+"Day-hire," the list man says. Not a greeting. "Who carries for you?"
+
+"My sister's boy, when his knees work." She says it in the flat sing-song of a woman answering a question she has answered four doors' worth of times. "And the wholesaler sends deliveries. I don't hire the street."
+
+"The wholesaler." His pencil is already moving. "Which one?"
+
+Her eyes don't go to me. They go over the pair's shoulders, down the street, anywhere ordinary — but I am standing next to a handcart with the man's oil in my arms, and there is no version of this where I am not part of the arithmetic on that board. The soldier turns and looks at me the way men with lists look at boys with carts.
+
+"Whose cart?"
+
+"Tanabe's, off North Market." My shoulders are already down, my voice already the boring one. It is the true answer and the legal one — three more days of legal. "Dry goods and oil, six wards."
+
+"Tanabe." The list man writes it. One word, one line, my mouth to his board. The pencil sounds louder than it has any right to. "Registered employer?"
+
+"Registered premises," the soldier answers for me, bored, already moving to the next door. "The hands are what we're counting."
+
+They go. The seamstress takes her oil out of my arms without a word, and her look, before her door shuts, is not unkind and is not reassuring: the look of a woman deciding which of her small daily kindnesses have just become expensive.
+
+I finish the mender's ward. I don't take the noodle row. All the way back the pencil keeps writing Tanabe's name in my ear.
+
+At sundown he pays me and holds the last coin a second longer than usual.
 
 "You've worked clean," he says. "That matters. But after tomorrow I can't have hands I can't put on a form. You understand what I'm saying?"
 
 "You're saying I'm done."
 
 "I'm saying the form is going to ask for origin documentation, and you don't have any, and I don't forge for boys I like." He puts the coin in my palm and closes my fingers over it. "Take what you've got. Don't come at six. If they ask me about a coast boy on a cart, I never had one."
+
+He doesn't say that a pair wrote his name onto a board this afternoon because a boy holding his oil answered honestly. He doesn't have to. It has been in the room the whole conversation.
 
 Riku is waiting outside with his hands in his jacket. He heard enough through the doorway. He doesn't make a speech about it. He just tips his head toward the bath-house street and we walk.
 
@@ -84,7 +110,7 @@ After closing I wash bowls I didn't use and lie on the mat in the back room with
 
 Riku doesn't answer for a long time. Then: "Then the hill took him, and the hill takes people, and we don't get to go get them back with a handcart and a good attitude." He rolls onto his side, facing the wall. "Sleep anyway. Tomorrow we still need coins."
 
-I don't sleep. The notice and the closed cellar and the pushed-in stool keep turning over, and that morning in Nagihama comes back without me asking for it — the world stopped being a place that was failing and started being a place that was wrong, and nobody is coming to fix any of this. I try it the other way — somebody is coming, somebody has to be — and that version still won't stand.
+I don't sleep. The notice and the closed cellar and the pushed-in stool keep turning over, and that morning in Nagihama comes back without me asking for it — the morning the world stopped failing and went wrong. I try to build the other version, the one where somebody is coming, somebody has to be — and it won't stand up. It wouldn't stand in Sugi's entryway and it won't stand here.
 
 In the morning Machi puts breakfast in front of us without asking. "His coat's gone from the hook. The good shoes too. So either they let him dress for a long ride, or he got a minute alone and took what he needed." She fills my cup. "I choose the second. You two choose whatever keeps you eating."
 

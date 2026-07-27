@@ -126,11 +126,11 @@ He parks me at the busiest food stall — squid on skewers, a woman with grease 
 
 I wait until she hands off her skewers. "I'm looking for my cousin. He came through yesterday heading west — tall, doesn't talk much, girl with him who does. Anyone like that buy food here?"
 
-Her face does the arithmetic. "The quiet one and the girl who worked my trays. You know them?"
+Her face turns it over before she answers. "The quiet one and the girl who worked my trays. You know them?"
 
 "I'm trying to catch up."
 
-"Then you're chasing the wrong end of the day." She wipes her hands and points her chin at the depot end of the arches. "She carried for me all yesterday afternoon, good worker, and this morning the two of them were at the dawn window for Takamatsu. The boy didn't talk. She talked enough for both tho." She looks at my dusty knees, at the bruise coming up my forearm. "Bus left at first light. You want a skewer or not."
+"Then you're chasing the wrong end of the day." She wipes her hands and points her chin at the depot end of the arches. "She carried for me all yesterday afternoon, good worker, and this morning the two of them were at the dawn window for Takamatsu. The boy didn't talk. She talked enough for both of them." She looks at my dusty knees, at the bruise coming up my forearm. "Bus left at first light. You want a skewer or not."
 
 First light. While I was still on the Kuroishi road, they were already at the ticket window. Half a day. I have no chit and no yen, and the depot at the end of the arches is closing its stamp box for the night.
 

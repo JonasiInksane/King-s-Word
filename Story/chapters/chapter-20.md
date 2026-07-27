@@ -18,7 +18,7 @@ Mira has the empty linen cart. She stops us in the shadow of the stacked carts a
 
 "Until someone comes looking for why the court door is open, or until the truck crew shows early. Don't invent a third clock." She adjusts the sack on her shoulder. "Stay here until I call you forward."
 
-I nod. My mouth is dry. My hands want a crate that isn't here.
+I nod. My mouth is dry. My hands open and close on nothing.
 
 She walks into the bulb light like a girl on an errand — shoulders down, voice the polite size that gets clerks to look at clocks instead of faces.
 
@@ -40,7 +40,7 @@ I walk into the bulb. I keep my voice low, under the chimney steam, under the di
 
 It lands.
 
-His hand finds the latch without asking his face first. The green door swings. His eyes go empty — a held breath of nothing — and then he is staring past us at the court as if he has forgotten why he stood up. Blood finds my upper lip. The weight leaves my throat hard enough that the dock tip for a second. I wipe my nose on my wrist and don't look at Mira.
+His hand finds the latch without asking his face first. The green door swings. His eyes go empty — a held breath of nothing — and then he is staring past us at the court as if he has forgotten why he stood up. The weight goes out of me hard enough that the dock tilts for a second. Blood reaches my lip. I wipe it on my wrist and don't look at Mira.
 
 "Inside," she says.
 
@@ -148,4 +148,4 @@ A siren starts on the hill — hospital side.
 
 "This way," Mira says, and takes the narrow service path behind the yards, the one that runs wet along the fence toward the pines. We stay off the lit road. Water soaks through my boots in the low places. A second siren joins the first, closer to Station Plaza.
 
-I keep my mouth shut and follow her.
+Behind us, somewhere on the hill, a clerk with his face in his hands is about to be asked why the court door stood open — and he is going to answer, honestly, that he opened it himself and cannot say why.

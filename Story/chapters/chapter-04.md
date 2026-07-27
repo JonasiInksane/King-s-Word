@@ -72,7 +72,7 @@ When the door shuts, Sugi watches it for a moment.
 
 ---
 
-They hold the send-off three days from now, at low tide, out on the flats past the sea wall.
+The send-off, when it comes, is three days later — low tide, out on the flats past the sea wall.
 
 No body. There was never going to be a body; Kōgetsu is a sealed word on the radio now, a place with a number instead of a population. So the widows do what this coast has always done for the sea's unreturned. A square of white cloth. A flower. Something that can stand in for a person the water already took, carried to the tide line and given back, so the water can do the carrying from here.
 
@@ -80,7 +80,7 @@ Sugi sets the arcade cat on the cloth.
 
 It should be ridiculous — a plastic game prize with one milky eye standing in for a girl who vaulted counters and stole chashu and said *okay* when the sky went white. It is ridiculous. My throat closes anyway. The birthday sticker is still on its side. Nine hundred yen of Kaito's pride and my accidental win and her arm around it on a roof that doesn't exist anymore. Sugi doesn't explain. She has buried more people than we have met, and she doesn't waste words on the ones still standing.
 
-The widows begin a song I don't know. Low. Almost not a song — more like breath passed from chest to chest along the line of them. The eastern horizon still carries its wrong glow, faint from here, a bruise the sky won't admit to. Wind off the flats finds every gap in my borrowed jacket. Sugi's hand locks around my wrist, hard enough to hurt, and I understand she is holding me up. I cry without making any sound. Beside me Kaito does not cry. His face has gone blank in a way that frightens me more than tears would have.
+The widows begin a song I don't know. Low. Almost not a song — more like breath passed from chest to chest along the line of them. The eastern horizon still carries its wrong glow, faint from here, there every time I check. Wind off the flats finds every gap in my borrowed jacket. Sugi's hand locks around my wrist, hard enough to hurt, and I understand she is holding me up. I cry without making any sound. Beside me Kaito does not cry. His face has gone blank in a way that frightens me more than tears would have.
 
 One of the widows steps forward and says the old words over the cloth. She means them the way this coast has always meant them. She does not know what those three words did to us five nights ago. She cannot know. The phrase is older than our ruin:
 
@@ -90,7 +90,7 @@ Kaito flinches like he's been hit in the mouth. The flinch travels into me a hal
 
 The rite is simple. You wade out to the tide line. You set the cloth on the water. You open your hands.
 
-We carry it out together, one corner each. The water finds us at the ankles, then the calves, cold through the boots Mira's aunt sent, cold like it has been waiting. My hands are shaking so hard the cloth trembles. His are worse. The square settles on the surface as if it always belonged there.
+We carry it out together, one corner each. The water finds us at the ankles, then the calves, cold through the boots Mira's aunt sent, colder than June has any right to be. My hands are shaking so hard the cloth trembles. His are worse. The square settles on the surface as if it always belonged there.
 
 I look at him.
 
