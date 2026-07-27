@@ -1,4 +1,4 @@
-# Chapter 18 — The Listener at the Bar
+# Chapter 18 — Reshaped by Whom
 
 The night market gives us nothing useful.
 
@@ -120,4 +120,4 @@ Riku clicks his tongue once — help, this time — and pulls his jacket on.
 
 "If it turns out to be what I think," I say, and I don't finish it, because finishing it would mean saying Kaito's name in a bar that still has ears.
 
-We go out through the rope curtain into the damp street and turn toward the hill.
+Machi's voice carries from the pots without her turning. "Whatever you two just decided — don't bring it back through my curtain tonight. I already lost one stool."

@@ -96,12 +96,12 @@ We go back to the apartment. I sleep two hours because she tells me to, and wake
 
 I stand. I keep my mouth shut the way I've been keeping it shut for weeks — jaw locked, nothing under the ordinary air. My hands still want a crate to lift. What I want under that, I don't give a name. I put my boots on the complaining floorboard and leave it there.
 
-Mira locks up and leaves the key under the stationery shop's broken shutter, where the contact said to leave it.
+Mira locks up and leaves the key under the stationery shop's broken shutter, where the contact said to leave it. The metal makes a small sound against the wood — too small for a goodbye, which is the point.
 
 "Service court," she says. "If I stop, you listen. If I run, you run. Clear?"
 
 "Clear."
 
-We take the alleys toward the north hill. Behind us the bath-house steam keeps rising. Ahead, the laundry chimneys put white breath against a dark sky.
+"Good." She tips her chin at the north hill. "Once we start, we don't have a room to come back to. Say it so I hear you know."
 
-I don't look back at the stationery shop.
+"We don't have a room," I say.

@@ -117,6 +117,8 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 
 ### The Listener — gray suit, no name on-page (bible working name: Sawatari)
 
+**On-page label hygiene:** Narration/dialogue use *gray suit* / *man who covers his ears* through Ch 21. Mira mints `"Listener,"` in Ch 22 — only then may Kaito's narration use the capital-L name. **Not Kuroda.** Ch 18 is the coat man at Minato (*Reshaped by Whom*).
+
 **Camera moment (live, Ch 9):** In the shrine-yard chaos he stands very still with his **hands over his ears** — in a yard where the shooting is finished — eyes going through the crowd like a hook through water, hunting a mouth.
 
 - **Who (bible):** Civilian-suited intelligence attached to the FDC's asset-acquisition current (Kanzaki's cell or a rival desk — keep open). Briefed on the ear protocol. Reopened Jun's file to shake the town and see what surfaced.

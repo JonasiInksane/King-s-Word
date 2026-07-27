@@ -16,12 +16,16 @@ These bind whenever drafting or editing chapters, dialogue, or in-world narratio
 Do these in order. Do not skip the count.
 
 1. **Word count** — measure the chapter file. Floor and how-to are below. If under floor: expand with real scene (talk, walk, ask, cost), not poetry padding.
-2. **Knowledge** — no bible leaks; no psychic certainty; rumors labeled.
-3. **Dialogue** — engages (pushback/noise); lean (no double-explain); NPCs in full sentences; plain close (no title-echo).
-4. **Narration** — story prose like `assets/example-chapter-1`, not haiku/fragments.
+2. **Knowledge** — no bible leaks; no psychic certainty; rumors labeled; spoken claims earned before overheard callbacks.
+3. **Dialogue** — engages (pushback/noise); lean (no double-explain); NPCs in full sentences; plain close (no title-echo); both sides want something.
+4. **Narration** — story prose like `assets/example-chapter-1`, not haiku/fragments. Opinionated + operational. No mental-collection / arithmetic-as-feeling.
 5. **No thin wraps** — no recap stacks or pre-`---` buttons; no inventory/telegram talk.
-6. **Canon voice** — if the user rewrote dialogue in a recent chapter, match that pass.
-7. **PROGRESS / cameras** — update tracker and character camera notes when beats land.
+6. **Hand-off** — chapter N+1 opens on the state N created (same camera) or on the new camera's own want (switch).
+7. **Close type** — differs from the previous two chapters (rotate decision / reveal / threat / arrival / question).
+8. **Canon voice** — if the user rewrote dialogue in a recent chapter, match that pass.
+9. **PROGRESS / cameras** — update tracker and character camera notes when beats land.
+
+**Craft bar references (writer-only):** `assets/example-style-guide.md` (what good looks like) · `assets/current-chapters-critique.md` (our gaps + pass status).
 
 ---
 
@@ -94,6 +98,14 @@ Never put these in dialogue, narration, or thoughts unless the camera already le
 - POV is not omniscient. Guest cuts know their own present + past only.
 - Rumors stay labeled. Partial/wrong info is fine; fake certainty is not.
 - Institutions (FDC / Remnant / Order) know institutional facts — not a boy's private guilt.
+
+### Earn before callback
+
+If a later beat depends on a line being overheard, known, or quoted, that line must already exist **spoken on-page** (or clearly public), not only as private thought.
+
+- Bad: Haruki *thinks* "the world is wrong," then Kuroda quotes it as if he heard it at the counter.
+- Good: Haruki says it low to Riku first; then Kuroda (coat man) proves he was close enough (Ch 17–18).
+- Same rule for trail claims, favors, and "he knows my name" reveals — the channel must be shown or earned.
 
 ### Word tells — public vs private
 
@@ -170,6 +182,24 @@ Do **not** use *soft* as road/code bulletin language — instruction stacks, rul
 - **Allowed:** ordinary English (*soft knees*, *softer:* for dialogue volume) and Riku's rare earned nickname ("soft boy") — not every other line, and never as a mission briefing verb (*ask soft*).
 - If a character needs to teach caution, they say it in a normal sentence, not a three-bullet field manual.
 
+### HARD — No "boring boy" / uniform label spam
+
+"Boring is the whole uniform" is minted once (Ch 8–10). After that, **show** the shoulders-down / quiet / ordinary-boy act — do not re-stamp *boring boy*, *boring uniform*, or *the boring one* every gate and shop. Same discipline as the *soft voice* ban.
+
+---
+
+## HARD — Chapter hand-offs
+
+End-state of chapter N is the opening premise of that camera's next chapter. The reader never re-derives where we are.
+
+- Same-camera next chapter: open on the decision, arrival, or pressure N just created — not a weather reset or a recap paragraph.
+- Across a POV switch: open on the **new** camera's own want within one paragraph (voice test). The switch must answer a question the leaving camera can't.
+- If chapter N plants an ask ("we'll ask at the night market"), chapter N+1 must land that ask (or show why it failed) before leaping to a new beat. Planted bridges are debts.
+
+Model (examples): Ch 1 ends agreeing to the Bluebell → Ch 3 opens "Tristan was the first to arrive." Ours: Ch 17 ends on the night-market ask → Ch 18 opens with that ask going cold, then the coat man (Kuroda).
+
+**Naming — the gray-suit hunter:** On-page he is *gray suit* / *the man who covers his ears* until a character mints a label (Mira: `"Listener,"` Ch 22). Do not put capital-L *Listener* in narration before that mint. Do not title Kuroda chapters with *Listener* — different man.
+
 ---
 
 ## HARD — Dialogue
@@ -211,7 +241,8 @@ The book is plain first-person narration. There is **no frame, no listener, no w
 ### No filing / no ledger voice
 
 - **Banned as narration or thought:** record, ledger, column, entry, account (as metaphor), "filed under," "closes files," "file behind his eyes," "voice like a receipt," "seating chart" for people, arithmetic-as-feeling ("did the math," "the sum ran," "totals itself," coin/loud *cost* metaphors as habit).
-- **Banned: mental-collection framing.** The narrator does not "keep," "collect," or "store" observations ("I kept it with the others," "I've been collecting these"). He notices and moves on.
+- **Banned: mental-collection framing.** The narrator does not "keep," "collect," "store," or "sharpen like a tool" observations and advice ("I kept it with the others," "I've been collecting these," "I keep the tea seller's advice like a tool I sharpen every day"). He notices and moves on — or he just *does* the thing the advice suggested.
+- **Banned: currency-as-feeling.** Do not price emotion, talk, or silence in coins/fares/spend/half-spent metaphors ("spends her own words," "pulse trying to spend itself," "the room thins by half" as emotional math). Literal coin counts for wages/fares are fine when hands are counting money.
 - **Banned:** reader/listener address ("I want you to see," "I'll give it to you"). Generic idiomatic *you* is fine.
 - **Allowed:** rare quiet hindsight with no record talk — at most one or two per chapter, at real hinges.
 - **Literal paper stays:** Orihara's shop books, Sato's stamps, FDC files, official accounts. The ban is narrator metaphor, not the world's paper.

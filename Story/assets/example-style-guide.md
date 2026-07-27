@@ -262,3 +262,23 @@ Our locked constraints (see `.cursor/rules/story-writing.mdc` and `README.md`): 
 | Close | Turn crystallized; hook type differs from last chapter | Recap stack, mood button, same close twice |
 | Hand-off | Next chapter opens on created state / new camera's want | Re-derivation, muddy camera |
 | Word count | ≥1,000 hard floor; 1,400–2,200 target | Padding with garnish to hit numbers |
+
+### 8.5 Hold onto — our chapters that already match the bar
+
+When drafting Vol 3+, steal from these before stealing from the Tristan/Angharad books. Surface mechanics stay ours (first person, present, lean dialogue); the *functions* match the examples.
+
+| Function | Our model | Why it matches the examples |
+|---|---|---|
+| Full fight grammar | Ch 3, Ch 9, Ch 14, Ch 23 | Geography → moves with cost → aftermath booked |
+| Transactional ask | Ch 5 (Orihara), Ch 16 (Tanabe), Ch 19 (Suzumori ask) | Both sides want / pay; refusal available |
+| Operational interiority under pressure | Ch 7 (buyer), Ch 20 (Quiet Floors) | Thought reads → decides → acts; cost on-page once |
+| Ensemble with clashing wants | Ch 9 shrine yard | Multiple speaking parts; not a lecture circle |
+| Found family shown | Machi / Gorō / Riku (Ch 15–18) | Food, work, risks — never labeled "family" |
+| Menace through stillness + dialogue | Ch 18 Kuroda (Reshaped by Whom) | Subtext every line; name he shouldn't know |
+| Wrong read that bills | Ch 16 wrong boy at the docks | Confident misread, cost on-page |
+| Dramatic irony crossing | Ch 21 near-miss | Reader holds both cameras; tension free |
+| Earn-before-callback | Ch 17→18 despair line | Spoken to Riku before Kuroda quotes it |
+| Hand-off discipline | Ch 17 night-market ask → Ch 18 opens on that ask | End-state of N is premise of N+1 |
+| Volume close that earns quiet | Ch 23 "I keep walking." | Quiet-exit only after other closes rotated |
+
+**Do not "improve" these into poetry.** Match their clarity and friction.

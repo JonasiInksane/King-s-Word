@@ -30,11 +30,14 @@ Aim for the propulsion of `assets/example-chapter-1`: **story in clear sentences
 - **Open in motion.** First lines = something happening. Skip city-thesis openers and portrait inventories.
 - **Tell the story.** Cause → action → result. Explain enough to follow. If a line is only mood, cut it or attach it to a task.
 - **Attach description to task.** Looks, room, city detail land while hands and eyes are busy. Spatial clarity when action matters.
-- **Complication rhythm.** Scenes push on a problem, not banter alone.
-- **Deep POV.** Feel the world through the camera's body and diction — plain, not poetic. Guests get their own voice.
-- **Show, don't brief.** Lore leaks through dialogue, signage, apps, what people do under pressure.
-- **Camera moment.** New people arrive in a vivid beat, not a bio dump — and the first appearance carries the **full name** (when the POV would know it; anonymous-by-design characters like Kuroda and the Listener stay unnamed) plus enough face/body/hair for the reader to picture them, woven into the scene.
-- **Close on a pull.** End mid-motion, on a spoken line, or on a concrete next step — not sleep/bed twice in a row, not ornamental metaphor, not a one-line haiku button.
+- **Opinionated + operational interiority.** Narration prices/judges in the camera's register; thoughts change belief or next action — not mood weather. See `assets/example-style-guide.md`.
+- **Complication rhythm.** Every chapter dramatizes at least one full friction scene (plan meets resistance on-page). Summary compresses time, never conflict.
+- **Transactional dialogue.** Both sides want something; information arrives bent; at least one refusal per arc stays refused.
+- **Deep POV.** Feel the world through the camera's body and diction — plain, not poetic. Guests get their own voice. One-paragraph voice test.
+- **Show, don't brief.** Lore leaks through dialogue, signage, apps, what people do under pressure. Withhold in installments.
+- **Camera moment.** New people arrive in a vivid beat, not a bio dump — and the first appearance carries the **full name** (when the POV would know it; anonymous-by-design characters like Kuroda and the Listener stay unnamed) plus enough face/body/hair for the reader to picture them, woven into the scene. One load-bearing detail per NPC.
+- **Hand-off.** Chapter N+1 opens on the state N created (or the new camera's want). Planted asks are debts.
+- **Close on a pull.** End mid-motion, on a spoken line, or on a concrete next step — rotate close *type*; quiet-walk close once per POV block max. Not sleep/bed twice in a row, not ornamental metaphor, not a one-line haiku button.
 - **Dialogue and narration stay plain.** Normal sentences. Clear and concrete. **No poetry-in-every-clause. No travel montages made of fragments.** See `.cursor/rules/story-writing.mdc`.
 - **No bookkeeping narrator voice (hard).** Never "the record should show / the ledger / entry / column / filed" as narration or thought, no arithmetic-as-feeling, and no mental-collection framing (the narrator never "keeps/collects" observations in a place or list — he notices and says nothing). Bookkeeping stays literal (Haruki's sums job, Sato's stamps). See `.cursor/rules/story-writing.mdc`.
 - **No inventory talk (hard).** No telegram stub-chains ("Further in. Girl with him." / "Midnight. All three.") in dialogue or narration.
@@ -73,7 +76,9 @@ lore/
   characters.md           <- bios, voices, secrets (not POV schedule)
   plot-outline.md         <- arc spine; post-prologue rebuilds here
 chapters/                 <- live blank-page drafts only
-assets/example-chapter-1  <- craft reference
+assets/example-chapter-1…10  <- craft reference (third-person epic; import functions, not surface)
+assets/example-style-guide.md <- distilled craft from the examples + our translation layer
+assets/current-chapters-critique.md <- ranked gaps vs that bar + pass status
 scripts/export_pdf.py     <- PDF export (writes its own output folder)
 ```
 

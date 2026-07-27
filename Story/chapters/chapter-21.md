@@ -80,31 +80,49 @@ I almost say his name again. Mira's eyes flick to my face and away.
 
 We walk. My shoulder stiffens. The bandage darkens and then stops. The fringe opens once onto a scrap of scrub where someone dumped broken tiles, and closes again into wet dark that smells like sap and old smoke. Mira checks every chalk mark twice — once with her eyes, once with her thumb — as if the marks might lie to her the way paper lies to clerks.
 
-Around midday we eat rice balls left from the stationery shop's last morning, and I do not ask where she hid them.
+Around midday we stop in a scrape of dry ground under pines that still hold last night's wet. Mira digs two rice balls out of the sack — stationery-shop morning rice, cold, the seaweed gone limp — and I do not ask where she hid them. We eat with our backs to different trees. Mine faces the way we came. Hers faces the chalk marks ahead.
 
 "You keep looking back," Mira says.
 
-"I'm listening."
+"Someone might be on that path."
 
-"Same thing, with you." She wipes rice from her fingers on her trousers. "If the hill gets loud behind us, we cut south and burn half a day. If it stays quiet, we keep the marks. Quiet is what worries me."
+"Someone is always on a path." She picks a grain of rice off her thumb with her teeth. "You mean him."
+
+I don't deny it. The scrape in my throat makes denial sound like theater anyway.
+
+"If he's coming," I say, "the marks are the only thing that don't make him guess. We leave them, he finds the shed. We burn them and cut south, he walks the open road into whoever is listening for a scraped voice."
+
+"Or he walks the open road into us, and then we have a reunion with gray-greens for an audience." She doesn't raise her voice. She doesn't have to. "I didn't pull Suzumori out of a hospital so you could sit on a hill waiting for the boy who has been walking toward your mouth since Kuroishi."
+
+"He's walking toward a hospital story. Not me."
+
+"Same road, if you leave him a trail of chalk." She wraps the empty seaweed and stuffs it in the sack like evidence. "Listen to me. If the hill gets loud — pairs, sirens, that man who covers his ears — we cut south and burn half a day. We lose the marks on purpose. If it stays quiet, we keep them and we move. Quiet is what worries me. Quiet means someone is taking their time."
+
+"And if quiet is him?"
+
+"Then he can take his time too." For a second something almost soft moves in her face, and then it is gone. "We have a shed to reach before dark. Eat. Then walk. Looking back is not a plan."
+
+I finish the rice. It tastes like a room we already locked.
+
+"Marks," I say. "For now."
+
+"For now," she agrees, and she makes me say the inland signal once under my breath before she lets us stand — two notes, not a tune — so I remember what we are walking toward instead of what we left.
 
 ---
 
-Afternoon brings the Listener.
+Afternoon brings the gray suit.
 
-Not on our track. On the lit road below a rise where the pines thin. Mira pulls me flat behind a fallen trunk before I see him properly — gray suit, no rifle, hands empty, standing with a pair of gray-greens who look like they would rather be anywhere else. He is not looking at maps. He is looking at mouths. Even from here I can tell: the way his attention sits on the younger soldier when the boy answers a question, the way he tips his head as if sound itself were a trail.
+Not on our track. On the lit road below a rise where the pines thin. Mira pulls me flat behind a fallen trunk before I see him properly — same suit as the shrine yard, no rifle, hands empty, standing with a pair of gray-greens who look like they would rather be anywhere else. He is not looking at maps. He is looking at mouths. Even from here I can tell: the way his attention sits on the younger soldier when the boy answers a question, the way he tips his head as if sound itself were a trail.
 
 Mira's fingers dig into my sleeve.
 
-I feel the sentence rise — _Walk past us. You never saw this track._ — clean as a latch, hungry as last night. Gray starts at the edges of the pines. My nose prickles.
+My mouth wants a clean order — make them walk past, make the track empty — the same ready shape as last night's latch. I shut it. Jaw locked. Hands flat in the needles so they do not make a fist that looks like choosing.
 
-I crush it.
+Mira feels my arm go hard under her grip, then ease. She does not let go.
 
-The hunger stays. The sentence dies unfinished behind my teeth. Mira feels the crush in my arm and eases her grip a fraction.
+"Down," she breathes. "He's the one who covered his ears on the pier."
 
-"Down," she breathes. "He's the one who covers his ears."
-
-Below us the Listener asks something we cannot hear. The younger gray-green points toward the hospital service court. The older one points toward the pine road. The Listener does not point. He turns once, slow, and for a second his face is aimed uphill in our direction — not seeing us, not missing us either. Just listening to a hill that has too many stories on it now.
+Below us he asks something we cannot hear. The younger gray-green points toward the hospital service court. The older one points toward the pine road. He does not point. He turns once, slow, and for a second his face is aimed uphill in our direction — not seeing us, not missing us either. Just listening to a hill that has too many stories on it now.
 
 Then he walks back toward the chimneys with the pairs, and the lit road is empty again.
 
@@ -116,13 +134,13 @@ We do not move until the steam from the laundry has shifted twice.
 
 Dusk finds us past the water tower cut.
 
-The next chalk mark is on a stone, not bark — three lines, then a fourth half-scraped as if someone changed their mind. Mira swears once, ordinary, and crouches.
+The next chalk mark is on a stone, not bark — three lines, then a fourth half-scraped as if someone changed their mind. Mira swears once, and crouches.
 
 "Contact got interrupted," she says. "Or she wanted us to wait. Either way we don't sleep on the open track."
 
 There is a shallow bowl under pines where someone has built a fire ring of stones and then kicked it cold. We take it. Mira sets no fire. She sets her back to a tree that covers two approaches and tells me to watch the third.
 
-The city is a smear of light through the trees now. Sirens have stopped. That is worse than sirens. Quiet means someone has decided what story to tell about last night, and quiet means the Listener has somewhere to sit.
+The city is a smear of light through the trees now. Sirens have stopped. That is worse than sirens. Quiet means someone has decided what story to tell about last night, and quiet means the gray suit has somewhere to sit.
 
 I hear them before I see anything — boots on wet ground, not in time with gray-green pairs. Two people. Careful. Coming up the service path we left before dawn, the long way from the laundry court, voices low enough that words do not carry, only the shape of talking.
 
@@ -130,13 +148,13 @@ Mira is already on her feet. She pulls me deeper into the pines, off the track, 
 
 We freeze.
 
-The boots stop at the drainage cut. A light clicks on — small, cupped — and jumps once across the clay where we sat. A boy's voice, ordinary, not scraped, says something I almost catch. Another voice answers — older in the throat, impatient, the kind of answer that comes with a tongue-click.
+The boots stop at the drainage cut. A light clicks on — small, cupped — and jumps once across the clay where we sat. A boy's voice says something I almost catch. Another voice answers — impatient, the kind of answer that comes with a tongue-click.
 
-They are not gray-greens. They are not the Listener. They are two people who walked a hospital story to a wet path and found our prints already cold.
+They are not gray-greens. They are not the man from the lit road. They are two people who walked a hospital story to a wet path and found our prints already cold.
 
 Mira's hand finds the back of my neck and holds me still. Not kind. Necessary.
 
-I know that ordinary voice the way I know a door latch in the dark. I do not say the name.
+I know that voice the way I know a door latch in the dark.
 
 The light goes off. The boots move again — not toward us. Toward the pine road proper, the open stretch where chalk marks lead inland. They are going the right way for the wrong reason, or the wrong way for the right one. I cannot tell from here. I can only tell that if we step out now, the night becomes a conversation I am not ready to have with blood still dried in the crease of my wrist.
 
@@ -156,4 +174,6 @@ Mira waits until the boots are gone. Then she waits longer.
 
 "I know." Her voice stays level. "Walk anyway."
 
-I walk.
+"If we get to the shed first," I say, "and he's already on the marks—"
+
+"Then he's burning decoys for us whether he means to or not." She does not look back. "Shed. First. That is the only sentence I want out of you until dawn."

@@ -71,10 +71,10 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 15 | Hands, Not Papers | H | Ice truck west with Riku; into Takamatsu without stamps; trail cold (no clue for Kaito); Riku leads him to Minato the first night — Machi prices him in one pass |
 | 16 | The City That Works | H | Days of work through Riku/Gorō's web; Gorō's city; family accreting through action, not speeches; trail stays cold on purpose |
 | 17 | The Squeeze | H | FDC pressure costs someone Haruki needs; despair beat sharpens ("nobody is coming to fix any of this") |
-| 18 | The Listener at the Bar | H | Kuroda alley; **"Reshaped by whom?"**; close: hospital quiet-floors Word-shape rumor (clerk opened / never saw; room empty) — Haruki + Riku head north hill |
+| 18 | Reshaped by Whom | H | Kuroda alley; **"Reshaped by whom?"**; close: hospital quiet-floors Word-shape rumor (clerk opened / never saw; room empty) — Haruki + Riku head north hill |
 | 19 | Clean Rooms | K | Break-in day: clean apartment (how they got it); Kaito darker; Mira asks — Suzumori transfer east tonight; plan the hit |
 | 20 | Quiet Floors | K | Full rescue: Word on clerk + soldier; Suzumori out; hand-off inland; flee to pine fringe |
-| 21 | Pine Edge | K | Fringe hide; Listener heat; near-miss from Kaito's side only (unnamed chase on service path); inland signal |
+| 21 | Pine Edge | K | Fringe hide; gray-suit heat; near-miss from Kaito's side only (unnamed chase on service path); inland signal |
 | 22 | Tight Road | K | Catch Suzumori/contact; hunter closes; Haruki's hospital hunt becomes a threat on this camera |
 | 23 | Go Home | K | Collision on Kaito's camera; Haruki's speech isn't enough; *"Stop following me. Go home."* Volume ends on impact (twist #5 unspent) |
 

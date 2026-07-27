@@ -100,4 +100,6 @@ I eat standing under the gate, looking west along the road the shop woman pointe
 
 I put the croquette paper in a bin. I check Sato's chit once, inside the jacket, and start walking west before the afternoon heat finishes climbing. The first kilometer out of town is still asphalt. The second breaks at the edges. A truck headed coast-bound lifts two fingers off the wheel without slowing; I lift mine back.
 
-A woman selling water from a roadside cooler calls out the price. I have almost nothing left after the croquette, so I shake my head and keep walking. She shrugs and goes back to her shade. The board at the last fork says Ishibashi fourteen kilometers.
+A woman selling water from a roadside cooler calls out the price. I have almost nothing left after the croquette, so I shake my head. She shrugs and goes back to her shade.
+
+The board at the last fork says Ishibashi — fourteen kilometers. East. The wrong direction if the crank man was right, and the only direction I have left that wasn't bought with a stamp.

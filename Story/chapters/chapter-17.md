@@ -120,4 +120,6 @@ Riku finishes his rice and tips his chin at the curtain. "Scrap today. Tonight w
 
 "Then we ask quieter."
 
-I look once at the empty stool. Then I follow him out.
+"And if they took him for talking," I say, "what does quieter buy us?"
+
+Riku looks at the empty stool the way Machi looked at us — dry, furious, done pretending. "It buys us not being next. That's tonight's whole job."

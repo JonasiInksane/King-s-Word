@@ -148,4 +148,6 @@ I stop with my jacket half folded. "Calling it how?"
 
 "That's the whole favor. You were expecting a kidney?" He rolls over, away from the lamp. "Sleep, Aoyama. The city starts loud."
 
-I lie down on the mat and listen to Takamatsu through the wall — a late tram somewhere, the bath house letting out, a thousand streets' worth of strangers going home to rooms I will never see. Kaito is behind one of those walls tonight, or none of them.
+"Then call it," I say. "Tomorrow. Vouch me."
+
+He doesn't turn back. "Already did. Don't make me look stupid at dawn."

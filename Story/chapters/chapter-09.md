@@ -106,4 +106,6 @@ She lets us stop at the top. Two minutes. She hands me water from the sack — s
 
 "We have to keep moving," Mira says from the dark ahead. Gentle. "You can grieve on your feet."
 
-We move west again. There is always more west.
+"I left him in the gateway," I say.
+
+"I know." She starts walking. "That is why we don't stop."

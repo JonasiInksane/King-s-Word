@@ -84,6 +84,10 @@ The rules already flag this at the plot level; it is also a craft-standard gap. 
 Format: verdict, worst offenders (quotable), what's closest to standard. Chapters marked ★ are nearest the example standard and should be rewrite *models*, not rewrite targets.
 
 > **Status 2026-07-27:** craft-bar pass applied through Ch 23 (batches 1–5). Per-chapter pass notes below. Faults #7 (Mira) and #8 (Haruki's power) got seeds only — full payment is Vol 3 work by design.
+>
+> **Rules sync (same day, later):** `story-writing.mdc` + `README.md` + `example-style-guide.md` §8.5 updated with Vol 2 hold-ons — earn-before-callback, chapter hand-offs, currency-as-feeling ban, boring-boy label spam, model-chapter table. Residual Ch 16 "keep advice like a tool" mental-collection line cut.
+>
+> **Close-rotation pass:** quiet-walk / keep-moving buttons rewritten on Ch 9, 12, 13, 15, 17, 18, 19, 21. Anchors kept: 16 (spoken threat), 20 (clerk reveal), 22 (Word decision), 23 (volume quiet-exit, now earned).
 
 ### Ch 1 — past-tense opening block — ADDRESSED (craft-bar pass, 2026-07-27)
 Solid establishment; Haruki's voice keys land early. Weakest element: the roof scene's dialogue agrees with itself — Kaito and Haruki take turns confirming each other's reads instead of colliding. The examples would give the friend a want that scratches against the narrator's even in a warm scene. Minor: some paragraphs describe town texture the plot never uses (guide: detail should be load-bearing).
@@ -140,7 +144,7 @@ The Squeeze has the right idea (pressure tightening by days) but executes mostly
 *Pass notes: the day-hire list demand is now a full on-camera scene at the seamstress's — speaking parts, and a cost that lands: Haruki's honest answer puts Tanabe's name on the board, which sits unspoken under the firing scene. Nagihama-thesis restatement reworded to advance rather than re-quote.*
 
 ### Ch 18 — ADDRESSED (craft-bar pass, 2026-07-27)
-The Listener bar scene ★ — stillness rearranging a room, the alley conversation where every line has subtext, a name he shouldn't know: this is example-grade menace through dialogue. Second half (dock runner's hospital story) is well-built rumor with labeled uncertainty. Fault #3: "nobody is coming to fix any of this" restated verbatim to Riku.
+The Kuroda bar scene ★ (title: *Reshaped by Whom* — not “Listener”; that label is the gray-suit hunter) — stillness rearranging a room, the alley conversation where every line has subtext, a name he shouldn't know: this is example-grade menace through dialogue. Second half (dock runner's hospital story) is well-built rumor with labeled uncertainty. Fault #3: "nobody is coming to fix any of this" restated verbatim to Riku.
 *Pass notes: thesis dedupe only — the line to Riku reworded; "the world is wrong" kept intact for Kuroda's overheard callback.*
 
 ### Ch 19 — ADDRESSED (craft-bar pass, 2026-07-27)
