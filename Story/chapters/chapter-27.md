@@ -102,7 +102,7 @@ Mei studies me for a long second. Riku shifts his weight — not leaving, not he
 
 "Then what do you want?" Riku says, blunt. "You corrected the board in front of us. That wasn't free."
 
-Mei almost looks amused. "I want you to stop making the junction interesting. Every time C refuses a band and then loiters under the board, someone upstairs adds a note. Notes become reviews. Reviews become moves." She nods at the letter-door. "I live on the other side of that. When C gets messy, east gets quieter, and quieter is not safer."
+Mei almost looks amused. "I want you to stop making the junction interesting. Every time C refuses a band and then loiters under the board, someone upstairs adds a note, and notes are how people leave this building without anyone asking where." She nods at the letter-door. "I live on the other side of that. When C makes a mess, they clamp my side down, and I lose track of who still has a bed."
 
 "So we owe you boring," I say.
 

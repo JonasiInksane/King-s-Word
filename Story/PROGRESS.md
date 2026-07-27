@@ -4,10 +4,10 @@
 
 ## Status
 
-- **Written (live): Part One complete — Ch 1–10. Vol 2 complete — Ch 11–23 (ends on *Go home.*). Vol 3 open — Ch 24–29 (Haruki block at Shizuhara).**
-- **Plan:** `lore/plot-outline.md` clean-rewrite tables (Part One 10 ch, Volume 2 ~13 ch ending on the clash; Vol 3 rows starting).
-- **Next:** Ch 30 — disposal heat continues after night loading witnessed; mezzanine note; no Seal dump.
-- **Length note (Vol 3):** hard floor **1,600** words per chapter.
+- **Written (live): Part One complete — Ch 1–10. Vol 2 complete — Ch 11–23. Vol 3 open — Ch 24–28 Haruki (Shizuhara grind) → Ch 29 Kaito breach.**
+- **Plan:** `lore/plot-outline.md` — Vol 3 rhythm **H 24–28 → K 29–31 → H return**.
+- **Next:** Ch 30 — *Inventory Language* (Kaito); kids as columns / inventory speech; Kuroda stillness hint optional; no Seal dump.
+- **Length note (Vol 3):** hard floor **1,500** / target **1,800–2,400**.
 
 ## Craft-bar rewrite pass (started 2026-07-27)
 
@@ -50,8 +50,8 @@ Bringing Ch 1–23 to the bar in `.cursor/rules/story-writing.mdc` ("Craft bar")
 | 25 | Soft Lobby | H | ~2,095 | Truck to **Shizuhara** (sign: Civil Protection and Relocation Center); Habu lobby camera moment — kindness + "add him to inventory" in one tone; biometrics + **voiceprint booth** (a machine that listens for something); Riku goes flat at *volunteer* question (wound seeded, unexplained); A/B armband kids too bright in the corridor; C-wing bunks; **Ōhashi** the notebook fixer — east wing has a letter, never a number; night truck at the loading bay; question close ("I don't sell that one") |
 | 26 | Volunteers | H | ~1,910 | C-wing corridor wax; A/B armband texture; **Riku volunteer wound paid** (ridge town, perimeter, fourteen/inconclusive — name unspoken); mezzanine band offer refused (both); Haruki careful voice almost opens bay clerk; Ōhashi board short one vs notebook 43; close: morning count at junction |
 | 27 | Count | H | ~1,840 | Junction board; **Serizawa Mei camera** — corrects count, takes tablet, C-43; towel hand-off transaction (won't sell trucks; wants C boring); Riku reads her as not-volunteer; debt: morning counts / ask who left if board goes short again |
-| 28 | Bunks | H | ~1,950 | Morning count short (Mei absent / east recount); bunk check — **Katō Hiroshi** gone; corporal calls overnight review move; Mei confirms real walk-out, still won't map trucks; close: look at second bell |
-| 29 | Loading | H | ~1,940 | Ōhashi covers kitchen-crate detail; **night loading witnessed** (tags/armbands/Katō on canvas truck); Haruki refuses careful-voice intervene; Mei pulls them back; yard guard notes pair; destination still unknown |
+| 28 | Bunks | H | ~2,850 | Morning count short; **Katō** gone; Mei confirms walk-out; west fence heat; full C bunk census — only Katō missing, cap/cup still there; **action close:** Haruki+Riku go west to kitchen stair over service court to see truck vs fence company — cut mid-climb; fence unanswered |
+| 29 | Breach Window | K | ~2,420 | Remnant approach west ditch; Mira sells clean extract (east specials); Suzumori pressure; wire cut → soft service door; **they are the west-fence heat**; lights slam; Kaito Words bay clerk (abort window dead); armband kids held in kitchen junction; Words specials guard; **Mei** on east side — extract already dirty; close: who did you come for / inventory holding |
 
 ## POV structure (Part One)
 
@@ -61,12 +61,14 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 
 ## Cast state (end Ch 29 / Vol 3 open)
 
-- **Haruki:** C-wing; saw Katō loaded on night truck; kept careful voice shut at the bay; mezzanine note for kitchen court after bell; voiceprint still on file. *Go home* broken (Ch 24); *Stop following me* still untested.
-- **Kaito / Mira / Suzumori:** Off-camera west inland. Unchanged this block.
-- **Nakahara Riku:** Volunteer wound paid; bunk-check plan paid (Ch 28); witnessed loading; wants board/beds watch, not bay runs. Still does not know Haruki is a carrier.
-- **Serizawa Mei:** Covered their night walk with towel pretext; still won't sell destinations; east quieter if C interesting — now strained by the note.
-- **Colonel Habu:** Off-page since lobby; mezzanine pushes volunteer expansion in his name.
-- **Ōhashi:** Struck Katō from notebook; covered crate detail; notebook and board no longer feel like the same building; still won't sell routes.
+- **Haruki:** C-wing on hold under west-perimeter order. Katō's bunk empty (walk-out / "review"); did **not** witness night loading (bay closed when fence lit). Voiceprint on file. *Go home* broken (Ch 24); *Stop following me* still untested. Does not know who is on the wire.
+- **Kaito:** Inside Shizuhara east corridor. Worded bay clerk + specials guard (copper twice). Clean extract already dirty. Mira's "one door" promise strained. Does not know Haruki/Riku are in C.
+- **Mira:** Brought Remnant extract; abort window lost when lights hit; still selling pull, not wipe. Contact with them inside.
+- **Suzumori:** At the ditch truck (not through the wire). Keys/both-ways pressure paid again before the cut.
+- **Nakahara Riku:** Volunteer wound paid; bunk-check paid (Katō gone); holding in bay three per Ōhashi — no bay run tonight. Still does not know Haruki is a carrier.
+- **Serizawa Mei:** Locked east when wire got company (Ch 28 Haruki camera); meets Kaito/Mira/contact on east side (Ch 29) — names herself; demands who they came for; flags Habu will rewrite empty bunks before morning.
+- **Colonel Habu:** Off-page since lobby; mezzanine speaks hold/inventory in his building's voice.
+- **Ōhashi:** Struck Katō from notebook; wants bay-three heads countable if C locks; still won't sell routes.
 - **Listener:** Takamatsu hill pressure unchanged this block.
 - **Machi:** Pointed Haruki at hospital service road; Gorō's stool empty.
 - **Gorō:** Still "walked" / missing. Do not kill off-page.
@@ -97,11 +99,12 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 18. Riku saw Kaito's mouth work (Ch 23) — pressed Ch 24, got Haruki's honest partial account (weighted voice, no system, "a smaller version might live in mine" NOT yet said aloud). Carrier secret still mostly held.
 19. **Haruki's voiceprint on file at Shizuhara (Ch 25)** — the booth listens for something; ties to Habu's anomalous-vocal-signature contingency. Do not explain on-page until it detonates.
 20. **Riku's *volunteer* wound — PAID Ch 26** (forms *No* was seed). Boy's name still unspoken. Mezzanine may offer the band again.
-21. **Night trucks / east-wing letter** — loading **witnessed Ch 29** (Katō + mixed tags/armbands; service road out; destination unknown). Disposal truth later (~Ch 32–33).
+21. **Night loading / Katō-on-truck — PARKED for Haruki return** (was live Loading draft; removed when Ch 29 became Kaito breach). Beat to re-earn on H camera after K block: tags/armbands mixed load, Katō climbs on, canvas out service road, destination unknown. Until then: Katō = empty bunk + "review move" only. Disposal truth later.
 22. **Ōhashi's notebook** — visible; Katō struck; load-bearing for zeroing aftermath.
-23. **Mei recurring** — morning board / counts; covered night bay walk; no heir dump; C interesting → east quieter (strained).
-24. **Mezzanine note (Ch 29)** — yard guard wrote Aoyama/Nakahara/Serizawa for kitchen court after second bell; pair already has band refusals on tablet.
+23. **Mei dual-camera** — H Ch 27–28 (counts / Katō / fence warning); K Ch 29 (east corridor confront). No heir dump. Pressure = notes/moves/clamp, not the quieter formula.
+24. **West fence breach (Ch 28–29)** — H hears wire/company + inventory hold; K *is* the company. Habu contingency / zeroing not named yet.
+25. **Mira clean extract failing (Ch 29)** — lights + Word on clerk; Mei: dirty night; hand into Inventory Language / *The Stove*.
 
 ## Craft flags (carry forward)
 
-- Target band 1,800–2,400 (**floor 1,600** from Vol 3 on). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV blocks 2–4 ch per lead on separate roads; every block closes on a hook. No recap buttons, no bulletin speech, rumors labeled. No filing/ledger narrator voice, no reader address. Present tense from Nagihama on — no future-memory lines. Clean dialogue (full sentences, no telegram/epigrams). **No Seal / old-world / world-command dump before Vol 5** — hints only (`lore/old-world-seal.md`).
+- Target band 1,800–2,400 (**floor 1,500** from Vol 3 on). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV blocks 2–4 ch per lead (Vol 3 open flexes H 24–28 = 5 for Katō event + switch plant). Every block closes on a hook the next camera answers. No recap buttons, no bulletin speech, rumors labeled. No filing/ledger narrator voice, no reader address, no arithmetic/metaphor stacks. Present tense from Nagihama on. Clean dialogue (full sentences; questions take `?`). **No Seal / old-world / world-command dump before Vol 5** — hints only (`lore/old-world-seal.md`).

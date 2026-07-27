@@ -78,17 +78,21 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 22 | Tight Road | K | Catch Suzumori/contact; hunter closes; Haruki's hospital hunt becomes a threat on this camera |
 | 23 | Go Home | K | Collision on Kaito's camera; Haruki's speech isn't enough; *"Stop following me. Go home."* Volume ends on impact (twist #5 unspent) |
 
-### Volume 3 — "Shizuhara" (in progress; Haruki block open)
+### Volume 3 — "Shizuhara" (in progress; POV Switch B locked)
+
+**Block rhythm:** H 24–28 → K 29–31 → H return (Same Mouth + parked night-loading / Katō-on-truck) → K massacre pair → H escape + Kuroda tip.
 
 | Ch | Title | POV | Beat |
 |----|-------|-----|------|
 | 24 | East Against the Word | H | Break *Go home*; scoop; inland truck |
-| 25 | Soft Lobby | H | Habu inventory; voiceprint; volunteer *No* seed; Ōhashi; night truck |
+| 25 | Soft Lobby | H | Habu inventory; voiceprint; volunteer *No* seed; Ōhashi; night truck idle |
 | 26 | Volunteers | H | C-wing grind; Riku wound paid; band offer refused; board short vs notebook |
 | 27 | Count | H | Mei camera (tally); towel transaction; morning-count debt |
-| 28 | Bunks | H | Short count; Mei absent; Katō empty bunk; overnight "review" cover |
-| 29 | Loading | H | Night loading witnessed; Katō on truck; mezzanine note; no destination |
-| 30+ | TBD | H | Disposal heat continues; no Seal dump |
+| 28 | Bunks | H | Katō empty bunk; dual close — west fence heat + inventory hold (switch plant) |
+| 29 | Breach Window | K | Remnant west approach; clean extract dies at lights; Word on doors; Mei east confront |
+| 30 | Inventory Language | K | Inside on raider clock — kids as columns; inventory speech; Kuroda stillness hint (unnamed) |
+| 31 | The Stove | K | Despair lands — world shaped on purpose; Mira still selling extract; Kaito past her plan |
+| 32+ | H return | H | Same mouth; **parked Loading beat** (Katō on night truck) re-earned here; zeroing starts |
 
 ---
 
