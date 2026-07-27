@@ -4,9 +4,10 @@
 
 ## Status
 
-- **Written (live): Part One complete — Ch 1–10. Vol 2 complete — Ch 11–23 (ends on *Go home.*). Vol 3 open — Ch 24–25 (Haruki block: command broken on-page, scooped, Shizuhara intake).**
-- **Plan:** `lore/plot-outline.md` clean-rewrite tables (Part One 10 ch, Volume 2 ~13 ch ending on the clash).
-- **Next:** Ch 26 (C-wing grind; Riku's *volunteer* wound; do NOT bring Mei before Ch 27).
+- **Written (live): Part One complete — Ch 1–10. Vol 2 complete — Ch 11–23 (ends on *Go home.*). Vol 3 open — Ch 24–27 (Haruki block at Shizuhara).**
+- **Plan:** `lore/plot-outline.md` clean-rewrite tables (Part One 10 ch, Volume 2 ~13 ch ending on the clash; Vol 3 rows starting).
+- **Next:** Ch 28 — east-wing / night-truck heat; Mei recurring; disposal pressure (still no Seal dump).
+- **Length note (Vol 3):** hard floor **1,600** words per chapter.
 
 ## Craft-bar rewrite pass (started 2026-07-27)
 
@@ -47,6 +48,8 @@ Bringing Ch 1–23 to the bar in `.cursor/rules/story-writing.mdc` ("Craft bar")
 | 23 | Go Home | K | ~2,020 | Road fight (Riku bodies; Kaito Words a rifle down); Haruki lands six syllables — not enough; *"Stop following me. Go home."*; Riku goes east after Haruki; Kaito+Mira+Suzumori west; twist #5 unspent |
 | 24 | East Against the Word | H | ~2,215 | Feet march east under the command (body's *home* = Machi's back room); Riku presses — Haruki gives what he honestly has (three sightings, no system); ditch fight against his own legs; **break on-page: "home" loses its address** (twist #5 first payment); *Stop following me* untested; checkpoint scoop — careful voice almost works, corporal catches himself and doubles down; Riku's rifle-stock bruise sinks them; tagged, trucked inland; threat close ("counted the hard way") |
 | 25 | Soft Lobby | H | ~2,095 | Truck to **Shizuhara** (sign: Civil Protection and Relocation Center); Habu lobby camera moment — kindness + "add him to inventory" in one tone; biometrics + **voiceprint booth** (a machine that listens for something); Riku goes flat at *volunteer* question (wound seeded, unexplained); A/B armband kids too bright in the corridor; C-wing bunks; **Ōhashi** the notebook fixer — east wing has a letter, never a number; night truck at the loading bay; question close ("I don't sell that one") |
+| 26 | Volunteers | H | ~1,910 | C-wing corridor wax; A/B armband texture; **Riku volunteer wound paid** (ridge town, perimeter, fourteen/inconclusive — name unspoken); mezzanine band offer refused (both); Haruki careful voice almost opens bay clerk; Ōhashi board short one vs notebook 43; close: morning count at junction |
+| 27 | Count | H | ~1,840 | Junction board; **Serizawa Mei camera** — corrects count, takes tablet, C-43; towel hand-off transaction (won't sell trucks; wants C boring); Riku reads her as not-volunteer; debt: morning counts / ask who left if board goes short again |
 
 ## POV structure (Part One)
 
@@ -54,20 +57,19 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 
 **Narration (locked 2026-07-24):** No frame, no listener, no "record/ledger" narrator voice, no reader address. Past tense through Ch 4's arrival at Sugi's door; present tense from Nagihama onward. Rare quiet hindsight only.
 
-## Cast state (end Ch 25 / Vol 3 open)
+## Cast state (end Ch 27 / Vol 3 open)
 
-- **Haruki:** Broke *Go home* on-page (Ch 24 — the word lost its address; cost: shaking, wrung-out body, no copper — his tell ≠ Kaito's). *Stop following me* still untested (west = a closed door he hasn't tried). Scooped at the crossing checkpoint; noticed his careful voice **backfire** on the corporal (almost-worked = what damned them). Now C-wing, Shizuhara, wired number tag, no name on file but a voiceprint IS on file.
-- **Kaito:** Worded a rifle-soldier on the pine road, then Worded Haruki home. Copper once (Go home). Darker notch paid — true sentence refused; mouth used as exit. Moving west inland with Mira + Suzumori (off-camera this block). Birthmark still unknown to him.
-- **Mira:** Steered the fringe; owned the drainage-cut miscall out loud (Ch 21 — first on-page mistake); argued Suzumori on throat-as-latch; did not stop the Go-home command; carries Kaito west.
-- **Suzumori:** Rejoined at pine-fork shed; keys/both-ways pressure; "two loud mouths" dread without heir lecture; went west with Mira's road.
-- **Listener:** On Takamatsu hill — linked well + quiet floors; pairs walking pine; Minato bars next. Still thinks Haruki is nothing (may revise after Go home fallout).
-- **Nakahara Riku:** Anchored Haruki through the break (ditch fight, Ch 24); got Haruki's honest partial account (weighted voice, three sightings, no rules) — still no carrier system. Rifle-stock bruise ID'd them at the checkpoint. In C-wing with Haruki; forearm wrapped by intake doctor. Went flat at the *volunteer* question (Ch 25) — wound seeded, not explained.
-- **Colonel Habu (live Ch 25):** Shizuhara commandant. Soft-voice lobby welcome; "add him to inventory before dinner so he eats under his own number." Not cartoon evil — administrative kindness. Zeroing truth NOT on-page yet.
-- **Ōhashi (live Ch 25):** C-wing fixer, mid-20s, pomaded, vain, genuinely useful. Keeps a pencil notebook of every intake number in C "so nobody gets forgotten" (load-bearing for later). Knows east wing runs a letter, not a number. Refuses to sell the night-truck question.
+- **Haruki:** C-wing; refused volunteer track with Riku; careful voice almost worked on bay clerk (Mei heard via clerk gossip); voiceprint still on file; chasing counts/trucks without magic words. *Go home* broken (Ch 24); *Stop following me* still untested.
+- **Kaito / Mira / Suzumori:** Off-camera west inland. Unchanged this block.
+- **Nakahara Riku:** Volunteer wound **paid Ch 26** (armbands, perimeter, fourteen/inconclusive — name unspoken). Refused mezzanine band offer on-page. Distrusts volunteer language; walks junction counts; won't wave at Mei.
+- **Serizawa Mei (LIVE Ch 27):** East-wing war paper; count camera paid; won't sell night trucks; wants C boring so east stays less quiet-dangerous. Recurring at morning board.
+- **Colonel Habu:** Off-page since lobby; mezzanine pushes volunteer expansion in his name.
+- **Ōhashi:** Notebook vs board; walking morning counts; still won't sell trucks.
+- **Listener:** Takamatsu hill pressure unchanged this block.
 - **Machi:** Pointed Haruki at hospital service road; Gorō's stool empty.
 - **Gorō:** Still "walked" / missing. Do not kill off-page.
 - **Tanabe:** Dropped Haruki (Ch 17). Still in the cellar.
-- **Kuroda:** Live Ch 3 + Ch 18 only. Same Haruki-evening as the rumor; not the mission handler. Seal/cause = Vol 5.
+- **Kuroda:** Live Ch 3 + Ch 18 only. Seal/cause = Vol 5.
 - **Ryn:** Dead (Ch 3). **Sugi:** Nagihama, empty shelf. **Jun:** Dead. **Hanae:** has the lie. **Sato:** stays and stamps.
 - **Kanzaki:** Off-page since roof. **Mika / Tōru:** fates open.
 
@@ -92,10 +94,11 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 17. Ryn latent (Vol 5+) — revert bait not proof; no early resurrection.
 18. Riku saw Kaito's mouth work (Ch 23) — pressed Ch 24, got Haruki's honest partial account (weighted voice, no system, "a smaller version might live in mine" NOT yet said aloud). Carrier secret still mostly held.
 19. **Haruki's voiceprint on file at Shizuhara (Ch 25)** — the booth listens for something; ties to Habu's anomalous-vocal-signature contingency. Do not explain on-page until it detonates.
-20. **Riku's *volunteer* wound (Ch 25)** — one flat "No" at the forms desk; Haruki filed it without asking. Pay in Ch 26+.
-21. **Night trucks / east-wing letter (Ch 25)** — loading-bay engine after lights-half; east wing has a letter, never a number; Ōhashi won't sell the truck question. Disposal truth lands later (~Ch 32–33); texture only until then.
-22. **Ōhashi's notebook (Ch 25)** — pencil list of every intake number in C "so nobody gets forgotten." Load-bearing for the zeroing aftermath; keep it visible, never explain why it matters.
+20. **Riku's *volunteer* wound — PAID Ch 26** (forms *No* was seed). Boy's name still unspoken. Mezzanine may offer the band again.
+21. **Night trucks / east-wing letter** — Ōhashi + Mei both refuse to sell; board short was late-post (Mei). Disposal truth later (~Ch 32–33).
+22. **Ōhashi's notebook** — visible; contested midday count; load-bearing for zeroing aftermath.
+23. **Mei recurring** — morning board / counts; no heir dump; C must stay boring or east gets quieter.
 
-## Craft flags (carry into Vol 2)
+## Craft flags (carry forward)
 
-- Target band 1,800–2,400 (**floor 1,500** from Vol 3 on; Vol 1–2 band was 1,400–2,200). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV blocks 2–4 ch per lead on separate roads; every block closes on a hook. Post-collision: Haruki block opens Vol 3. No recap buttons, no bulletin speech, rumors labeled. No filing/ledger narrator voice, no reader address. Present tense from Nagihama on — no future-memory lines. Clean dialogue (full sentences, no telegram/epigrams). **No Seal / old-world / world-command dump before Vol 5** — hints only (`lore/old-world-seal.md`).
+- Target band 1,800–2,400 (**floor 1,600** from Vol 3 on). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV blocks 2–4 ch per lead on separate roads; every block closes on a hook. No recap buttons, no bulletin speech, rumors labeled. No filing/ledger narrator voice, no reader address. Present tense from Nagihama on — no future-memory lines. Clean dialogue (full sentences, no telegram/epigrams). **No Seal / old-world / world-command dump before Vol 5** — hints only (`lore/old-world-seal.md`).

@@ -21,7 +21,7 @@ Kaito screams **"Let her go"** at a soldier holding Ryn over a ledge as leverage
 - **Do not drift Haruki-only** after the hard split. Kaito (and guests) stay in rotation when their side of the fork matters.
 - **Block rhythm (post-collision):** once the Takamatsu near-miss arc resolves, prefer **blocks of 2–4 chapters per lead** over per-chapter ping-pong. Intra-chapter cuts are reserved for convergence beats. A switch must answer a question the leaving camera can't (see `.cursor/rules/story-writing.mdc`, HARD — POV switching).
 - **All volumes:** Same rules. No fixed alternate-chapter schedule.
-- **Length:** Floor **1,000 words**; longer chapters are fine when the beat earns them (see `.cursor/rules/story-writing.mdc`).
+- **Length:** Floor **1,600 words** (Vol 3+); longer chapters are fine when the beat earns them (see `.cursor/rules/story-writing.mdc`).
 
 ## Style guide
 

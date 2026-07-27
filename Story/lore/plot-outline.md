@@ -78,6 +78,16 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 22 | Tight Road | K | Catch Suzumori/contact; hunter closes; Haruki's hospital hunt becomes a threat on this camera |
 | 23 | Go Home | K | Collision on Kaito's camera; Haruki's speech isn't enough; *"Stop following me. Go home."* Volume ends on impact (twist #5 unspent) |
 
+### Volume 3 — "Shizuhara" (in progress; Haruki block open)
+
+| Ch | Title | POV | Beat |
+|----|-------|-----|------|
+| 24 | East Against the Word | H | Break *Go home*; scoop; inland truck |
+| 25 | Soft Lobby | H | Habu inventory; voiceprint; volunteer *No* seed; Ōhashi; night truck |
+| 26 | Volunteers | H | C-wing grind; Riku wound paid; band offer refused; board short vs notebook |
+| 27 | Count | H | Mei camera (tally); towel transaction; morning-count debt |
+| 28+ | TBD | H | East / trucks / disposal heat; no Seal dump |
+
 ---
 
 ## Planted twists (carry forward)

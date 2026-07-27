@@ -8,7 +8,7 @@ Riku keeps pace beside me and says nothing. He has blood dried at his hairline a
 
 "So," he says at last. "Are we going to talk about the part where a soldier put his hands on his head and knelt in the road because your friend told him to?"
 
-"You saw it."
+"You saw it?"
 
 "I saw a lot of things this morning. I'm choosing which one to start with." He steps over a fallen branch without breaking stride. "A grown man with a rifle knelt like it was gym class. Then your friend aimed two sentences at you, and your face went somewhere else, and now you're marching toward the city we just committed a crime outside of, at a pace I'd call cheerful. So talk to me, Aoyama, or I stop walking next to whatever this is."
 

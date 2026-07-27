@@ -160,7 +160,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **The curriculum (ARCHIVE SEED — old Ch 18):** "I teach you so nobody gets to use you. Not paper. Not causes. Not friends with beautiful reasons." Fist-knock instead of the word *partner*.
 - **ARCHIVE SEED (old Ch 24–25):** Imprisoned with Haruki in mansion FDC hold; training paid; worded on the pad; tore free after clash.
 - **ARCHIVE SEED (old Vol 3, Ch 26–35):** Shizuhara. Volunteer-disposal truth detonates the sake-night wound. Confronts Mira mid-volume. Breakout; after wipe, drags Haruki out with Mei.
-- **Status (live, end Ch 23):** Fought gray-greens on the pine road (full clinch / cart-wheel); went east after Worded Haruki instead of west with Kaito. Saw a mouth empty a soldier — carrier secret pressure unpaid. Still does not know the Word's name; still does not know Haruki is a carrier.
+- **Status (live, end Ch 27):** Volunteer wound **paid Ch 26** (ridge town / perimeter / fourteen / inconclusive — name unspoken). Refused mezzanine band offer with Haruki. In C-wing; walks junction counts; reads Mei as not-volunteer. Still does not know the Word's name; still does not know Haruki is a carrier.
 
 ---
 
@@ -172,15 +172,14 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 
 ### Serizawa Mei (芹沢 芽衣) — ~17–18, Haruki’s future left hand
 
-**Camera moment (ARCHIVE SEED — old Ch 27, not live):** Corrects a guard’s corridor count out loud, takes the tablet / wall display, finishes the tally herself — smiling like the numbers were always hers.
+**Camera moment (LIVE, Ch 27):** Corrects a guard’s junction count out loud, takes the tablet, finishes the tally — C-43, A fixed, east stays a letter. *"If you hang bad counts in the road, I fix them."*
 
 - **Looks:** Seventeen or eighteen; taller than Ryn (~168 cm); sharper jaw; short practical dark hair; a pale scar across the left knuckles (not romanticized — work or cuff). Moves like she owns the yard’s geometry. War-prisoner issue clothes worn like a choice.
-- **Nature:** Blunt, warm, teases soft boys, organizes without speeches — **Ryn’s character engine, different face**. Fearless in the “fear is boring” register; not reckless, decisive.
-- **Not a volunteer.** Eastern-front **war prisoner** paperwork.
-- **Hidden (BIBLE):** last recognized **Amatsu civil heir** — the name/claim of the fallen house, while the Word was split into the two commoner boys (**split vessels**). Unpaid on-page through Vol 3; **pays Vol 4** (Clear Day + keeper truth).
-- **Arc (ARCHIVE SEED — Vol 3):** imprisoned ally → escape partner → with Riku, pulls Haruki out after the wipe. Romance = seed only.
-- **Arc (ARCHIVE SEED — Vol 4):** Ashiro → Susuichi; **Clear Day with Kanda Iori**; refuses crown road; stays with Haruki; carries “next time, enemies.”
-- **Status (live):** Not yet on-page. Everything above is planning material.
+- **Nature:** Blunt, warm, teases careful boys, organizes without speeches — **Ryn’s character engine, different face**. Fearless in the “fear is boring” register; not reckless, decisive.
+- **Not a volunteer.** Eastern-front **war prisoner** paperwork (implied on-page via east wing / issue clothes; not lectured).
+- **Hidden (BIBLE):** last recognized **Amatsu civil heir** — unpaid on-page through Vol 3; **pays Vol 4**.
+- **On-page (Ch 27):** Won’t sell night trucks; wants C boring so east doesn’t get “quieter”; knows mezzanine band offer + Haruki’s bay-clerk almost-ask via corridor gossip.
+- **Status (live):** On-page Ch 27. Recurring at morning counts.
 
 
 
@@ -202,7 +201,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Load-bearing:** the notebook is a private census of C-wing — a list of who existed. Keep it visible across the Shizuhara arc; never explain its weight before the zeroing aftermath.
 - Knows the east wing runs **a letter, never a number** on the shift board (asked once; got corridor duty). Will not sell the night-truck question — the one topic where the mayor act drops.
 - Over-answered Haruki's boring-voice question about the east wing and caught himself doing it (seed for Haruki's thread; Ōhashi has no idea why he talked).
-- **Status (live):** On-page Ch 25 (C-wing first night).
+- **Status (live):** On-page Ch 25–27. Notebook contested midday count; walking morning junction counts with Haruki; still won’t sell trucks.
 
 
 
