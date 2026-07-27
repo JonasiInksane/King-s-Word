@@ -168,9 +168,16 @@ No telegram / checklist speech in dialogue **or** narration. Blunt still uses fu
 
 - Bad: "Arcade. Gone. Girl paid." / "School roof. Midnight. Cake." / "Cousins. Coast. Looking for evening work."
 - Bad (excuse/answer stacks in dialogue): "He's shy. Heat. Ridge walk." → Good: "He's shy, and half heat-sick from walking the ridge."
+- Bad (**debrief / report stacks** — the leak that keeps returning): a character summarizing what just happened as noun chips or status stamps.
+  - Bad: "Kitchen court after bell. Mei said it was towels. Mezzanine will get the note."
+  - Bad: "Kids with tags and armbands. Katō climbed on. They took his cup. Canvas sides."
+  - Bad: "Towel overrun. East shorted soap."
+  - Good: "The yard guard stopped us and wrote our names for being in the kitchen court after second bell."
+  - Good: "They loaded kids — some with tags, some with armbands. Katō climbed on with them."
 - Bad (person-description stacks in narration): "Scraped voice. Dust. A boy who does not smile." / "Middle-aged. Hair pinned flat. Apron the color of old paper." → fold into one flowing sentence with commas/dashes.
 - Good: "They pointed at the neon and walked." / "He had that gray Haiga dust on his shoes." / "We're cousins from the coast. We're looking for evening work."
 - Panic / orders / radio clips only when earned — not default NPC or POV voice.
+- **Self-check before shipping dialogue:** if you can put a period after every two–four words and the line still "works," it is a bulletin — rewrite as spoken sentences with subjects and verbs.
 
 ### HARD — No "soft" procedure jargon / no soft-voice arithmetic
 

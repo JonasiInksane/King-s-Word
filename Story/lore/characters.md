@@ -24,6 +24,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Word self-knowledge (live):** Does **not** knowingly own it. The voice-tell thread is live: Ch 1 (Loop argument dies), Ch 5 (voice too useful at gates, noted in passing), Ch 10 (gray-suit interview believed "faster than the lie deserves"; the lie to Hanae that "works on the broken, works best on them"). By Ch 10 he no longer believes the word for what he does is *polite* — "Kaito's mouth makes people move. Whatever I carry makes them quiet" is as far as he lets the thought run. ARCHIVE SEED: Vol 4 ownership admission (*I am one too*) — re-earn.
 - **Despair thread (live from Ch 10):** "The world stops being a place that is failing and starts being a place that is *wrong*… Nobody is coming to fix any of this" — a sentence he turns over and can't make false. This is the seed Kuroda's **"Reshaped by whom?"** hinge lands on in Vol 2. Do not answer cheaply.
 - **Status (end Ch 23 / Vol 2):** Finished the six syllables on the scrub road; speech wasn't enough. Hit by Kaito's *"Stop following me. Go home."* — feet turning east; resistance flicker unpaid (twist #5). With Riku going east after him. Birthmark secret kept. Voice tell still unexplained to him; Vol 3 opens on his camera.
+- **Status (live, end Ch 29):** Shizuhara C-wing. *Go home* broken (Ch 24). Voiceprint on file. Band refusal + Katō empty bunk + night loading witnessed (destination unknown). Careful voice kept shut at the bay; mezzanine note after second bell. *Stop following me* still untested.
 
 
 
@@ -160,7 +161,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **The curriculum (ARCHIVE SEED — old Ch 18):** "I teach you so nobody gets to use you. Not paper. Not causes. Not friends with beautiful reasons." Fist-knock instead of the word *partner*.
 - **ARCHIVE SEED (old Ch 24–25):** Imprisoned with Haruki in mansion FDC hold; training paid; worded on the pad; tore free after clash.
 - **ARCHIVE SEED (old Vol 3, Ch 26–35):** Shizuhara. Volunteer-disposal truth detonates the sake-night wound. Confronts Mira mid-volume. Breakout; after wipe, drags Haruki out with Mei.
-- **Status (live, end Ch 27):** Volunteer wound **paid Ch 26** (ridge town / perimeter / fourteen / inconclusive — name unspoken). Refused mezzanine band offer with Haruki. In C-wing; walks junction counts; reads Mei as not-volunteer. Still does not know the Word's name; still does not know Haruki is a carrier.
+- **Status (live, end Ch 29):** Volunteer wound **paid Ch 26**. Bunk-check plan paid (Ch 28 — Katō gone). Witnessed night loading (Ch 29). Mezzanine note for after-bell kitchen court. Still does not know the Word's name; still does not know Haruki is a carrier.
 
 ---
 
@@ -179,7 +180,8 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Not a volunteer.** Eastern-front **war prisoner** paperwork (implied on-page via east wing / issue clothes; not lectured).
 - **Hidden (BIBLE):** last recognized **Amatsu civil heir** — unpaid on-page through Vol 3; **pays Vol 4**.
 - **On-page (Ch 27):** Won’t sell night trucks; wants C boring so east doesn’t get “quieter”; knows mezzanine band offer + Haruki’s bay-clerk almost-ask via corridor gossip.
-- **Status (live):** On-page Ch 27. Recurring at morning counts.
+- **On-page (Ch 28–29):** Absent from short-count board (east recount); confirms Katō’s walk-out is real; pulls boys off the loading bay; towel cover fails enough that a yard guard notes all three.
+- **Status (live):** On-page through Ch 29. Recurring at morning counts; destination still unsold.
 
 
 
@@ -201,7 +203,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Load-bearing:** the notebook is a private census of C-wing — a list of who existed. Keep it visible across the Shizuhara arc; never explain its weight before the zeroing aftermath.
 - Knows the east wing runs **a letter, never a number** on the shift board (asked once; got corridor duty). Will not sell the night-truck question — the one topic where the mayor act drops.
 - Over-answered Haruki's boring-voice question about the east wing and caught himself doing it (seed for Haruki's thread; Ōhashi has no idea why he talked).
-- **Status (live):** On-page Ch 25–27. Notebook contested midday count; walking morning junction counts with Haruki; still won’t sell trucks.
+- **Status (live):** On-page through Ch 29. Struck **Katō Hiroshi** from the notebook after empty bunk; covered kitchen-crate detail that put Haruki/Riku at the bay; still won’t sell routes; vanity cracked when board and beds disagreed.
 
 
 

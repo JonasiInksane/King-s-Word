@@ -76,7 +76,7 @@ Mei comes out through that door with two empty crates and a list, stops when she
 
 "I can see towels." She dumps the crates on our cart without asking and holds out the list. "Sign that you handed them across the line. If you write the wrong bay I'll walk them back to you myself, and you'll redo the corridor."
 
-I sign. Riku does not. He looks at her knuckles, then at her face.
+I sign. Riku does not. He looks at her face.
 
 "You always steal tablets," he asks, "or only in the morning?"
 

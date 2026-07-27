@@ -4,9 +4,9 @@
 
 ## Status
 
-- **Written (live): Part One complete — Ch 1–10. Vol 2 complete — Ch 11–23 (ends on *Go home.*). Vol 3 open — Ch 24–27 (Haruki block at Shizuhara).**
+- **Written (live): Part One complete — Ch 1–10. Vol 2 complete — Ch 11–23 (ends on *Go home.*). Vol 3 open — Ch 24–29 (Haruki block at Shizuhara).**
 - **Plan:** `lore/plot-outline.md` clean-rewrite tables (Part One 10 ch, Volume 2 ~13 ch ending on the clash; Vol 3 rows starting).
-- **Next:** Ch 28 — east-wing / night-truck heat; Mei recurring; disposal pressure (still no Seal dump).
+- **Next:** Ch 30 — disposal heat continues after night loading witnessed; mezzanine note; no Seal dump.
 - **Length note (Vol 3):** hard floor **1,600** words per chapter.
 
 ## Craft-bar rewrite pass (started 2026-07-27)
@@ -50,6 +50,8 @@ Bringing Ch 1–23 to the bar in `.cursor/rules/story-writing.mdc` ("Craft bar")
 | 25 | Soft Lobby | H | ~2,095 | Truck to **Shizuhara** (sign: Civil Protection and Relocation Center); Habu lobby camera moment — kindness + "add him to inventory" in one tone; biometrics + **voiceprint booth** (a machine that listens for something); Riku goes flat at *volunteer* question (wound seeded, unexplained); A/B armband kids too bright in the corridor; C-wing bunks; **Ōhashi** the notebook fixer — east wing has a letter, never a number; night truck at the loading bay; question close ("I don't sell that one") |
 | 26 | Volunteers | H | ~1,910 | C-wing corridor wax; A/B armband texture; **Riku volunteer wound paid** (ridge town, perimeter, fourteen/inconclusive — name unspoken); mezzanine band offer refused (both); Haruki careful voice almost opens bay clerk; Ōhashi board short one vs notebook 43; close: morning count at junction |
 | 27 | Count | H | ~1,840 | Junction board; **Serizawa Mei camera** — corrects count, takes tablet, C-43; towel hand-off transaction (won't sell trucks; wants C boring); Riku reads her as not-volunteer; debt: morning counts / ask who left if board goes short again |
+| 28 | Bunks | H | ~1,950 | Morning count short (Mei absent / east recount); bunk check — **Katō Hiroshi** gone; corporal calls overnight review move; Mei confirms real walk-out, still won't map trucks; close: look at second bell |
+| 29 | Loading | H | ~1,940 | Ōhashi covers kitchen-crate detail; **night loading witnessed** (tags/armbands/Katō on canvas truck); Haruki refuses careful-voice intervene; Mei pulls them back; yard guard notes pair; destination still unknown |
 
 ## POV structure (Part One)
 
@@ -57,14 +59,14 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 
 **Narration (locked 2026-07-24):** No frame, no listener, no "record/ledger" narrator voice, no reader address. Past tense through Ch 4's arrival at Sugi's door; present tense from Nagihama onward. Rare quiet hindsight only.
 
-## Cast state (end Ch 27 / Vol 3 open)
+## Cast state (end Ch 29 / Vol 3 open)
 
-- **Haruki:** C-wing; refused volunteer track with Riku; careful voice almost worked on bay clerk (Mei heard via clerk gossip); voiceprint still on file; chasing counts/trucks without magic words. *Go home* broken (Ch 24); *Stop following me* still untested.
+- **Haruki:** C-wing; saw Katō loaded on night truck; kept careful voice shut at the bay; mezzanine note for kitchen court after bell; voiceprint still on file. *Go home* broken (Ch 24); *Stop following me* still untested.
 - **Kaito / Mira / Suzumori:** Off-camera west inland. Unchanged this block.
-- **Nakahara Riku:** Volunteer wound **paid Ch 26** (armbands, perimeter, fourteen/inconclusive — name unspoken). Refused mezzanine band offer on-page. Distrusts volunteer language; walks junction counts; won't wave at Mei.
-- **Serizawa Mei (LIVE Ch 27):** East-wing war paper; count camera paid; won't sell night trucks; wants C boring so east stays less quiet-dangerous. Recurring at morning board.
+- **Nakahara Riku:** Volunteer wound paid; bunk-check plan paid (Ch 28); witnessed loading; wants board/beds watch, not bay runs. Still does not know Haruki is a carrier.
+- **Serizawa Mei:** Covered their night walk with towel pretext; still won't sell destinations; east quieter if C interesting — now strained by the note.
 - **Colonel Habu:** Off-page since lobby; mezzanine pushes volunteer expansion in his name.
-- **Ōhashi:** Notebook vs board; walking morning counts; still won't sell trucks.
+- **Ōhashi:** Struck Katō from notebook; covered crate detail; notebook and board no longer feel like the same building; still won't sell routes.
 - **Listener:** Takamatsu hill pressure unchanged this block.
 - **Machi:** Pointed Haruki at hospital service road; Gorō's stool empty.
 - **Gorō:** Still "walked" / missing. Do not kill off-page.
@@ -95,9 +97,10 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 18. Riku saw Kaito's mouth work (Ch 23) — pressed Ch 24, got Haruki's honest partial account (weighted voice, no system, "a smaller version might live in mine" NOT yet said aloud). Carrier secret still mostly held.
 19. **Haruki's voiceprint on file at Shizuhara (Ch 25)** — the booth listens for something; ties to Habu's anomalous-vocal-signature contingency. Do not explain on-page until it detonates.
 20. **Riku's *volunteer* wound — PAID Ch 26** (forms *No* was seed). Boy's name still unspoken. Mezzanine may offer the band again.
-21. **Night trucks / east-wing letter** — Ōhashi + Mei both refuse to sell; board short was late-post (Mei). Disposal truth later (~Ch 32–33).
-22. **Ōhashi's notebook** — visible; contested midday count; load-bearing for zeroing aftermath.
-23. **Mei recurring** — morning board / counts; no heir dump; C must stay boring or east gets quieter.
+21. **Night trucks / east-wing letter** — loading **witnessed Ch 29** (Katō + mixed tags/armbands; service road out; destination unknown). Disposal truth later (~Ch 32–33).
+22. **Ōhashi's notebook** — visible; Katō struck; load-bearing for zeroing aftermath.
+23. **Mei recurring** — morning board / counts; covered night bay walk; no heir dump; C interesting → east quieter (strained).
+24. **Mezzanine note (Ch 29)** — yard guard wrote Aoyama/Nakahara/Serizawa for kitchen court after second bell; pair already has band refusals on tablet.
 
 ## Craft flags (carry forward)
 

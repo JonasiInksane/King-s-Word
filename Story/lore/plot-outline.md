@@ -86,7 +86,9 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 25 | Soft Lobby | H | Habu inventory; voiceprint; volunteer *No* seed; Ōhashi; night truck |
 | 26 | Volunteers | H | C-wing grind; Riku wound paid; band offer refused; board short vs notebook |
 | 27 | Count | H | Mei camera (tally); towel transaction; morning-count debt |
-| 28+ | TBD | H | East / trucks / disposal heat; no Seal dump |
+| 28 | Bunks | H | Short count; Mei absent; Katō empty bunk; overnight "review" cover |
+| 29 | Loading | H | Night loading witnessed; Katō on truck; mezzanine note; no destination |
+| 30+ | TBD | H | Disposal heat continues; no Seal dump |
 
 ---
 
