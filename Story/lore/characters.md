@@ -186,10 +186,23 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 
 ### Colonel Habu (土生) — Shizuhara commandant, ~50s
 
-**Camera moment (ARCHIVE SEED — old Ch 26, not live):** Welcomes intake in a glass lobby with soft voice and a tablet; calls a child *inventory* without changing tone.
+**Camera moment (live, Ch 25):** Welcomes the intake line in the glass lobby — headmaster warmth, crouches to a crying thirteen-year-old, then to the clerk in exactly the same voice: *"Add him to inventory before dinner, please, so he eats under his own number."*
 
-- Soft voice; files children as inventory loss. Contingency: **inventory zero**. Survives or is believed dead — **returns later** either way.
-- **Status (live):** Not yet on-page. Archive fate (ambiguous in old Ch 35 chaos) is a haunt seed only.
+- Soft voice; files children as inventory loss. Contingency: **inventory zero** (breach + anomalous vocal signature). Survives or is believed dead — **returns later** either way.
+- **On-page hygiene:** never cartoon evil. His kindness is real-looking and cheap; the horror is the bookkeeping underneath. Zeroing steer (Kuroda) stays off-page until the Vol 3 reveal.
+- **Status (live):** On-page Ch 25 (lobby welcome). Full name given on-page (chest tape + self-introduction).
+
+
+
+### Ōhashi (大橋) — C-wing fixer, ~19
+
+**Camera moment (live, Ch 25):** Introduces himself before anyone asks, taps a school notebook fat with pencil: intake numbers, bunk assignments, review dates — *"I keep track of everybody in C. Somebody has to."*
+
+- **Register: vanity.** Helps loudly, collects gratitude in public, five months inside, knows which guard trades cigarettes and when the review board actually sits. Under the vanity: genuinely useful, and the notebook is genuinely kept.
+- **Load-bearing:** the notebook is a private census of C-wing — a list of who existed. Keep it visible across the Shizuhara arc; never explain its weight before the zeroing aftermath.
+- Knows the east wing runs **a letter, never a number** on the shift board (asked once; got corridor duty). Will not sell the night-truck question — the one topic where the mayor act drops.
+- Over-answered Haruki's boring-voice question about the east wing and caught himself doing it (seed for Haruki's thread; Ōhashi has no idea why he talked).
+- **Status (live):** On-page Ch 25 (C-wing first night).
 
 
 
