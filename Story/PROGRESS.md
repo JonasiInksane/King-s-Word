@@ -6,7 +6,7 @@
 
 - **Written (live): Part One complete — Ch 1–10. Vol 2 — Ch 11–20.**
 - **Plan:** `lore/plot-outline.md` clean-rewrite tables (Part One 10 ch, Volume 2 ~13 ch ending on the clash).
-- **Next:** Ch 21 (Near-miss braid — hunter closes; both pairs cross the same night).
+- **Next:** Ch 21 (Near-miss braid — Haruki at hospital aftermath; Kaito+Mira fleeing toward pine; hunter closes).
 
 ## Chapters (live)
 
@@ -29,9 +29,9 @@
 | 15 | Hands, Not Papers | H | 2,420 | Ice truck west (crew, no papers, barrier waved); Riku's "Say you catch him — then what?"; tea seller: faces don't keep, stand near work/food/sleep; Minato first night — Machi's oden ("Trouble eats standing up"), Gorō's toll; favor called: Tanabe vouch tomorrow |
 | 16 | The City That Works | H | 1,848 | Tanabe route (voice tell — the "no" dissolves; Riku's wet-umbrella look); Gorō's counter map + hill grudge; false dock lead dies; Thursday ceremony, door rehung; stance lesson ("you are expected"); two-fares knot; close: labor-registration notice, seven days — "That's aimed at us" |
 | 17 | The Squeeze | H | 1,540 | Deadline tightens; Tanabe drops unregistered hands; Gorō talks hill too loud, taken midafternoon ("tell anyone he walked"); coat+shoes gone — Machi chooses fled; despair beat lands ("nobody is coming to fix any of this"); night-market ask planned |
-| 18 | The Listener at the Bar | H | 1,790 | Unnamed coat-man (Kuroda) at Minato; alley: ideals talk, **"Reshaped by whom?"** / "I don't know yet"; two silent coats collect him; dock-runner news — east warehouse break-in, guard opened the door / never saw; Haruki knows the Word shape; heads there with Riku |
-| 19 | The Break-In | K | 1,817 | Time-jump status quo (tool-shop roof, fever lie, no-Word law, Minato shifts); hill kitchen pull; Word on gate guard — open / never saw; copper paid; Mira names first contact (rail sheds); walk toward meeting |
-| 20 | Kaito's Silence | K | 1,641 | Contact meeting (night hauls; Listener in city); three days silent work; Machi rice-to-go; Listener walks yard road (well + gate + Minato); Mira meets contact alone — favor bought for a move; Kaito demands to know before they pay it |
+| 18 | The Listener at the Bar | H | 1,865 | Unnamed coat-man (Kuroda) at Minato; alley: **"Reshaped by whom?"** / "I don't know yet"; two silent coats; dock-runner news — **hospital quiet-floors** break-in (clerk opened / never saw faces; room upstairs empty); Haruki knows the Word shape; heads to north hill with Riku |
+| 19 | Clean Rooms | K | 1,819 | Break-in day (weeks after Ch 12): clean apartment status quo + how they got it; Kaito darker (no names, shorter fuse); Mira's ask — Suzumori transfer east tonight; route planned; leave for the job |
+| 20 | Quiet Floors | K | 1,819 | Full rescue: Word on night clerk (open / never saw); Suzumori opens from inside; Word on gray-green (drop rifle / face wall); hand-off to contact → pine/inland; apartment burned; braid hook (Haru will hear the shape) |
 
 ## POV structure (Part One)
 
@@ -41,15 +41,16 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 
 ## Cast state (end Ch 20)
 
-- **Haruki:** Last on-page Ch 18 — heading to east warehouse with Riku. Off Kaito camera; braid next (Ch 21). Goal unchanged: finish the sentence.
-- **Kaito:** Live. Tool-shop roof; fever lie; broke no-Word law at warehouse gate (Ch 19); night hauls; refused Word when Listener walked the yard road (Ch 20); wants Mira's favor named before they pay it.
-- **Mira:** First contact live (unnamed, rail sheds). Steering harder; met contact alone; bought a ward-move with an unnamed favor.
-- **Listener:** In Takamatsu — linking Kuroishi well + warehouse gate; aiming at Minato. Not seated there yet.
+- **Haruki:** Last on-page Ch 18 — heading to **hospital / north hill** with Riku (day after break-in). Braid next (Ch 21). Goal unchanged: finish the sentence.
+- **Kaito:** Live end of break-in night. Clean apartment abandoned. Broke no-Word-in-city law twice (clerk + gray-green). Darker (no names; glad-it-works). Moving toward pine edge with Mira before dawn.
+- **Mira:** Steering harder; Remnant-adjacent contact live (unnamed, rail sheds / cart). Extracted Suzumori for human-scale debt + anti-list necessity — no cosmology speech.
+- **Suzumori:** LIVE. Extracted from quiet floors; handed to contact under linen → inland/pine road. Uneasy at boy's throat as latch; "Two kings in one world. What a terrifying thought." (unexplained). No Seal/heir dump.
+- **Listener:** In Takamatsu (prior); will eat the hospital story + scraped-voice talk. Not yet seated at Minato on-page this pass.
 - **Nakahara Riku:** With Haruki (pending braid). Still doesn't know about carriers.
-- **Machi:** Both shift-crowds; rice-to-go for Kaito/Mira; Gorō's stool empty; warned about suits.
+- **Machi:** Pointed Haruki at hospital service road; Gorō's stool empty.
 - **Gorō:** Still "walked" / missing. Do not kill off-page.
 - **Tanabe:** Dropped Haruki (Ch 17). Still in the cellar.
-- **Kuroda:** Live Ch 3 + Ch 18 only; off this block. Seal/cause = Vol 5 bible.
+- **Kuroda:** Live Ch 3 + Ch 18 only. Same Haruki-evening as the rumor; not the mission handler. Seal/cause = Vol 5.
 - **Ryn:** Dead (Ch 3). **Sugi:** Nagihama, empty shelf. **Jun:** Dead. **Hanae:** has the lie. **Sato:** stays and stamps.
 - **Kanzaki:** Off-page since roof. **Mika / Tōru:** fates open.
 
@@ -57,21 +58,21 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 
 1. The six syllables — Haruki owes the finished sentence; stated chase goal (Ch 10).
 2. Birthmark match — Haruki knows, withholds (Ch 4). Kaito doesn't know they match.
-3. The Listener — in Takamatsu (Ch 20); well + gate linked; Minato next. Still thinks Haruki is nothing.
+3. The Listener — in Takamatsu; will link Kuroishi well + **hospital quiet-floors** gap; Minato next. Still thinks Haruki is nothing.
 4. Kanzaki's "we've been looking for you two for a very long time" — unexplained.
-5. Kuroda — phone (Ch 3); alley (Ch 18). Long game locked Vol 5. Do not dump early.
-6. Mira's contact + unnamed favor (Ch 19–20) — ward-move price; Kaito not told yet.
+5. Kuroda — phone (Ch 3); alley (Ch 18). Long game locked Vol 5. Do not dump early. Dual feed: he asks Haruki *whom* the same evening the Word-mark rumor lands.
+6. Suzumori on inland/pine road with Mira's network — join Kaito+Mira after braid; Keeper Law / heir truth later. "Two kings in one world" unpaid.
 7. Sugi's hook — empty shelf; "one of you has to come back and look at it eventually."
-8. Kaito's untested self-cost (Ch 7) — he refuses to Word himself and fears what the weight takes when it leaves; Backwash door left open, unexplained.
-9. Haruki's despair thread — landed Ch 17; Kuroda's "Reshaped by whom?" (Ch 18) — "I don't know yet." Cosmology payoff ~Vol 5.
+8. Kaito's untested self-cost (Ch 7) — refuses to Word himself; Backwash door open.
+9. Haruki's despair thread — Ch 17; Kuroda's "Reshaped by whom?" (Ch 18) — "I don't know yet." Cosmology ~Vol 5.
 10. Mika + Tōru — family fates deliberately open.
-11. Haruki's too-fast persuasion — Tanabe's "no" dissolving (Ch 16). Twist #5 seed; growing.
-12. Labor registration — detonated Ch 17 (Tanabe drop; Gorō taken). Economy still hostile.
-13. Gorō — taken / possibly fled ("he walked"); fate open; do not kill off-page.
-14. East warehouse break-in — paid on Kaito camera (Ch 19); Haruki still approaching from Ch 18 close.
-15. Kai / roof shape (Ch 3) — bleed-through from sealed-out old world (bible locked). Symptoms only until Vol 5.
-16. Keep vs revert (Vol 5) — who decides which world is real; ending path still open.
-17. Ryn latent (Vol 5+) — Kaito's reason to revert may be bringing her back via unseal / world-command; bait not proof; no early resurrection.
+11. Haruki's too-fast persuasion — Tanabe's "no" dissolving (Ch 16). Twist #5 seed.
+12. Labor registration — detonated Ch 17. Economy still hostile.
+13. Gorō — taken / possibly fled; do not kill off-page.
+14. Hospital quiet-floors rescue — paid Kaito camera Ch 19–20; Haruki approaching from Ch 18 close (day after).
+15. Kai / roof shape (Ch 3) — symptoms only until Vol 5.
+16. Keep vs revert (Vol 5) — ending path still open.
+17. Ryn latent (Vol 5+) — revert bait not proof; no early resurrection.
 
 ## Craft flags (carry into Vol 2)
 

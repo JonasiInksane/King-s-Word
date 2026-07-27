@@ -1,127 +1,151 @@
-# Chapter 20 — Kaito's Silence
+# Chapter 20 — Quiet Floors
 
-The contact has a name that doesn't stick and a room that smells like cold tea and machine oil.
+We reach the laundry alleys a little after eleven.
 
-Mira talks. I stand where she puts me, against the wall with my hands empty, and I do the wage-boy face until my jaw aches. The contact is a woman in a dark jacket, hair pinned flat, older than Mira and younger than Machi, and she looks at my mouth the way the well man looked at bags — checking for something she has been told to find.
+The walk up from the stationery streets took twenty minutes if you don't cut through Station Plaza, longer if you do and hit a pair with a clipboard. We took the long way on purpose. Mira checked the hill road once from a side street — two gray-greens at the main hospital gate, bored, smoking — and pulled us back into the alleys behind the bath house.
 
-"He's quiet," she says to Mira. Not to me.
+The second night shift has already taken the dock. From the corner of the bath-house wall I can see the folding chair under the single bulb, and the clerk on it — municipal jacket, soft middle, stamp box closed on his knees. He drinks from a thermos, sets it down, checks his watch. The transfer truck is not here yet. Mira said three. The gap is what we came for.
 
-"He's useful when he's quiet," Mira says. "That's the arrangement."
+We wait. Not long — long enough for a tram to pass twice on the hill road, long enough for my shoulder to remember it is still whole and my mouth to go dry. A loader crosses the court with a bag of dirty sheets, nods at the clerk, and goes in through a side door that is not our door. The clerk does not look up.
 
-"Arrangements change when mouths get famous." The woman taps a finger once on the table. "The east warehouse gate this morning — a guard who can't keep his story straight. By tonight the dock will have three versions and the hill will have one, and the hill's version will involve a voice."
+Chain-link fences the three open sides of the service court. A drain runs under the cut wire her contact showed us on the map. Above the green service door, the quiet-floor windows stay blank. No visitor board. No ward noise. Only laundry steam and the tram.
 
-Mira doesn't look at me. "We'll move work to different yards and different hours."
+Mira has the empty linen cart. She stops us in the shadow of the stacked carts against the fence and checks the court once more.
 
-"You'll do more than that if you want my door." The woman slides a folded paper across the table — not stamps, a hand map, streets marked in pencil. "Registration is squeezing the casual lines. The pairs have started asking about scraped voices in the east wards. Someone from the coast desk is in the city — gray suit, no stamps, just listens."
+"I talk to him first," she says. "If he won't open, then you do."
 
-My throat goes tight. Mira's shoulder shifts half a degree — the only tell she allows herself.
+"How long do we have?"
 
-"How long has he been here?" Mira asks.
+"Until someone comes looking for why the court door is open, or until the truck crew shows early. Don't invent a third clock." She adjusts the sack on her shoulder. "Stay here until I call you forward."
 
-"Long enough to have a list, and not long enough to have sat at Minato yet." The woman looks at me at last. "If you open another gate with your mouth, you don't come back to this room. If you keep it shut, I can put you on night hauls that don't publish names. Choose."
+I nod. My mouth is dry. My hands want a crate that isn't here.
 
-I wait for Mira. She said I say nothing.
+She walks into the bulb light like a girl on an errand — shoulders down, voice the polite size that gets clerks to look at clocks instead of faces.
 
-"He chooses shut," Mira says. "We'll take the night hauls."
+"Linen pull for the upper floors," she says. "We're late. Supervisor said use the service stair — the ward lift's down again."
 
-The woman nods once. "Tomorrow, behind the third shed. Don't bring friends."
+The clerk blinks at her, then past her toward the shadow where I am, then at the empty cart. "Upper floors don't take linen after ten. Quiet floors take nothing without a chit from the desk."
 
-We leave the way we came — alley, elevated shadow, the long way around Station Plaza. Mira doesn't speak until the tool sharpener's stairs are under our feet.
+"Desk said the chit's coming with the transfer truck. They want the room cleared before the east load." She holds out a folded paper that looks enough like a schedule to waste ten seconds of a tired man's eyes. "I'm not arguing with a truck. Open up and we'll be gone before your tea cools."
 
-"Gray suit," I say.
+He almost does it. His hand lifts toward the latch. Then his eyes find me when I step out of the shadow, and they snag on my scraped voice before I've said a word.
 
-"I heard her." She locks the door. "So you don't talk — not at work, not at Minato, not if a clipboard smiles, and not if someone from Nagihama walks out of a crowd and says your name."
+"Nobody I don't know goes up tonight," he says. "Transfer or not. Sit on the step if you want. Wait for the desk."
 
-Haru's face hits me sideways — unfinished sentence, gateway, the part of me that still turns toward west when I'm tired. I sit on the mat and put my hands flat on my knees so they stop wanting fists.
+Mira's weight shifts. Not enough for him to call it a fight. Enough for me.
 
-"I wasn't going to."
+I walk into the bulb. I keep my voice low, under the chimney steam, under the distant tram.
 
-"You weren't going to at the gate either." She says it without heat, which is worse. "Silence is the job now. Can you do it?"
+"Open the door. You never saw us or our faces."
 
-"Yes."
+It lands.
 
-She watches me long enough to decide whether yes is a word with weight. Then she nods, blows out the lamp, and leaves me the dark and the ceiling crack that looks like a river.
+His hand finds the latch without asking his face first. The green door swings. His eyes go empty — a held breath of nothing — and then he is staring past us at the court as if he has forgotten why he stood up. Blood finds my upper lip. The weight leaves my throat hard enough that the dock tip for a second. I wipe my nose on my wrist and don't look at Mira.
 
----
+"Inside," she says.
 
-For three nights I do the hauls behind the third shed — cash, no names, crates that move when the market is asleep and the pairs are thinner. My shoulders burn the useful way. My mouth stays empty on purpose. When a loader asks where I'm from I shrug. When a boy offers a cigarette I shake my head. When the foreman of the night crew pauses at my voice I am already lifting the next load, and the pause dies without becoming a question.
-
-Mira takes a different shift. Sometimes we eat at Minato an hour apart and only know the other was there by which bowl Machi has already washed. Once I come in and a dock runner is finishing the warehouse story for the third time — the open gate, the tears, no smashed lock — and Machi tells him if he says it again he can tell it to an empty stool. The stool at the end of the counter stays empty. I don't ask. Asking is a kind of talking.
-
-Machi sells us rice in a paper wrap without asking why we stopped sitting. She looks at my scraped voice once, the way she looked the first night, and then at Mira.
-
-"Whatever you're running from," Machi says, "don't run it through my curtain if it wears a suit."
-
-"We won't," Mira says.
-
-"Good. The stool at the end already taught me what talking costs." Machi turns back to the pots. "Pay at the counter and eat somewhere I don't have to lie about."
-
-We eat on the tool sharpener's stairs. The rice is plain and hot. Neither of us mentions the empty stool by name.
-
-On the second night the gray suit is on the east side.
-
-I don't see his face. I see the stillness — a man in civilian cloth standing where the floodlights die at the yard fence, hands not in his pockets, head tilted as if the diesel itself might confess. Two gray-greens flank him without crowding him. He is not counting hands. He is waiting for a mouth.
-
-I turn my cart before the light finds me and take the long cut behind the ice sheds. My pulse hammers. The command that would make him look the other way rises once — ready, aimed — and I crush it the way Mira taught me, by putting work in my hands until they are too busy to point.
-
-When I tell Mira at dawn she is already packing the sack lighter.
-
-"He'll sit at every bar that feeds yard boys," she says. "Including ours. So we go to Minato less, we pay Machi for rice to go, and we don't give him a stool to watch."
-
-"And the contact?"
-
-"The contact asked for me tonight. Alone." She meets my eyes. "You're not coming."
-
-"Why?"
-
-"Because if the gray suit is mapping mouths, a quiet boy in a back room is a gift, and I am not wrapping you." She slings the sack. "You work the haul, you come home, and you sleep. If I'm late, you still don't go looking through rail sheds with your voice ready."
-
-"And if you're not late — what did she want that I can't hear?"
-
-Mira pauses at the door. For a second she looks like the girl who packed a sack in Nagihama before I knew she was packing for a road. Then the tide-chart face comes back.
-
-"She wants to know if you're a tool or a person," Mira says. "I am going to tell her you're a person who can be a tool when he chooses. That answer goes better without you in the room trying to prove either half."
-
-She leaves.
-
-I sit with the ceiling crack and the gray suit's stillness, and I do not follow her. In Kōgetsu I would have. In Nagihama I would have. Here I stay on the mat, and I hate that staying works.
+We push the cart through. Behind us the clerk sits back down on the folding chair with the door still open and puts his face in his hands.
 
 ---
 
-The haul that night is short one street from the rail sheds.
+The service stair is concrete and old paint. It smells like bleach that never quite covered something older. Mira takes the steps fast without letting her boots slap. I leave the cart on the first landing — the wheels would carry through the quiet floors — and follow.
 
-I tell myself I am not listening for her. I listen anyway — for footsteps, for a door, for the kind of quiet that means a meeting ended clean. What I get instead is boots on gravel and a low polite voice carrying across the fence line from the yard road.
+First landing: a narrow window on the laundry roof, steam moving past the glass. Second: a locked door marked STAFF ONLY with a paper notice curled at the edge. Third: the fire door with a strip of glass. Mira stops there and looks through before she opens it.
 
-"—scraped voice, yes, and the coast timing matches. The warehouse guard's gap lines up with the well report from Kuroishi. If the mouth is in Takamatsu, it eats where the hands eat."
+The corridor beyond is the color of boiled rice. Doors without names. A camera at the far end with a dead red light. The floor is mopped too clean for a place that is supposed to be empty at this hour.
 
-I freeze with a crate against my ribs. Two shapes pass the floodlight gap: gray-green, and the civilian cloth between them. The Listener. Close enough that if I breathed wrong he would turn. Close enough that the sentence is already built — *Look the other way. You never saw this street.* — and my lip stings before I have chosen.
+Mira counts doors under her breath and stops at the fourth on the left. No number. A paper sleeve where a chart should hang, empty.
 
-I choose nothing.
+From the stairwell below us — boots on concrete. Not running. Checking.
 
-I set the crate down without sound. I step back into the shed shadow. I let them pass. The polite voice goes on about bars and stools and a mama who feeds working boys, and then they are past the ice and the words are only diesel again.
+"Clerk?" a man's voice calls. "Why is the court door open?"
 
-My hands are shaking. Not from fear of him — from how easy the command had been, how ready, how glad. I wipe my mouth. No blood. I almost used it anyway.
+Mira knocks twice on the fourth door, soft. A pattern.
 
-When the shift ends I walk home the long way and find Mira already on the mat, boots off, eyes open in the dark.
+The handle turns from inside.
 
-"You're late," she says.
+The room is small. One bed. One chair. A window that does not open, with a view of another blank wall. An old woman is already on her feet, slippers on, a thin blanket folded once on the mattress as if she has been waiting sitting up. There is a paper cup of water on the floor by the bed and nothing else that looks like it belongs to a person — no bag, no coat on the hook, no shoes but the slippers.
 
-"He walked the yard road. He was talking about the well, and about Minato." I sit. The room feels smaller. "He hasn't sat there yet. He will."
+Suzumori is smaller than I expected. White hair pinned with a wooden stick. Eyes that take Mira in first, then me, then the blood drying on my wrist. She does not look surprised.
 
-Mira is quiet for a long time. Then: "The contact will move us if we ask — different ward, higher cost."
+"Saeki," she says. Not loud. "You took your time."
 
-"Ask."
+"We have minutes," Mira says. "Can you walk?"
 
-"I already did." She turns her face toward the wall. "She said yes, after one more favor. Night after next. I didn't like the favor. I took it anyway."
+"I can walk." She already has the slippers tied. "East truck was due before dawn. I heard them oiling the gate an hour ago."
 
-"What favor?"
+"Then we're early enough." Mira tips her chin at me. "He's with me. He doesn't talk unless he has to."
 
-"Not yours to carry yet." She says it soft, and final. "Sleep, Kaito. Tomorrow you haul, you keep quiet, and you stay away from Minato. If the gray suit sits on Machi's stools, we hear it from someone else."
+Suzumori's gaze returns to my mouth. "That voice is loud even when it whispers. Careful where you point it, boy. Keys cut both ways."
 
-I lie down. The ceiling crack is still a river.
+Boots again — closer. Second flight now.
 
-"Night after next," I say to the dark. "Whatever favor she bought us with — you tell me before we pay it."
+"We go," Mira says.
 
-Mira's breathing stays even. She might already be asleep. She might be choosing not to answer.
+Suzumori nods at the corridor and steps past me without asking my name. Mira takes her elbow. I take the rear and pull the door shut behind us, soft as I can.
 
-I keep my mouth shut the rest of the night anyway.
+We are halfway to the stair when a gray-green turns the corner from the far end — young, rifle sling loose, the look of a night post that has been boring until this second. He sees three people where there should be none. His hand goes to the sling.
+
+"Stop—"
+
+He is close enough that if he gets the rifle up, the stair is finished. Mira and Suzumori are between me and the fire door. The only cover is a linen cart left against the wall by someone else's shift.
+
+"Drop the rifle. Face the wall. Count to one hundred before you turn."
+
+He drops it. The sling catches and the rifle hits the floor hard enough to wake people two floors down. He turns to the wall with empty eyes and starts counting out loud — wrong numbers, a child's count. My knees go. Gray climbs the edges of the corridor. Mira's hand finds my sleeve and pulls.
+
+"Stairs."
+
+We take them. Suzumori is faster than her size. Behind us the counting goes on, thin and obedient, and a second voice shouts for the clerk from the court. On the loading dock the first clerk is still on the chair with his face in his hands. He does not look up as we pass. The bulb swings a little in the draft from the open door.
+
+Mira goes through the cut in the wire first, then Suzumori. My shirt catches on the cut end and tears. The fence takes a strip of skin off my shoulder. I swear once — ordinary, no weight under it — and drop into the alley behind the chimneys.
+
+The contact is already there with the cart pointed toward the pine road. Dark jacket. Hair pinned flat. She looks at Suzumori, then at my mouth, then at Mira.
+
+"Truck's two bends down," she says. "She rides under the linen. You two take the long cut. Don't go back to that room."
+
+Suzumori pauses with one hand on the cart rail.
+
+"You used a boy's throat for a latch," she says to Mira, quiet.
+
+She heard it on the quiet floor — me telling the soldier to drop the rifle, him facing the wall and counting. Mira doesn't pretend otherwise.
+
+"He opened what paper wouldn't," Mira says. "You'll get your argument about that later. Right now we need to get out of here."
+
+Suzumori's eyes find me — not kind, not cruel.
+
+"Two kings in one world," she says. "What a terrifying thought."
+
+She climbs into the cart without waiting for an answer. The contact covers her with a sheet that smells like bleach and starts walking. By the time I wipe my shoulder on my sleeve, the cart has turned the corner toward the pine road, and from the service court someone is shouting for the clerk by name.
+
+---
+
+We take the long cut: bath-house alleys first, then the back streets under the elevated line. Every few minutes a train shakes dust out of the shop signs. We stay off the main hill road. My legs want to stop. Mira's shoulder is under my arm because the second command took more out of me than the first, and my scraped voice is thinner than walking wants.
+
+A clock over a closed pharmacy says 11:40. The streets here are mostly shutters and cats. A drunk argues with a vending machine two doors down and does not look at us. The sirens have not started.
+
+We cross behind a noodle shop that is still lit — one cook scraping a pan, radio low — and cut through to the stationery street. We pass the closed shop without slowing. Our window is dark. I do not look up at it longer than a step.
+
+"She goes inland on that truck," Mira says. "We don't. Can you keep walking?"
+
+"Yes." Then, before I can hold it: "Haru—"
+
+Mira's step hitches once. "What about him?"
+
+"Nothing. Forget it."
+
+"I'm not forgetting a name you say with blood still on your mouth." She doesn't slow down. "If he's in Takamatsu and he hears about a door that opened for no reason, he'll come looking. So we aren't here when he does. Drainage cut to the pine edge before they rope the hill road. After that you keep quiet until I say otherwise."
+
+"What did she mean by kings?"
+
+"I don't know. She's under linen on a cart — if I get an answer, it won't be tonight." She looks at me sideways. "You opened two doors for me. Next time something needs your mouth, I ask first. You can still say no. I'm not —"
+
+"Using me."
+
+"I was going to say I'm not deciding alone. But yes. That too."
+
+A siren starts on the hill — hospital side.
+
+"This way," Mira says, and takes the narrow service path behind the yards, the one that runs wet along the fence toward the pines. We stay off the lit road. Water soaks through my boots in the low places. A second siren joins the first, closer to Station Plaza.
+
+I keep my mouth shut and follow her.

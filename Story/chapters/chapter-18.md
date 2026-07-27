@@ -94,17 +94,17 @@ Machi sets a cup in front of me hard enough to click. "I didn't like him either.
 
 The dock runner is a man I half-know from Thursday bowls — thick wrists, a burn on one forearm from a line. He's already telling it to Gorō's empty stool, as if the stool might still argue.
 
-"Depot warehouse on the east side," he says, when we lean in. "Not the big FDC stack — the civilian one that feeds the hill kitchens. Break-in before dawn, and there wasn't an alarm or a smashed latch. Guard on the door swears he opened it himself and waved the thieves through, then sat down on the step and cried because he can't remember why. He says he never saw their faces — says he never saw them at all, except he must have, because the door was open and the rice was gone." He shakes his head. "Captain's calling it heat and shame. The boys on the dock are calling it something else: a door that opens because a mouth asked."
+"Old hospital stack," he says, when we lean in. "The logistics wing on the north hill — not the ward that still takes fever kids. The quiet floors. Break-in before dawn, and there wasn't an alarm or a smashed latch. Night clerk on the service door swears he opened it himself and waved people through, then sat down on the loading step and cried because he can't remember why. He says he never saw their faces — says he never saw them at all, except he must have, because the door was open and a room upstairs is empty that was not empty at shift change." He shakes his head. "Captain's calling it heat and shame. The boys who haul linen are calling it something else: a door that opens because a mouth asked."
 
 Riku snorts. "Dock stories. Every week somebody's aunt saw a ghost."
 
-"Ask the guard," the runner says. "He's still on the step. He'll tell you the same thing three times and none of it will have a smashed lock in it."
+"Ask the clerk," the runner says. "He's still on the step. He'll tell you the same thing three times and none of it will have a smashed lock in it."
 
 I hear the rest of the room move on — another beer, another complaint about registration, Machi telling someone the back room is full. I don't move on. A door that opened because a mouth asked is the same wrong shape as a stool man at a well who forgot a boy with blood on his lip, and the same wrong shape as a soldier's hands opening in a drying yard. I would know that shape in any city.
 
 Riku is watching me. "You've gone the color of leftover rice. What?"
 
-"I need to see that warehouse," I say. "Tonight, or at first light — before they move the guard or tidy the story."
+"I need to see that hospital," I say. "Tonight, or at first light — before they move the clerk or tidy the story."
 
 "Because a dock runner told a ghost story?"
 
@@ -112,7 +112,7 @@ Riku is watching me. "You've gone the color of leftover rice. What?"
 
 Riku looks at Machi. Machi looks at me, prices whatever she sees, and turns back to her pots.
 
-"Take the back alley," she says. "Pairs like the main street after dark."
+"North hill, service road behind the laundry chimneys," she says. "Don't walk the main hospital gate after dark unless you want your name on a board. Pairs like the front."
 
 Riku clicks his tongue once — help, this time — and pulls his jacket on.
 
@@ -120,4 +120,4 @@ Riku clicks his tongue once — help, this time — and pulls his jacket on.
 
 "If it turns out to be what I think," I say, and I don't finish it, because finishing it would mean saying Kaito's name in a bar that still has ears.
 
-We go out through the rope curtain into the damp street and turn east.
+We go out through the rope curtain into the damp street and turn toward the hill.
