@@ -1,22 +1,20 @@
 # Chapter 23 — Go Home
 
-The ridge cut spills us onto gravel ten meters above the pine road.
+I hit the pine road running.
 
-The open road runs east-west under the ridge wall. The cart is stopped crooked with one wheel in a ditch. Three gray-greens — two with rifles, one with a clipboard already dropped in the dust. The contact on her knees by the horse's head, hands visible, talking with her face aimed at boots. Riku stands between Haruki and the nearest rifle, left forearm already swelling where the butt caught him. Haruki is half a step behind Riku's shoulder, mouth still open around whatever careful word he had started when I stood up on the wall.
+The cart is still crooked in the ditch — one wheel sunk, horse stamping, three gray-greens. The contact is on her knees by the horse's head. Riku has his body between Haruki and the nearest rifle, left arm already wrong from the butt-stroke. The rifle that was swinging toward them turns toward me instead when my boots hit gravel.
 
-Exits: east back toward Takamatsu and the Listener. West inland into scrub. South up our cut if anyone is stupid enough to climb toward Mira and Suzumori. North is stone wall and no door.
-
-I hit the road on the west side of the cart so the horse is between me and the rifles for one second. Mira comes down behind me anyway — I hear her boots, hear Suzumori swear at both of us from higher up, hear the contact's breath catch when she sees my face.
+Mira comes down hard behind me. Suzumori swears from higher up and keeps coming anyway. The contact's breath catches when she sees my face.
 
 "Kaito—" Haruki says.
 
-My name in his mouth is worse than a rifle. It lands in the place where the unfinished sentence has been living since the gateway, and for a stupid half-second I almost answer like we are still on a roof in Kōgetsu.
+My name almost stops me. For half a second I am stupid enough to look at him instead of the gun.
 
-The gray-green with the raised rifle turns toward the new sound. He sees a tall boy with a scraped voice and a bloody bandage and he understands enough of the hospital story to smile wrong.
+The gray-green with the rifle sees a tall boy, scraped voice, bloody bandage — enough of the hospital story to smile wrong.
 
 "On the ground," he says. "All of you. Scraped voice last."
 
-Riku does not get on the ground. He steps into the soldier instead — not pretty, not trained for show. Shoulder into the rifle barrel, left hand jamming the sling, right fist short into the man's gut. The rifle fires into dirt. The horse screams and rears. The contact rolls clear of the hooves.
+Riku does not get on the ground. He steps into the soldier — shoulder into the barrel, left hand on the sling, right fist short into the gut. The rifle fires into dirt. The horse screams and rears. The contact rolls clear of the hooves.
 
 The second rifle swings toward Riku's back.
 
@@ -36,11 +34,11 @@ Haruki has not moved except to catch my eyes and hold them.
 
 The kneeling soldier stays down with empty eyes and his hands still laced. I wipe my nose on my wrist and keep moving.
 
-"Up the cut," Mira says. "Now. Before the shot brings the hill."
+"Up the cut," Mira says. "Now. That rifle went off — the hill will come looking."
 
 Suzumori is already halfway down, stick of wood crooked in her hair, eyes on my mouth like it is a latched door she refuses to praise.
 
-"Boy," she says. "They heard that shot. They will hear what your mouth did next if we stand here."
+"Boy," she says. "They heard the gun. They will hear what your mouth did next if we stand here."
 
 "I know."
 
@@ -78,7 +76,7 @@ Riku, ahead, clicks his tongue once. "Pretty. Also we have company if we keep ma
 
 Mira has stopped at a break in the scrub where the inland track shows through. She points east — dust on the pine road, small as insects from here. Pairs. Moving west. Not running yet.
 
-"They heard the shot," she says. "Hill will send more."
+"They heard the shot," she says. "They will send more."
 
 Suzumori's hand finds my sleeve — not Mira's habit, a different grip, older. "Say what you came to say to him, boy from the clean rooms. Then decide if you are a door or a person. I will not decide it for you."
 
@@ -108,7 +106,7 @@ Riku starts forward. "Hey—"
 
 The pairs' voices carry from the pine road, closer — questions about a scraped voice, about the hospital path. The contact goes still.
 
-I look at Haruki — dust on his shoes, careful hands, the face that would not lie to me even when a lie would have been kinder — and I put the weight under the only exit I can still close.
+I look at Haruki — careful hands, the face that would not lie to me even when a lie would have been kinder — and I put the weight under the only exit I can still close.
 
 "Stop following me. Go home."
 
@@ -124,7 +122,7 @@ Suzumori makes a sound like a door latch failing.
 
 I do not watch him take the first steps. I let Mira pull me west into thicker scrub, away from the pine road, away from the pairs, away from the boy who walked a country to close six syllables and got two sentences back instead.
 
-Behind us Riku swears once — ordinary, furious — and then his boots go east after Haruki instead of west after me. The contact chooses Mira. Suzumori chooses the inland dark with her stick of wood crooked and her eyes full of a terror she still will not name.
+Behind us Riku swears once — ordinary, furious — and his boots go east after Haruki. The contact stays on Mira's heel. Suzumori comes west with us, stick of wood crooked in her hair, eyes on the road we left like she expects the gray suit to step out of it.
 
 Needles scrape my bandage. Mira does not tell me I did the right thing. She does not tell me I did the wrong one. She puts my arm over her shoulders and keeps me moving west until the pine road's voices thin to nothing.
 
