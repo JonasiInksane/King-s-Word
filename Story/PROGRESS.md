@@ -63,7 +63,7 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 - **Listener:** On Takamatsu hill — linked well + quiet floors; pairs walking pine; Minato bars next. Still thinks Haruki is nothing (may revise after Go home fallout).
 - **Nakahara Riku:** Anchored Haruki through the break (ditch fight, Ch 24); got Haruki's honest partial account (weighted voice, three sightings, no rules) — still no carrier system. Rifle-stock bruise ID'd them at the checkpoint. In C-wing with Haruki; forearm wrapped by intake doctor. Went flat at the *volunteer* question (Ch 25) — wound seeded, not explained.
 - **Colonel Habu (live Ch 25):** Shizuhara commandant. Soft-voice lobby welcome; "add him to inventory before dinner so he eats under his own number." Not cartoon evil — administrative kindness. Zeroing truth NOT on-page yet.
-- **Ōhashi (live Ch 25):** C-wing fixer, ~19, pomaded, vain, genuinely useful. Keeps a pencil notebook of every intake number in C "so nobody gets forgotten" (load-bearing for later). Knows east wing runs a letter, not a number. Refuses to sell the night-truck question.
+- **Ōhashi (live Ch 25):** C-wing fixer, mid-20s, pomaded, vain, genuinely useful. Keeps a pencil notebook of every intake number in C "so nobody gets forgotten" (load-bearing for later). Knows east wing runs a letter, not a number. Refuses to sell the night-truck question.
 - **Machi:** Pointed Haruki at hospital service road; Gorō's stool empty.
 - **Gorō:** Still "walked" / missing. Do not kill off-page.
 - **Tanabe:** Dropped Haruki (Ch 17). Still in the cellar.

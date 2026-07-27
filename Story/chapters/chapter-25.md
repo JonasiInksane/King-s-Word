@@ -28,7 +28,7 @@ The crying boy — the thirteen-year-old — has started again, quietly. Habu no
 
 "He hasn't eaten since morning," he tells the clerk, in exactly the voice he used for the rest of it. "Add him to inventory before dinner, please, so he eats under his own number."
 
-The clerk types. The word goes through the lobby's warm air without changing temperature at all, and I think: there it is. That's the building. Everything else is furniture.
+The clerk types. Habu said *inventory* the same way he said *hot food* — soft, practical, like a boy is a number you add so dinner can find him. The bed and the doctor and the four polite rules are still in the room. That word is what they are for.
 
 Riku has gone very still beside me. He heard it too.
 
@@ -50,7 +50,7 @@ I look at the microphone, and the microphone looks back, and a thing I have no n
 
 "Is there a reason it's recorded?" I ask. Normal, curious, nothing leaning on it.
 
-"Voice is harder to fake than paper." She says it like the weather. "Read the card, please."
+"Voice is harder to fake than paper." She doesn't look up from her list. "Read the card, please."
 
 I read the card in the flattest, most ordinary voice I own — the one for gates and clerks, with nothing under it, nothing leaning on anyone. The machine draws my sentence as a small green mountain range on its screen, thinks about it, and files it away. No light goes red. Nobody comes running. The technician is already looking at her list for the next name.
 
@@ -64,7 +64,7 @@ At the forms desk, a tired clerk works down a checklist with Riku while I wait m
 
 One word, and I have heard Riku say no a hundred ways — mocking, cheerful, weaponized. This is none of them. It is flat and closed like a shutter coming down, and the clerk glances up at it, and even he, at the end of a long shift, notices there is a room behind the word that nobody is invited into. He marks the box and moves on. Riku's jaw stays set for three more questions.
 
-I add it to the small pile of things I know about Nakahara Riku without being told, and I don't ask. The road taught me that much — he'll sell it when he's ready, and not to a building.
+I don't ask. The road taught me that much — he'll sell it when he's ready.
 
 ---
 
@@ -76,7 +76,7 @@ They pass. Their corridor swallows them. Ours keeps going.
 
 "Volunteers," says the guard walking us, in answer to nobody. "A and B block. Good kids. Behave and the review board notices, that's all I'll say." He says it warmly, the way you repeat something you have decided to believe.
 
-Riku looks straight ahead at nothing, and his jaw is doing what it did at the forms desk, and I file that away too.
+Riku looks straight ahead at nothing. His jaw is set the same way it was at the forms desk.
 
 ---
 
@@ -84,7 +84,7 @@ C wing is bunks in bays of eight, a wash room that smells of chlorine over rust,
 
 We have been in the bay ten minutes when the mayor arrives.
 
-He is nineteen or so, with hair somehow still pomaded in a building that confiscates belts, and he introduces himself as Ōhashi before anyone asks — first to Riku, who ignores him, then to me, who doesn't, which he takes as a lifelong friendship being founded.
+He is mid-twenties or so, with hair somehow still pomaded in a building that confiscates belts, and he introduces himself as Ōhashi before anyone asks — first to Riku, who ignores him, then to me, who doesn't, which he takes as a lifelong friendship being founded.
 
 "Aoyama, was it? Good bay, this one. I had them move a snorer out last month — I know the day-shift corporal, we have an understanding." He produces a school notebook, fat with pencil, and taps it. "Intake numbers, bunk assignments, who's due at review. I keep track of everybody in C. Somebody has to. Buildings like this, the paper forgets people, but *I* don't forget people." He says it loudly enough for the nearest three bays to benefit from knowing it.
 
@@ -92,13 +92,13 @@ It costs me two questions and a respectful silence to learn the shape of him: he
 
 "And the east wing?" I ask it the boring way, the way I'd ask about bus schedules — half attention, folding my blanket while I talk.
 
-"East wing's specials. War paperwork, flagged cases. Different food, different guards — the guards down there don't chat." He lowers his voice to the register of a man giving away stock for free and enjoying it. "They keep the count separate too. I've seen the wall board at the junction when they change shifts. C is forty-one, you two make forty-three. A and B together run about two hundred. East wing never has a number on the board. Just a letter." He frowns, for the first time looking like a nineteen-year-old instead of a mayor. "Which is strange, when you think about it, because the whole building runs on numbers. I asked a corporal once and got corridor duty for a week."
+"East wing's specials. War paperwork, flagged cases. Different food, different guards — the guards down there don't chat." He lowers his voice to the register of a man giving away stock for free and enjoying it. "They keep the count separate too. I've seen the wall board at the junction when they change shifts. C is forty-one, you two make forty-three. A and B together run about two hundred. East wing never has a number on the board. Just a letter." He frowns, for the first time looking his age instead of like a mayor. "Which is strange, when you think about it, because the whole building runs on numbers. I asked a corporal once and got corridor duty for a week."
 
-He blinks, then, as if catching up to how much he has just said to a boy he met eleven minutes ago, and covers it by straightening his hair.
+He stops. Straightens his hair. Looks like a man who just heard himself talk too much to a stranger.
 
 Lights go to half at the second bell. Somewhere beyond the wash-room wall, a door the size of a garage opens — I feel it in the floor more than hear it — and an engine idles in and settles. Late for deliveries. The kitchen is on the other side of the building; Ōhashi's tour covered that too.
 
-I lie on a bunk that smells of other people's summers and listen. The engine idles a long time. Then gates, then gears, then gone — heavier leaving than it came, or I am inventing that, lying in the dark with a wired-on number where my name should be.
+I lie on a bunk that smells of other people's summers and listen. The engine idles a long time. Then gates, then gears, then gone — heavier leaving than it came, or I am imagining that, lying in the dark with a wired-on number where my name should be.
 
 "Ōhashi," I say quietly, across the bay. He isn't asleep either. Vanity sleeps badly in buildings with wall boards. "The night trucks. Where do they go?"
 

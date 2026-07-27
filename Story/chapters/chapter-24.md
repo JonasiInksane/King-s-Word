@@ -4,7 +4,7 @@ My feet are walking east and I did not ask them to.
 
 That is the only honest way to say it. The pine road runs downhill out of the scrub toward the far smudge of Takamatsu, and my body takes it at a good traveling pace — arms swinging, breath even, a boy with somewhere to be. Inside the boy, I am telling my knees to stop. They don't answer. The two sentences sit behind my eyes where he left them, not loud, not cruel, just load-bearing. *Stop following me. Go home.*
 
-Riku keeps pace beside me and says nothing for the first kilometer. He has blood dried at his hairline and he carries his left forearm tucked against his ribs where the rifle butt caught it. Every few hundred meters he looks over at me — not scared. Pricing.
+Riku keeps pace beside me and says nothing. He has blood dried at his hairline and he carries his left forearm tucked against his ribs where the rifle butt caught it. Every few hundred meters he looks over at me — not scared. Pricing.
 
 "So," he says at last. "Are we going to talk about the part where a soldier put his hands on his head and knelt in the road because your friend told him to?"
 
@@ -60,13 +60,13 @@ We lie there while my breath comes back. A truck goes by up on the road — civi
 
 "The other sentence," Riku says, eyes still on the sky. "*Stop following me.* Is that one still in there?"
 
-I check the way you check a tooth with your tongue. West sits in my chest like a closed door. I can look at the door. I can't tell, from here, whether it opens.
+I try it the way you'd press a bruise — careful, just enough to feel if it still hurts. *Stop following me.* West is where he went. If I stand up right now and start walking after him, I don't know whether my legs will do it or lock the way they did for *home*.
 
-"I don't know," I say. "It didn't fray with the first one. It's — simpler. It has him in it, and he isn't gone the way home is."
+"I don't know," I say. "It didn't fray with the first one. It's simpler. It has him in it, and he isn't gone the way home is."
 
 "So if you turn west right now and try to walk after him, either you can or your legs go on strike again, and we find out which in front of whoever's watching the roads." He sits up, spits grit, and looks at me properly. "That's an experiment for somewhere with fewer rifles."
 
-"Riku." My voice is steadier than I feel. "You could go. I mean it as arithmetic, not a speech. You're a tall boy with a bruise from a rifle you jammed. Alone, you're a scrap hauler who got robbed on the road. Next to me, you're an accomplice."
+"Riku." My voice is steadier than I feel. "You could go alone. You're a scrap hauler who got robbed on the road. Next to me, with that rifle bruise, you're an accomplice."
 
 He looks at me for a long second. Then he clicks his tongue, once, and it means what it usually means.
 
@@ -118,7 +118,7 @@ He shrugs. "Inland. There's a facility. You'll eat better than you've been eatin
 
 They put us up into the canvas truck with a bench down each side. There is one other passenger — a gray-stubbled man in a seed-company cap who doesn't look at us, holding his own tag in both hands like it might be exchanged for something later.
 
-Riku settles onto the bench across from me, careful of the arm. Above the tailgate, the crossing and the dry shrine and the whole east he was Worded toward slide away as the truck grinds through its gears.
+Riku settles onto the bench across from me, careful of the arm. Through the open tailgate I watch the checkpoint shrink — cones, shrine, water tank — until a bend takes it. This morning my legs wanted east. The truck is going the other way.
 
 "Hey." He says it quietly, under the engine, and waits until I look at him. "Back in the ditch. Your legs were yours at the end. Whatever pit they're driving us to — remember whose legs they are."
 

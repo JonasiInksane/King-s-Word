@@ -82,11 +82,11 @@ I have never seen anything like it — a roofed street and then another roofed s
 
 The driver pays me in coins, counting them twice into my palm so we both see the number, and tells Riku he runs again Friday. Then he's gone, and I'm standing in the middle of the largest crowd of my life with wet boots and money I earned with my back.
 
-I try asking if someone has seen him once, because not trying isn't in me. There's a tea seller at the mouth of the roofed street, old enough to have seen everything twice, with a queue that never quite dies. I buy a cup with the driver's coins and drink it standing at the end of her boards, and when the queue thins I ask whether she'd notice a boy off the coast buses — tall, quiet, a scraped voice, a girl with him who does the talking.
+I try asking if someone has seen him once, because not trying isn't in me. There's a tea seller at the mouth of the roofed street, old enough to have seen everything twice, with a queue that never quite dies. I buy a cup with the driver's coins and drink it standing at the end of her boards, and when the queue thins I ask whether two people off the coast buses came through yesterday — a tall quiet one, and a girl who worked trays for food in Ishibashi.
 
-"Notice him doing what — buying tea?" She doesn't pause her pour. "Half the coast has walked through this market in the last month. Burned out, registered out, walked out. Faces don't keep here."
+"Came through doing what — buying tea?" She doesn't pause her pour. "Half the coast has walked through this market in the last month. Burned out, registered out, walked out. Faces don't keep here."
 
-"He'd have come through hungry. Somebody sold him his first meal."
+"They'd have been hungry. Somebody sold them a first meal."
 
 "Somebody sells everyone their first meal. That's the whole city." She hands a customer his change and takes my empty cup back like the conversation is measured by the porcelain. Then, because I have paid and I am still standing there and the queue has died properly: "You want to find one person in Takamatsu, stop asking markets. Find what he has to keep going back to — work, food, sleep — and stand near it. Now move along, you're blocking a paying man's elbow."
 
@@ -122,7 +122,7 @@ We sit. The broth is hot all the way down, the first food since Ishibashi that d
 
 "Gorō," the old man agrees, pointing at his own chest, as if the introduction had been on his schedule all along. "And since the mama has spoiled the game, I'll give you something instead of taking it. You unloaded ice at North Market — I can smell the sawdust. The casual line there dies at sundown. Anyone who tells you there's evening work at the market is selling you a walk. Evening work in this city is the docks and the rail sheds, and the rail sheds check papers." He taps the counter once. "One fact. That's the toll for sitting near me. Next one costs you a fact back."
 
-"He's also the best free map in Takamatsu," Riku says, "and he'll tell you about the flood of '02 if you don't watch your feet."
+"He's also the best map in Takamatsu," Riku says, "as long as you pay the toll. And he'll tell you about the flood of '02 if you don't watch your feet."
 
 "The flood of '02 is worth telling," Gorō says with dignity, and turns back to his beer.
 

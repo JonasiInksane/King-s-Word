@@ -194,7 +194,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 
 
 
-### Ōhashi (大橋) — C-wing fixer, ~19
+### Ōhashi (大橋) — C-wing fixer, mid-20s
 
 **Camera moment (live, Ch 25):** Introduces himself before anyone asks, taps a school notebook fat with pencil: intake numbers, bunk assignments, review dates — *"I keep track of everybody in C. Somebody has to."*
 
