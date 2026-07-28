@@ -78,9 +78,13 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 22 | Tight Road | K | Catch Suzumori/contact; hunter closes; Haruki's hospital hunt becomes a threat on this camera |
 | 23 | Go Home | K | Collision on Kaito's camera; Haruki's speech isn't enough; *"Stop following me. Go home."* Volume ends on impact (twist #5 unspent) |
 
-### Volume 3 — "Shizuhara" (in progress; POV Switch B locked)
+### Volume 3 — "Shizuhara" (in progress; K block through 34)
 
-**Block rhythm:** H 24–28 → K 29–31 → H return (Same Mouth + parked night-loading / Katō-on-truck) → K massacre pair → H escape + Kuroda tip.
+**Block rhythm:** H 24–28 → **K 29–34** (breach → inventory → stove/zeroing → anger → wipe + Mira stop → aftermath + Mei peel) → H 35+ (Mei joins H+Riku; escape + parked Loading/Katō + Kuroda tip + same mouth).
+
+**Zeroing lock:** A/B volunteers into inner annex (not every child). C / east / Mei survive for H escape party. Massacre = Habu's west response wiped Ch 33; Mira brakes him; Ch 34 is cost/aftermath, not a second wipe.
+
+**Mei → H+Riku lock (Ch 34 → 35):** After the hug, Mei cannot stay on Kaito's road. She takes the planted service door (medical → east/C), uses Habu-key / war-sheet access while Habu is mouthed and west is dead, and goes for the sealed C hold — people she already owes (Haruki/Riku morning-count debt + curry kids' leftover wing). **H 35 opens with Mei reaching them** (unlock / pull / escape party forms). Kaito+Mira peel Remnant-west or crash-exit separately; boys do not reunite inside Shizuhara.
 
 | Ch | Title | POV | Beat |
 |----|-------|-----|------|
@@ -88,11 +92,14 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 25 | Soft Lobby | H | Habu inventory; voiceprint; volunteer *No* seed; Ōhashi; night truck idle |
 | 26 | Volunteers | H | C-wing grind; Riku wound paid; band offer refused; board short vs notebook |
 | 27 | Count | H | Mei camera (tally); towel transaction; morning-count debt |
-| 28 | Bunks | H | Katō empty bunk; dual close — west fence heat + inventory hold (switch plant) |
+| 28 | Bunks | H | Katō empty bunk; dual close — west fence heat + action toward kitchen stair |
 | 29 | Breach Window | K | Remnant west approach; clean extract dies at lights; Word on doors; Mei east confront |
-| 30 | Inventory Language | K | Inside on raider clock — kids as columns; inventory speech; Kuroda stillness hint (unnamed) |
-| 31 | The Stove | K | Despair lands — world shaped on purpose; Mira still selling extract; Kaito past her plan |
-| 32+ | H return | H | Same mouth; **parked Loading beat** (Katō on night truck) re-earned here; zeroing starts |
+| 30 | Inventory Language | K | Mei refuses single pull; columns; Habu soft hold; Kuroda coat stillness; blank-destination sheet; bay look |
+| 31 | The Stove | K | A/B loading to annex; Mira extract dies; Kaito stays; mouth shut |
+| 32 | Evening Review | K | On-camera vent executions; can't reach; had enough; too late — all A/B dead |
+| 33 | Progressive Clearing | K | Blind rage; bullet-stop; lethal wipe of Habu's west response; Habu mouthed shut; Mira yells stop + hugs him |
+| 34 | Whole Building | K | Aftermath — Kaito crashed in Mira's arms; Habu mouthed; **Mei peels via service door toward C**; close on her leaving / C seal starting to open |
+| 35+ | H return | H | **Mei joins Haruki+Riku**; escape party; parked Loading/Katō + Kuroda tip + same mouth |
 
 ---
 
