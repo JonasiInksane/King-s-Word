@@ -46,7 +46,7 @@ Surface politics stay true for Vol 1–4 prose. Do not dump Seal cosmology early
 
 **Story role:** Thematic antagonist — Silence versus the Voice. Come for the boys once the awakening is undeniable.
 
-**Note — Kuroda Ren:** May wear Chinmoku-adjacent stillness (phone/sign, hunt posture). He is **not** their loyal dog. See below / `characters.md` / `old-world-seal.md`.
+**Note — Kuroda Ren:** May wear Chinmoku-adjacent stillness (phone/sign, hunt posture). Holds high **FDC commander** cover with a private cell (Katō right hand + left hand) — agenda **his own**, not FDC policy. He is **not** the Federation’s loyal dog. See below / `characters.md` / `old-world-seal.md`.
 
 ---
 
@@ -63,7 +63,9 @@ Surface politics stay true for Vol 1–4 prose. Do not dump Seal cosmology early
 
 ---
 
-## 5. Kuroda Ren + two coats — SECRET END-BOSS (~Vol 5)
+## 5. Kuroda Ren + cell of three — SECRET END-BOSS (~Vol 5)
+
+**Cover:** High FDC commander rank (trucks / pickups / access). **Agenda ≠ FDC** — private cell only (right hand Katō; left hand; ranks greeting at later crossroads pickup on abnormal material).
 Not a national faction. A man, a Rewrite, and two silent companions.
 
 - **Cause of the Seal** (unwilling): interfered with a world-reshape; edit stuck; family/home on the wrong side of memory.

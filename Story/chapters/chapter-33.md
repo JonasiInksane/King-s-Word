@@ -74,7 +74,7 @@ A third guard comes out of the dish room with a pistol already raised. He is you
 
 "On the ground," he says. "All of you. Now."
 
-"Point that at your own head," I tell him. "Pull the trigger."
+"Why don't you just slit your own throat," I tell him.
 
 He does. Mira takes one step toward the sink like she might be sick, then locks it down, keeps the rifle, and follows me into the lobby stair.
 

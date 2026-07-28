@@ -80,7 +80,7 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 
 ### Volume 3 — "Shizuhara" (in progress; K block through 34)
 
-**Block rhythm:** H 24–28 → **K 29–34** (breach → inventory → stove/zeroing → anger → wipe + Mira stop → aftermath + Mei peel) → H 35+ (Mei joins H+Riku; escape + parked Loading/Katō + Kuroda tip + same mouth).
+**Block rhythm:** H 24–28 → **K 29–34** → **H 35–36** (Mei join + Remnant/A/B → escape → willing H Word + same mouth; Kuroda truck + Katō aboard unread; close on mutual see).
 
 **Zeroing lock:** A/B volunteers into inner annex (not every child). C / east / Mei survive for H escape party. Massacre = Habu's west response wiped Ch 33; Mira brakes him; Ch 34 is cost/aftermath, not a second wipe.
 
@@ -98,8 +98,10 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 31 | The Stove | K | A/B loading to annex; Mira extract dies; Kaito stays; mouth shut |
 | 32 | Evening Review | K | On-camera vent executions; can't reach; had enough; too late — all A/B dead |
 | 33 | Progressive Clearing | K | Blind rage; bullet-stop; lethal wipe of Habu's west response; Habu mouthed shut; Mira yells stop + hugs him |
-| 34 | Whole Building | K | Aftermath — Kaito crashed in Mira's arms; Habu mouthed; **Mei peels via service door toward C**; close on her leaving / C seal starting to open |
-| 35+ | H return | H | **Mei joins Haruki+Riku**; escape party; parked Loading/Katō + Kuroda tip + same mouth |
+| 34 | Whole Building | K | Aftermath; Habu left mouthed alive; Mei peels to C with his key; K+Mira west to ditch; C lock opens (no H faces) |
+| 35 | Unsealed | H | Mei joins; Remnant explained; A/B truth; Riku wound detonates; escape starts; Kurosawa named; Word seeded |
+| 36 | On Purpose | H | Willing Word; Kuroda truck (help) + Katō aboard unread; close on mutual see with Kaito in ditch |
+| 37+ | Road / crossroads | — | Contact aftermath; later **FDC crossroads pickup** (abnormal material) — Kuroda high commander cover, Katō right hand + left hand ranks greeting; zeroing-eyes pay; agenda ≠ FDC |
 
 ---
 

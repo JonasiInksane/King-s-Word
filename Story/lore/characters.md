@@ -21,10 +21,10 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **The Word (hidden):** His strain expresses *softly* — he calms, he defuses, people just... agree with him. Reads as empathy and charisma. His nosebleeds get blamed on the dry AC. **Because his commands tend to be gentle and de-escalating, his corruption risk is lower — for now.**
 - **Voice on the page:** Warm, precise, self-deprecating narration. Notices textures and light. Undercuts his own feelings with a joke. The retrospective voice is spare and willing to withhold — but it never names itself as a record or ledger (see rules: narrator is a person, not a record).
 - **Arc seed:** The one who *watches* his best friend fall — and slowly realizes he shares the same terrible gift, and that his gentleness was never a guarantee. His tragedy is complicity through inaction.
-- **Word self-knowledge (live):** Does **not** knowingly own it. The voice-tell thread is live: Ch 1 (Loop argument dies), Ch 5 (voice too useful at gates, noted in passing), Ch 10 (gray-suit interview believed "faster than the lie deserves"; the lie to Hanae that "works on the broken, works best on them"). By Ch 10 he no longer believes the word for what he does is *polite* — "Kaito's mouth makes people move. Whatever I carry makes them quiet" is as far as he lets the thought run. ARCHIVE SEED: Vol 4 ownership admission (*I am one too*) — re-earn.
+- **Word self-knowledge (live):** Voice-tell thread live through Ch 10–26. **Ch 35 seed:** Mei names scraped-voice boy **Kurosawa**. **Ch 36 paid:** willing clean Word on outer-latch guard (*Put the rifle down / Open that door / Face the wall*); nosebleed cost; Riku same-mouth line in motion.
 - **Despair thread (live from Ch 10):** "The world stops being a place that is failing and starts being a place that is *wrong*… Nobody is coming to fix any of this" — a sentence he turns over and can't make false. This is the seed Kuroda's **"Reshaped by whom?"** hinge lands on in Vol 2. Do not answer cheaply.
 - **Status (end Ch 23 / Vol 2):** Finished the six syllables on the scrub road; speech wasn't enough. Hit by Kaito's *"Stop following me. Go home."* — feet turning east; resistance flicker unpaid (twist #5). With Riku going east after him. Birthmark secret kept. Voice tell still unexplained to him; Vol 3 opens on his camera.
-- **Status (live, end Ch 28 / held through Ch 29 off-camera):** Shizuhara C-wing on perimeter hold. *Go home* broken (Ch 24). Voiceprint on file. Band refusal + Katō empty bunk (review cover). Did **not** witness night loading — bay closed when west fence lit (Ch 28). *Stop following me* still untested. Does not know Kaito is on the wire.
+- **Status (live, end Ch 36):** Escaped via Word + coat-man's truck; Katō aboard unread; mutual see with Kaito in ditch (chapter close). Promised Riku talk-first before chase. Voiceprint unpaid. *Stop following me* untested.
 
 
 
@@ -42,7 +42,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Vol 5+ lean (writer):** When keep-vs-revert lands, Kaito's reason to switch the world back is not abstract justice — it is **Ryn**. If world-command / unsealing might restore what the roof took (or reopen a grammar where the dead are not final), he will burn the sealed present for that chance. Hope may be fed by Kuroda/Remnant/bleed without being proven early. See `old-world-seal.md`. Do not tip on-page before Seal truth.
 - **Control arc (live, Ch 6–9):** Gull test fails → learns the *understand* requirement in his own words ("the understanding is the door the weight walks through — it only works on people"). Night-wall sentence drills — drafts commands and closes their "exits" like dry-firing (Harada's lantern nearly catches him). The refused test: a clean, loaded *Let me help you* aimed at Jun, swallowed — "Jun doesn't get to be a rep"; draws the line *nobody I love, nobody kind*, and notes "a line like that has another edge, and the other edge is a permission." Then the buyer test (clean command, posted price paid; first full success). Costs on-page: heavy nosebleed, copper taste, skull drum; that night he refuses even dry-fire, afraid of what the weight takes from him when it leaves. Does **not** test the Word on himself. The double entry he hides: "part of me is glad, and I go looking for it again." Writes the clean roof sentence — *Bring her onto the roof and set her down* — as his reason to keep practicing (she was held out over the drop; *let her go* opens a hand over air).
 - **Status (end Ch 23 / Vol 2):** Quiet-floors rescue → pine fringe → inland. Worded rifle-soldier on pine road, then Worded Haruki — *"Stop following me. Go home."* True six syllables refused as enough. Moving west with Mira + Suzumori. Darker notch paid (glad-it-works + exit-by-mouth); not massacre-hollow yet. Heard Suzumori's "two kings" / "two loud mouths" dread without understanding. Birthmark still unknown to him.
-- **Status (live, end Ch 33):** Watched A/B vent-executed; arrived too late. Blind rage; **stopped a bullet** (unnamed power jump); lethal Word wipe of Habu's west response (bay→lobby). Habu mouthed shut (eyes awake). Stopped only when Mira yelled and held him. Cost-crashed. Does not know Haruki/Riku are in C.
+- **Status (live, end Ch 36):** Off-camera after ditch pass; H camera shows he saw Haruki in coat-man's truck. Glass-coat anger / almost-Word not yet on K camera — pay next K chapter. With Mira toward contact.
 
 
 
@@ -162,7 +162,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **The curriculum (ARCHIVE SEED — old Ch 18):** "I teach you so nobody gets to use you. Not paper. Not causes. Not friends with beautiful reasons." Fist-knock instead of the word *partner*.
 - **ARCHIVE SEED (old Ch 24–25):** Imprisoned with Haruki in mansion FDC hold; training paid; worded on the pad; tore free after clash.
 - **ARCHIVE SEED (old Vol 3, Ch 26–35):** Shizuhara. Volunteer-disposal truth detonates the sake-night wound. Confronts Mira mid-volume. Breakout; after wipe, drags Haruki out with Mei.
-- **Status (live, end Ch 28 / held through Ch 29 off-camera):** Volunteer wound **paid Ch 26**. Bunk-check paid (Ch 28 — Katō gone). Holding in bay three under perimeter order — no loading witness yet (parked for H return). Still does not know the Word's name; still does not know Haruki is a carrier.
+- **Status (live, end Ch 36):** Same-mouth line after Haruki’s Word; extracted chase terms (talk-first before Haruki goes after Kaito); on truck; saw Kaito in ditch. Knows Haruki’s mouth works.
 
 ---
 
@@ -183,7 +183,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **On-page (Ch 27):** Won’t sell night trucks; wants C boring so east doesn’t get “quieter”; knows mezzanine band offer + Haruki’s bay-clerk almost-ask via corridor gossip.
 - **On-page (Ch 28):** Absent from short-count board (east recount); confirms Katō’s walk-out is real; warns pine-road boys off the bay when west wire gets company; east locks.
 - **On-page (Ch 29–33, Kaito camera):** Extract target; purge gallery guide; witnesses A/B vent deaths; mezzanine route; with clearing. No heir dump.
-- **Status (live):** On-page through Ch 33 (wipe witness). **Ch 34 lock:** peels from Kaito/Mira to sealed C; joins Haruki+Riku as escape left hand. Ally path pays there. Amatsu unpaid.
+- **Status (live, end Ch 36):** Escaped with H party on coat-man's truck; Habu key failed outer latch (Haruki Worded it). Amatsu unpaid.
 
 
 
@@ -192,8 +192,8 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 **Camera moment (live, Ch 25):** Welcomes the intake line in the glass lobby — headmaster warmth, crouches to a crying thirteen-year-old, then to the clerk in exactly the same voice: *"Add him to inventory before dinner, please, so he eats under his own number."*
 
 - Soft voice; files children as inventory loss. Contingency: **inventory zero** (breach + anomalous vocal signature). Survives or is believed dead — **returns later** either way.
-- **On-page hygiene:** never cartoon evil. His kindness is real-looking and cheap; the horror is the bookkeeping underneath. Zeroing steer (Kuroda) stays off-page until the Vol 3 reveal.
-- **Status (live):** Lobby Ch 25; speakers through A/B **inventory zero complete** (Ch 32 vents). Confronted Ch 33 — mouth shut by Word, eyes awake; claimed contingency predated the wire; watched his lobby die. Survive/ambiguous.
+- **On-page hygiene:** never cartoon evil. His kindness is real-looking and cheap; the horror is the bookkeeping underneath. Zeroing steer (Katō/Kuroda) stays writer-only until later crossroads FDC pickup reveal.
+- **Status (live, end Ch 36):** Still mouthed in glass (off-camera); H party escaped west. Survive/ambiguous — returns later either way.
 
 
 
@@ -205,9 +205,18 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Load-bearing:** the notebook is a private census of C-wing — a list of who existed. Keep it visible across the Shizuhara arc; never explain its weight before the zeroing aftermath.
 - Knows the east wing runs **a letter, never a number** on the shift board (asked once; got corridor duty). Will not sell the night-truck question — the one topic where the mayor act drops.
 - Over-answered Haruki's boring-voice question about the east wing and caught himself doing it (seed for Haruki's thread; Ōhashi has no idea why he talked).
-- **Status (live, end Ch 28):** Struck **Katō Hiroshi** from the notebook after empty bunk; still won’t sell routes; vanity cracked when board and beds disagreed; wants bay-three heads visible if C locks under perimeter.
+- **Status (live, end Ch 36):** Escaped on truck with notebook; found Katō alive aboard; struck line unresolved in the book.
 
 
+
+### Katō Hiroshi (加藤 寛) — 21 (looked younger in C)
+
+**Camera moment (live, Ch 36):** Already in Kuroda’s truck bed with seed-cap and cracked cup when H party loads; Ōhashi recognizes the empty bunk; Katō says he got out earlier — no ranks, no right-hand tip.
+
+- **Looks / play:** Seed-company cap; cracked plastic cup; bunked with teens in bay three — read as younger; actually **21**.
+- **Bible (NOT paid on-page yet):** Kuroda’s **right hand**. Inside eyes at Shizuhara; shoved Habu’s A/B zeroing to run in front of Kaito. Agenda = Kuroda’s, not FDC’s.
+- **On-page hygiene:** Ch 36 = bunk boy who got out / hitching the same ride. Right-hand + zeroing confession + rank greeting → **later crossroads FDC pickup** (with left hand).
+- **Status (live, end Ch 36):** Aboard truck with H party; unread as Kuroda’s.
 
 ### Medic Yano (矢野) — intake physician, ~40s
 
@@ -295,12 +304,13 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 - **Looks:** Seventeen; short for it, sturdy through the shoulders; dark hair cut blunt at the jaw (uneven on one side — home cut); warm outdoor skin; clear dark eyes. Moves like a neighbor, not a hunter. Burn-scar on the inside of her left forearm exists (FDC history) but stays covered early — do not stage it as a reveal prop every scene.
 - **Entry (rewrite lock):** She does **not** know who Kaito is or what he can do when she meets them. She is simply friendly — the kind of person a grieving household accepts without argument. Early chapters: write her as a real good neighbor. No evil wink, no "nothing else showed," no reader-tip that she is a plant.
 - **Arc (flow, not reveal dump):** Later she *witnesses* what Kaito's mouth can do and decides he needs help — protection, direction, someone who won't flinch. The more they see happen together, the more she steers him along the road he is already on, believing he is the one who will have to reshape the world. Not a villain reveal; a true believer formed by what she sees. Belief and steering grow from observation; never a cold open pitch on meet.
-- **Continuity (live):** Ch 4–12 as before (ordinary neighbor → witness → steer; Kuroishi; Ishibashi; Takamatsu split). **Ch 19–23:** Clean apartment via contact; Suzumori extraction; pine fringe / inland; argues Suzumori on throat-as-latch; does not stop *Go home*; carries Kaito west. Contact (unnamed) live through shed/lean-to. Steering harder. **Ch 29–33:** Remnant extract fails; witnesses A/B vent purge; stays through too-late + lethal wipe; **yells him to a stop and holds him** in the glass. Fallibility paid; still the brake.
+- **Continuity (live):** Ch 4–12 as before (ordinary neighbor → witness → steer; Kuroishi; Ishibashi; Takamatsu split). **Ch 19–23:** Clean apartment via contact; Suzumori extraction; pine fringe / inland; argues Suzumori on throat-as-latch; does not stop *Go home*; carries Kaito west. Contact (unnamed) live through shed/lean-to. Steering harder. **Ch 29–34:** Remnant extract fails; witnesses A/B vent purge; stays through wipe; **yells him to a stop and holds him**; Mei declines the road; hauls Kaito west to ditch. Fallibility paid; still the brake.
 - **Continuity (live, Part One detail):** Ch 4 — rice/towels entry; watches the rite from the sea wall. Ch 5 — laundry-line talk (Kaito quiet / Haiga cousin / shelves); genuine warmth. Ch 6 — pier: heatstroke-cousin act pulls Kaito out; "you looked like a boy about to throw away something he couldn't get back." Ch 7 — nosebleed count; the Kōgetsu checkpoint-sergeant story via her aunt's delivery drivers; warns about the Listener; "do it where the town can't see you. Or better, stop." Ch 8 — arrives at the gunshot with kit packed; invents the net-hook story in one breath; sits up with Sato. Ch 9 — at the lane mouth with a sack packed *days* in advance and a ridge-track route; "the man in the gray suit is why I know"; leaves with Kaito. Ch 11 — steers Kuroishi exit after the well Word ("that leaves a mark"); "I talk first." Ch 12 — works the squid stall, draws the no-Word-for-fare line; names offered once then stopped; on the Takamatsu bus kills the aunt story for city rules; steers off before Station Plaza; splits at East Yards (roof / day work). Camera dark with Kaito until Ch 19; her gap-weeks work (roof, contacts, Minato) surfaces there as status quo.
 - **Watch her cracks (writer-only):** Part One cracks (pre-packed sack, route knowledge, delivery-driver intel) can read as a sharp coast girl who hears things — not as Remnant recruitment. Spend contacts / reshape ideology in Vol 2+, after she has seen the Word work.
 - **Nature (later):** True believer once she has seen enough. Calm certainty. Not cartoon-evil; a wounded idealist who decides mercy is a luxury the powerless can't afford, and that Kaito's mouth is the tool that can change the map. Tied to anti-FDC / Remnant currents under the coast — shown late, not announced on meet.
 - **Voice on the page:** Early = warm, practical, lightly teasing. Later = quieter, level, devastating certainty. Do not start her on the cold register.
 - **Story role:** Becomes the permission structure beside Kaito's grief — only after the power has shown itself to her eyes — then steers that grief toward reshape.
+- **Status (live, end Ch 36):** In ditch with Kaito on H camera (hauled him back); heading to contact. Glass-coat talk unpaid on her mouth until K chapter.
 
 
 
@@ -343,7 +353,7 @@ Homeroom teacher, perpetually one deadline from collapse. Comic relief with a sp
 
 ### Kuroda Ren (黒田 連) — the Silent Stranger (working name; tweakable)
 
-**On-page so far (live):** Rail Loop (Ch 3 — phone screen; face forgotten by school stairs). Minato alley (Ch 18 — unpaid name; "Reshaped by whom?"; one-voice line; two silent coats). Boys do not know his name.
+**On-page so far (live):** Rail Loop (Ch 3 — phone screen; face forgotten by school stairs). Minato alley (Ch 18 — unpaid name; "Reshaped by whom?"; one-voice line; two silent coats). Mezzanine blink (Ch 30/33, Kaito). **Ch 36:** truck extract of H party + Katō already aboard; still unnamed on page; help, not harm tip. Boys do not know his name or FDC rank.
 
 **Camera moment (field, Ch 3):** A face that refuses to stick; watching-still on a train while the whole car softens around Kaito — he alone does not soften. Turns a phone screen toward them. Gone.
 
@@ -352,11 +362,13 @@ Homeroom teacher, perpetually one deadline from collapse. Comic relief with a sp
 - **Looks (disguise / field):** Mid-thirties to forties-seeming; plain dark coat too warm for the season; short unremarkable hair; face designed to be forgotten. Stillness is the only signature.
 - **Looks (true / later):** Same man without the coat — ordinary, warm enough to trust, easy to sit beside. The horror is the continuity, not a monster-face.
 - **Nature:** Patient. Evaluative. Speaks to ideals with real weight; never mocks them. Jolly when it serves. Grief under the laugh — not visible early.
-- **Agenda (LOCKED — supersedes "wants the throne for its own sake"):** Villain with a true wound. **Unwilling cause of the Seal** — Rewrite interfered with a world-reshape; modern world stuck; old living world (and his family) sealed out; he cannot forget. He will do **anything** to revert once Kaito/Haruki reach **Grade III (world-command)**. Until then: feed their ideals, help both **behind the screen**, push them through **Grade II (things/laws listen — e.g. stop a bullet)** as the bridge — do **not** tell them about the old world. Reveal as villain ~**Vol 5**. Full cosmology + grades: `old-world-seal.md`, `magic-kings-word.md`.
+- **Cover (LOCKED, future pay):** One of the highest **FDC commanders** — trucks, pickups, access. Cover only; **agenda is his own**, not FDC policy.
+- **Agenda (LOCKED — supersedes "wants the throne for its own sake"):** Villain with a true wound. **Unwilling cause of the Seal** — Rewrite interfered with a world-reshape; modern world stuck; old living world (and his family) sealed out; he cannot forget. He will do **anything** to revert once Kaito/Haruki reach **Grade III (world-command)**. Until then: feed their ideals, help both **behind the screen**, push them through **Grade II (things/laws listen — e.g. stop a bullet)** as the bridge — do **not** tell them about the old world. Harm intent / villain reveal ~**Vol 5**. Full cosmology + grades: `old-world-seal.md`, `magic-kings-word.md`.
 - **Power — LOCKED: Rewrite (改言 / Kaigon):** Edits a spoken sentence before it finishes landing. Cosmic cost = the Seal. See `magic-kings-word.md`.
+- **Cell of three (LOCKED):** Private agenda shared only with two underlings — **right hand Katō Hiroshi**, **left hand** (unnamed until crossroads). They move as FDC when useful; serve Kuroda’s project, not the desk. Ch 18’s two silent coats may map later; do not force early.
 - **Retinue (LIVE Ch 18):** two silent coated attendants — wait where the light gives up; fold in without greeting. Stay with him through the long game. Never speak on-page early. (May read Chinmoku-coded; they are his, not the Order's.)
-- **Meeting pattern:** Train (Ch 3) → Minato alley (Ch 18) → quiet off-screen shaping both roads (Vol 2–4) → Susuichi / later clear Rewrite demo → **Vol 5** old-world reveal + villain turn.
-- **Do not:** make him cartoon-evil early; dump Seal lore in his mouth before Vol 5; give him a clean moral victory just because his grief is real.
+- **Meeting pattern:** Train (Ch 3) → Minato alley (Ch 18) → mezzanine (Ch 30/33) → truck extract (Ch 36) → **crossroads FDC pickup** (abnormal material; ranks greeting; Katō/left-hand titled) → Susuichi / later Rewrite demo → **Vol 5** old-world reveal + villain turn.
+- **Do not:** make him cartoon-evil early; dump Seal lore / FDC-commander title in his mouth before the crossroads beat; tip Ch 36 truck as hostile; give him a clean moral victory just because his grief is real.
 
 
 

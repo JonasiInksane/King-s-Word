@@ -4,10 +4,10 @@
 
 ## Status
 
-- **Written (live): Part One–Vol 2 done. Vol 3 open — Ch 24–28 H → Ch 29–33 K (massacre of Habu's west response complete; Mira stop/hug).**
-- **Plan:** `lore/plot-outline.md` — **H 24–28 → K 29–34 → H 35+**.
-- **Next:** Ch 34 (K) — aftermath: Kaito cost-crashed; **Mei peels for C / Haruki+Riku** (service door → east/C unseal); Mira holds Kaito; then H 35+ opens on Mei joining them.
-- **Length note (Vol 3):** hard floor **1,500** / target **1,800–2,400**.
+- **Written (live): Part One–Vol 2 done. Vol 3 open — Ch 24–28 H → Ch 29–34 K → Ch 35–36 H (escape + truck; close on mutual see).**
+- **Plan:** `lore/plot-outline.md` — **H 24–28 → K 29–34 → H 35–36**.
+- **Next:** Post-Shizuhara road; Kaito+Mira contact aftermath (K camera can pick glass-coat anger); crossroads FDC ranks later; voiceprint unpaid.
+- **Length note (Vol 3):** hard floor **1,600** / target **1,800–2,400**.
 
 ## Craft-bar rewrite pass (started 2026-07-27)
 
@@ -56,6 +56,9 @@ Bringing Ch 1–23 to the bar in `.cursor/rules/story-writing.mdc` ("Craft bar")
 | 31 | The Stove | K | ~1,840 | Upper slit; A/B loaded toward annex; Mira extract dies; Kaito stays; medical stair; mouth shut |
 | 32 | Evening Review | K | ~2,220 | Purge gallery: **on-camera vent executions** + cleanup between groups; anger climb; Habu hears shout; sends pairs; close on bay doorway waiting |
 | 33 | Progressive Clearing | K | ~2,080 | Blind rage; **bullet stops mid-air**; lethal Word wipe bay→kitchen→stair→lobby; Habu mouthed shut (eyes awake); coat blink; lobby shift dead; **Mira yells stop + hugs him** — he stops |
+| 34 | Whole Building | K | ~1,990 | Aftermath in glass; Habu left mouthed alive; **Mei peels** with Habu key toward C; Mira hauls Kaito west to ditch; close: C lock going green, no H/Riku faces |
+| 35 | Unsealed | H | ~2,110 | C seal hangover; **Mei joins** with Habu key; Remnant explained; A/B kill-room truth; Riku volunteer wound detonates; escape party (H+Riku+Mei+Ōhashi+six); **Kurosawa named**; Word seed (willing use not yet) |
+| 36 | On Purpose | H | ~2,400 | Willing Word opens outer latch; **Kuroda truck** extract (help); **Katō aboard** unread; truck talk (Word bill / chase terms); close on mutual see with Kaito in ditch |
 
 ## POV structure (Part One)
 
@@ -63,17 +66,18 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 
 **Narration (locked 2026-07-24):** No frame, no listener, no "record/ledger" narrator voice, no reader address. Past tense through Ch 4's arrival at Sugi's door; present tense from Nagihama onward. Rare quiet hindsight only.
 
-## Cast state (end Ch 33 / west response wiped)
+## Cast state (end Ch 36 / Shizuhara escaped)
 
-- **Haruki:** C-wing sealed (Habu: C remains on hold). Off Kaito recognition. Does not know the wipe happened. Voiceprint on file. *Stop following me* untested.
-- **Kaito:** Watched A/B **vent-executed**; arrived too late. Blind rage → lethal wipe of Habu's bay/kitchen/stair/lobby response. **Stopped a bullet mid-air** (unnamed upgrade, brutal cost). Habu mouthed shut (eyes awake). Stopped only when Mira yelled and held him. Cost-crashed in her arms. Does not know Haruki/Riku in C. Medical/east still dark; C still sealed.
-- **Mira:** Stayed through purge + massacre; yelled him to a stop and held him. Fallibility fully paid; still the brake.
-- **Suzumori / Contact:** Ditch; extract failed message.
-- **Nakahara Riku:** C-wing; volunteer wound will detonate on H return when A/B truth lands.
-- **Serizawa Mei:** Guided purge gallery + mezzanine; witnessed lobby wipe; silent tears. **Next beat (Ch 34):** peels from Kaito/Mira toward sealed C — joins Haruki+Riku for escape party. Still no Amatsu dump.
-- **Colonel Habu:** Completed A/B inventory zero; confronted in glass; mouth shut by Word, not emptied; tea cooling; watched his lobby die; contingency speech paid. Survive/ambiguous into 34+.
-- **Ōhashi:** Off-camera C; notebook load-bearing.
-- **Kuroda:** Coat blink on mezzanine again (Ch 33); unnamed; tip unpaid.
+- **Haruki:** Willing Word paid; on Kuroda’s truck west with Riku/Mei/Ōhashi/six/**Katō**; recognized Minato coat (unnamed); mutual see with Kaito in ditch (close). Promised Riku talk-first before chase. Voiceprint unpaid. *Stop following me* untested.
+- **Kaito:** Off H camera after ditch pass; saw Haruki in coat-man’s truck (H camera). Glass-coat anger / almost-Word unpaid on-page — available next K chapter. With Mira toward contact.
+- **Mira:** With Kaito toward contact (hauled him in ditch on H camera).
+- **Suzumori / Contact:** Ahead on Mira’s road; waiting.
+- **Nakahara Riku:** Same-mouth line spoken; on truck; saw Kaito in ditch.
+- **Serizawa Mei:** On truck; Habu key failed outer latch. No Amatsu dump.
+- **Colonel Habu:** Still mouthed in glass (off-camera); alive. Survive/ambiguous.
+- **Ōhashi:** On truck with notebook; Katō found alive aboard.
+- **Katō Hiroshi:** Aboard truck; unread as Kuroda’s right hand (bible for later).
+- **Kuroda:** Truck extract paid (help); still unnamed; FDC rank / agenda cell unpaid until crossroads.
 - **Ryn:** Dead (Ch 3). **Sugi:** Nagihama, empty shelf. **Jun:** Dead. **Hanae:** has the lie. **Sato:** stays and stamps.
 - **Kanzaki:** Off-page since roof. **Mika / Tōru:** fates open.
 
@@ -89,26 +93,29 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 8. Kaito's untested self-cost (Ch 7) — refuses to Word himself; Backwash door open.
 9. Haruki's despair thread — Ch 17; Kuroda's "Reshaped by whom?" (Ch 18) — "I don't know yet." Cosmology ~Vol 5.
 10. Mika + Tōru — family fates deliberately open.
-11. **Twist #5 — first payment made (Ch 24):** *Go home* broken on-page. *Stop following me* still untested. Full "same mouth" admission moves to **H return after Ch 34** (was ~31; K block ate that slot). Seed trail unchanged (Tanabe / corporal / Ōhashi).
+11. **Twist #5 — first payment made (Ch 24):** *Go home* broken on-page. *Stop following me* still untested. **Same-mouth seed Ch 35; willing Word + Riku same-mouth PAID Ch 36.**
 12. Labor registration — detonated Ch 17. Economy still hostile.
 13. Gorō — taken / possibly fled; do not kill off-page.
 14. Hospital quiet-floors rescue — paid; near-miss + collision paid Ch 21–23.
 15. Kai / roof shape (Ch 3) — symptoms only until Vol 5.
 16. Keep vs revert (Vol 5) — ending path still open.
 17. Ryn latent (Vol 5+) — revert bait not proof; no early resurrection.
-18. Riku saw Kaito's mouth work (Ch 23) — pressed Ch 24, got Haruki's honest partial account (weighted voice, no system, "a smaller version might live in mine" NOT yet said aloud). Carrier secret still mostly held.
+18. Riku saw Kaito's mouth work (Ch 23); Ch 35 heard Mei name Kurosawa — watching Haruki. Carrier secret still not spoken aloud by Haruki ("smaller version in mine" unpaid).
 19. **Haruki's voiceprint on file at Shizuhara (Ch 25)** — the booth listens for something; ties to Habu's anomalous-vocal-signature contingency. Do not explain on-page until it detonates.
-20. **Riku's *volunteer* wound — PAID Ch 26** (forms *No* was seed). Boy's name still unspoken. Mezzanine may offer the band again.
-21. **Night loading / Katō-on-truck — PARKED for Haruki return (after Ch 34).** Until then: Katō = empty bunk + review cover on H side. A/B disposal now live on K camera (annex).
-22. **Ōhashi's notebook** — visible; Katō struck; load-bearing for zeroing aftermath / H return.
-23. **Mei** — H Ch 27–28; K Ch 29–33 (pull target → purge guide → wipe witness). **Ch 34 lock: peels to C, joins Haruki+Riku** (escape party). No heir dump.
+20. **Riku's *volunteer* wound — PAID Ch 26**; **detonated Ch 35** on A/B kill-room truth. Boy's name still unspoken.
+21. **Katō-on-truck — PAID Ch 36** (aboard Kuroda truck; bunk recognition only). Right-hand / zeroing / FDC ranks → **later crossroads pickup** (abnormal material).
+22. **Ōhashi's notebook** — on truck; Katō struck line unresolved.
+23. **Mei** — escaped with H party Ch 36. No heir dump.
+23b. **Remnant** — explained Ch 35; Kaito/Mira still on that road separately.
+23c. **Haruki willing Word — PAID Ch 36.**
 24. **West fence breach (Ch 28–29)** — paid; K was the company.
 25. **Mira clean extract — DEAD (Ch 31).** Contact aborted to ditch; Mira stayed; stove line spoken on-page by her.
 26. **A/B inventory zero — COMPLETE Ch 32** (vent purge on-camera; all A/B dead when Kaito arrives). C/east sealed, not zeroed.
-27. **Kuroda mezzanine coat** — Ch 30 + Ch 33 blink; unnamed; tip unpaid until H end-volume.
+27. **Kuroda truck extract — PAID Ch 36** (help; unnamed). Mezzanine coat linked for Kaito. FDC-commander cover + cell of three unpaid until crossroads.
 28. **Power jump (Ch 33)** — bullet stopped mid-air; unnamed Grade II flavor; savage cost; do not label on-page.
-29. **Massacre of Habu's west response — COMPLETE Ch 33** (lethal Words through bay/kitchen/stair/lobby; Mira stop+hug). Building not empty: C/east sealed; medical dark; Habu alive mouthed. Ch 34 = aftermath / cost + **Mei → C / H+Riku**, not a second wipe.
+29. **Massacre — COMPLETE Ch 33**; Mei peel Ch 34; Mei join Ch 35; **escape + truck + Kaito pass Ch 36**. Voiceprint booth still unpaid.
+30. **Boys mutual see Ch 36 close** — H on Kuroda truck; K+Mira in ditch. No reunion talk. K interior (coat anger) unpaid.
 
 ## Craft flags (carry forward)
 
-- Target band 1,800–2,400 (**floor 1,500** from Vol 3 on). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV: H 24–28 (5 flex) → **K 29–34** → H 35+. No recap buttons, no bulletin speech. No filing/ledger narrator voice, no arithmetic/metaphor stacks. Present tense. Clean dialogue (questions take `?`). **No Seal dump before Vol 5**.
+- Target band 1,800–2,400 (**floor 1,600** from Vol 3 on). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV: H 24–28 → K 29–34 → H 35–36 (**done**; close on mutual see, no K cut). No recap buttons, no bulletin speech. No filing/ledger narrator voice, no arithmetic/metaphor stacks. Present tense. Clean dialogue (questions take `?`). **No Seal dump before Vol 5**.

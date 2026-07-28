@@ -162,22 +162,19 @@ Never close a beat by restating what just happened. Especially before `---`: no 
 
 ---
 
-## HARD — No inventory talk / no bulletin speech
+## HARD — Normal, to-the-point dialogue (no bulletin / no cryptic debrief)
 
-No telegram / checklist speech in dialogue **or** narration. Blunt still uses full sentences.
+Dialogue is how people talk under pressure: **full sentences, plain words, one clear meaning.** No telegram stubs, no coded road poetry, no status-stamp debriefs.
 
-- Bad: "Arcade. Gone. Girl paid." / "School roof. Midnight. Cake." / "Cousins. Coast. Looking for evening work."
-- Bad (excuse/answer stacks in dialogue): "He's shy. Heat. Ridge walk." → Good: "He's shy, and half heat-sick from walking the ridge."
-- Bad (**debrief / report stacks** — the leak that keeps returning): a character summarizing what just happened as noun chips or status stamps.
-  - Bad: "Kitchen court after bell. Mei said it was towels. Mezzanine will get the note."
-  - Bad: "Kids with tags and armbands. Katō climbed on. They took his cup. Canvas sides."
-  - Bad: "Towel overrun. East shorted soap."
-  - Good: "The yard guard stopped us and wrote our names for being in the kitchen court after second bell."
-  - Good: "They loaded kids — some with tags, some with armbands. Katō climbed on with them."
-- Bad (person-description stacks in narration): "Scraped voice. Dust. A boy who does not smile." / "Middle-aged. Hair pinned flat. Apron the color of old paper." → fold into one flowing sentence with commas/dashes.
-- Good: "They pointed at the neon and walked." / "He had that gray Haiga dust on his shoes." / "We're cousins from the coast. We're looking for evening work."
+- **Default:** subject + verb + what happened / what we do next. A stranger in the room should understand the line without a lore key.
+- Bad (telegram): "Arcade. Gone. Girl paid." / "Tags. Pine-road. Notebook man." / "Ditch. Contact. First light."
+- Bad (cryptic debrief): "The extract died in the annex light." / "West answer is still on the floor." / "East invents a lock I cannot open twice." / "a mouth that makes people obey when he puts weight under a sentence."
+- Bad (excuse/answer stacks): "He's shy. Heat. Ridge walk." → Good: "He's shy, and half heat-sick from walking the ridge."
+- Bad (**noun-chip report stacks**): "Kitchen court after bell. Mei said it was towels." / "Kids with tags and armbands. Katō climbed on."
+- Good: "They came through the west fence to take me out of the east wing." / "Get up. The door is open and it will not stay that way." / "When he tells someone to do something, they do it."
+- Bad (person-description stacks in narration): "Scraped voice. Dust. A boy who does not smile." → fold into one flowing sentence.
 - Panic / orders / radio clips only when earned — not default NPC or POV voice.
-- **Self-check before shipping dialogue:** if you can put a period after every two–four words and the line still "works," it is a bulletin — rewrite as spoken sentences with subjects and verbs.
+- **Self-check before shipping dialogue:** (1) If you can put a period after every two–four words and the line still "works," it is a bulletin — rewrite. (2) If a first-time reader needs a glossary for the sentence, it is too cryptic — say the plain fact.
 
 ### HARD — No "soft" procedure jargon / no soft-voice arithmetic
 
