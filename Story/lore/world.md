@@ -6,7 +6,7 @@ A modern nation that looks and feels like present-day Japan — trains, konbini,
 
 **Reference feeling:** Chainsaw Man's Japan — grimy, vibrant, funny, and suddenly brutal. Neon and blood. Ordinary and cosmic.
 
-**Writer note (Vol 5+):** This "modern Japan" texture is life **inside the Seal** — a rewritten, smaller world. The prior world was larger (beasts, older laws). Do not name that on-page early. Ontology: `old-world-seal.md`.
+**Writer note (paid Ch 47):** This "modern Japan" texture is life **inside the Seal** — a rewritten, smaller world. The prior world was larger (beasts, older laws) — glimpsed on-page in the shared vision at Ch 47. Ontology: `old-world-seal.md`.
 
 ---
 
@@ -81,9 +81,11 @@ Large modern FDC inland detention building. Cover: *youth relocation / correctio
 
 ---
 
-## Ashiro (葦路) — "Reed Road"
+## Ashiro (葦路) — "Reed Road" / Reed City
 
-Reed-road market town inland of Shizuhara service roads. Open stalls, reed canal, boarding rooms. Breath and resupply — cannot hold long.
+Large inland canal city west of Shizuhara service roads — not a one-street market town. Canal wards, night markets, boarding blocks, day labor, cheap amusements, elevated ring light. **Few FDC** early — free enough for multi-chapter leisure. Can hold a breath stretch; does not stay free forever (abnormal materiel / FDC later). Live drop: Ch 37 (H party); Kaito road aims here Ch 38.
+
+**Post–Ch 47 state:** The reed pond and the east bank/bridge area are gone — leveled in the materiel overload that took Kaito and Kuroda with it. Half of the skyline east of the bridge is ash and rubble. The rest of the city (canal wards, boarding blocks, west side) is presumably intact but now under real FDC attention for the first time — the "few FDC" breathing room this section describes is over as of the chapter close. Casualty scope and FDC response are unstated; do not quantify or stage a cleanup/rescue scene until an aftermath chapter earns it.
 
 ## Susuichi (煤市) — "Soot Market"
 
@@ -100,4 +102,4 @@ Pine-shadow Remnant billet. Elder table, Mira's equations, Suzumori's quiet. Hol
 - Smartphones; government war-feed app (**J-Alert / 警**) cannot be uninstalled — hated two-tone chime.
 - Trains stay polite and on time during drills.
 - Konbini, cram schools, arcades, karaoke fully functional. Normalcy as denial.
-- **Kai / calamity-things:** News: "Anomalous Materiel"; people: **kai (怪)**. Glimpsed early (Ch 3 roof shape). **LOCKED (writer):** bleed-through from the sealed-out old world — beasts / laws seeking what was lost. Word-immune under people-command. Full reveal ~Vol 5. See `old-world-seal.md`, `magic-kings-word.md`.
+- **Kai / calamity-things:** News: "Anomalous Materiel"; people: **kai (怪)**. Glimpsed early (Ch 3 roof shape; shared vision Ch 47). **LOCKED (writer):** bleed-through from the sealed-out old world — beasts / laws seeking what was lost. Word-immune under people-command. Mechanical explanation still writer-only. See `old-world-seal.md`, `magic-kings-word.md`.

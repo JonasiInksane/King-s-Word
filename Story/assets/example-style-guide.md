@@ -228,7 +228,7 @@ Our locked constraints (see `.cursor/rules/story-writing.mdc` and `README.md`): 
 5. **Hand-off discipline.** Within a POV block, chapter N+1 opens on the state N created, no re-derivation. Across a POV switch, open on the new camera's own want within one paragraph (voice test), and let the switch answer a question the old camera couldn't.
 6. **Dramatic irony between cameras.** Our Haruki/Kaito near-misses should exploit the ch 5/ch 6 trick: same event, opposite meaning. Haruki reads a scene as evidence; the reader knows from Kaito's block what it actually was. This is cheap tension we already own — use it at every crossing.
 7. **Load-bearing detail.** One detail per NPC, and prefer details that get used (a chalk mark, a limp, a dyed thumb). Cut inventory description.
-8. **Withholding in installments.** The Word's rules, the birthmark, Ryn — pay out in earned scene-installments like Tristan's List. Never a lecture until Vol 5 allows one.
+8. **Withholding in installments.** The Word's rules, the birthmark, Ryn — pay out in earned scene-installments like Tristan's List. The Ch 47 monologue is the one earned exception to "never a lecture" — everything else still pays out in scene, not speech.
 9. **Fight grammar.** Geography → moves with cost → power used per magic rules with cost on-page → aftermath booking. Ch 23's collision already follows this; keep it the template.
 10. **Self-correction beats.** Let the boys catch themselves mid-thought and revise ("I almost say his name again" → crush). It humanizes without mood-stacking.
 

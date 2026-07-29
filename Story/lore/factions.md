@@ -1,9 +1,9 @@
 # Factions & Politics — Why the War Rages
 
 ## The short version
-A modern federation (home) is losing a war of attrition to an eastern power. Underneath: a secret order and a scattered royal remnant racing over the King's Word. **Deeper still (Vol 5):** the modern world is a **Seal** over a larger living world; *kai* are bleed-through; Kuroda is the unwilling cause of the Seal and the end-boss who wants reversion. See `old-world-seal.md`.
+A modern federation (home) is losing a war of attrition to an eastern power. Underneath: a secret order and a scattered royal remnant racing over the King's Word. **Deeper (paid Ch 47):** the modern world is a **Seal** over a larger living world; *kai* are bleed-through; Kuroda is the unwilling cause of the Seal and the end-boss who wants reversion. See `old-world-seal.md`.
 
-Surface politics stay true for Vol 1–4 prose. Do not dump Seal cosmology early.
+Surface politics stay true through Ch 46 prose. Seal cosmology (cause + intent) is paid on-page starting Ch 47 — Vol 4 is the final volume.
 
 ---
 
@@ -27,7 +27,7 @@ Surface politics stay true for Vol 1–4 prose. Do not dump Seal cosmology early
 
 **What they want (surface):** Territory and resources.
 
-**Deeper (Vol 5 — supersedes "Pact fields monsters as weapons"):** The war is partly **seal pressure**. Kai are bleed-through from the sealed-out old world, drawn toward Voice awakenings. Meikai may be herding / following / exploiting that pressure without fully owning its origin — or may know more than the Federation. Keep open which leaders understand the Seal; early prose treats them as the eastern enemy on the news.
+**Deeper (writer-only — supersedes "Pact fields monsters as weapons"):** The war is partly **seal pressure**. Kai are bleed-through from the sealed-out old world, drawn toward Voice awakenings. Meikai may be herding / following / exploiting that pressure without fully owning its origin — or may know more than the Federation. Keep open which leaders understand the Seal; prose treats them as the eastern enemy on the news until a scene earns more.
 
 **Kai:** Bleed-through beasts / old-world laws. Word-immune under people-command. Cities "change" where they linger. Full ontology: `old-world-seal.md`.
 
@@ -42,11 +42,11 @@ Surface politics stay true for Vol 1–4 prose. Do not dump Seal cosmology early
 
 **Creed:** *"A voice that cannot be disobeyed cannot be allowed to speak."*
 
-**Deeper (Vol 5):** They are half-right. Silence is also a **lock on the Seal**. An unchecked world-command Voice could reopen the old world — or break this one. Morally gray: protecting the sealed world's living people *and* burying the truth of what was lost.
+**Deeper (writer-only — still unpaid on-page):** They are half-right. Silence is also a **lock on the Seal**. An unchecked world-command Voice could reopen the old world — or break this one. Morally gray: protecting the sealed world's living people *and* burying the truth of what was lost.
 
 **Story role:** Thematic antagonist — Silence versus the Voice. Come for the boys once the awakening is undeniable.
 
-**Note — Kuroda Ren:** May wear Chinmoku-adjacent stillness (phone/sign, hunt posture). Holds high **FDC commander** cover with a private cell (Katō right hand + left hand) — agenda **his own**, not FDC policy. He is **not** the Federation’s loyal dog. See below / `characters.md` / `old-world-seal.md`.
+**Note — Kuroda Ren:** May wear Chinmoku-adjacent stillness (phone/sign, hunt posture). Held high **FDC commander** cover with a private cell — **Ide + Katō, read as more than deniable companions** — agenda **his own**, not FDC policy. He is **not** the Federation's loyal dog. Cause + agenda paid on-page Ch 47; **vanished with Kaito at the chapter's close** — cell now leaderless. See `characters.md` / `old-world-seal.md`.
 
 ---
 
@@ -57,20 +57,21 @@ Surface politics stay true for Vol 1–4 prose. Do not dump Seal cosmology early
 
 **The hidden link:** Two *commoner* boys carry the Word because of Remnant acts during the purge (split inheritance — `plot-outline.md`).
 
-**Deeper (Vol 5):** Some cells want the old living world back; some want the king's tame sealed world forever. Mira's later ideology can lean "reshape" without knowing she's walking Kuroda's preferred road.
+**Deeper (writer-only):** Some cells want the old living world back; some want the king's tame sealed world forever. Mira's later ideology can lean "reshape" without knowing she's walking Kuroda's preferred road.
 
 **Story role:** Wildcard. Identity twist. Later, a factional mirror of the keep-vs-revert war.
 
 ---
 
-## 5. Kuroda Ren + cell of three — SECRET END-BOSS (~Vol 5)
+## 5. Kuroda Ren + cell — SECRET END-BOSS (reveal PAID Ch 47, then vanished)
 
-**Cover:** High FDC commander rank (trucks / pickups / access). **Agenda ≠ FDC** — private cell only (right hand Katō; left hand; ranks greeting at later crossroads pickup on abnormal material).
-Not a national faction. A man, a Rewrite, and two silent companions.
+**Cover:** High FDC commander rank (trucks / pickups / access). **Agenda ≠ FDC** — private cell only (Ide + Katō, read as more than deniable companions).
+Not a national faction. A man, a named Rewrite, and a cell left leaderless as of Ch 47.
 
-- **Cause of the Seal** (unwilling): interfered with a world-reshape; edit stuck; family/home on the wrong side of memory.
-- **Want:** Revert the world. Anything necessary once the boys reach Grade III (world-command). Farms Grade II (things/laws) as the bridge.
-- **Method (Vol 2–4):** Feed ideals; help both boys behind the screen; shape power; do not explain the old world; do not look like the villain yet.
+- **Cause of the Seal** (unwilling): interfered with a world-reshape; edit stuck; family/home on the wrong side of memory. Stated on-page Ch 47.
+- **Want:** Revert the world. Anything necessary as the boys climb toward Grade III (world-command). Farms Grade II (things/laws) as the bridge — deliberately kept both boys angry because rage grows the Word fastest. Stated on-page Ch 47.
+- **Method (Ch 3–46):** Fed ideals; helped both boys behind the screen; shaped power; did not explain the old world; did not look like the villain — until Ch 47, when he reveals himself loud and proud instead.
+- **Ch 47 close:** Rewrites Kaito's Word mid-landing ("Kill yourself" → "Kill yourselves", same structure; FDC dead); delivers the full monologue; Haruki *Stop* vs Kaito *Die* clash — **Kuroda vanishes along with Kaito and Mei**, half of Ashiro's east bank destroyed. Fate unconfirmed; Ide + Katō left running whatever is left of the cell.
 - Full lock: `old-world-seal.md`, `characters.md`.
 
 ---
@@ -83,7 +84,7 @@ Dark-market ethics in **Susuichi (煤市)**: debts, silence-for-hire, thin law, 
 LAYER 1 (visible):   Federation  vs  Meikai / kai pressure     — the war on the news
 LAYER 2 (hidden):    Chinmoku (seal)  vs  Amatsu Remnant       — who owns Voices
 LAYER 3 (personal):  Haruki  vs  Kaito                         — which love / which world
-LAYER 4 (Vol 5):     Keep the Seal  vs  Revert the old world   — Kuroda forces the question
+LAYER 4 (live, Ch 47+):     Keep the Seal  vs  Revert the old world   — Kuroda forced the question, then vanished before either boy could answer it
 (+ local Susuichi code in Vol 4 — refuses to be anyone’s clean property)
 ```
 Every faction's real objective eventually converges on the same two boys. The war the world is fighting and the war for the boys' souls are the same war — the characters just don't know it yet.

@@ -29,9 +29,9 @@ Part One (Ch 1–10) is live; Volume 2 onward is planned below and stays flexibl
 **Known long engines (keep):**
 
 - **A-plot:** Kaito's descent (grief + vow; Mira arrives friendly and only later recruits as she witnesses his power).
-- **Secret B-plot / end-boss (~Vol 5):** **Kuroda Ren** — innate **Rewrite (改言)**; unwilling cause of the **Seal**; feeds both boys' ideals/powers behind the screen; pushes **Grade I → II → III** (people → things/laws → world); reveals as villain at Grade III; wants **reversion**. Canon: `old-world-seal.md`. Edge meetings (Ch 3, Ch 18 live) → quiet shaping → Vol 5 reveal.
-- **Word grades:** I people (live) → II things/laws mid-series (bullet *"Stop"*) → III world ~Vol 5. See `magic-kings-word.md`.
-- **Cosmology (Vol 5):** Keep the sealed world vs revert the old world (beasts, wider laws). Who decides = who can make the world listen — theme refuses a clean answer. Hint only before Vol 5.
+- **Secret B-plot / end-boss (reveal + disappearance PAID Ch 47):** **Kuroda Ren** — innate **Rewrite (改言)**, named on-page; unwilling cause of the **Seal**; fed both boys' ideals/powers behind the screen through Ch 46; pushes **Grade I → II → III** (people → things/laws → world); reveals as villain loud and proud, states his want (reversion) and his method (provoking their rage on purpose) on-page at Ch 47 — then **vanishes along with Kaito** when the provocation overloads past his control. Canon: `old-world-seal.md`. Edge meetings (Ch 3, Ch 18) → quiet shaping (Ch 19–46) → Ch 47 reveal and catastrophic break.
+- **Word grades:** I people (live) → II things/laws mid-series (bullet *"Stop"*; Rewrite demo Ch 47) → III world, endgame — the Ch 47 overload is the first on-page taste of what that scale costs.
+- **Cosmology (live, Ch 47+):** Keep the sealed world vs revert the old world (beasts, wider laws) — Kuroda's side stated on-page; the boys have not answered, and now Haruki has to carry that question alone, with Kaito and Kuroda both gone. Who decides = who can make the world listen — theme refuses a clean answer.
 - **Geography seeds** (from `world.md`, not chapter locks): Nagihama → inland road → Takamatsu → Shizuhara → Ashiro / Susuichi / Kurohata as needed.
 
 ### Clean-rewrite pass (2026-07-24) — current live plan
@@ -60,7 +60,7 @@ POV: Haruki anchor in Kōgetsu; hinge-switches in Nagihama (both boys share the 
 
 Engine: chase inland → Takamatsu lives built over days → hunter pressure → Kuroda resolve moment → collision → **Kaito turns the Word on Haruki** (volume close). Boys still ignorant of the Word's name. Mira's contacts surface gradually. Beats loose until written.
 
-**Block structure (locked):** Kaito's camera goes dark after Ch 12 (East Yards split). Haruki Ch 13–18 builds city life while the trail is cold; Ch 18 closes on **next-day** Word-shape rumor of the hospital quiet-floors break-in (same Haruki-evening as Kuroda's "whom?"). Kaito Ch 19–20 = **the break-in day itself** (weeks after Ch 12): clean apartment status quo, Suzumori extraction, Word-mark that feeds Ch 18's rumor. Dual feed into Vol 5: Kuroda asks Haruki *whom* while Remnant already uses Kaito's mouth as a door-key. **Ch 21–23 = Kaito block to volume close** — Haruki stays off-camera after Ch 18 until he walks into Kaito's frame at the collision; near-miss is felt on Kaito's camera only; no Haruki POV until Vol 3.
+**Block structure (locked):** Kaito's camera goes dark after Ch 12 (East Yards split). Haruki Ch 13–18 builds city life while the trail is cold; Ch 18 closes on **next-day** Word-shape rumor of the hospital quiet-floors break-in (same Haruki-evening as Kuroda's "whom?"). Kaito Ch 19–20 = **the break-in day itself** (weeks after Ch 12): clean apartment status quo, Suzumori extraction, Word-mark that feeds Ch 18's rumor. Dual feed into the endgame reveal (paid Ch 47): Kuroda asks Haruki *whom* while Remnant already uses Kaito's mouth as a door-key. **Ch 21–23 = Kaito block to volume close** — Haruki stays off-camera after Ch 18 until he walks into Kaito's frame at the collision; near-miss is felt on Kaito's camera only; no Haruki POV until Vol 3.
 
 | Ch | Working shape | POV | Beat |
 |----|-------|-----|------|
@@ -80,7 +80,7 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 
 ### Volume 3 — "Shizuhara" (in progress; K block through 34)
 
-**Block rhythm:** H 24–28 → **K 29–34** → **H 35–36** (Mei join + Remnant/A/B → escape → willing H Word + same mouth; Kuroda truck + Katō aboard unread; close on mutual see).
+**Block rhythm:** H 24–28 → **K 29–34** → **H 35–37** (escape → Ashiro breath) → **K 38–43** (road / Mira past / soft Ashiro / market meet) → **H 44–47** (private reunion → group → festival → materiel close).
 
 **Zeroing lock:** A/B volunteers into inner annex (not every child). C / east / Mei survive for H escape party. Massacre = Habu's west response wiped Ch 33; Mira brakes him; Ch 34 is cost/aftermath, not a second wipe.
 
@@ -101,7 +101,18 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 34 | Whole Building | K | Aftermath; Habu left mouthed alive; Mei peels to C with his key; K+Mira west to ditch; C lock opens (no H faces) |
 | 35 | Unsealed | H | Mei joins; Remnant explained; A/B truth; Riku wound detonates; escape starts; Kurosawa named; Word seeded |
 | 36 | On Purpose | H | Willing Word; Kuroda truck (help) + Katō aboard unread; close on mutual see with Kaito in ditch |
-| 37+ | Road / crossroads | — | Contact aftermath; later **FDC crossroads pickup** (abnormal material) — Kuroda high commander cover, Katō right hand + left hand ranks greeting; zeroing-eyes pay; agenda ≠ FDC |
+| 37 | Reed City | H | Ashiro arrival; kind drop; Katō stays with coat; breath — escape arc close |
+| 38 | On Your Feet | K | Ditch despair; Suzumori+contact; Ashiro by faith |
+| 39 | What She Packed | K | Mira backstory + Suzumori; despair unhealed; Ashiro arrival |
+| 40 | Cash Room | K | Soft settle; ordinary errands; coat dread without hunt mania |
+| 41 | Lantern Paper | K | Feel-good Ashiro; festival planted; still raw, breathing |
+| 42 | Taking Time | K | Quiet stretch; almost Words, chooses not to |
+| 43 | Stall Turn | K | Market meet: seller is Haruki; secret from others |
+| 44 | Without Them | H | Private reunion; anger/history; decide to bring others in |
+| 45 | Same Table | H | Group converge; real talk; agree to festival night |
+| 46 | Pond Night | H | Firework festival; almost ordinary |
+| 47 | Above the Water | H | Materiel; shared old-king vision; Mira eyewitness; Suzu “He is the—” → Ide Commander; Ide/Katō revealed as knowing cell; roof-order callback; Rewrite named + demoed; full Kuroda villain monologue (Seal cause, revert want, boys as door); Reshaped answered — Aoyama, final-volume close |
+| 48+ | Endgame (final volume continues) | — | Keep-vs-revert fight; Remnant accounting; Mei heir; Ryn revert-bait; no new volume |
 
 ---
 
@@ -110,10 +121,10 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 1. **The calamity / bleed is drawn to an awakening, not random.** Seed in prologue (timing; Kanzaki's watch). Payoff: seal flexes toward Voices (`old-world-seal.md`).
 2. **The military hunts word-bearers; the war is partly a dragnet / seal pressure.** Seed: FDC, Kanzaki, kai on the horizon.
 3. **Two commoner boys share an extinct royal power.** Seed: matching birthmark. Payoff: split inheritance / Amatsu — possible key to world-command.
-4. **Silence hunting the Voice is not purely villainous.** Chinmoku half-right — seal-keepers as well as hunters (Vol 5).
+4. **Silence hunting the Voice is not purely villainous.** Chinmoku half-right — seal-keepers as well as hunters (still writer-only; unpaid on-page).
 5. **Haruki's "gentle" Word is not safe — it's just slower.** Seed: people agree with him.
-6. **Reshaped by whom?** Kuroda (Ch 18) — series thesis. Cosmology + moral war pay ~Vol 5. Do not answer cheaply.
-7. **Kuroda caused the Seal (unwilling) and will force reversion.** Seed: kindness, ideals talk, two coats. Reveal when powers mature — not when he first looks strange.
+6. **Reshaped by whom?** Kuroda (Ch 18) — series thesis. Answered in substance on-page Ch 47 (a king, and Kuroda finishing what he started) — but the exchange never closes clean; the chapter ends on the explosion instead. Moral-war fallout still live.
+7. **Kuroda caused the Seal (unwilling) and will force reversion.** Seed: kindness, ideals talk, two coats. Paid Ch 47 — cause, want, and boys-as-door all stated on-page, then Kuroda vanishes along with Kaito before either boy can answer him.
 
 ---
 
@@ -123,10 +134,9 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 |-----|--------------|-------------------|
 | 2 | The Question | Live plan above — clash; "Go home."; Kuroda question planted |
 | 3 | Shizuhara / detention | Hunter pressure; found-family cost; still no Seal dump |
-| 4 | Road / Susuichi | Mira contacts; Remnant; Kuroda quiet help continues; kai pressure rises |
-| 5 | The Seal / Whom | Old world truth; Kuroda villain reveal; keep vs revert; who decides; **Kaito's revert lean baited by possible Ryn return** (not proven cheap) |
+| 4 | Ashiro (FINAL VOLUME) | K soft days; secret market reunion; group talk; festival; materiel + real shared vision; Kuroda reveal (loud, proud, self-declared); Rewrite named + demoed; full villain monologue; catastrophic overload — **Kaito + Kuroda both vanish, half of Ashiro's east bank destroyed** (Ch 47) — story continues past Ch 47 in this same volume, no Vol 5, now Haruki-solo until Kaito's fate is earned |
 
-Hint discipline: symptoms every volume; **names and lectures only in Vol 5.**
+Hint discipline: symptoms Ch 1–46; **cause, want, and boys-as-door named and monologued at Ch 47, then the chapter breaks the board — Kaito and Kuroda both gone.** Remaining threads (keep vs revert, Remnant accounting, Mei heir, Ryn revert-bait, what actually happened to the two of them) pay out in the final volume's closing chapters — not a new book.
 
 ---
 
@@ -136,14 +146,15 @@ Hint discipline: symptoms every volume; **names and lectures only in Vol 5.**
 - Casual *let* / imperatives before the roof so the fatal line is the same language weaponized.
 - Soft fork before hard fork.
 - Boys ignorant of the *name* into early Part One; reader one step ahead.
-- No old-world / Seal / world-command dump before Vol 5.
+- Old-world / Seal / world-command cause + intent paid on-page at Ch 47 (final volume) — no further gate.
 
 ---
 
 ## Open questions
 
-- Volume chapter counts / titles after Vol 2
-- Guest POV slate per volume
-- Latent Ryn thread — **cracked open for Vol 5+:** unsealing / world-command as possible path to bring her back (bait for Kaito's revert; may be true, partial, or a lie). Not mid-series resurrection.
-- Exact beat of Kuroda's original Rewrite (who spoke the world-sentence; what word he changed) — lock when writing Vol 5
-- Ending path: keep / revert / third way (stabilize bleed) — prefer forced onto the boys, not Kuroda's clean win; Ryn-bait must not make revert morally free
+- Chapter counts / titles for the final volume's remaining chapters (48+) — opens Haruki-solo, no Kaito camera until his fate is earned
+- Guest POV slate for the endgame stretch
+- What actually happened to Kaito and Kuroda — dead, sealed away, thrown into the pre-Seal world glimpsed in the shared vision, or something else. Do not answer this quickly or cheaply.
+- Latent Ryn thread — **live now, sharpened post-Ch 47:** Kuroda owns her death as the tool that woke Kaito; Kaito answers with lethal rage. Unsealing / world-command as possible path to bring her back (bait for Kaito's revert; may be true, partial, or a lie). Not mid-series resurrection — earn it in a real scene.
+- Exact beat of Kuroda's original Rewrite (who spoke the world-sentence; what word he changed) — Ch 47 paid the cause and the want; the precise original sentence is still open, lock when a later chapter dramatizes it
+- Ending path: keep / revert / third way (stabilize bleed) — prefer forced onto the boys, not Kuroda's clean win; Ryn-bait must not make revert morally free; with Kaito and Kuroda both off the board, Haruki's path to this question has to be rebuilt, not copied from the pre-Ch-47 plan

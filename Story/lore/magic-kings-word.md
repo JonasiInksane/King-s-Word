@@ -8,7 +8,7 @@ The **Ō no Kotodama** — the *King's Word* — is the apex strain. A royal blo
 **Three grades (locked — see `old-world-seal.md`):**
 - **I — People-command (live now):** A direct command that another person **hears and understands** — body obeys. What the boys have; what FDC hunts.
 - **II — Thing-command (mid volumes, sooner than III):** Inanimate matter and local physical law begin to listen — doors, weapons, **bullets**, falling stone. *"Stop"* aimed at a round can freeze it mid-air (gravity/momentum overruled). Bridge grade. Brutal Backwash. Not cosmology yet.
-- **III — World-command (Vol 5+):** A worthy / matured Voice — **everything** listens (reality's shape, Seal, kai-relations). How the sealed world was made / can be unmade. Do not teach on-page early.
+- **III — World-command (endgame):** A worthy / matured Voice — **everything** listens (reality's shape, Seal, kai-relations). How the sealed world was made / can be unmade. Cause + intent paid Ch 47; grade labels themselves still writer-only.
 
 Grade I arc still holds: early = **grammar overriding will**; growing = **will overriding will** (Rule 2). Grades = *what can hear*; Intent = *how the wish lands*. Do not skip II.
 
@@ -21,7 +21,7 @@ Grade I arc still holds: early = **grammar overriding will**; growing = **will o
 1b. **What can hear — by grade.**
    - **Grade I (live now):** Living minds only. Objects never obey. "Drop it" commands the *holder*; "open" does nothing to a padlock — find the watchman with the key. This is the horror in miniature: no workaround that isn't a person.
    - **Grade II (mid volumes):** Inanimate matter + local law listen. The Word no longer needs a mind that "understands" language — the carrier's spoken command binds the *thing* / the *motion*. Signature: *"Stop"* at a bullet and the round stops; a blade hangs; a collapsing beam holds for a breath. Cost is savage. Range short; duration short unless held. Mis-aimed Grade II still risks Grade I bleed (people nearby who hear "Stop" may freeze too — scope carefully).
-   - **Grade III (Vol 5+):** Reality's shape listens. Seal / world-edit territory. See `old-world-seal.md`.
+   - **Grade III (endgame):** Reality's shape listens. Seal / world-edit territory. See `old-world-seal.md`.
 
 2. **The Literal → Intent spectrum — the curse at the heart of the story.** How the Word interprets a command depends on how *strong* the carrier is. This is the single most important rule; it drives both the tragedy and the corruption arc.
    - **Weak / untrained (where both boys begin):** the Word obeys the *words spoken*, not the intent behind them. The body parses the sentence like a cruelly literal machine. The carrier's own meaning is irrelevant — only the surface grammar reaches the target.
@@ -55,17 +55,17 @@ Grade I arc still holds: early = **grammar overriding will**; growing = **will o
 - Haruki + Kaito existing together is the anomaly (split-inheritance / Amatsu twist; see `plot-outline.md`). Two half-Voices may be the only safe (or only possible) key to Grade III — or the reason neither should do it alone.
 - Factions that understand pieces of this (Amatsu, Chinmoku, Kuroda) treat "two Voices" as miracle, crisis, or harvest.
 
-## Rewrite (改言 / Kaigon) — Kuroda Ren's power (BIBLE; not yet named on-page)
+## Rewrite (改言 / Kaigon) — Kuroda Ren's power (named on-page Ch 47)
 Innate, permanent, always his — he keeps it even if a Voice claims the throne.
-- **What it does:** Edits a spoken sentence before it finishes landing — change a word, a target, a verb. Example: "Let her go" → "hold her" / "let *him* go."
-- **Constraints:** Must hear the utterance in progress (same Heard constraint). Cannot invent a King's Word command from silence — he **revises**, he does not originate compulsion. Smaller edits cost less; rewriting a shout mid-air costs more.
+- **What it does:** Edits a spoken sentence before it finishes landing. He can change subject, person, target, a verb — but **sentence structure stays the same**. Same beat count, same order, same shape. Example: "Let her go" → "Let *him* go" (not "Hold her"). Demo Ch 47: *"Kill yourself"* → *"Kill yourselves"* (lands on Kuroda's gray-greens; casualties).
+- **Constraints:** Must hear the utterance in progress (same Heard constraint). Cannot invent a King's Word command from silence — he **revises**, he does not originate compulsion. **Cannot dismiss / nullify / erase a Word** — only rewrite inside its existing structure. Smaller edits cost less; rewriting a shout mid-air costs more.
 - **Cosmic cost (LOCKED):** At the hinge when a true Voice tried to reshape the living world, Kuroda's Rewrite interfered. The edit stuck as the **Seal** — modern world in, old world out. He did not mean to lose his family / home; Rewrite also made him **unable to forget** the pre-edit world. See `old-world-seal.md`, `characters.md`.
-- **Story role (early):** Deniable tells (crowd hears the "wrong" word for a beat); quiet shaping of both boys through Grade I → **II**. **(Late / Vol 5):** End-boss who forces reversion once they reach Grade III.
-- **Not his kit:** Crown-Claim / Word-Thief / pure nullify-as-identity.
+- **Story role (Ch 3–46):** Deniable tells (crowd hears the "wrong" word for a beat); quiet shaping of both boys through Grade I → **II**. **(Paid Ch 47):** Named on-page; demoed on Kaito's Word (*"Kill yourself"* → *"Kill yourselves"*, same structure, retargeted; also *Kneel* → *Bleed*); monologued; then Haruki's *Stop* clashes with Kaito's *Die* and Kuroda vanishes with Kaito and Mei. Reversion is stated as his want; whether he lives to pursue it is now unknown.
+- **Not his kit:** Crown-Claim / Word-Thief / nullify / dismiss-as-identity.
 
 ## Why it's hidden and feared
 - Public textbook story (partial / scrubbed): the old sovereign house (**Amatsu**) ruled by the Word; an atrocity ended it; bloodline hunted to "extinction." Useful cover — keep using it on-page as what people believe.
-- Deeper truth (Vol 5): the atrocity and the Seal are tangled with a **world-reshape** and Kuroda's unwilling edit — not only a city-killing sentence. Chinmoku's real job skews toward **keeping the seal** (Silence as lock), not only hunting mouths. Creed still fits: *a voice that cannot be disobeyed cannot be allowed to speak.*
+- Deeper truth (Kuroda's half paid Ch 47; Chinmoku's half still writer-only): the atrocity and the Seal are tangled with a **world-reshape** and Kuroda's unwilling edit — not only a city-killing sentence. Chinmoku's real job skews toward **keeping the seal** (Silence as lock), not only hunting mouths — unpaid on-page, earn it when Chinmoku actually appears. Creed still fits: *a voice that cannot be disobeyed cannot be allowed to speak.*
 - Because everyone believes the line died out, two ordinary Kōgetsu boys carrying it is impossible — which is exactly why nobody, including the boys, suspects it.
 
 ---
@@ -78,6 +78,6 @@ The reader should *feel* something is off; no one in-story should name it yet.
 
 ## The mystery threads (for later payoff)
 - **Why two commoner boys?** Not coincidence. (See `plot-outline.md` — the **split inheritance**: the last heir's Word divided and hidden in two infants during the purge.)
-- **What are the *kai*?** LOCKED — bleed-through from the sealed-out old world; Word-immune under Grades I–II. Full reveal ~Vol 5 (`old-world-seal.md`). Early: symptoms only.
+- **What are the *kai*?** LOCKED — bleed-through from the sealed-out old world; Word-immune under Grades I–II. Symptoms through Ch 46 (roof shape, the shared vision at Ch 47); full mechanical explanation still writer-only (`old-world-seal.md`).
 - **The birthday.** The calamity / bleed striking on Ryn's 18th is drawn to a Word *awakening* — the seal flexes toward a living Voice.
-- **Reshaped by whom?** Kuroda's question (Ch 18) is the series thesis — paid as cosmology in Vol 5, not answered cheaply before.
+- **Reshaped by whom?** Kuroda's question (Ch 18) is the series thesis — he answers it himself in substance at Ch 47 (a king; himself, finishing it), but the chapter never lets the exchange close clean — it ends on the explosion that takes him and Kaito both.
