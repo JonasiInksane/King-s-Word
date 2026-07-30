@@ -96,6 +96,8 @@ Mira has gone quiet beside me, turning her own cup in her hands, and when she fi
 
 I open my mouth. Nothing comes. Not a command. Not even an ordinary sentence.
 
+Across the canal a clerk's face will not stay put for the length of one glance — stillness first, then the rest — and when I blink hard he is just a tired man stamping receipts. Ashiro keeps doing that to me. Or I keep doing it to Ashiro. Either way the festival night is not a clean vacation from the coat, and my body knows it even when I try to spend a whole afternoon pretending otherwise.
+
 "I don't know yet," I say.
 
 Mira nods once, like that is an answer she can work with for tonight.

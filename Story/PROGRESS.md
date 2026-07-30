@@ -5,10 +5,11 @@
 ## Status
 
 - **Written (live): Part One–Vol 2 done. Vol 3 close Ch 37. Vol 4 Ashiro NEW ROUTE Ch 38–47 DONE — Ch 47 is the series' cosmology reveal *and* a catastrophic break, not just the volume close.**
-- **Plan:** `lore/plot-outline.md` — Ch 47 closed on materiel + shared vision + Commander reveal + long game + **silent Rewrite** (no finger tell; crowd hears only the changed line; *Kneel*→*Stand* / shoot-Mira demos) + care/erase + alley ask + Haruki *Stop* vs Kaito *Die* → **Kaito, Kuroda, Mei, and Ide vanish**; **Katō left alive on the bank**; half of Ashiro east bank destroyed.
-- **Next: Vol 4 continues (no Vol 5).** Endgame chapters carry the fallout — Haruki alone with the party on a half-ruined city, no confirmed fate for Kaito or Kuroda, keep-vs-revert fight now live with its two loudest voices gone, Remnant accounting, Mei heir, Ryn revert-bait, and Haruki's own overdue answer to everything Kuroda said.
+- **Plan:** `lore/plot-outline.md` — Ch 47 closed on materiel + shared vision + Commander reveal + long game + **silent Rewrite** (*Kneel*→*Stand*; *Shoot him*→*Shoot her*) + alley ask + **Mira shot (dying)** + Haruki+Kaito synced *Die* (scare) → tear takes **Kaito + Kuroda + Mei + Ide**; Katō left; Haruki Words Mira *"You're not dead"* → eyes open.
+- **Next: Vol 4 continues (no Vol 5).** Endgame fallout — ruined Ashiro; Kaito/Kuroda/Mei/Ide fate unconfirmed; Mira revived; keep-vs-revert live; Remnant accounting; Mei heir; Ryn revert-bait; Haruki's overdue answer.
 - **Length note (Vol 3+):** hard floor **1,600** / target **1,800–2,400**; Ch 47 runs **~3,200** — dense finale beats, not padded.
 - **Ch 47 Ashiro-bar pass (2026-07-30): DONE.** Same beats/knowledge. Kuroda's reveal broken into interrupted hits with Riku/Mira pushback; dwell at Ryn confession; silent Rewrite demos (*Kneel*→*Stand*, shoot-Mira); shout-stack thinned; cost tells varied; copper private-tell bleed cut from Haruki; quieter Kuroda register.
+- **Ch 47 foreshadow plant pass (2026-07-30): DONE.** Deniable wrongness beats only — no early "Rewrite"/Seal labels. Plants: underpass vision fragment (Ch 3) + firework echo (Ch 46); **speaker-side Rewrite tell (Ch 36):** Haruki says *put it down*, guard throws — mismatch stays in Haruki's head only (listeners have no reason to flag it); death-not-medic rule (Ch 39 → Ch 47); Ide/tabs (Ch 30); Katō false-review (Ch 28/36); Ashiro coat pressure (Ch 40/42); Suzumori almost-say (Ch 45 → 47). Grade II debut stays Ch 33 bullet-stop.
 
 ## Craft-bar rewrite pass (started 2026-07-27)
 
@@ -27,8 +28,8 @@ Bringing Ch 1–23 to the bar in `.cursor/rules/story-writing.mdc` ("Craft bar")
 |----|-------|-----|-------|-------------|
 | 1 | The Plan | H | ~2,300 | Opens on the Tuesday train pass (no frame); both boys' deniable tells (K: third-year match argument, full scene; H: Loop argument); roof plan — Ryn prices it (patrol risk lands on her/Sugi) before her yes |
 | 2 | Day Before | H | ~1,870 | Mika + cake; Sugi's Kōgetsu stall + line war-drip (nephew's letters "slowed", "they don't take the girls"); Tōru's six-line letter; Kaito's floor nights / bruises unspoken; counting-stations close |
-| 3 | Let Her Go | H | ~4,040 | Birthday; Kuroda on the Loop (unnamed); white sky; Kanzaki; "LET HER GO"; Ryn dies; "the Word is awake"; escape; withheld absolution |
-| 4 | Low Tide | H | ~2,370 | Exodus; birthmark match withheld; Sugi counts heads at the door; the telling over tea ("You told it straight"); tense pivots to present; Mira enters ordinary; rite — both open their hands; empty shelf; unpaid-sentence close |
+| 3 | Let Her Go | H | ~4,040 | Birthday; Kuroda on the Loop (unnamed); white sky; Kanzaki; "LET HER GO"; Ryn dies; "the Word is awake"; escape; underpass vision fragment (dismissed); withheld absolution |
+| 4 | Low Tide | H | ~2,370 | Present from open; exodus; birthmark match withheld; Sugi's door; tea telling ("You told it straight"); Mira enters ordinary; rite — both open their hands; empty shelf; unpaid-sentence close |
 | 5 | Two Weeks | H | 2,655 | Sugi assigns work; co-op quiet; Orihara Fumie hires via the lying ration column; Mira laundry; registry truck; sea wall — absolution declined |
 | 6 | The Pier | K | ~2,270 | Jun + splices; Hanae's lunch list ("you're on the list now"); the line's shoulder-lesson; muddy command fails (pronouns); bollard temple; Mira's extraction; Sugi's table (she's worked it out) + Haru's one question |
 | 7 | Practice | K | ~2,310 | Gull test → *understand* rule; night-wall sentence drills (Harada's lantern); the refused test on Jun ("Jun doesn't get to be a rep" / the line's other edge is a permission); buyer test succeeds; Backwash on-page; Mira's Listener warning; *Bring her onto the roof and set her down* |
@@ -42,7 +43,7 @@ Bringing Ch 1–23 to the bar in `.cursor/rules/story-writing.mdc` ("Craft bar")
 | 15 | Hands, Not Papers | H | ~2,460 | Ice truck west (crew, no papers, barrier waved); Riku's "Say you catch him — then what?"; tea seller charges a cup and grudges out "stand near work/food/sleep"; Minato first night — Machi's oden ("Trouble eats standing up"), Gorō's toll; favor called: Tanabe vouch tomorrow |
 | 16 | The City That Works | H | 1,848 | Tanabe route (voice tell — the "no" dissolves; Riku's wet-umbrella look); Gorō's counter map + hill grudge; false dock lead dies; Thursday ceremony, door rehung; stance lesson ("you are expected"); two-fares knot; close: labor-registration notice, seven days — "That's aimed at us" |
 | 17 | The Squeeze | H | ~1,925 | Deadline tightens; **mender's-ward list scene on-camera** — Haruki's honest answer writes Tanabe's name onto the board; Tanabe drops unregistered hands (guilt unspoken between them); Gorō talks hill too loud, taken midafternoon ("tell anyone he walked"); coat+shoes gone — Machi chooses fled; despair beat lands (reworded, not the slogan); night-market ask planned |
-| 18 | Reshaped by Whom | H | ~1,860 | Unnamed coat-man (Kuroda) at Minato; alley: **"Reshaped by whom?"** / "I don't know yet"; two silent coats; dock-runner news — **hospital quiet-floors** break-in (clerk opened / never saw faces; room upstairs empty); Haruki knows the Word shape; heads to north hill with Riku |
+| 18 | Reshaped by Whom | H | ~1,860 | Unnamed coat-man (Kuroda) at Minato; alley: **"Reshaped by whom?"** / "I don't know yet"; two silent coats; dock-runner news — **hospital quiet-floors** break-in; Haruki knows the Word shape; heads north hill with Riku |
 | 19 | Clean Rooms | K | ~1,820 | Break-in day (weeks after Ch 12): clean apartment status quo + how they got it; Kaito darker (no names, shorter fuse); Mira's ask — Suzumori transfer east tonight; route planned; leave for the job |
 | 20 | Quiet Floors | K | ~1,845 | Full rescue: Word on night clerk (open / never saw); Suzumori opens from inside; Word on gray-green (drop rifle / face wall); hand-off to contact → pine/inland; apartment burned; flee to pine fringe; threat close (the clerk about to be questioned) |
 | 21 | Pine Edge | K | ~2,135 | Fringe hide; gray suit on lit road (Word crushed); near-miss — Haruki+Riku on service path, unnamed to them; **Mira owns the cut miscall** (wet clay held prints); decision close (shed first) |
@@ -52,42 +53,43 @@ Bringing Ch 1–23 to the bar in `.cursor/rules/story-writing.mdc` ("Craft bar")
 | 25 | Soft Lobby | H | ~2,095 | Truck to **Shizuhara** (sign: Civil Protection and Relocation Center); Habu lobby camera moment — kindness + "add him to inventory" in one tone; biometrics + **voiceprint booth** (a machine that listens for something); Riku goes flat at *volunteer* question (wound seeded, unexplained); A/B armband kids too bright in the corridor; C-wing bunks; **Ōhashi** the notebook fixer — east wing has a letter, never a number; night truck at the loading bay; question close ("I don't sell that one") |
 | 26 | Volunteers | H | ~1,910 | C-wing corridor wax; A/B armband texture; **Riku volunteer wound paid** (ridge town, perimeter, fourteen/inconclusive — name unspoken); mezzanine band offer refused (both); Haruki careful voice almost opens bay clerk; Ōhashi board short one vs notebook 43; close: morning count at junction |
 | 27 | Count | H | ~1,840 | Junction board; **Serizawa Mei camera** — corrects count, takes tablet, C-43; towel hand-off transaction (won't sell trucks; wants C boring); Riku reads her as not-volunteer; debt: morning counts / ask who left if board goes short again |
-| 28 | Bunks | H | ~2,850 | Morning count short; **Katō** gone; Mei confirms walk-out; west fence heat; full C bunk census — only Katō missing, cap/cup still there; **action close:** Haruki+Riku go west to kitchen stair over service court to see truck vs fence company — cut mid-climb; fence unanswered |
+| 28 | Bunks | H | ~2,850 | Morning count short; **Katō** gone; Mei confirms walk-out; west fence heat; full C bunk census — only Katō missing, cap/cup still there; Riku rejects Thursday-review cover (walked west on purpose / door waiting); **action close:** kitchen stair — cut mid-climb |
 | 29 | Breach Window | K | ~2,420 | Remnant approach west ditch; Mira sells clean extract (east specials); Suzumori pressure; wire cut → soft service door; **they are the west-fence heat**; lights slam; Kaito Words bay clerk (abort window dead); armband kids held in kitchen junction; Words specials guard; **Mei** on east side — extract already dirty; close: who did you come for / inventory holding |
-| 30 | Inventory Language | K | ~1,990 | Mira names pull (**Mei**); Mei refuses clean single extract while A/B held as stock; kitchen junction columns + Habu soft hold speech; near-miss C shapes on stair (unnamed); **Kuroda stillness** on mezzanine (dark coat, unnamed, gone); night sheet — A/B review, blank destination, Habu contingency; close: one look at the bay |
+| 30 | Inventory Language | K | ~1,990 | Mira names pull (**Mei**); Mei refuses clean single extract while A/B held as stock; kitchen junction columns + Habu soft hold speech; near-miss C shapes on stair (unnamed); **Kuroda stillness** on mezzanine + **major tabs (Ide shape)** beside him, both gone; night sheet — A/B review, blank destination; close: bay look |
 | 31 | The Stove | K | ~1,840 | Upper slit; A/B loaded toward annex; Mira extract dies; Kaito stays; medical stair; mouth shut |
-| 32 | Evening Review | K | ~2,220 | Purge gallery: **on-camera vent executions** + cleanup between groups; anger climb; Habu hears shout; sends pairs; close on bay doorway waiting |
+| 32 | Evening Review | K | ~2,220 | Purge gallery: **on-camera vent executions** + cleanup; anger climb; Habu hears shout; close on bay doorway |
 | 33 | Progressive Clearing | K | ~2,080 | Blind rage; **bullet stops mid-air**; lethal Word wipe bay→kitchen→stair→lobby; Habu mouthed shut (eyes awake); coat blink; lobby shift dead; **Mira yells stop + hugs him** — he stops |
 | 34 | Whole Building | K | ~1,990 | Aftermath in glass; Habu left mouthed alive; **Mei peels** with Habu key toward C; Mira hauls Kaito west to ditch; close: C lock going green, no H/Riku faces |
 | 35 | Unsealed | H | ~2,110 | C seal hangover; **Mei joins** with Habu key; Remnant explained; A/B kill-room truth; Riku volunteer wound detonates; escape party (H+Riku+Mei+Ōhashi+six); **Kurosawa named**; Word seed (willing use not yet) |
-| 36 | On Purpose | H | ~2,400 | Willing Word opens outer latch; **Kuroda truck** extract (help); **Katō aboard** unread; truck talk (Word bill / chase terms); close on mutual see with Kaito in ditch |
+| 36 | On Purpose | H | ~2,400 | Willing Word opens outer latch; **Rewrite tell (speaker-only):** says *put it down*, guard throws — Haruki keeps the mismatch private; **Kuroda truck**; **Katō** false review / coat knew the cut; truck talk; close mutual see with Kaito in ditch |
 | 37 | Reed City | H | ~2,080 | Truck into **Ashiro**; Kuroda kind drop; **Katō stays with coat**; breath — Vol 3 close |
 | 38 | On Your Feet | K | ~1,870 | Ditch despair; Suzumori+contact; Ashiro by faith |
-| 39 | What She Packed | K | ~1,860 | Mira backstory (FDC fire, Okina, scar); Suzumori presses; despair unhealed; Ashiro bridge arrival |
-| 40 | Cash Room | K | ~1,870 | Cash boarding; ordinary errands; coat dread; slow-search / day-work decision |
+| 39 | What She Packed | K | ~1,860 | Mira backstory; Suzumori presses; **"throat is not a medic"**; despair unhealed; Ashiro arrival |
+| 40 | Cash Room | K | ~1,870 | Cash boarding; ordinary errands; false coat + **wrong-white horizon** blink; slow-search decision |
 | 41 | Lantern Paper | K | ~2,000 | Endo paper shop; festival notice — fifteenth night, fireworks over reed pond |
-| 42 | Taking Time | K | ~1,780 | Quiet asking; near-Word on thief swallowed; Mira: what will you say? |
+| 42 | Taking Time | K | ~1,780 | Quiet asking; near-Word on thief swallowed; face-won't-stick clerk echo; Mira: what will you say? |
 | 43 | Stall Turn | K | ~2,380 | Pickle stall seller = Haruki; secret meet planned |
 | 44 | Without Them | H | ~2,380 | Private reunion; pine/vents/truck; decide group talk tomorrow |
-| 45 | Same Table | H | ~2,680 | Both parties; history/anger; coat contested; festival agreed |
-| 46 | Pond Night | H | ~1,990 | Festival joy; fireworks begin — no false buzz seed |
-| 47 | Above the Water | H | ~3,400 | Materiel + shared vision; Suzu fear-ask → Ide **"Commander Kuroda!"**; long-game reveal (Loop file; trash/weak/despair road); Kuroda orders **Fire**; Kaito Words under fire (*Stop* / drop-kneel); first Word at Kuroda meant *Kneel* — bank hears *Stand*; silent **Rewrite** named; *Shoot her* near-miss; care/erase + alley ask; **Die** vs **Stop**; clash → explosion; **Kaito + Kuroda + Mei + Ide vanish**; **Katō left on bank**; half of Ashiro east bank destroyed |
+| 45 | Same Table | H | ~2,680 | Both parties; history/anger; coat contested; Suzumori almost-say (*He is—*); festival agreed |
+| 46 | Pond Night | H | ~1,990 | Festival joy; first firework echoes underpass vision fragment |
+| 47 | Above the Water | H | ~3,200 | Materiel + shared vision; Ide Commander; Fire → *Stop*/kneel; Rewrite (*Kneel*→*Stand*, *Shoot him*→*Shoot her*); Mira shot dying; H+K synced *Die*; tear takes **Kaito+Kuroda+Mei+Ide**; Haruki Words Mira alive — eyes open |
 
 ## POV structure (Part One)
 
 H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 → H Ch 10. Hinge-switches justified: boys share Nagihama; each switch answers a question the other camera can't (Kaito's practice interior; Haruki's witness exterior). Blocks proper start in Vol 2 on separate roads.
 
-**Narration (locked 2026-07-24):** No frame, no listener, no "record/ledger" narrator voice, no reader address. Past tense through Ch 4's arrival at Sugi's door; present tense from Nagihama onward. Rare quiet hindsight only.
+**Narration (locked 2026-07-24; hinge retuned 2026-07-30):** No frame, no listener, no "record/ledger" narrator voice, no reader address. Past tense Ch 1–3; present from Ch 4 line one (chapter-break switch after "We have to go west" — no mid-scene flip). Rare quiet hindsight only.
 
 ## Cast state (end Ch 47 / final-volume cosmology reveal + catastrophic break)
 
-- **Haruki:** Alone. Reunited with Kaito for minutes at the pond; Worded him (*Stop*) as Kaito's *Die* landed; watched the clash tear the bank open and take Kaito, Kuroda, and Mei. Standing on a ruined bank with no confirmed fate for any of them. Shared the unexplained vision with Kaito before the break. Heard the full villain monologue. His own answer — and the guilt of the clash — still owed.
-- **Kaito:** **VANISHED**, along with Kuroda and Mei, when his Word clashed with Haruki's. Provoked into rage on purpose; used the Word under fire (Kuroda ordered *Fire*); Worded Kuroda; got Rewritten multiple times (including a rewrite that killed civilians on the path); kept climbing until *Die* met Haruki's *Stop*. No body. Status unknown. Do not resolve cheaply.
-- **Mei:** **VANISHED** with them — broke Riku's hold, reaching for Kaito when the light took the three. Amatsu unpaid. Do not resolve cheaply.
-- **Mira / Suzumori / Riku / Ōhashi:** On the bank. Mira on her knees; Suzu's cane down; Ōhashi's notebook open in the dirt; Riku holding Haruki. Remnant accounting pending.
-- **Katō:** **Still on the bank after the explosion** (Ide gone with Kuroda). Cell now has one living hand and no commander. Right-hand title still unspoken. What he does next is open.
-- **Major Ide:** Yelled the Commander reveal; ordered weapons up on Kaito out of real fear; saved from his own pistol by Kuroda's grip; **vanished with Kuroda / Kaito / Mei** — fate unconfirmed.
-- **Kuroda Ren:** **VANISHED**, along with Kaito (and Mei, Ide), in the explosion he provoked but may not have fully controlled. Full villain reveal paid — Loop file + despair road; **silent Rewrite** named and demoed; care/erase (people gone, not dead — replaced by the faulty world); alley ask; pebbles/door/rage. No confirmed death. Do not explain the disappearance early.
+- **Haruki:** Alone on the ruined bank with the party. Synced *Die* with Kaito; watched the tear take Kaito, Kuroda, Mei, Ide; Worded Mira *"You're not dead"* — she gasped awake. Own answer to Kuroda still owed.
+- **Kaito:** **VANISHED** with Kuroda and Mei (and Ide). Rewritten; Mira shot via his Rewritten order; synced *Die*; no body. Fate unconfirmed.
+- **Mei:** **VANISHED** reaching for Kaito when the light took them. Amatsu unpaid.
+- **Mira:** Shot dying; revived on-page by Haruki's Word (eyes open / gasp).
+- **Suzumori / Riku / Ōhashi:** On the bank. Remnant accounting pending.
+- **Katō:** Still on the bank; cell has one living hand and no commander.
+- **Major Ide:** Vanished with Kuroda — fate unconfirmed.
+- **Kuroda Ren:** Vanished in the tear after dual *Die* (first on-page scare). Full villain reveal paid. No confirmed death.
 - **Habu:** Still mouthed off-camera.
 - **Contact:** Off after spur; table will want accounting.
 - **Ryn:** Dead (Ch 3) — Kuroda: not trying to kill her; trash in the way; blames Kaito's weak sentence; despair road after. **Sugi:** Nagihama, empty shelf. **Jun:** Dead. **Hanae:** has the lie. **Sato:** stays and stamps.
@@ -100,7 +102,7 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 2. Birthmark match — Haruki knows, withholds (Ch 4). Kaito doesn't know they match.
 3. The Listener — linked Kuroishi well + hospital quiet floors (Ch 21–22); Minato bars next. Still thinks Haruki is nothing unless Go-home fallout revises him.
 4. Kanzaki's "we've been looking for you two for a very long time" — unexplained.
-5. Kuroda — phone (Ch 3); alley (Ch 18); **full reveal + villain monologue PAID Ch 47** (Seal cause, revert want, boys as door, long game since the roof claimed loud and proud). **Vanished with Kaito in the Ch 47 explosion — fate unconfirmed.** Long game no longer withheld — endgame chapters carry the fallout, starting from his disappearance, not his presence.
+5. Kuroda — phone (Ch 3); alley (Ch 18); **full reveal + villain monologue PAID Ch 47**. **Vanished with Kaito, Mei, and Ide in the Ch 47 tear — fate unconfirmed.** Endgame carries fallout from the disappearance.
 6. Suzumori with Kaito+Mira inland — Keeper Law / heir truth later. Her dread is phrased on-page as "two mouths like that in one world" (Ch 20/22/39) — the word *kings* is never spoken before Ch 47's vision; the full thought is still unpaid.
 7. Sugi's hook — empty shelf; "one of you has to come back and look at it eventually."
 8. Kaito's untested self-cost (Ch 7) — refuses to Word himself; Backwash door open.
@@ -124,13 +126,13 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 24. **West fence breach (Ch 28–29)** — paid; K was the company.
 25. **Mira clean extract — DEAD (Ch 31).** Contact aborted to ditch; Mira stayed; stove line spoken on-page by her.
 26. **A/B inventory zero — COMPLETE Ch 32** (vent purge on-camera; all A/B dead when Kaito arrives). C/east sealed, not zeroed.
-27. **Kuroda truck extract — PAID Ch 36**; **Commander named Ch 47** via Ide. **Rewrite named + silent demo Ch 47** (*Kneel*→*Stand* / shoot-Mira; crowd hears only the changed line). **Seal cause + revert agenda PAID Ch 47.** **Kaito + Kuroda + Mei + Ide vanish; Katō left on the bank** — open threads.
+27. **Kuroda truck extract — PAID Ch 36**; **Commander named Ch 47** via Ide. **Rewrite named + silent demo Ch 47** (*Kneel*→*Stand*; *Shoot him*→*Shoot her*). **Seal cause + revert agenda PAID Ch 47.** **Kaito + Kuroda + Mei + Ide vanish; Katō left; Mira revived by Haruki** — open threads.
 28. **Power jump (Ch 33)** — bullet stopped mid-air; unnamed Grade II flavor; savage cost; do not label on-page.
 29. **Massacre — COMPLETE Ch 33**; Mei peel Ch 34; Mei join Ch 35; **escape + truck + Kaito pass Ch 36**. Voiceprint booth still unpaid.
 30. **Ashiro Vol 4 (new route) Ch 38–47** — K soft; secret market meet; group talk; festival; materiel + real shared vision + Commander reveal + named/demoed Rewrite + full villain monologue + catastrophic overload. **Vol 4 is the final volume — the story continues past Ch 47 in the same book, no Vol 5.**
-31. **Paid at close:** boys reunited briefly; Kuroda = Commander and self-declared Seal-cause; **silent Rewrite** named and demoed (*Kneel*→*Stand* / shoot-Mira); long game + despair road; care/erase; alley ask unpaid in Haruki's mouth; **Kaito + Kuroda + Mei + Ide vanish; Katō left — half of Ashiro's east bank destroyed.** Clash = Haruki's *Stop* vs Kaito's *Die*. **Deferred:** Katō right-hand title; zeroing tip; grade labels; "the Seal" as spoken word; split-inheritance; fates of the vanished.
+31. **Paid at close:** boys reunited briefly; Kuroda = Commander and Seal-cause; Rewrite (*Kneel*→*Stand*, *Shoot him*→*Shoot her*); Mira shot + Haruki revive Word; H+K synced *Die*; **Kaito + Kuroda + Mei + Ide vanish; half of Ashiro's east bank destroyed.** **Deferred:** Katō right-hand title; zeroing tip; grade labels; "the Seal" as spoken word; split-inheritance; fates of the vanished.
 32. **Unpaid long (final-volume endgame, not a new book):** Haruki's answer + guilt of the clash; what actually happened to Kaito, Kuroda, and Mei; aftermath of half a city destroyed; Remnant accounting; Mei heir (now entangled with her disappearance); Habu return; *Stop following me* break (moot unless Kaito returns); Ryn revert-bait scene; the exact original Rewrite sentence.
 
 ## Craft flags (carry forward)
 
-- Target band 1,800–2,400 (**floor 1,600** from Vol 3 on; **Ch 47 runs ~3,100** as the cosmology-reveal-and-break close). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV: H 24–28 → K 29–34 → H 35–37 → **K 38–43** → **H 44–47**. **Ch 48+ opens Haruki-solo** (Kaito camera unavailable — he vanished at Ch 47 close; do not casually reopen his POV until his fate is earned on-page). No recap buttons, no bulletin speech. No filing/ledger narrator voice, no arithmetic/metaphor stacks. Present tense. Clean dialogue (questions take `?`). **Seal cause + Rewrite name PAID on-page at Ch 47 — no further gate.** Remaining cosmology (grade labels, "the Seal" as a spoken word, split-inheritance mechanics) still needs its own earned scene before it lands on-page.
+- Target band 1,800–2,400 (**floor 1,600** from Vol 3 on; **Ch 47 runs ~3,200** as the cosmology-reveal-and-break close). Found family shown never named. Fights complete scenes. Place description clear, one sharp image max. POV: H 24–28 → K 29–34 → H 35–37 → **K 38–43** → **H 44–47**. **Ch 48+ opens Haruki-side** (Kaito camera unavailable until his fate is earned on-page). No recap buttons, no bulletin speech. No filing/ledger narrator voice, no arithmetic/metaphor stacks. Present tense. Clean dialogue (questions take `?`). **Seal cause + Rewrite name PAID on-page at Ch 47 — no further gate.** Remaining cosmology (grade labels, "the Seal" as a spoken word, split-inheritance mechanics) still needs its own earned scene before it lands on-page.

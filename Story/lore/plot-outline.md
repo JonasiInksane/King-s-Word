@@ -111,7 +111,7 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 44 | Without Them | H | Private reunion; anger/history; decide to bring others in |
 | 45 | Same Table | H | Group converge; real talk; agree to festival night |
 | 46 | Pond Night | H | Firework festival; almost ordinary |
-| 47 | Above the Water | H | Materiel; shared vision; Suzu → Ide Commander; long game + despair road; silent Rewrite (*Kneel*→*Stand*, shoot-Mira); care/erase + alley ask; Die vs Stop; Kaito+Kuroda+Mei+Ide vanish; Katō left |
+| 47 | Above the Water | H | Materiel; shared vision; Ide Commander; Rewrite (*Kneel*→*Stand*, *Shoot him*→*Shoot her*); Mira shot dying; H+K synced *Die*; Kaito+Kuroda+Mei+Ide vanish; Haruki Words Mira alive |
 | 48+ | Endgame (final volume continues) | — | Keep-vs-revert fight; Remnant accounting; Mei heir; Ryn revert-bait; no new volume |
 
 ---
@@ -137,6 +137,8 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 4 | Ashiro (FINAL VOLUME) | K soft days; secret market reunion; group talk; festival; materiel + real shared vision; Kuroda reveal (loud, proud, self-declared); Rewrite named + demoed; full villain monologue; catastrophic overload — **Kaito + Kuroda both vanish, half of Ashiro's east bank destroyed** (Ch 47) — story continues past Ch 47 in this same volume, no Vol 5, now Haruki-solo until Kaito's fate is earned |
 
 Hint discipline: symptoms Ch 1–46; **cause, want, and boys-as-door named and monologued at Ch 47, then the chapter breaks the board — Kaito and Kuroda both gone.** Remaining threads (keep vs revert, Remnant accounting, Mei heir, Ryn revert-bait, what actually happened to the two of them) pay out in the final volume's closing chapters — not a new book.
+
+**Foreshadow plants paid in (2026-07-30) — still unnamed until Ch 47:** speaker-side Rewrite tell (Ch 36: Haruki says put-down, guard throws — private mismatch only; listeners don't flag what they heard); vision fragment bookend (Ch 3 ↔ 46); "throat is not a medic" (Ch 39); Ide tabs (Ch 30); Katō retrieval (Ch 28/36); Ashiro coat pressure (Ch 40/42); Suzumori cut-off (Ch 45 → 47). Grade II debut stays Ch 33 bullet-stop.
 
 ---
 

@@ -1,34 +1,34 @@
 # Chapter 4 — Low Tide
 
-We went west because she said west, and because every road still open pointed that way.
+We go west because she said west, and because every road still open points that way.
 
-Kōgetsu emptied behind us quietly, which was somehow the worst part. No panic in the streets we walked — just lines. Lines at the station gates, lines at the bus stops, lines of tail lights on the elevated highway pointing west like iron filings. People stood in them holding suitcases that wouldn't close and pets that wouldn't stop shaking, and everybody kept their voice down, as if the thing rising over the eastern wards could be kept from noticing us if the whole city agreed to whisper.
+Kōgetsu empties behind us quietly, which is somehow the worst part. No panic in the streets we walk — just lines. Lines at the station gates, lines at the bus stops, lines of tail lights on the elevated highway pointing west like iron filings. People stand in them holding suitcases that won't close and pets that won't stop shaking, and everybody keeps their voice down, as if the thing rising over the eastern wards can be kept from noticing us if the whole city agrees to whisper.
 
-The trains were finished by midnight — not stopped, *taken*, requisitioned for the wards closer to the line — so we walked. Out through the west gates of the city with the crowd, then along the coast road when the crowd thinned into the ones who had nowhere particular to be walking to. Ash came down for a while around two in the morning, fine and gray, like the beginning of snow that had changed its mind. It got into our socks. It got into everything.
+The trains are finished by midnight — not stopped, *taken*, requisitioned for the wards closer to the line — so we walk. Out through the west gates of the city with the crowd, then along the coast road when the crowd thins into the ones who have nowhere particular to be walking to. Ash comes down for a while around two in the morning, fine and gray, like the beginning of snow that changed its mind. It gets into our socks. It gets into everything.
 
-The arcade cat was jammed under my arm. I never decided to carry it. It had been under Ryn's arm on the roof, and then it was beside the crate, and then it was mine, and at some point in the night I understood that I would fight anyone who tried to take it, which frightened me more than the sky had.
+The arcade cat is jammed under my arm. I never decide to carry it. It was under Ryn's arm on the roof, and then it was beside the crate, and then it is mine, and at some point in the night I understand that I will fight anyone who tries to take it, which frightens me more than the sky did.
 
-Kaito walked half a step ahead the whole way and barely spoke. When he did, his voice came out scraped, like the shout on the roof had taken the finish off it. Around four we stopped at a vending machine that still had power — one machine, humming alone on the edge of a dark town, stupidly cheerful. He bent to drink from the bottle I bought, and his hair fell away from the side of his face, and I saw it.
+Kaito walks half a step ahead the whole way and barely speaks. When he does, his voice comes out scraped, like the shout on the roof took the finish off it. Around four we stop at a vending machine that still has power — one machine, humming alone on the edge of a dark town, stupidly cheerful. He bends to drink from the bottle I buy, and his hair falls away from the side of his face, and I see it.
 
-Behind his left ear. A pale mark, the size and shape of a pressed thumbnail, with a shallow notch in one edge. I had the same mark behind mine. Exactly the same, notch and all. My mother called it a stork bite when I was small, and I had stopped thinking about it around the same age I stopped thinking about my own elbows.
+Behind his left ear. A pale mark, the size and shape of a pressed thumbnail, with a shallow notch in one edge. I have the same mark behind mine. Exactly the same, notch and all. My mother called it a stork bite when I was small, and I stopped thinking about it around the same age I stopped thinking about my own elbows.
 
 The same mark. The same ear. On two boys born in different cities to different families.
 
-I reached up and touched mine, the way you check your pocket after seeing someone robbed. Then I put my hand down, and I didn't say anything. It wasn't tact. It was that a soldier had already looked at us that night and said *both of them*, and I wasn't ready to follow that thought to where it went.
+I reach up and touch mine, the way you check your pocket after seeing someone robbed. Then I put my hand down, and I don't say anything. It isn't tact. It is that a soldier already looked at us tonight and said *both of them*, and I am not ready to follow that thought to where it goes.
 
-We walked on. Dawn came up gray at our backs. A two-car branch train was running from the junction town — some railway man had decided on his own authority that it would run, and stood on the platform waving people aboard like it was any Sunday — and it carried us over the coastal hills with a load of quiet strangers, down to where the land folded into a cove and the sea finally stopped looking like something on fire.
+We walk on. Dawn comes up gray at our backs. A two-car branch train is running from the junction town — some railway man has decided on his own authority that it will run, and stands on the platform waving people aboard like it is any Sunday — and it carries us over the coastal hills with a load of quiet strangers, down to where the land folds into a cove and the sea finally stops looking like something on fire.
 
-Nagihama was boats under blue tarps and one main street, with a plum tree hanging over a tile-roofed row at the end of the harbor lane.
+Nagihama is boats under blue tarps and one main street, with a plum tree hanging over a tile-roofed row at the end of the harbor lane.
 
-Ryn had talked about this town every summer of her life. It was exactly the size of her stories, and she was not in it, and I hated it on sight for that.
+Ryn talked about this town every summer of her life. It is exactly the size of her stories, and she is not in it, and I hate it on sight for that.
 
-Sugi opened her door before we knocked.
+Sugi opens her door before we knock.
 
-She had gotten out on the last Saturday train with the other stall-keepers — I learned that later. What I knew in that moment was only what her face did. She looked at the two of us on her step, gray to the knees with ash. Then at the cat under my arm, birthday sticker still on it. Then behind us, down the lane, at the space where a third person was not standing.
+She got out on the last Saturday train with the other stall-keepers — I learn that later. What I know in this moment is only what her face does. She looks at the two of us on her step, gray to the knees with ash. Then at the cat under my arm, birthday sticker still on it. Then behind us, down the lane, at the space where a third person is not standing.
 
-I watched her understand.
+I watch her understand.
 
-"Inside," she said. "Both of you. Shoes off."
+"Inside," she says. "Both of you. Shoes off."
 
 ---
 

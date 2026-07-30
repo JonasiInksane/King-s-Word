@@ -30,9 +30,11 @@ I step forward before I can invent a better plan.
 
 I do not shout. I do not soften it into a request. I put the sentence where it has to land — clean, finished, aimed at him — and for a beat nothing happens except the taste of old metal rising at the back of my throat.
 
-Then his arms drop.
+Then he throws it.
 
-The rifle hits the asphalt with a flat clatter that makes one of the six jump. The guard stares at his empty hands like they belong to somebody else.
+Not sets it down. Throws it — hard, away from his body, like I told him to get it as far from his hands as the bay allows. It hits the asphalt with a flat clatter that makes one of the six jump. The guard stares at his empty hands like they belong to somebody else.
+
+I said put the rifle down. Every syllable. That is not what his hands just did. I do not say that out loud. If Riku heard something else, arguing about it here only slows us down.
 
 "Open that door," I say.
 
@@ -78,7 +80,7 @@ He looks older than the bunk made him. Not a kid who wandered into a review. Twe
 
 "Katō," Ōhashi says. The notebook almost slips. "You — your bunk. Your cap was on the hook. We struck you. We thought—"
 
-"I got out earlier," Katō says. Ordinary voice. Tired. "Found this truck when the west side went loud. He said there would be more people coming through the fence cut." He nods once at the coat man, who is already swinging into the cab. "Ask me the rest when we are not sitting under Habu's floodlights. Sit down before you fall out."
+"I got out earlier," Katō says. Ordinary voice. Tired. "Not a review move. Review boards do not leave your cup under the bunk." He glances once at Ōhashi's notebook, then at the coat. "I left bay three before the fence went loud. Someone already knew which cut would open if the west side blew. He said there would be more people coming through. He was right." He nods once at the coat man, who is already swinging into the cab. "Ask me the rest when we are not sitting under Habu's floodlights. Sit down before you fall out."
 
 Ōhashi sits like his knees gave the order. One of the six laughs once, sharp and ugly with relief. Riku does not laugh. He watches Katō the way he watches doors that open too easily, then looks at me, then at the coat through the back window.
 

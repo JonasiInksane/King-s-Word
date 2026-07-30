@@ -40,6 +40,12 @@ Suzumori ties her boot back on with hands that know how to work through pain. "I
 
 "I said I was afraid of the thought," Suzumori says. "Do not turn it into a plan. Not tonight."
 
+"You keep talking like my mouth can fix anything if I just aim it hard enough," I say.
+
+"It moves the living," Suzumori says. Flat. No lecture in it. "I have never seen a voice put breath back into anyone. Do not invent that comfort when somebody goes down in front of you. Your throat is not a medic."
+
+Mira does not contradict her. That is worse than if she had.
+
 Nobody talks for a bit. Outside, something moves on the canal — a night fisherman, maybe, or a patrol that does not care about a broken padlock on a tool shed. My throat still tastes like the lobby. Haruki's face in the truck bed will not leave. I see it every time I blink: blood at his nose, C shirt, the coat man's cab between us.
 
 "You watched me tell him to go home," I say to Mira. "On the pine road. You did not stop me."

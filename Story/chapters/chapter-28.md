@@ -212,7 +212,7 @@ We meet back at the junction under the high window. The west glare is still on. 
 
 "C is short one," he says. "Only Katō. Cap and cup still here. That is not a man who walked to a review with a bag." He closes the book. "I cannot take this to the board while they have rifles in the hall. I can keep it until morning, and if the wall tries to call forty-one, I have paper that says otherwise."
 
-"He left his cap," Riku says. "People who get walked to a real review take their cup. Somebody moved him, or he walked himself toward the noise on the west side. Either way I'm not waiting in bay three for a corporal to explain it tomorrow."
+"He left his cap," Riku says. "People who get walked to a real review take their cup. And Ōhashi already said review sits on Thursdays — not the middle of the night with the west wire about to light up." He looks once toward the kitchen stair. "Somebody walked him west on purpose, or he walked himself toward a door that was already waiting. Either way I'm not sitting in bay three for a corporal to invent a tidy story tomorrow."
 
 "Mei told us to stay off the bay," I say.
 

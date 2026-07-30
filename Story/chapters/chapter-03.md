@@ -270,4 +270,6 @@ The right thing to say was there. *It wasn't your fault.* Six syllables. I had t
 
 So I held onto his jacket in the dark and said nothing, and he felt the nothing arrive. Half an inch of space appeared between us that had never been there in two years, and I couldn't see his face when it happened.
 
+Behind my eyes, for half a second that did not belong to any roof I knew, there was a field — banners down in mud, a man wearing a crown that caught no light, someone else's hands twitching like they were correcting a sentence still in the air — and then it was just the underpass dark and Kaito shaking. Grief draws pictures when it has nowhere else to go. I put it down as that and did not say it out loud.
+
 "Okay," he said finally. Flat. Emptied of every decibel I'd ever known him by. He wiped his nose on the back of his hand and looked at the smear like a stranger's signature. "Okay. We have to go west."

@@ -80,9 +80,9 @@ The side corridor is narrow glass on one side, looking down into the lobby we ne
 
 Floodlights from the west throw white across the floor wax below. Clerks at the long counter type without looking up. On the mezzanine — the glass office above the lobby — a man in uniform with reading glasses in his hair stands with a tablet, speaking too softly for us to hear through the glass. Habu. Soft shoulders. Attentive. He points once at the west doors and once at the counter, and a clerk nods like she has been handed a gift.
 
-Beside him, not in uniform, a man in a dark coat stands with his hands empty and his weight easy. He does not hurry. He does not look at Habu's tablet. He watches the lobby like he has already decided what happens next and is only waiting for the clerks to catch up. For half a second his face turns toward the glass corridor — not seeing us, not missing us either — and the calm on him sits wrong against the rifles and the floodlights.
+Beside him, not in uniform, a man in a dark coat stands with his hands empty and his weight easy. He does not hurry. He does not look at Habu's tablet. He watches the lobby like he has already decided what happens next and is only waiting for the clerks to catch up. Half a step behind his shoulder, a gray-green with major's tabs stands just as still — short black hair cut flat to the scalp, face built for orders, the kind of stillness that does not wait for permission. For half a second the coat's face turns toward the glass corridor — not seeing us, not missing us either — and the calm on both of them sits wrong against the rifles and the floodlights.
 
-Then a clerk crosses between us and the mezzanine, and when the angle clears, the coat is gone. Only Habu remains, pointing at another column on his screen.
+Then a clerk crosses between us and the mezzanine, and when the angle clears, the coat and the major are gone. Only Habu remains, pointing at another column on his screen.
 
 "Kaito," Mira says. "Don't invent faces in the glass. We have a window to crack."
 

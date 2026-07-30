@@ -24,7 +24,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Word self-knowledge (live):** Voice-tell thread live through Ch 10–26. **Ch 35 seed:** Mei names scraped-voice boy **Kurosawa**. **Ch 36 paid:** willing clean Word on outer-latch guard (*Put the rifle down / Open that door / Face the wall*); nosebleed cost; Riku same-mouth line in motion.
 - **Despair thread (live from Ch 10):** "The world stops being a place that is failing and starts being a place that is *wrong*… Nobody is coming to fix any of this" — a sentence he turns over and can't make false. This is the seed Kuroda's **"Reshaped by whom?"** hinge lands on in Vol 2, then pays as the series' cosmology reveal at Ch 47.
 - **Status (end Ch 23 / Vol 2):** Finished the six syllables on the scrub road; speech wasn't enough. Hit by Kaito's *"Stop following me. Go home."* — feet turning east; resistance flicker unpaid (twist #5). With Riku going east after him. Birthmark secret kept. Voice tell still unexplained to him; Vol 3 opens on his camera.
-- **Status (live, end Ch 47):** Reunited with Kaito for minutes, not for good. Shared the old-king vision; watched Kuroda order fire on Kaito; heard only the **Rewritten** public lines (*Stand* / *Shoot her*) while Kaito denied *Kneel*; Mira nearly shot (Riku cleared her); heard care/erase + alley ask; **Worded Kaito — *Stop* — as *Die* landed**; clash took Kaito, Kuroda, Mei, and Ide. Katō left on the bank. Guilt of the clash + answer to Kuroda still owed.
+- **Status (live, end Ch 47):** Reunited with Kaito for minutes, not for good. Shared the old-king vision; Rewrite demos; alley ask unanswered; watched Mira shot via Rewritten *Shoot her*; synced *Die* with Kaito; tear took Kaito, Kuroda, Mei, Ide; **Worded Mira *"You're not dead"* — she gasped awake.** Answer to Kuroda still owed.
 
 
 
@@ -42,7 +42,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **Endgame lean (writer):** When keep-vs-revert lands, Kaito's reason to switch the world back is not abstract justice — it is **Ryn**. If world-command / unsealing might restore what the roof took (or reopen a grammar where the dead are not final), he will burn the sealed present for that chance. Hope may be fed by Kuroda/Remnant/bleed without being proven early. See `old-world-seal.md`. The Seal truth landed Ch 47 — this thread is now live; still earn the actual on-page temptation in a real scene, don't lecture it in.
 - **Control arc (live, Ch 6–9):** Gull test fails → learns the *understand* requirement in his own words ("the understanding is the door the weight walks through — it only works on people"). Night-wall sentence drills — drafts commands and closes their "exits" like dry-firing (Harada's lantern nearly catches him). The refused test: a clean, loaded *Let me help you* aimed at Jun, swallowed — "Jun doesn't get to be a rep"; draws the line *nobody I love, nobody kind*, and notes "a line like that has another edge, and the other edge is a permission." Then the buyer test (clean command, posted price paid; first full success). Costs on-page: heavy nosebleed, copper taste, skull drum; that night he refuses even dry-fire, afraid of what the weight takes from him when it leaves. Does **not** test the Word on himself. The double entry he hides: "part of me is glad, and I go looking for it again." Writes the clean roof sentence — *Bring her onto the roof and set her down* — as his reason to keep practicing (she was held out over the drop; *let her go* opens a hand over air).
 - **Status (end Ch 23 / Vol 2):** Quiet-floors rescue → pine fringe → inland. Worded rifle-soldier on pine road, then Worded Haruki — *"Stop following me. Go home."* True six syllables refused as enough. Moving west with Mira + Suzumori. Darker notch paid (glad-it-works + exit-by-mouth); not massacre-hollow yet. Heard Suzumori's "two kings" / "two loud mouths" dread without understanding. Birthmark still unknown to him.
-- **Status (live, end Ch 47):** **VANISHED.** Provoked into open rage by Kuroda; Worded under fire; first Word at Kuroda meant *Kneel* — bank heard *Stand*; meant shoot Kuroda — bank heard *Shoot her*; denied on-page; climbed to *Die* and clashed with Haruki's *Stop*; gone with Kuroda, Mei, and Ide. No body. Status unknown. Do not resolve cheaply.
+- **Status (live, end Ch 47):** **VANISHED** with Kuroda and Mei (and Ide). Meant *Kneel*/*Shoot him* — bank heard *Stand*/*Shoot her*; synced *Die* with Haruki; no body. Fate unconfirmed. Do not resolve cheaply.
 
 
 
@@ -184,7 +184,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **On-page (Ch 28):** Absent from short-count board (east recount); confirms Katō’s walk-out is real; warns pine-road boys off the bay when west wire gets company; east locks.
 - **On-page (Ch 29–33, Kaito camera):** Extract target; purge gallery guide; witnesses A/B vent deaths; mezzanine route; with clearing. No heir dump.
 - **Status (live, end Ch 37):** Ashiro boarding; day-work intent; not signed to Haruki’s chase. Amatsu unpaid. Habu key on sill (spent).
-- **Status (live, end Ch 47):** **VANISHED** with Kaito and Kuroda when Haruki's *Stop* and Kaito's *Die* clashed over the pond. She broke free of Riku and was reaching for Kaito when the light took them. No body. Fate unconfirmed. Amatsu heir truth still unpaid on-page — do not resolve her cheaply.
+- **Status (live, end Ch 47):** **VANISHED** reaching for Kaito when the light took them. Amatsu heir truth still unpaid — do not resolve cheaply.
 
 
 
@@ -212,7 +212,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 
 ### Major Ide (井手) — Kuroda's left hand
 
-**On-page (Ch 47):** Yells **"Commander Kuroda!"** across the water, the rank landing right where Suzumori's "He is the—" broke off. Fear shows for the first time when Kaito's rage visibly changes him — orders weapons up on a seventeen-year-old, hands not steady. Kuroda overrules him and lets it happen. **VANISHED** with Kuroda when the clash closed — not left holding the cell.
+**On-page (Ch 47):** Yells **"Commander Kuroda!"** across the water, the rank landing right where Suzumori's "He is the—" broke off. Fear shows for the first time when Kaito's rage visibly changes him — orders weapons up on a seventeen-year-old, hands not steady. Kuroda overrules him and lets it happen. **VANISHED** with Kuroda in the tear after the dual *Die* — not left holding the cell.
 
 - FDC command tabs; short hair; voice that carries without shouting. **Status (live, end Ch 47):** Gone with Kuroda / Kaito / Mei. Fate unconfirmed.
 
@@ -246,7 +246,7 @@ Each bio includes a **camera moment** — the vivid intro beat that fixes them i
 - **What she knows (BIBLE — do not spend early):** the **split inheritance** — that the last heir's Word was divided and hidden in two infants. She can read the birthmark. She is the single largest lore-payoff character alive; ration her. Live Ch 20 tips "two kings in one world" as dread only — no split-heir explain.
 - **Continuity (live, Ch 19–23):** Mira names her as someone she knew who kept things for people her aunt's road owed. Extracted by Kaito+Mira; Word used on clerk + gray-green (not blessed by Suzumori). Handed to contact → pine/inland; rejoins at pine-fork shed (Ch 22); presses keys/both-ways and "two loud mouths" without heir lecture; witnesses Go home (Ch 23); goes west with Mira's road.
 - **ARCHIVE SEED (old Vol 2+):** Names **Lt. Aihara**; mansion H-pad; Shizuhara with Kaito+Mira; split inheritance spoken Vol 4; **Keeper Law** third path.
-- **Status (live, end Ch 47):** Recognized coat at festival ("That's the coat. Run."); owns **"He is not a friend. He is the—"** (cut off by Kuroda's laugh and Ide's rank in the same breath); watched the whole reveal, the failed Word, and the explosion that took Kaito and Kuroda both; heir/Seal still unpaid.
+- **Status (live, end Ch 47):** Recognized coat at festival ("That's the coat. Run."); owns **"He is not a friend. He is the—"** (cut off by Kuroda's laugh and Ide's rank); watched the reveal, Mira shot/revived, and the tear that took Kaito and Kuroda; heir/Seal still unpaid.
 - **Nature:** Unhurried, oblique, speaks in kept things. Not senile — *pre-modern*. Treats the Word as a responsibility, not a weapon.
 - **Story role:** Takamatsu extraction objective (paid); Amatsu twist key later; later resists hollow-road reshape.
 
@@ -316,7 +316,7 @@ The woman who once pulled **Mira** out of the FDC fire; senior in the **Amatsu R
 - **Nature (later):** True believer once she has seen enough. Calm certainty. Not cartoon-evil; a wounded idealist who decides mercy is a luxury the powerless can't afford, and that Kaito's mouth is the tool that can change the map. Tied to anti-FDC / Remnant currents under the coast — shown late, not announced on meet.
 - **Voice on the page:** Early = warm, practical, lightly teasing. Later = quieter, level, devastating certainty. Do not start her on the cold register.
 - **Story role:** Becomes the permission structure beside Kaito's grief — only after the power has shown itself to her eyes — then steers that grief toward reshape.
-- **Status (live, end Ch 47):** Backstory paid Ch 39; present at group table + festival; Habu-glass eyewitness; nearly shot when Rewrite turned Kaito's order onto her (Riku cleared her; round hit mud); watched Kaito vanish with Kuroda — the road she steered him toward now has no one walking it. Remnant/Okina table still waiting.
+- **Status (live, end Ch 47):** Backstory paid Ch 39; present at group table + festival; Habu-glass eyewitness; **shot** via Rewritten *Shoot her*; **revived on-page** by Haruki's *"You're not dead"* — eyes open / gasp; watched Kaito vanish with Kuroda. Remnant/Okina table still waiting.
 
 
 
@@ -359,7 +359,7 @@ Homeroom teacher, perpetually one deadline from collapse. Comic relief with a sp
 
 ### Kuroda Ren (黒田 連) — the Silent Stranger (working name; tweakable)
 
-**On-page so far (live):** Ch 3 Loop; Ch 18 alley; Ch 30/33 mezzanine; Ch 36–37 truck+Ashiro drop; **Ch 47 — full reveal, and vanished:** named Commander via Suzu cut-off / Ide; Loop file + despair road (Ryn as trash in the way; blames Kaito's weak sentence); **silent Rewrite** demoed (*Kneel*→*Stand*; shoot-Mira — crowd hears only the changed line); names Rewrite; care/erase + alley ask; door/rage/pebbles; Haruki *Stop* vs Kaito *Die* clash — materiel tears open; **vanishes with Kaito, Mei, and Ide**. No body. Status unknown. **Do not resurrect him cheaply or explain the disappearance early.**
+**On-page so far (live):** Ch 3 Loop; Ch 18 alley; Ch 30/33 mezzanine; Ch 36–37 truck+Ashiro drop; **Ch 47 — full reveal, and vanished:** named Commander via Suzu cut-off / Ide; Loop file + despair road; **silent Rewrite** demoed (*Kneel*→*Stand*); Rewrites Kaito's *Shoot him* into *Shoot her* (Mira is hit); care/erase + alley ask; Haruki+Kaito synced *Die* (first on-page scare) — tear takes **him with Kaito, Mei, and Ide**. No body. Status unknown. **Do not resurrect him cheaply or explain the disappearance early.**
 
 **Camera moment (field, Ch 3):** A face that refuses to stick; watching-still on a train while the whole car softens around Kaito — he alone does not soften. Turns a phone screen toward them. Gone.
 

@@ -15,7 +15,7 @@ Kaito screams **"Let her go"** at a soldier holding Ryn over a ledge as leverage
 **Canon lives in this section only** — do not restate POV locks in lore files.
 
 - **Mains:** Haruki and Kaito. Most of the story runs through them.
-- **Narration & tense (no frame):** Plain first-person retrospective. **Nobody is being told the story** — no listener, no kitchen frame, no written "record," no reader address. **Past tense** from Ch 1 through the arrival at Sugi's door (Ch 4); **present tense** from Nagihama onward — reads as "before" vs "now," never justified in-text. Rare quiet hindsight lines are allowed at real hinges ("Neither half survived the summer"); the restraint is applied, never announced.
+- **Narration & tense (no frame):** Plain first person. **Nobody is being told the story** — no listener, no kitchen frame, no written "record," no reader address. **Past tense** for Ch 1–3 (the closed life / the night it ends). **Present tense** from Ch 4 on — switch sits on the chapter break after *"We have to go west,"* not mid-scene. Never justified in-text. Rare quiet hindsight lines are allowed at real hinges; the restraint is applied, never announced.
 - **Guests:** Other first-person cameras when they add depth the boys cannot see. Not padding.
 - **Per chapter:** One POV is default, not a lock. Multiple POVs in one chapter are allowed when a cut earns it — keep switches clean (scene break + clear camera), never muddy.
 - **Do not drift Haruki-only** after the hard split. Kaito (and guests) stay in rotation when their side of the fork matters.
@@ -89,11 +89,15 @@ There are no archives. Old drafts are deleted (2026-07-24) — write every scene
 
 ## Export
 
+Clean novel PDF (full-page cover only, front matter, TOC, all chapters):
+
 ```bash
 pip install -r scripts/requirements-pdf.txt
 python scripts/export_pdf.py
-python scripts/export_pdf.py --combined
+python scripts/export_pdf.py --through 47
 ```
+
+Output: `export/Kings-Word-Book-1.pdf`
 
 ## How to resume
 
