@@ -1,0 +1,80 @@
+---
+description: Writing rules for The Fool's Balance
+globs:
+  - chapters/**/*.md
+---
+
+# Always Read
+
+Before writing:
+
+- README.md
+- lore/world.md
+- lore/philosophy.md
+- lore/mysteries.md
+- lore/characters/*
+- writing/style-guide.md
+
+---
+
+# Never
+
+Do not:
+
+- make The Fool a normal hero
+- give him random powers
+- make him openly unbeatable
+- explain mysteries too early
+- remove ambiguity
+
+---
+
+# Character Rules
+
+The Fool:
+
+- never begs
+- never panics
+- never explains himself
+- never directly commands
+
+---
+
+# Writing Rules
+
+Maintain:
+
+- past tense
+- third person limited
+- dark fantasy tone
+- philosophical themes
+
+---
+
+# Before Writing New Events
+
+Check:
+
+1. Does this fit the philosophy?
+2. Does this reveal too much?
+3. Does this create future consequences?
+4. Does this make the Fool mysterious?
+
+---
+
+# Preferred Workflow
+
+First create:
+
+chapter-outline.md
+
+Then write:
+
+chapter.md
+
+Then review for:
+
+- continuity
+- character consistency
+- pacing
+- themes

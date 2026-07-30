@@ -1,0 +1,358 @@
+---
+description: Hard continuity and craft rules for King's Word prose — house style (Ch 40–46 bar), length check, no bible leaks, lean dialogue, story not poetry.
+globs:
+  - books/kings-word/**/*
+alwaysApply: false
+---
+
+# Story writing — hard rules
+
+These bind whenever drafting or editing chapters, dialogue, or in-world narration.
+
+**Writer-only files** (`lore/`, `PROGRESS.md`, `README.md`, archives) do not speak through characters. A fact is allowed in prose only if the POV camera earned it on-page (or it is purely sensory/public).
+
+---
+
+## Ship checklist (run before you call a chapter done)
+
+Do these in order. Do not skip the count.
+
+1. **Word count** — measure the chapter file. Floor and how-to are below. If under floor: expand with real scene (talk, walk, ask, cost), not poetry padding.
+2. **Knowledge** — no bible leaks; no psychic certainty; rumors labeled; spoken claims earned before overheard callbacks.
+3. **Dialogue** — engages (pushback/noise); lean (no double-explain); NPCs in full sentences; plain close (no title-echo); both sides want something.
+4. **Narration** — story prose like `assets/example-chapter-1`, not haiku/fragments. Opinionated + operational. No mental-collection / arithmetic-as-feeling.
+5. **No thin wraps** — no recap stacks or pre-`---` buttons; no inventory/telegram talk.
+6. **Hand-off** — chapter N+1 opens on the state N created (same camera) or on the new camera's own want (switch).
+7. **Close type** — differs from the previous two chapters (rotate decision / reveal / threat / arrival / question).
+8. **Canon voice** — if the user rewrote dialogue in a recent chapter, match that pass.
+9. **PROGRESS / cameras** — update tracker and character camera notes when beats land.
+
+**Craft bar references (writer-only):** house standard below (Ch 40–46) · `assets/example-style-guide.md` (external craft study) · `assets/current-chapters-critique.md` (Vol 1–2 gaps + pass status).
+
+---
+
+## HARD — House style (settled bar — next book / new drafts)
+
+King's Word (this book) finishes at Ch 47. **Any new book, volume, or fresh draft defaults to the settled Ashiro stretch — Ch 40–46 — not the leanest early chapters.**
+
+Same DNA throughout the project (present tense after the hinge, plain dialogue, transactional NPCs, body-cost immersion, no poetry closes). The bar that changed is **density and scene shape**.
+
+| Layer | Standard |
+|---|---|
+| **Dialogue** | Stay lean — one clean hit per beat, full sentences, no double-explain. User dialogue rewrites remain canon voice. |
+| **Immersion** | Rationed, not blanket. **Two or three dwell moments per chapter**, placed only where a choice is forming or a cost is landing (body, wrong read, silence that does work). Everywhere else keeps the current tempo. |
+| **Scene shape** | Prefer **one full scene that earns the chapter** when the beat allows (models: Ch 43 stall reunion, Ch 44 promise-break talk, Ch 46 festival night). Episodic mini-scenes are for real transit / assignment weeks — not the default for hinge chapters. |
+| **Wrong reads** | Still mandatory per POV block (craft bar). Model in-house: Ch 43 — Kaito decides Haruki is fine, then sees the hand flat on the counter. |
+
+**Do not:**
+
+- Pad breakfast / haul / bus connective material to festival or reunion thickness — different beats earn different dwell.
+- Run a blanket "add interiority between every line" pass — that fights lean dialogue and reintroduces mood-stack / metaphor / arithmetic spam.
+- Homogenize Kaito into Haruki by padding his gaps; heat and short moves stay his voice keys.
+- Retrofit finished lean chapters for density parity unless the user names a specific chapter. **Write forward** at this bar.
+
+**In-house models (prefer these over early lean for new prose):** Ch 40–46 for density and dwell; also Ch 3, 7, 9, 14, 20 for scene grammar. External craft study (`assets/example-style-guide.md`) still informs transactions / complications — import functions, not third-person surface.
+
+---
+
+## HARD — Chapter length (always check)
+
+Short chapters that only hand off the next location are **not done**. Lean dialogue is not the same as a thin chapter.
+
+| Rule | Number |
+|---|---|
+| **Floor (hard)** | **1,600 words** minimum for Vol 3+ finished live chapters (Vol 1–2 legacy floor was 1,000) |
+| **Target band** | **1,800–2,400** — slow, detailed pacing; the floor is not the target |
+| **Longer is allowed** | **2,400–2,800+** when the beat earns it (two cameras, a chase + aftermath, a full night) |
+
+**How to check (required before finishing):**
+
+```bash
+wc -w chapters/chapter-NN.md
+```
+
+If under **1,000**, do not stop — add scene, not garnish:
+
+- Another real exchange (wrong follow-up, refusal, bargain)
+- Body of the walk / ask / wait (cost on the body, gray-green, who answers)
+- A second earned POV cut (see below) instead of stretching one camera thin
+- One more concrete beat that changes what they do next
+
+**Do not** pad to hit the number with: mood stacks, recap buttons, metaphor runs, repeated soft-boy lectures, thank-you loops, or poetic closes.
+
+**User-trimmed chapters:** If the user cuts a chapter shorter on purpose, keep their cuts. When *you* draft the next one, still hit the floor unless they say otherwise.
+
+---
+
+## HARD — POV (do not default to Haruki-only)
+
+Canon POV lives in `README.md`. Reminder for drafting:
+
+- **Mains:** Haruki **and** Kaito. Guests when they show what the boys cannot.
+- **Default is one camera per chapter — not a lock.** Multi-POV in one chapter is allowed whenever a cut earns it (`---` + clear new camera). Never muddy.
+- **After the hard split (Ch 9 gate), do not strand the story on Haruki's chase only.** An earlier draft drifted Haruki-only after the split while Kaito+Mira ran ahead off-camera. That was habit, not policy. Prefer cutting to Kaito/Mira (or a guest) when their road, cost, or choice matters — especially near-misses, Word strain, Mira steering, night pay, pine road.
+- Knowledge hygiene still binds across cuts: each camera only knows what it knows.
+
+## HARD — POV switching
+
+A camera switch is a promise to the reader that the new camera has something the old one can't give. Enforce all five:
+
+1. **A switch must answer a question the leaving camera can't.** Never switch just to keep a rotation fair. If a second camera enters a location the reader already toured, the second visit must **change the meaning** of the scene (new threat, new information, a different read on the same people) — not swap the asker's name and replay the beats. Same question answered twice = cut one.
+2. **Every camera chapter runs on that character's own want** — not just a delayed copy of the other lead's plot. Haruki chapters need Haruki's problem (his too-useful voice, what he'll actually say when he catches Kaito, the unpaid absolution), not only trail progress. Kaito chapters need Kaito's (control the mouth, hide, decide about Mira).
+3. **One-paragraph voice test.** A reader should know whose chapter it is within one paragraph, without the name. Voice keys live in `lore/characters.md` (Haruki: careful, precise, notices costs, apologizes by naming what he should have done sooner; Kaito: heat, throat, sentences as physical objects). If a paragraph could swap cameras unchanged, rewrite it.
+4. **Close every POV block on a hook** — a reveal, a threat, or a new question that pulls the reader across the switch. Never a walking button ("Come on. Day's not done."). Never the same close two blocks running.
+5. **Block rhythm (post-collision):** after the Takamatsu near-miss arc resolves, switch in **blocks of 2–4 chapters per lead** instead of per-chapter ping-pong. Intra-chapter cuts are reserved for convergence beats (near-miss, collision, same room). Canon home for this rhythm: `README.md` POV section.
+
+---
+
+## HARD — No writer-only leaks
+
+Never put these in dialogue, narration, or thoughts unless the camera already learned them in-story:
+
+- Forks, stage maps, soft/hard fork, corruption stages, volume titles, chapter plans
+- Outline jargon (A-plot, payoff, bible unpaid, "camera moment" as craft talk)
+- Magic jargon the boys haven't been taught (King's Word name, Literal→Intent, Backwash as named rule, One Throne, Seal, old world, Grade I/II/III, world-command, etc.). **Seal / old-world cosmology stayed writer-only through Ch 46; Kuroda's Ch 47 monologue pays the cause, the want, and the boys-as-door reveal on-page (Rewrite is now named).** Grade labels, "the Seal" as a spoken word, and split-inheritance mechanics remain writer-only until a later chapter earns them — see `lore/old-world-seal.md`. Vol 4 is the final volume; there is no Vol 5 gate.
+- Meta craft address ("I want you to understand," filing-as-thesis for the outline)
+- Tracker / archive language ("in the rewrite," "for later volumes")
+
+---
+
+## HARD — Knowledge hygiene
+
+- People only talk about what they know. No psychic exposition.
+- New characters do not bleed old characters' secrets without a shown channel.
+- POV is not omniscient. Guest cuts know their own present + past only.
+- Rumors stay labeled. Partial/wrong info is fine; fake certainty is not.
+- Institutions (FDC / Remnant / Order) know institutional facts — not a boy's private guilt.
+
+### Earn before callback
+
+If a later beat depends on a line being overheard, known, or quoted, that line must already exist **spoken on-page** (or clearly public), not only as private thought.
+
+- Bad: Haruki *thinks* "the world is wrong," then Kuroda quotes it as if he heard it at the counter.
+- Good: Haruki says it low to Riku first; then Kuroda (coat man) proves he was close enough (Ch 17–18).
+- Same rule for trail claims, favors, and "he knows my name" reveals — the channel must be shown or earned.
+
+### Word tells — public vs private
+
+- **Private (POV only unless earned):** metal/copper taste, words "stacking," the feeling of lining up a command, birthmark meaning, King's Word name / system labels.
+- **Public (strangers may notice):** scraped/hurt voice, nosebleed, people going oddly quiet, a bag-check ending weird, "loud boy" temper — ordinary wrongness, not magic vocabulary.
+- **Do not** have shopkeepers, mamas, or random loaders say "tasting metal" / "copper" / "talk it into kneeling." They have not been inside Kaito's mouth. Mira can worry from what she has *seen*; she still does not lecture strangers in tell-jargon.
+- Haruki may hunt a "scraped voice." He does not casually name metal taste unless he has earned that sensory fact on-page.
+
+---
+
+## HARD — Found family is shown, never named
+
+Relationships deepen through action only: work shared, food paid back, risks taken for each other, a name finally used, a door left unlocked. The narration and dialogue never announce the bond.
+
+- Banned: "like a brother," "he's family now," "my people," "we were a family," any narrator line that files a relationship into a labeled box.
+- Allowed: the reader concluding it themselves because Riku waited, because Machi kept rice back, because Haruki spent money he didn't have.
+- Same discipline for distance: Kaito's narrowing to Mira is shown by what he stops doing (learning names, sitting down, asking questions) — never stated as "I only had her."
+
+## HARD — Fights are complete scenes
+
+When combat happens, it gets full scene treatment — never a two-sentence summary.
+
+- Geography first: where everyone stands, what's between them, where the exits are.
+- Bodies: individual moves, hits that cost, mistakes, weight and breath. No choreography blur ("they fought; he won").
+- Consequence: injuries persist into later chapters; fear and adrenaline get aftermath beats.
+- The Word in a fight follows the magic rules exactly (heard + understood, literal stage, Backwash cost on-page).
+
+## Dialogue length
+
+Lean means no wasted clauses — it does not mean short scenes. If an exchange reads like a plot handoff, lengthen it with real friction (a wrong follow-up, a refusal, a bargain, an interruption) until it reads like two people actually talking.
+
+## Progression (no stall, no spam)
+
+- Each scene advances a want, a cost, or a relationship.
+- Don't re-teach the roof, Word tell, birthmark, or vow every chapter.
+- **No sentence-craft litany spam.** Kaito earned "name the act / close the exits / clean ones I've practiced" once in Ch 7 (buyer). Do not restack that triad every time copper rises. Show the command and the cost; the reader already has the lesson. Same ban as re-teaching the roof.
+- **Copper is rationed.** The copper/metal taste marks a real Word-with-weight moment — at most one mention per chapter, at the actual use. Never as a status check ("the copper stays down", "no copper, no cost", "copper climbs before I've chosen"). If the Word isn't being spent on the page, copper doesn't appear. Vary the cost tell (nose prickle, weight leaving, gray at the edges) instead of defaulting to copper.
+- **No ledger/record/filed language, ever** — see HARD "Narrator is a person, not a record." Cap litany language. Don't end consecutive chapters on sleep / "tomorrow."
+- **No absolution litany spam** at chapter ends. The withheld absolution pays at the Ch 9 gate split ("It was. You saw it.") — do not re-litigate it every chapter.
+- **Mira is not dish duty.** Do not make her wash cups/bowls/sinks every lodging or bar as her personality beat. If a cup-wash beat lands (Vol 2, Orii's room), it pays once; later rooms/bars get work, pay, steering — not another sink scene.
+- **No "written down" spam.** Ban as default caution line: *get written down* / *write your name down* / *writes names* / *worth the ink* / *boys who argue with clipboards get written down*. FDC danger is real — show it (cones, questions, crossing early, a list on a pier) instead of repeating the catchphrase every chapter. If it must appear, once per arc max, not twice in one chapter.
+- **No trail-formula spam.** Do not reuse the same hunt/description stamp every ask: *Tall boy, scraped voice. Girl with him, dark hair, sack* / *Girl did the asking. Boy looked like his throat hurt.* Vary what Haruki asks and what people actually noticed (direction, payment, tea, boots, timing). One concrete detail beats the full wanted-poster every time. NPCs talking *to* Kaito+Mira never narrate that poster about them.
+
+---
+
+## HARD — No thin recap stacks / no pre-break buttons
+
+Never close a beat by restating what just happened. Especially before `---`: no neat moral/status wrap.
+
+- Bad: "No stamp left. No Mira. No Kaito." / "One day behind. Still walking."
+- Bad: "He drinks. She does not make a speech about it." ← then `---`
+- Good: End on spoken dialogue or the next concrete move.
+- Ban "ledger, plain:" / status-board narration. Status lives in `PROGRESS.md`.
+
+---
+
+## HARD — Normal, to-the-point dialogue (no bulletin / no cryptic debrief)
+
+Dialogue is how people talk under pressure: **full sentences, plain words, one clear meaning.** No telegram stubs, no coded road poetry, no status-stamp debriefs.
+
+- **Default:** subject + verb + what happened / what we do next. A stranger in the room should understand the line without a lore key.
+- Bad (telegram): "Arcade. Gone. Girl paid." / "Tags. Pine-road. Notebook man." / "Ditch. Contact. First light."
+- Bad (cryptic debrief): "The extract died in the annex light." / "West answer is still on the floor." / "East invents a lock I cannot open twice." / "a mouth that makes people obey when he puts weight under a sentence."
+- Bad (excuse/answer stacks): "He's shy. Heat. Ridge walk." → Good: "He's shy, and half heat-sick from walking the ridge."
+- Bad (**noun-chip report stacks**): "Kitchen court after bell. Mei said it was towels." / "Kids with tags and armbands. Katō climbed on."
+- Good: "They came through the west fence to take me out of the east wing." / "Get up. The door is open and it will not stay that way." / "When he tells someone to do something, they do it."
+- Bad (person-description stacks in narration): "Scraped voice. Dust. A boy who does not smile." → fold into one flowing sentence.
+- Panic / orders / radio clips only when earned — not default NPC or POV voice.
+- **Self-check before shipping dialogue:** (1) If you can put a period after every two–four words and the line still "works," it is a bulletin — rewrite. (2) If a first-time reader needs a glossary for the sentence, it is too cryptic — say the plain fact.
+
+### HARD — No "soft" procedure jargon / no soft-voice arithmetic
+
+Do **not** use *soft* as road/code bulletin language — instruction stacks, rule cards, or status stamps. Do **not** stamp Haruki's tell every scene as "soft voice."
+
+- Bad: "We ask soft." / "Now we ask soft. Messy face." / "I say no. Soft." / "Soft voice, if they do." / "Plaza writes names." as a rule triad
+- Bad (narrator status spam): "Soft voice." / "nothing soft in it." / "Soft voice loading…" / "the soft voice tries again" / "with Sato's chit and a soft voice" — once earned in Ch 10, show the shoulders/quiet/boring-boy act; do not re-label it *soft* every gate, shop, and fight.
+- Good: "Keep your voice quiet and ordinary." / "I drop my shoulders and give him a boring boy's answer." / "Don't make a scene when you ask."
+- **Allowed:** ordinary English (*soft knees*, *softer:* for dialogue volume) and Riku's rare earned nickname ("soft boy") — not every other line, and never as a mission briefing verb (*ask soft*).
+- If a character needs to teach caution, they say it in a normal sentence, not a three-bullet field manual.
+
+### HARD — No "boring boy" / uniform label spam
+
+"Boring is the whole uniform" is minted once (Ch 8–10). After that, **show** the shoulders-down / quiet / ordinary-boy act — do not re-stamp *boring boy*, *boring uniform*, or *the boring one* every gate and shop. Same discipline as the *soft voice* ban.
+
+---
+
+## HARD — Chapter hand-offs
+
+End-state of chapter N is the opening premise of that camera's next chapter. The reader never re-derives where we are.
+
+- Same-camera next chapter: open on the decision, arrival, or pressure N just created — not a weather reset or a recap paragraph.
+- Across a POV switch: open on the **new** camera's own want within one paragraph (voice test). The switch must answer a question the leaving camera can't.
+- If chapter N plants an ask ("we'll ask at the night market"), chapter N+1 must land that ask (or show why it failed) before leaping to a new beat. Planted bridges are debts.
+
+Model (examples): Ch 1 ends agreeing to the Bluebell → Ch 3 opens "Tristan was the first to arrive." Ours: Ch 17 ends on the night-market ask → Ch 18 opens with that ask going cold, then the coat man (Kuroda).
+
+**Naming — the gray-suit hunter:** On-page he is *gray suit* / *the man who covers his ears* until a character mints a label (Mira: `"Listener,"` Ch 22). Do not put capital-L *Listener* in narration before that mint. Do not title Kuroda chapters with *Listener* — different man.
+
+---
+
+## HARD — Dialogue
+
+**Plain talk.** Normal sentences. No epigrams, thesis lines, title-echo farewells, inventory stubs.
+
+**Engage.** Not plot-handoff teleports. People interrupt, ask wrong follow-ups, refuse partway, bargain, answer sideways. Important info lands through a real exchange.
+
+**Lean (match the live canon pass, Ch 5–10):**
+
+| Do | Don't |
+|---|---|
+| One clean hit per beat (esp. Riku) | Extra clause that explains the same thing twice |
+| NPCs in full sentences | Charm-stub summaries |
+| Plain closes ("The day isn't over." / "Come on.") | Title-echo buttons ("Tuesday isn't over.") |
+| Attribute, then move | Narrator garnish on every line ("filing a small improvement…") |
+| Put the object in the sentence | Dangling "maybe not" / "after that" with no referent |
+| Cut thank-you / "don't thank me" ping-pong | Soft-boy lecture spam; "ask soft" / bulletin rule cards |
+
+When the user rewrites dialogue, **that pass is canon voice** for the next chapters.
+
+---
+
+## HARD — Narrator is a person, not a record (removed device — do not reintroduce)
+
+The book is plain first-person narration. There is **no frame, no listener, no written "record."**
+
+### Tense (locked)
+
+| Stretch | Tense |
+|---|---|
+| Ch 1–3 (closed life / the night it ends) | **Past** |
+| Ch 4 onward (chapter break after "We have to go west") | **Present** |
+
+- Live the scene *now*. Do not slip into past for action that is happening ("I dropped my shoulders" → "I drop my shoulders").
+- **No future-memory narration.** Ban: "I will carry this forever," "I will recognize it in my sleep," "That sentence will matter later." Character plans in present are fine ("I'm going to Kuroishi," "I'll help"). Prophetic *will* about what the story means later is not.
+- Dialogue may use any natural tense. The ban is on narrator voice.
+
+### No filing / no ledger voice
+
+- **Banned as narration or thought:** record, ledger, column, entry, account (as metaphor), "filed under," "closes files," "file behind his eyes," "voice like a receipt," "seating chart" for people, arithmetic-as-feeling ("did the math," "the sum ran," "totals itself," coin/loud *cost* metaphors as habit).
+- **Banned: mental-collection framing.** The narrator does not "keep," "collect," "store," or "sharpen like a tool" observations and advice ("I kept it with the others," "I've been collecting these," "I keep the tea seller's advice like a tool I sharpen every day"). He notices and moves on — or he just *does* the thing the advice suggested.
+- **Banned: currency-as-feeling.** Do not price emotion, talk, or silence in coins/fares/spend/half-spent metaphors ("spends her own words," "pulse trying to spend itself," "the room thins by half" as emotional math). Literal coin counts for wages/fares are fine when hands are counting money.
+- **Banned:** reader/listener address ("I want you to see," "I'll give it to you"). Generic idiomatic *you* is fine.
+- **Allowed:** rare quiet hindsight with no record talk — at most one or two per chapter, at real hinges.
+- **Literal paper stays:** Orihara's shop books, Sato's stamps, FDC files, official accounts. The ban is narrator metaphor, not the world's paper.
+
+### Clean dialogue (quick check)
+
+Full sentences. No telegram stubs. No epigrams / thesis farewells. People interrupt, refuse, bargain. One clean hit per beat — no double-explain.
+Real questions take `?` — "You've been to Takamatsu?" / "What kind of work?" Periods on questions only when the line is deliberately not a question (Ch 5: `"Can you." Not a question.`). Do not default every ask to a flat period.
+
+## HARD — Narration: story prose, not poetry
+
+**North star:** `assets/example-chapter-1`.
+
+- Cause → action → result. Reader follows without decoding.
+- Longer clear beats over stacked one-line images.
+- Detail on the task (who, where, why the next move changes) — not pretty weather.
+- Feeling only when short and attached to a choice.
+- Cut on action, speech, or next step — never on a literary button.
+- Bad: "The road forgets the harbor. Scrapyard fence. Still walking."
+- Bad (thesis / first-time buttons): "for the first time since Nagihama the road behind us has a city on it instead of dust" / "That, somehow, is the kindest thing anyone has done for me since…" / "Somewhere ahead the road keeps going… and the only honest thing left in my mouth…" — if the line could be a chapter blurb, cut it; end on what they do next.
+- Good: "I already used Sato's stamp at the first checkpoint, so this one I have to talk through." / "I walk into the yards and join the line of boys waiting for the afternoon load."
+
+### HARD — No personified places / no metaphor-road closes
+
+Places do not wake, forget, breathe meaning, or moralize. Roads do not stand in for fate. End on concrete next moves — who shouts, which cut, what hurts — not atmosphere posing as a close.
+
+- Banned: "the hospital is waking up wrong" / "the city holds its breath" / "the alley remembers" / "whatever road she has after that" / "ahead is only the dark and what we become"
+- Allowed: "someone is shouting in the service court" / "the drainage cut runs to the pine road" / "my shoulder burns where the fence cut it"
+- Same ban on chapter/section exits: if the last paragraph could be a trailer line, rewrite it as what they do next.
+
+---
+
+## HARD — Craft bar (from the example study)
+
+Canon references: **house style above (Ch 40–46)** for our settled density; `assets/example-style-guide.md` (external exemplars) and `assets/current-chapters-critique.md` (Vol 1–2 gaps, ranked). The rules above still bind; these close the gap between "clean" and "as good as the examples" — then match our own Ashiro bar when drafting new work.
+
+### Dialogue is a transaction
+
+- Before writing an exchange, know what each side wants and what each side pays — work, coin, embarrassment, a favor owed, a lie they must maintain later. If one side wants nothing, the scene is a lecture: rewrite or cut.
+- Information arrives bent by the teller's interest — partial, self-serving, or wrong on the first pass. No NPC hands over exactly what the plot needs after one token gruffness.
+- At least one refusal per arc **stays refused**. Not every ask lands.
+- Wisdom never announces itself as a gift ("that one's free"). It leaks sideways from self-interest.
+- Chains of consecutive info-yielding NPCs are banned (the Ch 13 problem). If three strangers must feed the trail, at least one misleads, sandbags, or wants something back.
+
+### One full complication per chapter
+
+- Every chapter dramatizes at least one scene where the plan meets friction on-page and gets improvised around. Summary compresses **time**, never **conflict**.
+- No purely connective chapters (transit + work montage; the Ch 12 problem). If a chapter only moves bodies between cities, fold it into its neighbors or build a real scene inside it.
+- A scene that ends with everyone knowing and wanting what they did at the start is a stall — turn it or cut it.
+
+### Echo budget — no-re-teach extends to lines and themes
+
+- Signature gestures (tide-chart face, tongue-click, crate-hands), thesis lines ("nobody is coming to fix this"), and carried sentences (the six syllables) get **one use per POV block**. Each recurrence must add, invert, or get contradicted — or be cut.
+- Cost tells never run the same sequence/phrasing twice (copper → lip blood → "weight leaves my throat" is a stamp). Vary order, body part, aftermath.
+- Before drafting, check the previous two chapters for close type and motifs used; repeat neither.
+
+### Wrong reads are mandatory
+
+- Per POV block, the lead makes one **confident read that is wrong**, and the bill arrives on-page (model: the wrong boy at the docks, Ch 16).
+- Every camera crossing exploits dramatic irony: the reader knows from the other block what this camera is misreading. Never waste a crossing on agreement.
+- Recurring allies are fallible. Mira (and any steerer) has visible wants of her own and at least one costly miscall per volume. A competence dispenser is as banned as a food dispenser.
+
+### NPC register variety
+
+- One governing attitude per NPC, every line runs through it — and the attitude comes off the **unused** shelf. The gruff-feeding-auntie register is retired (Sugi, Orihara, Orii, Machi already own it). Next helpers help out of vanity, boredom, gossip value, or while being genuinely unpleasant; let the boys owe someone they dislike.
+- One load-bearing detail per NPC — a detail that characterizes now and pays off later. No inventory description.
+
+### Close rotation
+
+- Chapter closes rotate hook types: decision, reveal, threat, new arrival, question with stakes. Never the same type twice running. The quiet-exit / keep-walking close is capped at **once per POV block** (a volume close may earn it — only if the chapters before it didn't spend the chord).
+- The last line is the scene's turn crystallized — earned in the scene, not appended.
+
+### Leads carry their own thread
+
+- Every Haruki chapter moves **his** problem one notch — the too-useful voice working too well on someone, the unpaid parts of home, what he will actually do when he catches up — not just trail progress. Every Kaito chapter moves his — the mouth, Mira, what he is becoming. A chapter that only advances the hunt is not done.
+
+---
+
+## When unsure
+
+Prefer silence, partial understanding, or wrong conclusions over a convenient dump. Writer truth can wait; character truth cannot be faked.
+
+For **prose density** on a new draft: match Ch 40–46 (rationed hinge immersion, one full scene when the beat earns it) — not the thinnest early chapter, and not a wall of interiority between every line.

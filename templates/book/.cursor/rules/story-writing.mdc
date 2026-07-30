@@ -1,0 +1,24 @@
+---
+description: Hard craft and continuity rules for this book — replace slug in globs after copy.
+globs:
+  - books/BOOK-SLUG/**/*
+alwaysApply: false
+---
+
+# Story writing — hard rules
+
+These bind when drafting or editing chapters under this book only.
+
+**Writer-only files** (`lore/`, `PROGRESS.md`, `README.md`) do not speak through characters unless the POV earned the fact on-page.
+
+## Ship checklist
+
+1. **Word count** — meet this book's floor before calling a chapter done.
+2. **Knowledge** — no bible leaks; rumors stay rumors.
+3. **Dialogue** — people want something; push back; full sentences.
+4. **Hand-off** — chapter N+1 opens on the state N created (or the new camera's want).
+5. **PROGRESS** — update the tracker when beats land.
+
+## House style
+
+Fill this section for the book. Do not copy another book's voice by default.
