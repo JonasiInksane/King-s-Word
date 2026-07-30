@@ -26,7 +26,7 @@ The landlady looks at Suzumori, who does not correct the word *old*, and then at
 
 "Third floor," she says again. "If you fight, you're out before I ask why. If soldiers come asking, I never saw you. That part is not kindness. That part is bad for my rent roll." She slides a single brass key across the counter. "Bath's cold after nine. Deal with it."
 
-We climb three flights of stairs that smell like somebody's dinner from two nights ago. The room is smaller than the one in Shizuhara's C-wing bunks but it has a door that shuts and a window that looks out over a rooftop instead of a fence, and for a second that is the whole difference in the world.
+We climb three flights of stairs that smell like somebody's dinner from two nights ago. The room is smaller than the one in Shizuhara's C-wing bunks but it has a door that shuts and a window that looks out over a rooftop instead of a fence, and for a second that is enough.
 
 Suzumori sits on the nearest mattress and starts working her boot off with both hands.
 
@@ -64,7 +64,13 @@ He turns to pay for his tea. He's sixty if he's a day, jowls, a merchant's soft 
 
 "That's what legs are like," she says. "Eat your noodles before they're cold."
 
-We eat standing at the cart because there's nowhere to sit, and the broth is hot enough to hurt going down, which is the first thing in days that has hurt in a way I don't mind. Suzumori steals a piece of pork off my bowl without asking and eats it like she's daring me to say something.
+We eat standing at the cart because there's nowhere to sit, and the broth is hot enough to hurt going down, which is the first thing in days that has hurt in a way I don't mind.
+
+While the cart man refills Suzumori's bowl, I try it once — quiet, casual, the way you'd ask about weather. "You get many new faces through here? I'm looking for a cousin. Tall, soft-spoken, would've come in sometime this week."
+
+The ladle doesn't stop moving. "Everyone in this ward is somebody's cousin," the man says, flat, and turns to the next customer, and that's the whole conversation. Mira looks at me sideways over her bowl and doesn't say anything, which is louder than saying it.
+
+Suzumori steals a piece of pork off my bowl without asking and eats it like she's daring me to say something.
 
 "You two fight like you've been doing it for years," I say.
 
@@ -76,7 +82,7 @@ We eat standing at the cart because there's nowhere to sit, and the broth is hot
 
 Back in the room, Suzumori soaks her ankle in the second jug of water while Mira sits cross-legged on the mattress counting the fold again, like the number might improve if she asks it politely enough.
 
-"How long does that last us," I ask.
+"How long does that last us?" I ask.
 
 "Four days if we're careful. Six if we're mean about food." She folds the cloth smaller. "After that we need work. I am not calling Okina for rent money, and I would rather cut off my own hand than beg a desk."
 
@@ -102,12 +108,12 @@ Suzumori looks at me for a long moment, the kind of look that used to make me wa
 
 "Fair," Mira says, and for once she doesn't add anything to it — no steering, no *and after that*, just the one word standing on its own. She blows out the little oil lamp on the sill, and the room goes down to just the canal light coming grey through the window and the sound of the market below finally starting to quiet.
 
-"Tomorrow," Suzumori says from her mattress, "you find work. I find whoever sells crutches in this city. And somebody in this room is going to ask about your friend before the week is out — quietly, like a person and not a fire alarm. Tall boy. Soft face."
+"Tomorrow," Suzumori says from her mattress, "you find work. I find whoever sells crutches in this city. And somebody in this room is going to ask about your friend before the week is out — quietly, like a person and not a fire alarm. You saw how far the direct ask got you at that cart."
 
 "I said I would," I say.
 
-"Say it again in the morning," she says. "A promise made in the dark doesn't count for much. Everyone knows that."
+"Say it again in the morning," she says. "When there's light on it."
 
 "Fine," I say. "In the morning I go looking for whoever's hiring, and I start there. Same plan, sunlight on it, if that's what it takes for you to believe I mean it."
 
-"I don't trust anyone by moonlight," Suzumori says. "That's not personal. Go to sleep before you say something you'll have to keep."
+"It is," Suzumori says. "Go to sleep before you say something you'll have to keep."

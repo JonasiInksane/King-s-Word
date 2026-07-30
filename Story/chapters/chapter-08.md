@@ -8,7 +8,7 @@ Sato Kimi is fifty, built like a bollard, and spent thirty years as the harbor o
 
 "You can carry for me," Sato says, that first day, sizing me up like a crate. "You look honest and boring. That's the whole uniform."
 
-So Tuesdays and Fridays I carry — envelopes between the shed and the shop, the numbers in my head where no soldier can read them. I tell Sugi. She grunts like I've told her the tide is in. I do not tell Kaito, and I am honest about why: he has enough to carry, and I like having one thing that is mine — one small brave thing I am doing with my boring honest face while he lifts ice and gets quieter. Pride, dressed up as protection.
+So Tuesdays and Fridays I carry — envelopes between the shed and the shop, the numbers in my head where no soldier can read them. I tell Sugi. She grunts like I've told her the tide is in. I do not tell Kaito, and I am honest about why: he has enough to carry, and I like having one thing that is mine — one small brave thing I am doing with my honest face while he lifts ice and gets quieter. Pride, dressed up as protection.
 
 ---
 
@@ -42,7 +42,7 @@ Kaito, setting it down. Freeing his hands. And walking — not running — into 
 
 Two words. Aimed like a thrown hook.
 
-I see it happen four steps away in good afternoon light. The soldier's fingers open. All of them, at once, evenly — the rifle just leaves his hands, like the ground has asked for it back — and his face hasn't changed yet, he is still wearing the shout, because no part of *him* has chosen it. The rifle hits the gravel. And the yard, for one held breath, tries to decide whether that has happened.
+I see it happen four steps away in good afternoon light. The soldier's fingers open. All of them, at once, evenly — the rifle just leaves his hands, like the ground has asked for it back — and his face hasn't changed yet, he is still wearing the shout, because no part of *him* has chosen it. The rifle hits the gravel. And for one held breath, nobody in the yard knows whether that has happened.
 
 The partner decides first. The young one, the half-beat one — he sees his sergeant's weapon fall for no reason in the middle of a stand-off, and his body does the thing scared bodies do around a trigger.
 
@@ -52,7 +52,7 @@ The shot goes into the yard like the end of the world.
 
 Wild — up and sideways, wrenched by the collision — and it would have hit nothing, it should have hit nothing, the yard is three walls and open sky. Sato is mid-turn, reaching to close the tin box. The round takes her through the upper arm and slaps her against the shed frame, and her blood hits the stamps, and the sound she makes is not a scream, it is a huge affronted *oh* — a records clerk's disbelief that the world could get a page this wrong.
 
-Then the yard holds still for a second.
+Then nobody moves for a second.
 
 The younger soldier stares at what his rifle has done, holding it away from his body like it bit him. The older one is on the gravel where the second command left him, eyes coming back, empty hands open the way I saw on a rooftop. Blood starts down Kaito's upper lip. He is already moving to Sato. I get both hands on her arm and press the way my mother taught me — kitchen towel, nine years old, keep pressure until someone who knows better takes over.
 
@@ -60,7 +60,7 @@ Through the gate: Mira at a dead run, her aunt's first-aid kit under her arm.
 
 She takes over the arm like she's done it before. She doesn't ask what happened. She looks once at the rifle on the gravel, once at the older soldier still on his knees in the wrong part of the yard, once at Kaito's bleeding nose — a triangle, three points, I watch her eyes draw it — and then she says, in her tide-chart voice: "You two were never here. Go through the shop. Sato fell on a net hook. Everyone in this yard likes that story better than any other story. *Go.*"
 
-The soldiers don't stop us — because the older one can't explain his empty hands without a story he doesn't have, and the younger one has just shot a widow in a drying yard. They have more to bury than we do. By evening the lane's official truth is a discharge accident during a routine check, apologies conveyed, the box and its stamps long gone into some other shed by hands I don't see. The lane closes over its own like water.
+The soldiers don't stop us — because the older one can't explain his empty hands without a story he doesn't have, and the younger one has just shot a widow in a drying yard. They have more to bury than we do. By evening the lane's official truth is a discharge accident during a routine check, apologies conveyed, the box and its stamps long gone into some other shed by hands I don't see. The lane protects its own.
 
 ---
 
@@ -74,7 +74,7 @@ Kaito comes and finds me on the sea wall after, past the bend, where the stone s
 
 "You said *drop it* and his hands opened before his face knew. You said *step back* and his legs did it. The same as—" I make myself finish it. He deserves at least one honest sentence. "—the same as the roof."
 
-He breathes out like something has been cut off him. And then it comes, all of it, quiet and fast — the practicing in the dark, the gulls, the pier and why the pier failed, the buyer, the nosebleeds, the copper taste, the clean sentences and how he builds them. He talks for longer than I have heard him talk since Kōgetsu. I don't interrupt. I listen. Some of it is terrifying. Some of it is just my best friend describing, in his own scraped voice, the loneliest month of work anyone I know has ever done.
+He breathes out like something has been cut off him. And then it comes, all of it, quiet and fast — the practicing in the dark, the gulls, the pier and why the pier failed, the buyer, the nosebleeds, the taste it leaves, the clean sentences and how he builds them. He talks for longer than I have heard him talk since Kōgetsu. I don't interrupt. I listen. Some of it is terrifying. Some of it is just my best friend describing, in his own scraped voice, the loneliest month of work anyone I know has ever done.
 
 "It's getting cleaner," he says finally. "That's what today was. Two commands in ten seconds and they both landed. A month ago that soldier's hand wouldn't have opened all the way." His thumb runs across his fingertips, back and forth. "And Sato's arm still happened. Clean isn't the same as safe. I aimed everything right and the yard still broke sideways, because it isn't only me in the yard." He puts his hand flat on the stone. Then, smaller: "Help me."
 
@@ -92,4 +92,4 @@ Kaito looks at the black water for a while.
 
 "She'd run it," I say, and it is the first time either of us has touched the subject of her lightly, and it holds — barely, but it holds.
 
-We walk back up the lane past Orihara's dark shop. In her front room a lamp is still burning where Mira is sitting up with Sato. Neither of us says much. She got there first with a kit, and she invented the story that let us walk away, and that is what neighbors here do.
+We walk back up the lane past Orihara's dark shop. In her front room a lamp is still burning where Mira is sitting up with Sato. Neither of us says much. She got there first with a kit, and she invented the story that let us walk away.

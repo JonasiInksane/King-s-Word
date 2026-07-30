@@ -34,7 +34,7 @@ Riku doesn't say anything for a moment. Mei is the one who breaks it.
 
 "His, mostly." I almost smile at that, and hate that I almost do. "He's better at naming what's wrong with a plan than I am lately."
 
-Riku rubs both hands down his face and holds them there a second before dropping them. "You understand what you're asking me to do. Sit in a room with the boy who put a rifle-stock bruise on my shoulder that got us both tagged at a checkpoint three weeks later. Be civil about it. For your sake."
+Riku rubs both hands down his face and holds them there a second before dropping them. "You understand what you're asking me to do. Sit in a room with the boy who put a rifle-stock bruise on my shoulder the same morning a checkpoint decided to look twice at us. Be civil about it. For your sake."
 
 "I'm not asking you to be civil. I'm asking you to be honest, in the same room, where he can hear it and answer it instead of it just living in you."
 
@@ -50,7 +50,7 @@ At dusk I go back to the pickle stall the way we said, and I bring Riku with me 
 
 Kaito is already there, buying nothing, standing where the barrels block the view from the main path. When he sees Riku his shoulders go tight, then he makes himself leave them down.
 
-"Nakahara," Kaito says. His voice is careful in a way I've only heard him use with strangers he's decided not to underestimate. "I owe you a busted shoulder and a bad three weeks. I'm not here to fix that in a pickle lane. I'm here to tell you where."
+"Nakahara," Kaito says. His voice is careful in a way I've only heard him use with strangers he's decided not to underestimate. "I owe you a busted shoulder and everything that came after it. I'm not here to fix that in a pickle lane. I'm here to tell you where."
 
 "Where," Riku repeats.
 
@@ -70,13 +70,13 @@ Mira is already there when Kaito pushes the storeroom door open, and Suzumori is
 
 "Sit if you want," Kaito says. "Nobody's going to make anyone stand through this out of manners."
 
-Riku doesn't sit. "The pine road," he says, straight at Kaito, no run-up. "You put a soldier's rifle down like it was nothing, and then you turned around and told my friend to go home in a voice that took his legs out from under him for a mile. I got hit trying to get between the two of you. That bruise is why we walked slower than we should have. Slower is why a checkpoint had time to actually look at us three weeks later instead of waving us through. Slower is why we both ended up on Habu's intake line."
+Riku doesn't sit. "The pine road," he says, straight at Kaito, no run-up. "You put a soldier's rifle down like it was nothing, and then you turned around and told my friend to go home in a voice that took his legs out from under him for a mile. I got hit trying to get between the two of you. That bruise is why we walked slower than we should have. Slower is why the checkpoint that morning had time to actually look at us instead of waving us through. Slower is why we both ended up on Habu's intake line."
 
 "I know," Kaito says. He doesn't look away from it. "I've turned that road over a lot of nights since. I'm not going to tell you it would've gone differently if I'd said something kinder. I don't know that it would have. I know I didn't ask what it would do to you before I said it, and that's on me whether the checkpoint finds you slow or fast."
 
 "That's not an apology."
 
-"No," Kaito says. "It's the truth instead. I'm short on the other thing lately."
+"No," Kaito says. "I'm short on those lately. The truth is what I had."
 
 Riku's jaw works. He sits, finally, on the edge of a paper crate, like the honesty took more out of him than a fight would have.
 
@@ -110,23 +110,23 @@ Nobody has a better one. The lamp hisses. Somewhere out past the shutters a cart
 
 "We are not going to solve that man tonight," Suzumori says, into the quiet that follows. "We are not going to solve Habu, or the pine road, or which of you gets to keep the worse guilt. You have all been carrying this since separate roads met a truck, and carrying it together in one storeroom for an hour has not made any of it lighter. It has only made it louder, in stereo, which I could have told you before we started."
 
-"So what were we supposed to do," Riku says. "Sit quiet and let it fester?"
+"So what were we supposed to do?" Riku says. "Sit quiet and let it fester?"
 
 "No. You were supposed to say it once, out loud, where the other side could hear it land — which you have now done." Suzumori looks around the room, slow, like she's counting faces the way Sato once counted stamps. "Now you are supposed to do the harder thing, which is decide you are not going to fill every hour left in this city arguing about who bled worse."
 
 Mira reaches into her jacket and sets a folded sheet of paper on the crate between the lamp and Suzumori's knee — cheap printed paper, a picture of reed lanterns on a bridge, block characters gone soft at the fold from being carried too long.
 
-"The fifteenth," she says. "Fireworks over the reed pond. All wards welcome. We've had that notice on our windowsill for two weeks like it was a joke we hadn't decided whether to laugh at."
+"The fifteenth," she says. "Fireworks over the reed pond. All wards welcome. That notice has been sitting on our windowsill for days like a joke we hadn't decided whether to laugh at."
 
 "You want a festival," Mei says, and it isn't quite a question, and it isn't quite mockery either.
 
-"I want one night where nobody in this room has to be careful," Kaito says. "Not the pine road. Not the vents. Not the coat. Just lanterns and food that costs coins instead of a story, and everybody standing by the same water at the same hour like it's normal, because it's the closest thing to normal any of us are going to get handed for free."
+"I want one night where nobody in this room has to be careful," Kaito says. "Not pine road, not vents, not the coat — just lanterns and food that costs coins instead of a story, and everybody standing by the same water at the same hour like it's normal, because it's the closest thing to normal any of us are going to get handed for free."
 
 "We don't get nights off," Riku says, but it comes out tired instead of hard, which is its own kind of answer.
 
 "No," Kaito says. "We're taking one anyway."
 
-Ōhashi looks down at his notebook, at the page he hasn't written on all evening, and for once doesn't reach for the pencil. "I would like that on the record as the first plan tonight nobody had to argue into existence."
+Ōhashi looks down at his notebook, at the page he hasn't written on all evening, and for once doesn't reach for the pencil. "I'd like that written down as the first plan tonight nobody had to argue into existence."
 
 "Fifteenth," Suzumori says, tapping the paper once with one finger. "All of you. In one place, for one evening, doing nothing more dangerous than watching the sky do something pretty."
 

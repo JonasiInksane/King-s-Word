@@ -4,7 +4,7 @@ The upper slit above the loading bay is a maintenance walk with a grated floor a
 
 Mei leads. Mira hates every step and takes it anyway. The contact stays at the turn behind us with the cutters, watching the corridor we just left. Below us the service court is white under the floodlights — concrete, a canvas truck backed to the bay door, two gray-greens with rifles, a clerk with a stamp box, and a folding line of armband kids being walked out of the kitchen junction in groups of ten.
 
-Not running. Not crying loud enough to carry. Walking the way you walk when someone soft has told you that cooperation is warmth.
+Nobody runs. Nobody cries loud enough to carry. They walk the way you walk when a warm voice has told you cooperation gets you home.
 
 Habu's voice comes through the bay speakers, the same lean-in as before.
 
@@ -54,9 +54,9 @@ I hear Mira say my name. I do not answer. My hands are locked on the grate rail 
 
 Mira turns on her.
 
-"You brought us here to watch them die so we would feel guilty enough to stay. That is not a map. That is a hostage."
+"You brought us here to watch them die so we would feel guilty enough to stay. You didn't bring us a route. You brought us a reason we can't leave."
 
-"I brought you here because you asked me to walk while they were still inventory on a wall," Mei says. "Now they are inventory in a shed. If your extract cannot survive knowing that, it was never an extract. It was a theft."
+"I brought you here because you asked me to walk while they were still inventory on a wall," Mei says. "Now they are inventory in a shed. If knowing that kills your plan, then you were never extracting anyone. You were stealing one name and leaving the rest."
 
 The contact's voice cuts up the stairwell, low and ugly. "Second group is leaving the junction. Also boots on our corridor. We are out of quiet."
 
@@ -90,7 +90,7 @@ Mira's grip tightens. "Kaito—"
 
 "You stay and you die," Mira says. "Or worse — you use that mouth until there is nothing left of you, and I am the one who brought you here to watch it happen."
 
-"Then you shouldn't have pointed me at the door," I say. "You wanted a key. Keys cut both ways. Suzumori said it. I am done pretending I only open the doors you like."
+"Then you shouldn't have pointed me at the door," I say. "You wanted a key. I am done pretending I only open the doors you like."
 
 Mei folds the night sheet smaller and shoves it into her shirt.
 
@@ -102,11 +102,11 @@ Mira looks at me like she is watching a roof edge with a girl on it and no clean
 
 "And you?" the contact asks.
 
-"I stay long enough to keep him from eating the first rifle that points at him." Mira does not look soft when she says it. She looks like someone who has already lost the night she booked and is pricing the next mistake. "After that — I don't know. Move."
+"I stay long enough to keep him from eating the first rifle that points at him." Mira does not look soft when she says it. She looks like someone who has already lost the night she booked and is measuring the next mistake. "After that — I don't know. Move."
 
 The contact goes. Boots from the far corridor get louder. Below us the second ten disappear into the annex. The door rolls down. The fans pull harder.
 
-I wipe my mouth. No blood this time — I haven't spent a sentence — and somehow that is worse, because the thing waiting in my throat has nowhere to go yet.
+I wipe my mouth. No blood this time — I haven't used my mouth — and somehow that is worse, because the thing waiting in my throat has nowhere to go yet.
 
 "Medical stair," I tell Mei. "Before the third group."
 
@@ -120,10 +120,10 @@ Mira falls in on my left, jaw set, already watching exits.
 
 It is not a promise that the night ends clean. It is a promise that the first wrong door I open will not be a fourteen-year-old's eyes.
 
-At the medical stair, Habu's voice comes back through a wall speaker, still soft, still thanking, still calling the next ten by number like dinner.
+At the medical stair, Habu's voice comes back through a wall speaker, still thanking, still calling the next ten by number like dinner.
 
 I go down into the building that is shaped on purpose, with Mira's shoulder against mine and Mei's tablet light cutting the dark ahead.
 
 The third group is already forming in the court. The annex door is already rising.
 
-I follow Mei into the stairwell with my mouth shut. Mira's shoulder stays against mine. Below us Habu's soft voice keeps thanking children into the shed.
+I follow Mei into the stairwell with my mouth shut. Mira's shoulder stays against mine.

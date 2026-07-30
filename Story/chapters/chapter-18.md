@@ -34,7 +34,7 @@ He turns. Up close the face is ordinary in a way that feels deliberate. Warm eno
 
 "You left without finishing your tea," I say, which is a stupid opening and I know it.
 
-"Tea goes cold. Conversations don't always." His voice is pleasant, unhurried. "You were the one talking about the world being wrong. At the counter. To the boy with the scraped knuckles."
+"Tea goes cold. What gets said over it doesn't." His voice is pleasant, unhurried. "You were the one talking about the world being wrong. At the counter. To the boy with the scraped knuckles."
 
 I said that — quiet, to Riku, not for the room — and I thought the coat was far enough away. Apparently not.
 
@@ -54,7 +54,7 @@ The alley smells of steam and old soap. He stops under the overhang where the li
 
 "I don't know."
 
-"Good. The ones who know too fast are selling something." He laughs then — head back, loud enough that it bounces off the alley wall, a jolly sound that doesn't match the coat. "Ideals, though. Keep those. Follow them. Never let anyone talk you down into being useful and quiet while the hill eats the people who drew you maps." He wipes his eye with a knuckle, still grinning. "You want the world reshaped. I can hear it on you. Every boy who sits at that counter long enough starts wanting it."
+"Good. The ones who know too fast are selling something." He laughs then — head back, loud enough that it bounces off the alley wall, a jolly sound that doesn't match the coat. "Keep your ideals, though. Follow them. Never let anyone talk you down into being useful and quiet while they take the people who drew you maps up the hill." He wipes his eye with a knuckle, still grinning. "You want the world reshaped. I can hear it on you. Every boy who sits at that counter long enough starts wanting it."
 
 "I didn't say reshaped."
 
@@ -64,7 +64,7 @@ The question lands harder than the laugh. I open my mouth and find the same empt
 
 "I don't know yet," I say.
 
-He laughs again, delighted, as if that were the prize answer. "Honest. I like honest. The world only ever listens to one voice at a time, Aoyama — remember that when somebody offers you a choir." He says my surname like he has been holding it ready, and I go cold because I never gave it to him.
+He laughs again, delighted, as if that were the prize answer. "Honest. I like honest. The world only ever answers one mouth, Aoyama — remember that when somebody invites you into a chorus." He says my surname like he has been holding it ready, and I go cold because I never gave it to him.
 
 "How do you know my name?"
 
@@ -110,7 +110,7 @@ Riku is watching me. "You've gone the color of leftover rice. What?"
 
 "Because I've seen that story before, and it wasn't a ghost." I stand up. "Are you coming, or am I walking alone?"
 
-Riku looks at Machi. Machi looks at me, prices whatever she sees, and turns back to her pots.
+Riku looks at Machi. Machi looks at me, weighs whatever she sees, and turns back to her pots.
 
 "North hill, service road behind the laundry chimneys," she says. "Don't walk the main hospital gate after dark unless you want your name on a board. Pairs like the front."
 

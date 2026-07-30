@@ -2,6 +2,8 @@
 
 I count the till twice because the first count doesn't feel true, and somewhere under the second count I realize I'm stalling — not because the coins are wrong, but because the second I finish, there's nothing left standing between me and the thing I told Riku I wouldn't do without him.
 
+He made me say it out loud, our first morning in this city, before either of us had eaten — sat me down on the boarding house stairs and waited until I said *I don't go near Kaito without you standing next to me*, then nodded once like a man closing a deal. I said it because I owed him that. That morning, I believed it.
+
 I'm going to break that promise in about four minutes, and the only honest thing I can do about it now is not pretend otherwise while I'm doing it.
 
 The stall man left twenty minutes ago with his barrels and his instructions — lock the till, drop the shutter, leave the key with the noodle cart two stalls down. I've done all of it except the shutter. I leave a gap at the corner wide enough for a boy to duck through sideways, and I sit down on the upturned crate to wait, because standing felt like something I'd have to explain to my own legs.
@@ -111,3 +113,5 @@ Down the lane, the noodle cart's steam whistle lets out a short, ordinary shriek
 "Tomorrow," Kaito says again, backing toward the gap, like repeating it enough times will keep either of us from finding a reason to back out.
 
 "Tomorrow," I say back, and mean it exactly as much as he does.
+
+I drop the shutter and turn the key, and stand a moment in the lane with the market noise washing past. Tomorrow I walk into our room and tell Riku I found Kaito, and met him twice, and never said a word. How do I make that sound like anything except what it is?

@@ -2,7 +2,7 @@
 
 The taillights are gone before I can make my legs do anything useful.
 
-Mira's hand is still over my jaw. Her forehead is still against mine. The almost-sentence sits unfinished in my mouth — *Stop. Get out. Get away from him* — and the copper is already there for a Word I did not get to spend. Behind us Shizuhara keeps its lights on like the lobby slaughter was a rumor somebody else told. Ahead, the service track is empty mud.
+Mira's hand is still over my jaw. Her forehead is still against mine. The almost-sentence sits unfinished in my mouth — *Stop. Get out. Get away from him* — with nowhere left to land. Behind us Shizuhara keeps its lights on like the lobby slaughter was a rumor somebody else told. Ahead, the service track is empty mud.
 
 "He had him," I say. Not a question. "The coat from the glass. Habu's mezzanine. He had Haruki in the bed of that truck."
 
@@ -12,9 +12,9 @@ Mira's hand is still over my jaw. Her forehead is still against mine. The almost
 
 "You already did." Her voice is flat with the effort of holding me. "The truck did not ask your permission. Contact is this way. Suzumori is this way. You can hate the coat when you can stand without me."
 
-I walk because she makes me. West along the ditch, away from Habu's white glare, away from the place where Haruki's face was for one breath and then was not. My legs still do not trust the grass. Blood is dried on my chin from the lobby. The vents are still in my head — kids thanking Habu into a white room, the hose between groups, the soft voice on the speakers. I left Habu alive with his mouth shut. I emptied his west answer. None of it put Haruki on our side of the wire.
+I walk because she makes me. West along the ditch, away from Habu's white glare, away from the place where Haruki's face was for one breath and then was not. My legs still do not trust the grass. Blood is dried on my chin from the lobby. The vents are still in my head — kids thanking Habu into a white room, the hose between groups, the soft voice on the speakers. I left Habu alive with his mouth shut. I killed his west guards. None of it put Haruki on our side of the wire.
 
-On the ridge above Nagihama, Mira once told me I could grieve on my feet. I am still on my feet. It does not feel like grief anymore. It feels like a hole with a sentence trying to grow in it.
+On the ridge above Nagihama, Mira once told me I could grieve on my feet. I am still on my feet. My hands will not close all the way. I start to say his name to nobody and do not finish it. It does not feel like grief anymore. It feels like I still have a sentence left and nowhere to put it.
 
 The contact's truck is where we left it, pulled further into scrub so Habu's floodlights do not paint it. The contact is under the open hood with a light between her teeth, swearing at a belt. Suzumori sits on the running board with her stick of wood crooked in her hair, eyes on the pale concrete block we failed to steal a girl out of.
 
@@ -26,7 +26,7 @@ Suzumori looks up first.
 
 The contact spits the light into her palm. "That was not the job."
 
-"The job died in the annex," Mira says. "You were not inside. Do not talk to me like I forgot the chalk marks."
+"The extract failed once they started killing in the annex," Mira says. "You were not inside. Do not talk to me like I forgot the chalk marks."
 
 "We burned cutters and a night window to pull Mei out," the contact says. She looks at me. "You came back without her, and you look like you spent your whole voice on something else. What did you do in there?"
 
@@ -82,11 +82,11 @@ I do not give her one.
 
 I watch the dark and see Haruki's face in the truck bed, and the coat in the cab glass, and Habu's awake eyes over a sealed mouth, and the armband kids walking into a room that thanked them. The Word offers me clean clauses for all of it. I keep them behind my teeth because Mira is right about distance and trucks, and because if I open my mouth now I am not sure I will stop at one building.
 
-"Ashiro," I say at last, to the window, to anyone who wants it. "I am going to find the coat. I am going to find Haruki. And I am going to find the next man who runs a place like that and make him stop. If your city is on the way, fine. If it is not, I will keep walking."
+"Ashiro," I say at last, to the window, to anyone who wants it. "I find Haruki. Then the coat. If your city is on the way, fine. If it is not, I will keep walking."
 
 Mira does not tell me I am wrong.
 
-Suzumori makes that dry sound again. "On your feet, then. Just remember — feet arrive at doors. Mouths decide what happens after."
+Suzumori makes that dry sound again. "On your feet, then. Just remember — getting there is the easy part. What your mouth does after is the part that gets people killed."
 
 The inland spur is a black strip between reed fields that smell like wet rope. The contact brakes hard enough that my teeth click.
 

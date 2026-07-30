@@ -1,8 +1,8 @@
 # Chapter 11 — Inland
 
-The salt dies first.
+The salt smell is gone by morning.
 
-By morning the ridge has given us dust instead — dry hills, scrub, a herring road that used to mean carts and now means two people walking west with one sack between them. Mira sets the pace — not hard, not soft, the pace of someone who has already decided how far today goes and is waiting for my feet to catch up.
+The ridge has given us dust instead — dry hills, scrub, a herring road that used to mean carts and now means two people walking west with one sack between them. Mira sets the pace — not hard, not soft, the pace of someone who has already decided how far today goes and is waiting for my feet to catch up.
 
 I don't talk. She doesn't make me. Twice she hands me water without asking, and twice I take it, and both times my throat still feels like something heavy went down it the night before and never finished landing. Jun is not a thought I can hold all at once. He arrives in pieces — the radish fans, the thumb on the splice, the half-turn toward his mother — and I keep walking through them the way she told me to.
 
@@ -18,7 +18,7 @@ By noon the road tips into a long main street with a blackened shrine gate at on
 
 Orii's dried-goods sits halfway down the street between a shuttered tool shop and a place selling secondhand boots — a bell on the door, dust in the light, shelves of rice, tea, string, and soap, the boring things that keep a town standing.
 
-The woman behind the counter does not look up for the bell. Middle-aged, hair pinned flat, apron the color of old paper. She finishes counting a stack of tea boxes, sets the last one straight, and only then lifts her eyes.
+The woman behind the counter does not look up for the bell — middle-aged, hair pinned flat, wearing an apron the color of old paper. She finishes counting a stack of tea boxes, sets the last one straight, and only then lifts her eyes.
 
 "We're closed for lodging," she says.
 
@@ -116,11 +116,11 @@ She sees it anyway. Cloth out, thumb under my chin, the same move as the pier.
 
 She holds the cloth there a second longer than the blood needs. Her face stays level — reading weather that hasn't arrived yet.
 
-"That leaves a mark," she says. "Not on paper. On people. Someone at that well is going to tell a story about a boy whose mouth made a clipboard man forget his job." She lowers the cloth. "We leave at first light. Ishibashi. Before the story grows legs."
+"That leaves a mark," she says. "Not on paper. On people. Someone at that well is going to tell a story about a boy whose mouth made a clipboard man forget his job." She lowers the cloth. "We leave at first light for Ishibashi. Before the story grows legs."
 
 "Orii said one night. Maybe two."
 
-"One." Mira packs the sack while she talks — already deciding for both of us. "You used it in a town that still has buses. That's different from a shed. Different from a shrine yard with six hundred witnesses who will swear they saw smoke. Here it's quiet enough to remember."
+"One night. Then we go." Mira packs the sack while she talks — already deciding for both of us. "You used it in a town that still has buses. That's different from a shed. Different from a shrine yard with six hundred witnesses who will swear they saw smoke. Here it's quiet enough to remember."
 
 I sit on the mat and try to feel sorry. The sorry is there. Under it, smaller, is the same lift I felt on the pier when the soldier's eyes went loose — a hand finding a grip — and I hate that it is still there after Jun, after the soldier under his own jaw, after Haru's open mouth in the gateway.
 
@@ -128,4 +128,4 @@ Mira ties the sack shut.
 
 "Sleep," she says. "Tomorrow we walk again. And Kaito — next time a clipboard asks for paper, you let me talk first. Your mouth is what they're hunting. Mine is just a girl's."
 
-She says it like logistics. I nod like logistics. Outside the window the well square is still busy — bottles, crank, somebody laughing at a joke I can't hear. Somewhere down there is a man who forgot his job for half a minute tonight, and somewhere is whoever he tells about it first.
+She says it like logistics. I nod like logistics. Outside the window the well square is still busy — bottles, crank, somebody laughing at a joke I can't hear. I lie down and make myself stop listening to it.

@@ -10,7 +10,7 @@ He runs a wholesale cellar off North Market — dry goods, oil, salt in sacks th
 
 "Machi feeds strays. I run a business." Tanabe sets down his pencil. "Give me one reason that isn't this one vouching for you."
 
-I could build something. Sato's careful voice is still in me, the boring-errand boy who got through two checkpoints. But I'm tired of that uniform, and something in me decides that this man with his sums deserves the plain thing.
+I could build something. Sato's careful voice is still in me. But I'm tired of that uniform, and something in me decides that this man with his sums deserves the plain thing.
 
 "I can't drop the cart and vanish," I say. "I'm looking for somebody in this city, and the only way I can afford to keep looking is to be worth keeping. You'd be paying me to stay findable."
 
@@ -28,19 +28,19 @@ Six sharp at the cellar, load by weight so the cart doesn't fight the camber. No
 
 The route teaches me the city faster than a year of wandering would have, and where the route stops, Gorō starts.
 
-He's at Minato most nights, the one beer standing sentry in front of him, and he pays for company in geography. He draws me the city on the counter with a wet finger: the wards like wedges around the harbor, the elevated line and where it actually stops rather than where the map says, the three bridges and which one floods, which streets a handcart can take at noon and which ones will get you cursed at in two dialects.
+He's at Minato most nights, the one beer standing sentry in front of him, and he trades company for geography. He draws me the city on the counter with a wet finger: the wards like wedges around the harbor, the elevated line and where it actually stops rather than where the map says, the three bridges and which one floods, which streets a handcart can take at noon and which ones will get you cursed at in two dialects.
 
 "Forty years on the trams," he says. "I know this city the way you know a person. And like a person, it's been getting sicker. My line got shortened twice — materiel priority, they said, everything up the hill gets the steel first." He says up the hill the way other men say a name they're not speaking. "You'll see. Everything in this city that stops working, stops working from the hill down."
 
 "What's on the hill?"
 
-"Offices," Gorō says, and drinks, which is how I learn that even the free map has one district it charges for.
+"Offices," Gorō says, and drinks, which is how I learn that even the free map has one district he won't name.
 
-Work, food, sleep — I stand near all three, the way the tea seller said. On the route I listen at every shop door for a scraped voice. At the market I watch the day-labor lines forming at dawn, rows of backs and caps, and learn how many tall, thin, dark-haired boys one city can hold. There's a registry office two streets off Station Plaza where new arrivals are supposed to declare lodging, and a bus depot with a board listing every arrival from the east, and I don't go inside either one, because desks keep lists, and a boy asking after a boy makes two entries in one line. Kaito's trail being cold hurts less than it did in Ishibashi. Cold means no story has grown legs. Cold means no yard has broken sideways with him standing in the middle of it. I tell myself cold is what careful looks like from the outside, and most days I believe it.
+Work, food, sleep — I stand near all three, the way the tea seller said. On the route I listen at every shop door for a scraped voice. At the market I watch the day-labor lines forming at dawn, rows of backs and caps, and learn how many tall, thin, dark-haired boys one city can hold. There's a registry office two streets off Station Plaza where new arrivals are supposed to declare lodging, and a bus depot with a board listing every arrival from the east, and I don't go inside either one, because desks keep lists, and a boy asking after a boy gets both names written on the same desk. Kaito's trail being cold hurts less than it did in Ishibashi. Cold means no yard has broken sideways with him standing in the middle of it. I tell myself cold is what careful looks like from the outside, and most days I believe it.
 
 Once, a fish man on the noodle row mentions a coast boy working evening loads at the docks — young, keeps to himself, voice like he gargled the harbor. I take the cart back early and stand where the shift lets out. The boy comes through with the crowd, twenty-five if he's a day, throat wrecked from tar fumes, and the girl who meets him has a baby on her hip.
 
-I walk the long way home. Wrong boy. Next time I hear about a coast voice, I'll go look again.
+I walk the long way home with my stomach sitting somewhere under the cobbles. Wrong boy. Next time I hear about a coast voice, I'll go look again.
 
 ---
 
@@ -64,7 +64,7 @@ He catches two dock boys sizing us up on the walk home one night — nothing in 
 
 I stand under the rail line for a second with that landing on me, and then a tram goes over and shakes the whole street like a pan, and I catch him up.
 
-He's right, is the thing. Some evening while I was watching for it the city stopped being a place I was passing through. The coins I keep in three knots of cloth prove it: one knot for food, one knot for Tanabe-day mornings when the cart needs a wheel or I need gloves — and one knot, the heaviest, that I don't spend. Two bus fares east, and a bit over. I count it some nights, back-room lamp low, and I can never decide if it's a plan or a prayer. Two fares means I'm still going to find him. Two fares means we're still going home.
+He's right, is the thing. Some evening while I was watching for it the city stopped being a place I was passing through. The coins I keep in three knots of cloth prove it: one knot for food, one knot for Tanabe-day mornings when the cart needs a wheel or I need gloves — and one knot, the heaviest, that I don't spend. Two bus fares east, and a bit over. I count it some nights, back-room lamp low, and I can never decide if it's a plan or a prayer. As long as that knot holds two fares, I'm still going to find him, and we're still going home.
 
 ---
 

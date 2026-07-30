@@ -72,7 +72,7 @@ They walk us to C wing after dinner, down a corridor with a painted line on the 
 
 A door opens somewhere ahead and a line of kids comes through the junction at right angles to us — twenty of them, maybe, thirteen to seventeen, in clean clothes with cloth armbands, walking two by two behind a guard the way a school class walks behind a teacher. They look fed. They look *bright* — that is the word my head reaches for and I don't like it. A girl near the front waves at us, actually waves, and calls out that dinner is curry on Thursdays, and their guard smiles at her indulgently and tells her to keep the line.
 
-They pass. Their corridor swallows them. Ours keeps going.
+They pass out of sight down their corridor. Ours keeps going.
 
 "Volunteers," says the guard walking us, in answer to nobody. "A and B block. Good kids. Behave and the review board notices, that's all I'll say." He says it warmly, the way you repeat something you have decided to believe.
 

@@ -16,7 +16,7 @@ Mira has the empty linen cart. She stops us in the shadow of the stacked carts a
 
 "How long do we have?"
 
-"Until someone comes looking for why the court door is open, or until the truck crew shows early. Don't invent a third clock." She adjusts the sack on her shoulder. "Stay here until I call you forward."
+"Until someone comes looking for why the court door is open, or until the truck crew shows early. Don't make up a third deadline — court or truck, that's it." She adjusts the sack on her shoulder. "Stay here until I call you forward."
 
 I nod. My mouth is dry. My hands open and close on nothing.
 
@@ -76,7 +76,7 @@ Suzumori is smaller than I expected. White hair pinned with a wooden stick. Eyes
 
 "Then we're early enough." Mira tips her chin at me. "He's with me. He doesn't talk unless he has to."
 
-Suzumori's gaze returns to my mouth. "That voice is loud even when it whispers. Careful where you point it, boy. Keys cut both ways."
+Suzumori's gaze returns to my mouth. "That voice is loud even when it whispers. Careful where you point it, boy. It cuts both ways."
 
 Boots again — closer. Second flight now.
 
@@ -114,7 +114,7 @@ She heard it on the quiet floor — me telling the soldier to drop the rifle, hi
 
 Suzumori's eyes find me — not kind, not cruel.
 
-"Two kings in one world," she says. "What a terrifying thought."
+"Two mouths like that in one world," she says. "What a terrifying thought."
 
 She climbs into the cart without waiting for an answer. The contact covers her with a sheet that smells like bleach and starts walking. By the time I wipe my shoulder on my sleeve, the cart has turned the corner toward the pine road, and from the service court someone is shouting for the clerk by name.
 
@@ -136,7 +136,7 @@ Mira's step hitches once. "What about him?"
 
 "I'm not forgetting a name you say with blood still on your mouth." She doesn't slow down. "If he's in Takamatsu and he hears about a door that opened for no reason, he'll come looking. So we aren't here when he does. Drainage cut to the pine edge before they rope the hill road. After that you keep quiet until I say otherwise."
 
-"What did she mean by kings?"
+"What did she mean, two mouths?"
 
 "I don't know. She's under linen on a cart — if I get an answer, it won't be tonight." She looks at me sideways. "You opened two doors for me. Next time something needs your mouth, I ask first. You can still say no. I'm not —"
 
@@ -147,5 +147,3 @@ Mira's step hitches once. "What about him?"
 A siren starts on the hill — hospital side.
 
 "This way," Mira says, and takes the narrow service path behind the yards, the one that runs wet along the fence toward the pines. We stay off the lit road. Water soaks through my boots in the low places. A second siren joins the first, closer to Station Plaza.
-
-Behind us, somewhere on the hill, a clerk with his face in his hands is about to be asked why the court door stood open — and he is going to answer, honestly, that he opened it himself and cannot say why.

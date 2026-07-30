@@ -24,7 +24,7 @@ The gallery is a narrow walk above a white room.
 
 Through the glass: a concrete floor with drain channels cut in neat lines, still damp, as if it was just hosed. Vents along the far wall, metal mouths the size of dinner plates. A row of hooks for jackets that nobody is using. The floor is empty. Whatever happened to the first two truckloads, someone already took them out of sight — a low side hatch in the far wall stands open on darkness, and a hose is coiled neat beside it like a kitchen tool.
 
-Ten kids from the court truck are walked in through the bay door — armbands still on, cups already gone. A clerk with a tablet stands at a side door. Two gray-greens frame the vents. Nobody is shouting. Nobody is aiming a rifle at a forehead. It looks like a waiting room until Habu's soft voice comes through a speaker inside the chamber itself.
+Ten kids from the court truck are walked in through the bay door — armbands still on, cups already gone. A clerk with a tablet stands at a side door. Two gray-greens frame the vents. Nobody is shouting. Nobody is aiming a rifle at a forehead. It looks like a waiting room until Habu's voice comes through a speaker inside the chamber itself.
 
 "Inventory group three. Face the vents, please. This will only take a moment. Breathe normally. You have been very good tonight."
 
@@ -82,7 +82,7 @@ Mei takes left without looking at either of us. Mira swears and follows.
 
 Halfway down the fence corridor a pair comes around the corner. Mira pulls me into a doorway. Too late for clean. The nearer gray-green sees my face and lifts his rifle.
 
-The sentence is already in my mouth — *drop it, face the wall* — copper taste, easy as the bay clerk. Mira's eyes cut to my lips. For one ugly second I want the weight more than the room. I want these two on the floor the way the kids are on the drains. That want is new, and it is loud, and it is not about doors anymore.
+The sentence is already in my mouth — *drop it, face the wall* — as ready as it was for the bay clerk. Mira's eyes cut to my lips. For one ugly second I want the weight more than the room. I want these two on the floor the way the kids are on the drains. That want is new, and it is loud, and it is not about doors anymore.
 
 I do not speak. Not because she asked. Because speaking here still does not put me in that chamber.
 
@@ -96,17 +96,17 @@ Behind us Habu says, soft as ever, "Group seven, thank you. Face the vents."
 
 "Keep running," Mira says.
 
-We make the fence-side loop. Through a high window I get one more slice of the white room — another ten on their knees, a guard straightening a boy's armband so it sits neat while the vents breathe. The boy looks up as if he heard something. Then he doesn't.
+We make the fence-side loop. Through a high window I get one more slice of the white room — another ten on their knees, a guard straightening a boy's armband so it sits neat while the vents push air. The boy looks up as if he heard something. Then he doesn't.
 
-I hit the glass with my shoulder. Mira hauls me off it before the pane decides which of us it likes less.
+I hit the glass with my shoulder. Mira hauls me off it before it gives.
 
 "Stop it."
 
-"Get out of my way."
+"Get out of my way!"
 
 "You break that and every rifle on this floor finds you before you find a door."
 
-"Then find me a door."
+"Then find me a door!"
 
 ---
 
@@ -114,7 +114,7 @@ We stop in a dead stairwell because Mira puts her back to the exit and will not 
 
 Mei listens at the door. Through the concrete I can still hear the vents, or I am inventing them. My hands are fists. I do not remember making them fists.
 
-"I've had enough," I say.
+"I've had enough!" I say.
 
 Not quiet this time. Not aimed at anyone with weight under it — not yet — but loud enough that Mira's face goes hard.
 
@@ -166,7 +166,7 @@ My jaw locks. My eyes burn, not from smoke — from holding still on the bodies 
 
 "I watched you walk in," I tell them, quiet, useless, too late. "I watched him thank you. I sat on a grate and let distance win. I let Mira tell me not to open my mouth. I let the next door be soon enough." My throat burns. "It was not soon enough. You are on the floor and he is asking for tea like the night went well."
 
-I turn toward the bay. Toward the wall speaker. Toward the soft voice upstairs that still thinks this building belongs to kindness.
+I turn toward the bay. Toward the wall speaker. Toward the man upstairs who still thinks this building belongs to kindness.
 
 Mira sees it coming. "Kaito—don't—"
 

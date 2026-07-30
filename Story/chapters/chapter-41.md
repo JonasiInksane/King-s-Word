@@ -6,7 +6,7 @@ I find it because a boy my age is standing outside it at dawn shouting into the 
 
 "You're not from here," he says, already turning to lead me inside. "Don't care. You're not from here, you don't owe anybody in this ward a grudge, which means you'll actually move the boxes instead of standing around arguing about whose turn it is. That's rarer than you'd think. Watch the stacks — that one's rice paper, that one's the heavy stock for the frames, and none of it likes rain, which is a problem because half of Ashiro's roof leaks in August."
 
-"What's the rush," I ask, because the whole floor of the shop is stacked to the rafters with rolled paper and the man behind me is already unloading a second cart.
+"What's the rush?" I ask, because the whole floor of the shop is stacked to the rafters with rolled paper and the man behind me is already unloading a second cart.
 
 "The Reed Festival," Endo says, like I'm slow for not knowing. "Two weeks. Every lantern on every bridge in this city needs new paper because last year's is sun-rotted and the fire marshal finally noticed. I have the contract for the east wards. I have three days to fill an order that should take a week, and my nephew has decided this is the month to fall in love and be useless." He shoves a roll of paper into my arms that's heavier than it looks. "Frames go upstairs. Paper goes on the racks by color, not by size, I don't care what your instinct tells you. Two coins an hour, paid tonight, not tomorrow, because I don't trust boys I met at dawn to still be here tomorrow."
 
@@ -24,7 +24,7 @@ Around midmorning the cart man — a heavyset guy named Tetsu who has clearly wo
 
 I switch the way he shows me and the stack goes twice as fast, which he seems to take as a personal victory.
 
-"Where'd you learn to carry like that," he asks. "That's not paper-shop carrying. That's dock carrying."
+"Where'd you learn to carry like that?" he asks. "That's not paper-shop carrying. That's dock carrying."
 
 "Pier, up north. Before the line moved."
 
@@ -50,7 +50,7 @@ The fish stall turns out to be run by a woman with forearms like she's spent thi
 
 "He got hired at one," Mira says.
 
-"I noticed the smell before the sentence. It's a strong smell." Suzumori tilts her head at me. "Did you learn anything today besides how to carry a box."
+"I noticed the smell before the sentence. It's a strong smell." Suzumori tilts her head at me. "Did you learn anything today besides how to carry a box?"
 
 "The festival's on the fifteenth," I say. "Fireworks over some pond on the east side. The whole city's making paper for it like it's the only thing that matters this year."
 
@@ -88,11 +88,11 @@ Mira takes it out of my hand and reads it twice, the way she reads everything th
 
 "That's a lot of city standing in one place on one night." She folds the notice along its crease, careful, like it's worth keeping instead of scrap. "A lot of faces coming out from wherever they've been hiding all year to stand by the same water at the same hour."
 
-"You think he'd be there," I say. Haruki, I mean, though neither of us says his name out loud, because saying it out loud still feels like it might jinx whatever thin luck got us this far.
+"You think he'd be there?" I say. Haruki, I mean, though neither of us says his name out loud, because saying it out loud still feels like it might jinx whatever thin luck got us this far.
 
 "I think a city that empties itself onto one bank of water is either the safest place in Ashiro to look for somebody, or the worst place to be found standing still," Mira says. "I don't know which yet. I know we have two weeks to decide, and paper in my hand that says exactly when we'll need to."
 
-Suzumori looks at the notice over Mira's shoulder, quiet for once, and doesn't say anything about kings or coats or careful mouths. She just taps the printed date once with one finger, the way a person marks something down so they won't have the excuse of forgetting it later.
+Suzumori looks at the notice over Mira's shoulder, quiet for once, and doesn't say anything about coats or careful mouths. She just taps the printed date once with one finger, the way a person marks something down so they won't have the excuse of forgetting it later.
 
 "Fifteenth," she says. "Write it somewhere that isn't just your head, boy. Heads forget things they're scared of."
 

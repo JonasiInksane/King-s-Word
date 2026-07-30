@@ -6,7 +6,7 @@ North end of the sea wall, an hour before the boats go out, nobody but me and fo
 
 Nothing. It looks at me with one flat yellow eye and goes back to screaming at the other gulls.
 
-I try again, closer, cleaner. *Fly away. Leave. Go.* Copper rising faint at the back of my throat each time, weight going out of me — and nothing coming back. Forty gulls, and not one of them cares what I say, and on the walk to work it comes together like a splice under Jun's thumb: the soldier on the roof heard me *and knew what the words meant.* The one on the pier heard me and couldn't find the meaning — pronouns, no handles — and it slid off.
+I try again, closer, cleaner. *Fly away. Leave. Go.* A faint prickle high in my nose each time, weight going out of me — and nothing coming back. Forty gulls, and not one of them cares what I say, and on the walk to work it comes together like a splice under Jun's thumb: the soldier on the roof heard me *and knew what the words meant.* The one on the pier heard me and couldn't find the meaning — pronouns, no handles — and it slid off.
 
 It's not a shout. It's not volume at all. It's a sentence going into a mind that *understands* it, and the understanding is the door the weight walks through.
 
@@ -30,7 +30,7 @@ The town notices things too. That comes clear on Friday.
 
 I know what the gulls proved. Every real test has to be a person. I start creating tests, and I know exactly what I am doing — the version where I stumble into it is a comfort I haven't earned.
 
-I build them the way Haru would. That is the part that makes my skin crawl — I can hear the shape of his thinking in mine, careful, step by step: *a real test needs a result you can't explain away.* Telling a co-op man "take the other end" proves nothing; he would have taken the other end anyway. For a week I do those anyway — little deniable nothings, "hand me the hook," "mind the ice" — and get nothing but maybes, burning pieces of myself to learn nothing.
+I build them the way Haru would. That is the part that makes my skin crawl — I can hear the shape of his thinking in mine, careful, step by step: *a real test needs a result you can't explain away.* Telling a co-op man "take the other end" proves nothing; he would have taken the other end anyway. For a week I do those anyway — little deniable nothings, "hand me the hook," "mind the ice" — and get nothing but maybes, hurting myself to learn nothing.
 
 A real test needs someone doing a thing they would never otherwise do.
 
@@ -119,5 +119,3 @@ Clean, I know the sentence now. Built the careful way, Haru's way, no gaps, no e
 *Bring her onto the roof and set her down.*
 
 Not *let her go* — that opens a hand over empty air. This names the place, the act, the end of it. That's all it needed. One clean sentence and Ryn would have been alive.
-
-So I practice. Because the world is full of piers and trucks and lists, and the next time it hands me half a second, I am not wasting it on a dirty sentence.

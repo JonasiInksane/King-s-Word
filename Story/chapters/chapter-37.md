@@ -18,7 +18,7 @@ The coat man's voice comes back pleasant, unhurried, the same tone he used at th
 
 "How long is a while?" Riku asks.
 
-"Longer than a night on the run," the coat man says. "Shorter than a forever. I am not selling you a home. I am putting you somewhere that is not Habu's inventory."
+"Longer than a night on the run," the coat man says. "Not forever. I am not selling you a home. I am putting you somewhere that is not Habu's inventory."
 
 The truck takes a ramp down into a ward that is still awake. Lanterns hang over reed-stall alleys. Steam lifts off noodle carts. A canal runs black between concrete banks, and somebody's radio is playing a song too cheerful for the hour. Kids my age — ordinary kids, not armbands — shout across a bridge about a lost bicycle. No floodlights. No soft hold speech. For a second my chest does not know what to do with the noise.
 
@@ -28,7 +28,7 @@ We stop in a loading pocket behind a boarding house with a painted reed on the d
 
 We climb down. My legs have gone stiff. The air smells like canal water and somebody burning incense in a stairwell. Habu's disinfectant is finally out of my nose.
 
-The coat man counts us with his eyes the way he counted at the wire — not inventory, just arithmetic that cares whether the truck emptied. Then he takes a folded envelope from inside his coat and holds it out to Mei, not to me.
+The coat man counts us with his eyes the way he counted at the wire — making sure nobody is still in the bed. Then he takes a folded envelope from inside his coat and holds it out to Mei, not to me.
 
 "Room keys for the third floor. Two rooms. Coin for food and a few days of looking ordinary. The landlady thinks you are warehouse hands who missed a transfer. Do not correct her with a better story."
 
@@ -44,7 +44,7 @@ Katō swings his legs over the rail and drops to the asphalt light on his feet. 
 
 "That is not—" Ōhashi starts.
 
-"It is what is happening," Katō says. He nods at me once, almost friendly. "Pine-road. Tuesday. You can keep the cigarette joke. I never collected it."
+"It is what is happening," Katō says. He nods at me once, almost friendly. "Keep the pine-road Tuesday joke. I never collected on it."
 
 He climbs back into the bed and sits against the rail the way he was sitting when we found him. The coat man closes the gate without looking like a man who stole anyone.
 
@@ -90,9 +90,7 @@ She looks at me for a long second. "I could. I also watched A and B walk into ve
 
 I look out at Ashiro — reed stalls, canal light, an elevated train sliding past like the Loop used to in a life that still had a birthday cake on a roof. Kaito is somewhere behind us on a road that does not care we made it here. The coat man is gone with Katō. Habu is still mouthed in a glass office we will never see again if we are lucky.
 
-For the first time since the pine road, there is nowhere I have to run before dawn.
-
-"We stay," I say. "Tonight. We eat. We sleep. In the morning we talk — you first," I tell Riku, "before I invent a plan that gets us written down again."
+"We stay," I say. "Tonight. We eat. We sleep. In the morning we talk — you first," I tell Riku, "before I invent a plan that puts our names on a desk again."
 
 Riku clicks his tongue once. "Finally. Soft boy learns a schedule."
 

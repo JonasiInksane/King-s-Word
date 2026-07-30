@@ -146,7 +146,7 @@ Riku glances at him, then at me.
 
 "Second bell," Riku says. "We listen again. And if the bay door opens, we don't ask a clerk where the truck goes. We look."
 
-Ōhashi swallows. Vanity wants to forbid it. The struck name wants something else.
+Ōhashi swallows. The part of him that runs this corridor wants to forbid it. The part that got struck off the Tuesday list wants something else.
 
 "If you get caught," he says, "I never heard this. If you don't get caught — you tell me if you see him. I am not rewriting Tuesday for a story."
 
@@ -232,7 +232,7 @@ Riku is already moving toward the west corridor the corporals just emptied. Bad 
 
 "Ordinary faces," he says without looking back. "Don't touch any door we can't explain. We look, and we leave."
 
-We take the west corridor at a walk that tries to be boring. The floodlight glare gets brighter with every turn. Behind us Ōhashi stays under the junction board with his pencil and his list. Ahead, the kitchen stair smells like boiled fish and cold air from a door that should be shut.
+We take the west corridor at a walk we keep slow and even. The floodlight glare gets brighter with every turn. Behind us Ōhashi stays under the junction board with his pencil and his list. Ahead, the kitchen stair smells like boiled fish and cold air from a door that should be shut.
 
 Riku hits the first step.
 

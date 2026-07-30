@@ -116,9 +116,7 @@ Kaito was already at the claw machine, burning yen on a hideous cat plush with o
 
 "Let it go," she called back, without turning. "Both of you. Before I win something else."
 
-We said it all night without hearing it. *Let it go. Let me try. Let her win. Let's go.* The way you say it your whole life — the smallest word in the language, worn smooth, weighing nothing.
-
-The war app buzzed twice on the walk to the Loop. Both times I turned my phone face-down without reading it, because I had decided that tonight nothing was allowed to be wrong. On the Daigo screen the big font said EASTERN LINE HOLDING and the small font underneath scrolled the names of the missing, and for once I let them go past unread. That's the version of me I have the hardest time forgiving — not the one on the roof. The one on the sidewalk, deciding not to look.
+The war app buzzed twice on the walk to the Loop. Both times I turned my phone face-down without reading it, because I had decided that tonight nothing was allowed to be wrong. On the Daigo screen the big font said EASTERN LINE HOLDING and the small font underneath scrolled the names of the missing, and for once I let them go past unread.
 
 ---
 
@@ -126,7 +124,7 @@ The evening car up the school hill was nearly empty. That's why I noticed the ma
 
 He stood by the far doors, and he did not belong to the evening. Everyone else in the car was going somewhere — home, a shift, a dinner — and wore it on their bodies. He was not going anywhere. He was *at* somewhere, and the somewhere was us. Mid-thirties, maybe forties. Short hair with nothing to say. A plain dark coat too warm for June. A face that my memory kept refusing to hold even while I was looking directly at it.
 
-Kaito laughed too loud at something Ryn said — the whole car did its usual thing, the small soft leaning-in that rooms did around him — and the man did not soften. He watched Kaito laugh the way a man watches a scale settle. Then his eyes moved to me, and I felt it, physically, the way you feel a draft. He took out a phone, held it up, and for one second turned the screen toward us across the car. Not filming. Showing. Text on it, too far away to read.
+Kaito laughed too loud at something Ryn said — the whole car did its usual thing, the small soft leaning-in that rooms did around him — and the man did not soften. He watched Kaito laugh without smiling once. Then his eyes moved to me, and I felt it, physically, the way you feel a draft. He took out a phone, held it up, and for one second turned the screen toward us across the car. Not filming. Showing. Text on it, too far away to read.
 
 The doors opened at the hill station. Ryn pulled us out by two sleeves at once, into the warm dark, laughing about something I didn't catch, and by the top of the school stairs I had forgotten the man completely.
 
@@ -250,7 +248,7 @@ And I know the officer walked to the lip, looked down at the street for exactly 
 
 "Confirmed," he said, to the radio on his collar. "It's the Word. Both flagged, the loud one is active." A pause while the radio talked. He glanced at the kneeling soldier the way you glance at a spent tool. "One casualty. Civilian. Yes — it was instructive." He stood there, in the middle of all of it, and checked his watch again. "Bring both. Alive is the entire point. And if the loud one opens his mouth — hands over your ears, and you do not listen to one word he says. That order stands until I revoke it."
 
-Seventeen years old, face-down on a rooftop, Ryn gone, the east ending, and a man in a pressed uniform talking about my best friend's *mouth* like it was the thing he'd been sent to collect. I understood nothing.
+Seventeen years old, face-down on a rooftop, Ryn gone, the east ending, and a man in a pressed uniform talking about my best friend's *mouth* like it was the reason they'd climbed the stairs. I understood nothing.
 
 Then the east stairwell exploded.
 

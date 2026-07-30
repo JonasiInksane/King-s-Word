@@ -2,13 +2,13 @@
 
 Kuroishi is supposed to be where I catch him.
 
-I know it isn't before I clear the last bend — the road has the wrong weight to it, like a room someone has already left. Dust and scrub for hours behind me, a water tower rising and falling until I stop believing in it, then a town at the bottom of the tip — blackened shrine gate at one end, bus depot at the other, the smell of hot asphalt and croquette oil and copy paper from an open office door. Sato's transit chit rides dry inside my jacket. Sugi's last onigiri is gone by noon. The sentence I have been carrying since a vending-machine light outside Kōgetsu is still unfinished in my mouth, and every kilometer since Nagihama has been the same argument: I am late, and late is how I lose him.
+I know it isn't before I clear the last bend — no bus idling at the depot end, no cart dust hanging over the road, nobody walking ahead of me. Dust and scrub for hours behind me, a water tower rising and falling until I stop believing in it, then a town at the bottom of the tip — blackened shrine gate at one end, bus depot at the other, the smell of hot asphalt and croquette oil and copy paper from an open office door. Sato's transit chit rides dry inside my jacket. Sugi's last onigiri is gone by noon. The sentence I have been carrying since a vending-machine light outside Kōgetsu is still unfinished in my mouth, and every kilometer since Nagihama has been the same argument: I am late, and late is how I lose him.
 
 At the edge of town a pair stops me under a shade cloth — polite, tired, already halfway through the next stamp. The older one holds out a hand for papers without looking up from the previous boy.
 
 "Purpose," he says.
 
-"Family errand. Locating a cousin's household inland. Displaced since the coast registration week." I hand over Sato's chit with my shoulders down, boring as a boy on an errand, and he stamps me through while he is still reading the work reference. His partner glances at my boots, then at the road behind me, and waves me on before I have finished thanking them.
+"Family errand. Locating a cousin's household inland. Displaced since the coast registration week." I hand over Sato's chit with my shoulders down, and he stamps me through while he is still reading the work reference. His partner glances at my boots, then at the road behind me, and waves me on before I have finished thanking them.
 
 I walk into Kuroishi with the stamp still wet and go in through the shrine end so I don't hit the depot first. Nobody runs. Nobody smiles much. A boy my age wheels a cart of empty bottles past me — the town has already decided I am ordinary, which is useful at a shade cloth and useless for catching anyone.
 
@@ -16,7 +16,7 @@ I walk into Kuroishi with the stamp still wet and go in through the shrine end s
 
 I ask at the first open door that looks like it feeds people — a dried-goods shop between a shuttered tool place and secondhand boots, a bell over the door, dust hanging in the light. The woman behind the counter does not look up until she has finished counting a stack of tea boxes.
 
-She is middle-aged, hair pinned flat, in an apron the color of old paper, and she lifts her eyes the way Orihara used to lift them when a customer interrupted a column: as if the interruption were the rude part, not the war.
+She is middle-aged, hair pinned flat, in an apron the color of old paper, and she lifts her eyes the way Orihara used to lift them when a customer cut into her counting: as if the interruption were the rude part, not the war.
 
 "We're closed for lodging," she says.
 
@@ -40,7 +40,7 @@ So I haul — tea, then rice, then a crate of soap that has no business weighing
 
 "He looked like a boy who had walked out of something and hadn't decided what to call it." She says it flat, not unkind. "The girl paid in work. He kept his mouth shut in my shop, which I appreciated." She goes back to her tea boxes. Then, without looking up: "Your cousin should keep his head down. Clipboards have been asking about mouths since the night before last."
 
-"Mouths."
+"What do you mean, mouths?"
 
 "Ask at the well if you want gossip. I sell rice."
 
@@ -50,7 +50,7 @@ She snorts once. "Whether anyone had heard a boy talk strangely. Whether anyone 
 
 "Can I buy water first?"
 
-She points at a jug by the door without charging me. I fill my bottle. I thank her. She does not give me her name. I do not ask. On the way out I try once more: "The girl — dark hair, coast manner, sack. Did she say where after Ishibashi."
+She points at a jug by the door without charging me. I fill my bottle. I thank her. She does not give me her name. I do not ask. On the way out I try once more: "The girl who paid in work — did she say where they were headed after Ishibashi?"
 
 "Takamatsu, if the bus kept its schedule. That is all I know, and it is more than I should have said." The bell rings behind me. The street heat hits like a second stamp.
 
@@ -102,4 +102,4 @@ I put the croquette paper in a bin. I check Sato's chit once, inside the jacket,
 
 A woman selling water from a roadside cooler calls out the price. I have almost nothing left after the croquette, so I shake my head. She shrugs and goes back to her shade.
 
-The board at the last fork says Ishibashi — fourteen kilometers. East. The wrong direction if the crank man was right, and the only direction I have left that wasn't bought with a stamp.
+The board at the last fork says Ishibashi — fourteen kilometers. Fourteen more between me and the last people who saw him. I take the first step and keep taking them.

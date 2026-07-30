@@ -34,9 +34,9 @@ Suzumori leans forward. "Careful, girl. That is starting to sound like you own h
 
 "Remnant wanted a clean extract," Mira says. "Next time they will want answers — for Mei staying, for the cutters, for what you did in the west. Ashiro is not the end of my road either. Okina has people somewhere who still think I report to them. I am telling you that now so you do not invent a nicer version later."
 
-Suzumori ties her boot back on with hands that know how to work through pain. "I am walking with you because a boy with a mouth like yours scares me when he is alone. I have kept packages for people Mira's aunt's road owed. I have sat on quiet floors while men with nice watches decided when I would be transferred east. Your voice is loud even when you whisper, Kurosawa. I will not turn that into a speech about kings tonight. I will tell you this: if Mira uses you only as a hammer, I will say so to her face. If you use yourself only as a hammer, I will say so to yours."
+Suzumori ties her boot back on with hands that know how to work through pain. "I am walking with you because a boy with a mouth like yours scares me when he is alone. I have kept packages for people Mira's aunt's road owed. I have sat on quiet floors while men with nice watches decided when I would be transferred east. Your voice is loud even when you whisper, Kurosawa. I will not turn that into a speech tonight. I will tell you this: if Mira uses you only as a hammer, I will say so to her face. If you use yourself only as a hammer, I will say so to yours."
 
-"Two kings," I say, because the phrase has been stuck in my head since the pine road. "You said that once."
+"Two mouths like that in one world," I say, because the phrase has been stuck in my head since the pine road. "You said that once."
 
 "I said I was afraid of the thought," Suzumori says. "Do not turn it into a plan. Not tonight."
 
@@ -52,7 +52,7 @@ Nobody talks for a bit. Outside, something moves on the canal — a night fisher
 
 I want to say something that cuts her. I want to crack Habu's glass from here. I want Haruki in front of me without a truck between us. None of that helps, so I keep my mouth shut.
 
-The vents come back anyway — white room, hose between groups, a girl my age saying thank you like it was a password. Copper rises and I swallow it down. Mira watches my jaw work.
+The vents come back anyway — white room, hose between groups, a girl my age saying thank you like it was a password. Something ugly comes up my throat and I swallow it down. Mira watches my jaw work.
 
 "You are doing that thing," she says. "Where you line up words and do not say them."
 
@@ -88,7 +88,7 @@ I look down. She is right. I make fists until the knuckles go white, then open t
 
 Mira nods once. "That is fair."
 
-Suzumori finishes with her boot. "Fair gets rewritten the minute a city gives you a worse choice. Drink the water. Lie down for an hour. Ashiro is closer than it looks, and neither of you will get there sharper by talking yourselves empty."
+Suzumori finishes with her boot. "Fair changes the minute a city gives you a worse choice. Drink the water. Lie down for an hour. Ashiro is closer than it looks, and neither of you will get there sharper by talking yourselves empty."
 
 "I am not sleeping," I say.
 

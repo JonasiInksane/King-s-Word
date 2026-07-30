@@ -2,7 +2,7 @@
 
 The trucks come back on a Tuesday, and this time there are three of them.
 
-I'm on the nets with Jun when the first one crosses the bridge — engine note wrong for a fish town, too even, no rattle — and by the time it parks at the harbor office the second is coming down the prefecture road and the third is already at the shrine. Jun's hands stop on the mesh. Big, calm Jun, whose whole body is a place with no clock in it, goes still like the tide pausing, and that scares me worse than the trucks.
+I'm on the nets with Jun when the first one crosses the bridge — engine note wrong for a fish town, too even, no rattle — and by the time it parks at the harbor office the second is coming down the prefecture road and the third is already at the shrine. Jun's hands stop on the mesh. Big, calm Jun, who never hurries at anything, goes still, and that scares me worse than the trucks.
 
 "That's not a registry pace," he says.
 
@@ -76,7 +76,7 @@ Somebody's hand closes on my arm. Sugi — I don't know how she crosses that yar
 
 ---
 
-The lane past Orihara's, the drying-yard cut, the gap in the wall fence Jun showed me my first week so we could beat the lunch line. My body runs the town like it has been rehearsing the route all summer. Behind me the shrine keeps screaming. My nose pours. Twice the world goes gray at the edges and I run through the gray.
+My body runs the town like it has been rehearsing the route all summer — down the lane past Orihara's, through the drying-yard cut, out the gap in the wall fence Jun showed me my first week so we could beat the lunch line. Behind me the shrine keeps screaming. My nose pours. Twice the world goes gray at the edges and I run through the gray.
 
 Haru catches me at Sugi's gate.
 
@@ -96,16 +96,16 @@ Mira is at the lane mouth. Kit on her shoulder, a cloth sack already packed, her
 
 One more look back. Sugi's plum tree over the wall. The empty stretch of shelf through the window where the cat used to sit. Haru in the gateway, hand still open where my sleeve was, mouth still open around the sentence he couldn't close, and behind him up the lane the sound of a town learning what the day is.
 
-Everything I have ever loved fits in one gateway. I turn and follow her at a run.
+I turn and follow her at a run.
 
 ---
 
-The ridge track in the dark, then. Roots and herring-cart stones, Mira's shape ahead of me, the cove dropping away behind until Nagihama is just a handful of lit grains spilled at the sea's edge, with three gray-green trucks parked in it.
+We take the ridge track in the dark, over roots and herring-cart stones, Mira's shape ahead of me, until the cove drops away behind us and Nagihama is just a handful of lit grains at the sea's edge with three gray-green trucks parked in it.
 
 She lets us stop at the top. Two minutes. She hands me water from the sack — she packed enough for both of us — and I drink while Nagihama stays lit below the ridge.
 
-"We have to keep moving," Mira says from the dark ahead. Gentle. "You can grieve on your feet."
+"We have to keep moving," Mira says from the dark ahead. Gentle. "If we stop here, they close the ridge by morning."
 
 "I left him in the gateway," I say.
 
-"I know." She starts walking. "That is why we don't stop."
+"I know." She starts walking. "The man in the gray suit had his hands over his ears before the yard finished screaming. He was hunting for a mouth. He will not stop at Nagihama. Walk."

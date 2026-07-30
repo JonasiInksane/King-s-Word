@@ -26,7 +26,7 @@ The bridge crowd thickens as we cross into the ward proper — lanterns strung t
 
 "I forgot cities did this," Mei says, mostly to herself, watching a pair of kids race paper boats down the canal's edge with actual coins riding on the outcome. "Just — this. For no reason except the date on a calendar."
 
-"There's a reason," Suzumori says. "It's the first one since the checkpoints went up on the coast road. Half this crowd lost somebody east. The rest came anyway." She doesn't say it like a lecture. She says it like a woman confirming a fact she already priced in before she agreed to come.
+"There's a reason," Suzumori says. "It's the first one since the checkpoints went up on the coast road. Half this crowd lost somebody east. The rest came anyway." She doesn't say it like a lecture. She says it like a woman confirming a fact she already knew before she agreed to come.
 
 We eat standing at a cart selling grilled corn brushed with something sweet and a little burnt, because Kaito insists, because apparently there's a version of him that gets loud and cheerful about corn on a stick when nobody's life is currently on fire, and it's strange and good to watch. Ōhashi buys a paper cone of roasted chestnuts and gives half of it to Mei without being asked, the way he's been doing small unannounced things for her since Shizuhara, and she takes it without comment, which from Mei is the whole thank-you.
 
@@ -48,9 +48,9 @@ He isn't good at it. His first ring skips off the nearest bottle and bounces int
 
 "Every game at every festival has been rigged since before either of us was born," Suzumori says, not even looking up from the folding stool she's found herself. "The rigging is the point. You are meant to lose cheerfully and buy a fan on your way out regardless."
 
-Mei steps up next, pays for three rings without any speech about it, and lands two out of three clean around the bottle necks, calm as she counts a junction board, and holds her hand out to the stall owner for the promised fan like she's collecting a debt he tried to pretend he didn't owe.
+Mei steps up next, pays for three rings without any speech about it, and lands two out of three clean around the bottle necks, calm as she counts a junction board, and holds her hand out to the stall owner for the promised fan like the outcome was never in doubt.
 
-"How," Riku says, betrayed.
+"How?" Riku says, betrayed.
 
 "I watch things fall for a living," Mei says, already fanning herself with her prize. "Turns out that's useful for more than counting kids."
 
@@ -84,4 +84,4 @@ For a while nobody says anything that needs saying. The drum two streets over se
 
 Down by the pond's edge, someone shouts that the fireworks crew is testing the first fuse, and half the crowd on the bank turns to look. For one more breath it's just a warm evening and seven people who finally got to sit still together without anybody hurting.
 
-The first firework cracks open white above the reeds, and the whole bank tips its face up at once, waiting on the next one.
+The first firework cracks open white above the reeds, and everyone on the bank tips their face up at once, waiting on the next one.

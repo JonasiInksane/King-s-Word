@@ -2,7 +2,7 @@
 
 We went west because she said west, and because every road still open pointed that way.
 
-Kōgetsu came apart behind us politely, which was somehow the worst part. No panic in the streets we walked — just lines. Lines at the station gates, lines at the bus stops, lines of tail lights on the elevated highway pointing west like iron filings. People stood in them holding suitcases that wouldn't close and pets that wouldn't stop shaking, and everybody kept their voice down, as if the thing rising over the eastern wards could be kept from noticing us if the whole city agreed to whisper.
+Kōgetsu emptied behind us quietly, which was somehow the worst part. No panic in the streets we walked — just lines. Lines at the station gates, lines at the bus stops, lines of tail lights on the elevated highway pointing west like iron filings. People stood in them holding suitcases that wouldn't close and pets that wouldn't stop shaking, and everybody kept their voice down, as if the thing rising over the eastern wards could be kept from noticing us if the whole city agreed to whisper.
 
 The trains were finished by midnight — not stopped, *taken*, requisitioned for the wards closer to the line — so we walked. Out through the west gates of the city with the crowd, then along the coast road when the crowd thinned into the ones who had nowhere particular to be walking to. Ash came down for a while around two in the morning, fine and gray, like the beginning of snow that had changed its mind. It got into our socks. It got into everything.
 
@@ -18,7 +18,7 @@ I reached up and touched mine, the way you check your pocket after seeing someon
 
 We walked on. Dawn came up gray at our backs. A two-car branch train was running from the junction town — some railway man had decided on his own authority that it would run, and stood on the platform waving people aboard like it was any Sunday — and it carried us over the coastal hills with a load of quiet strangers, down to where the land folded into a cove and the sea finally stopped looking like something on fire.
 
-Nagihama. Boats under blue tarps. One main street. A plum tree hanging over a tile-roofed row at the end of the harbor lane.
+Nagihama was boats under blue tarps and one main street, with a plum tree hanging over a tile-roofed row at the end of the harbor lane.
 
 Ryn had talked about this town every summer of her life. It was exactly the size of her stories, and she was not in it, and I hated it on sight for that.
 
@@ -26,7 +26,7 @@ Sugi opened her door before we knocked.
 
 She had gotten out on the last Saturday train with the other stall-keepers — I learned that later. What I knew in that moment was only what her face did. She looked at the two of us on her step, gray to the knees with ash. Then at the cat under my arm, birthday sticker still on it. Then behind us, down the lane, at the space where a third person was not standing.
 
-She counted. I watched her count. I watched the number come up short.
+I watched her understand.
 
 "Inside," she said. "Both of you. Shoes off."
 
@@ -120,6 +120,6 @@ Inside, the shelf by the window is empty where the cat was. Kaito sits against t
 
 "Futon," I say.
 
-She nods once and goes to put rice on. The city, the roof, the road, the water — that part is all one piece, and it's finished.
+She nods once and goes to put rice on.
 
 I'd promised myself I'd say it when he could hear it. *It wasn't your fault.* On my first night under Sugi's roof I lie awake with the sentence ready, listening to his breathing stay too even across the room, and I don't say it then either.

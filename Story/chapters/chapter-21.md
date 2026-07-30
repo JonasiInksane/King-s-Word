@@ -30,7 +30,7 @@ Mira leaves me in the cut and goes up to the fence line alone. She comes back wi
 
 "And if someone comes up this path?"
 
-"Then we're cousins who got lost looking for a laundry shortcut, and I do the talking." She looks at my bandage. "You look like you lost a fight with a fence. That part's free."
+"Then we're cousins who got lost looking for a laundry shortcut, and I do the talking." She looks at my bandage. "You look like you lost a fight with a fence. That much is obvious."
 
 "I can talk."
 
@@ -86,7 +86,7 @@ Around midday we stop in a scrape of dry ground under pines that still hold last
 
 "Someone might be on that path."
 
-"Someone is always on a path." She picks a grain of rice off her thumb with her teeth. "You mean him."
+"Someone's always walking." She picks a grain of rice off her thumb with her teeth. "You mean him."
 
 I don't deny it. The scrape in my throat makes denial sound like theater anyway.
 
@@ -100,7 +100,7 @@ I don't deny it. The scrape in my throat makes denial sound like theater anyway.
 
 "And if quiet is him?"
 
-"Then he can take his time too." For a second something almost soft moves in her face, and then it is gone. "We have a shed to reach before dark. Eat. Then walk. Looking back is not a plan."
+"Then he can take his time too." For a second something almost soft moves in her face, and then it is gone. "We have a shed to reach before dark. Eat. Then we walk. Looking back doesn't get us there."
 
 I finish the rice. It tastes like a room we already locked.
 
@@ -122,7 +122,7 @@ Mira feels my arm go hard under her grip, then ease. She does not let go.
 
 "Down," she breathes. "He's the one who covered his ears on the pier."
 
-Below us he asks something we cannot hear. The younger gray-green points toward the hospital service court. The older one points toward the pine road. He does not point. He turns once, slow, and for a second his face is aimed uphill in our direction — not seeing us, not missing us either. Just listening to a hill that has too many stories on it now.
+Below us he asks something we cannot hear. The younger gray-green points toward the hospital service court. The older one points toward the pine road. He does not point. He turns once, slow, and for a second his face is aimed uphill in our direction — not seeing us, not missing us either. Just listening for too many stories on one hill.
 
 Then he walks back toward the chimneys with the pairs, and the lit road is empty again.
 
@@ -176,4 +176,4 @@ Mira waits until the boots are gone. Then she waits longer.
 
 "If we get to the shed first," I say, "and he's already on the marks—"
 
-"Then he's burning decoys for us whether he means to or not." She does not look back. "Shed. First. That is the only sentence I want out of you until dawn."
+"Then he's burning decoys for us whether he means to or not." She does not look back. "We get to the shed first. If you need a sentence to hold until dawn, hold that one."

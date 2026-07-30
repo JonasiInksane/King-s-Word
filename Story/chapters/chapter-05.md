@@ -74,7 +74,7 @@ By the end of the first week I am there most afternoons. She pays me in vegetabl
 
 Mira comes by most days, because Mira comes by everywhere most days.
 
-Seventeen, aunt with the blue gate and a bad hip, an errand network that covers the whole lane. She's the one who knows which family has extra futons and which grandmother stopped cooking for herself. When the shrine gym flooded its corner last week she had four boys with buckets there before the priest finished noticing. Nobody organized her. She's just the kind of current a town runs on. With us she doesn't do the refugee voice — she argues with Kaito about whether the co-op scale is honest, she borrows a kilo weight to prove him right, she brings her aunt's spare radio for Sugi and stays through the marine forecast like it's entertainment.
+Seventeen, aunt with the blue gate and a bad hip, an errand network that covers the whole lane. She's the one who knows which family has extra futons and which grandmother stopped cooking for herself. When the shrine gym flooded its corner last week she had four boys with buckets there before the priest finished noticing. Nobody organized her. She's just how errands get done on this lane. With us she doesn't do the refugee voice — she argues with Kaito about whether the co-op scale is honest, she borrows a kilo weight to prove him right, she brings her aunt's spare radio for Sugi and stays through the marine forecast like it's entertainment.
 
 One afternoon she turns up while Sugi's washing is still dripping in the tubs and says, "Those will mildew if you leave them," as if the sheets had personally offended her. Ten minutes later we are in the yard with the line strung between the plum tree and the eaves, pegs in a tin bowl, wet cotton heavy in our hands. Kaito is down the lane carrying a new shelf for Orihara like it weighs nothing. From here he is just a dark shape and a piece of wood.
 
@@ -122,7 +122,7 @@ I read it twice and go home the long way, past the co-op. Kaito is stacking crat
 
 "Hard to miss a gray-green thing that big." He takes the next crate without turning. "What's on the board?"
 
-"Registry verification. Anyone who arrived after June first has to present. Households sheltering arrivals have to declare them."
+"They want names. Anyone arrived since June first — and the households sheltering them have to declare it."
 
 That gets him to stop. He sets the crate down and wipes his hands on his thighs, once each.
 
@@ -162,7 +162,7 @@ He is sitting at the bend where you can see the whole cove, heels against the st
 
 A gull crosses the cove and vanishes into the dark over the boats. Kaito's thumbs rub the pads of his fingers, back and forth.
 
-"Haru." Still not looking at me. "Can I ask you something. About that night."
+"Haru." Still not looking at me. "Can I ask you something? About that night."
 
 My mouth goes dry. "Yeah."
 
@@ -170,7 +170,7 @@ My mouth goes dry. "Yeah."
 
 "I saw it."
 
-"Did it look like he chose to let go?" He says it flat, like he has been practicing the question all day and still hates the sound of it. "Or did it look like something else."
+"Did it look like he chose to let go?" He says it flat, like he has been practicing the question all day and still hates the sound of it. "Or did it look like something else?"
 
 *It wasn't your fault.* The sentence is right there. It has been right there since the underpass. All I have to do is say it.
 
@@ -187,3 +187,5 @@ He knows what I did not say. I can feel him knowing it, sitting there with the g
 He does not ask again. He drops off the wall and lands light, like the conversation never happened.
 
 "Come on," he says. "Sugi holds rice hostage after eight, and I already washed my bowl twice. She'll invent a third crime if we're late."
+
+I slide off the wall after him. Six syllables. Why couldn't I say them?

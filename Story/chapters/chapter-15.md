@@ -1,7 +1,5 @@
 # Chapter 15 — Hands, Not Papers
 
-The ice yard wakes before the sky does.
-
 Riku shakes me off the cardboard while the arches are still black, and we walk the length of the market with our breath showing, past shuttered stalls and a cat that owns the whole street at this hour. Behind the depot there's a gravel lot with a corrugated shed, two trucks, and a man in a rubber apron sliding blocks of ice down a wooden ramp like he's angry at each one personally.
 
 Riku lifts a hand. "Boss. You're short today."
@@ -24,7 +22,7 @@ The driver checks the load, throws two folded tarps at us, and says, "You ride w
 
 "He's a natural at it," Riku says.
 
-We pull out of Ishibashi as the first light comes over the arches, and I watch the bridge and the dry river and the squid stall's cold grill slide away behind the tailgate. Kaito left this town at dawn yesterday. I'm leaving it at dawn today. The distance between us has stopped shrinking and started holding steady, like a stitch in my side.
+We pull out of Ishibashi as the first light comes over the arches, and I watch the bridge and the dry river and the squid stall's cold grill slide away behind the tailgate. Kaito left this town at dawn yesterday. I'm leaving it at dawn today. A day behind then. Still a day behind now.
 
 ---
 
@@ -76,7 +74,7 @@ Riku exhales through his nose, not quite a laugh. "Congratulations," he says qui
 
 ---
 
-North Market swallows the truck whole.
+North Market takes the truck in whole.
 
 I have never seen anything like it — a roofed street and then another roofed street crossing it, stalls three deep, fish on shaved ice that we are apparently here to replace, a noise that isn't one noise but a thousand negotiations happening at once. We unload into cellar hatches and cold boxes for two hours, and men take delivery of the blocks without ever really seeing us, and I begin to understand what Riku meant about the machine.
 
@@ -88,7 +86,7 @@ I try asking if someone has seen him once, because not trying isn't in me. There
 
 "They'd have been hungry. Somebody sold them a first meal."
 
-"Somebody sells everyone their first meal. That's the whole city." She hands a customer his change and takes my empty cup back like the conversation is measured by the porcelain. Then, because I have paid and I am still standing there and the queue has died properly: "You want to find one person in Takamatsu, stop asking markets. Find what he has to keep going back to — work, food, sleep — and stand near it. Now move along, you're blocking a paying man's elbow."
+"Somebody sells everyone their first meal. That's the whole city." She hands a customer his change and takes my empty cup back, which means we're done. Then, because I have paid and I am still standing there and the queue has died properly: "You want to find one person in Takamatsu, stop asking markets. Find what he has to keep going back to — work, food, sleep — and stand near it. Now move along, you're blocking a paying man's elbow."
 
 It lands like the shop woman in Kuroishi and the squid woman in Ishibashi, except in those towns the trail was a day old and warm. Here it walked into eight hundred streets of strangers. I put the coins away and find Riku leaning on a pillar, watching me learn it.
 

@@ -64,7 +64,7 @@ He does not waste the first hundred meters on small talk. He has been composing 
 
 I keep walking. Roots. Wet scrub. My shoulder singing.
 
-"It wasn't your fault," Haruki says. Six syllables. The ones he owed me under a vending-machine light outside Kōgetsu. "Not the hand. Not Ryn. Not the roof. You told a soldier to let go of a girl and the world broke wrong around the words. That is not the same as choosing what happened to her." His voice stays level. "I should have said it before the yard. I should have said it in the underpass. I am saying it now, and I am not asking you to pretend the road didn't happen. I am asking you to stop running like the only clean thing left is your mouth."
+"It wasn't your fault," Haruki says. Six syllables. The ones he owed me under a vending-machine light outside Kōgetsu. "Not the hand. Not Ryn. Not the roof. You told a soldier to let go of a girl and the world broke wrong around the words. That is not the same as choosing what happened to her." His voice stays level. "I should have said it long before now. I am saying it, and I am not asking you to pretend the road didn't happen. I am asking you to stop running like the only clean thing left is your mouth."
 
 The words are true. They do not change what I am going to do next.
 
@@ -78,7 +78,7 @@ Mira has stopped at a break in the scrub where the inland track shows through. S
 
 "They heard the shot," she says. "They will send more."
 
-Suzumori's hand finds my sleeve — not Mira's habit, a different grip, older. "Say what you came to say to him, boy from the clean rooms. Then decide if you are a door or a person. I will not decide it for you."
+Suzumori's hand finds my sleeve — not Mira's habit, a different grip, older. "Say what you came to say to him, boy from the clean rooms. Then decide if you are going to keep opening things, or stop. I will not decide it for you."
 
 Haruki faces me fully. The scrub smells like crushed broom. Somewhere a dog barks at the wrong century.
 
@@ -86,7 +86,7 @@ Haruki faces me fully. The scrub smells like crushed broom. Somewhere a dog bark
 
 It is a good speech. It is the speech I wanted in the dark outside Kōgetsu, and in the gateway, and in every ditch between Kuroishi and the stationery shop window. It is not enough.
 
-Because Mira is watching me with the face that does not beg. Because Suzumori's dread sits in the air without needing the word *kings*. Because the pairs on the road are closing and my mouth already knows the clean sentence that buys us an exit, and Haruki's careful voice will not make three gray-greens forget a rifle shot.
+Because the pairs on the road are closing, and my mouth already knows the clean sentence that gets us out, and Haruki's careful voice will not make three gray-greens forget a rifle shot.
 
 "You don't get to finish my road with a sentence," I say. "Even a true one."
 
@@ -94,11 +94,11 @@ Haruki's face does something small and broken. "Then what do I get?"
 
 "You get to go home."
 
-I do not mean Nagihama. I do not mean Sugi's door. I mean off this scrub, off Mira's fork, off the hunt that ends with the Listener collecting mouths. I mean away from me before I use him the way I used a clerk and a soldier and a kneeling man on gravel.
+I do not mean Nagihama. I do not mean Sugi's door. I mean off this scrub, off Mira's fork, off the hunt that ends with the Listener taking mouths. I mean away from me before I use him the way I used a clerk and a soldier and a kneeling man on gravel.
 
 He hears the ordinary meaning first. Then he hears the weight gathering under it — I see it in his eyes, the same recognition he had for a door that opened because a mouth asked.
 
-"Kaito. Don't."
+"Kaito—don't!"
 
 Mira's hand is on my back. Not stopping me. Steadying the body that is about to pay.
 
@@ -116,7 +116,7 @@ Haruki's face empties — and then something in him fights it, a resistance I ha
 
 "Kaito—" Mira says.
 
-Riku grabs for Haruki's arm. Haruki's feet are already turning toward the east, toward Takamatsu, toward whatever *home* means when a scraped voice defines it for you. His mouth opens around my name again and nothing comes out that has force in it.
+Riku grabs for Haruki's arm. Haruki's feet are already turning toward the east, toward Takamatsu, toward whatever *home* means when a scraped voice defines it for him. His mouth opens around my name again and nothing comes out that has force in it.
 
 Suzumori makes a sound like a door latch failing.
 

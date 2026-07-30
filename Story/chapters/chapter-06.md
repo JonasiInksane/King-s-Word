@@ -1,8 +1,8 @@
 # Chapter 6 — The Pier
 
-The co-op has me on ice the first week and nets the second, and the nets are where I meet Jun.
+"You're doing that with your anger instead of your thumb."
 
-Amano-side people would say the nets meet you. Everything in this town is nets if you stand still long enough. Jun runs the mending frames on the north pier — Amano Jun, twenty-three, big and unhurried, forearms like dock rope, a wide sunburnt face that settles naturally into cheerfulness, born two lanes over and never once wanted to be anywhere else. First thing he says to me is, "You're doing that with your anger instead of your thumb," which is about a knot, and also isn't.
+That's the first thing Jun ever says to me, leaning over my shoulder at the mending frames, and it's about a knot, and also isn't. Amano Jun, twenty-three, big and unhurried, forearms like dock rope, a wide sunburnt face that settles naturally into cheerfulness, born two lanes over and never once wanted to be anywhere else. He runs the frames on the north pier. The co-op put me on ice my first week and moved me to nets my second, and the nets are where he finds me.
 
 He fixes my thumb. Then my elbow. Then, over two weeks of mornings, most of my netting, because I'm bad at it and he's patient the way big calm men are patient, like there's no clock anywhere in his body. He splits his lunch without asking — his mother Hanae packs it, always too much, always with the pickled radish cut in careful little fans — and he talks enough for both of us, which suits me, because my voice comes out scraped these days and I've got reasons to be careful with it.
 
@@ -36,7 +36,7 @@ I eat all of it. Both mornings. For a couple of weeks a woman I barely know deci
 
 The verification line runs on the harbor office pier all week, and by Friday it's Jun's turn, and I'm the one who walks down with him. That's the whole accident of it. Hanae asked him to go early, get it stamped, come back for the afternoon tide. I'm carrying the frame hooks back to the shed anyway. Company for the boring part, he says. I say yes with half a mouth of rice, the way you say yes to anything Jun asks.
 
-The line is fishermen and mainland families, mixed. Two soldiers work the tables, a third stands by the truck with his rifle slung, and the lieutenant from the clipboard sits behind the folding table like a man doing a boring job at the boring pace it deserves.
+The line is fishermen and mainland families, mixed. Two soldiers work the tables, a third stands by the truck with his rifle slung, and the lieutenant from the clipboard sits behind the folding table like a man doing a dull job at the pace it deserves.
 
 For a while it's almost dull. An old netman gets waved through on a card so worn the print is a rumor. A mainland mother goes up with three kids and a folder of everything she owns on paper, and the lieutenant works through it page by page while the smallest kid winds herself around the table leg, and it clears, and the mother's shoulders come down from around her ears one centimeter at a time as she walks away. That's what the line teaches you, standing in it: the difference between people whose papers are a formality and people whose papers are a verdict. You can tell them apart from thirty meters by the shoulders.
 
@@ -68,7 +68,7 @@ Copper comes up the back of my throat — the taste that comes when the words go
 
 Then they come back. He frowns at me, at nothing, at the middle distance. Rolls his shoulder. The words have gone in and found — what? *You don't need him.* Who's *him*? Need for what? *He's nothing* — nothing to whom? *Let it go* — let *what* go? I've handed a machine a sentence full of pronouns, and it has turned it over, found no purchase, and dropped it.
 
-The weight still comes out of me, though. The copper, the prickle high in my nose, my own pulse hammering. I've paid and gotten nothing for it. And the soldier is still frowning at the space where the odd feeling came from, and the space contains one refugee kid standing too close to a verification line with his lips just barely moving.
+The weight still comes out of me, though. The prickle high in my nose, my own pulse hammering. The cost hit me anyway, and nothing moved. And the soldier is still frowning at the space where the odd feeling came from, and the space contains one refugee kid standing too close to a verification line with his lips just barely moving.
 
 "You." His sling comes off the shoulder. Not aimed. Adjusted. "Step back from the line."
 

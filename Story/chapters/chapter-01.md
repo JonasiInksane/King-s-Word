@@ -18,7 +18,7 @@ I caught it without meaning to — plastic, still warm from his pocket — held 
 
 "Same disease." He knocked his knee into mine. "Train's here. Unless you want to apologize to that too."
 
-The doors chimed and we got on ahead of the crowd. That was the thing about Kaito that nobody ever managed to explain: rooms rearranged around him. Two women across the car glanced up at his volume, bristled, and then softened in that odd way people did, like he'd already won an argument nobody had started. A third-year two seats down moved his bag off the seat without being asked. Kaito didn't notice any of it.
+The doors chimed and we got on ahead of the crowd. That was the thing about Kaito that nobody ever managed to explain: people made room for him without deciding to. Two women across the car glanced up at his volume, bristled, and then softened in that odd way people did, like he'd already won an argument nobody had started. A third-year two seats down moved his bag off the seat without being asked. Kaito didn't notice any of it.
 
 Through the window the city unrolled the way it did every morning. The river. The elevated highway. The Daigo Building's giant screen, which was supposed to show weather and increasingly showed the war instead: FRONT STABLE. EASTERN WARDS: CONTAINED. Under the reassurance, in smaller font, the names of the newly missing scrolled past, and everyone in the car looked at their knees until the screen was behind us.
 
@@ -66,7 +66,7 @@ Doi looked up from his handouts. "You. Third-year. This is not your classroom."
 
 "One minute, sensei." The kid didn't even turn his head. That's who this was — someone who could ignore a teacher comfortably, in a room that wasn't his, with forty people watching. He came a step closer, into the space where these things stop being words. "Behind the gym after school. Or apologize now, where they can all hear you."
 
-I was half out of my seat with a "sorry" already loaded — the useless kind, aimed at the situation, my whole trick. I never got to spend it.
+I was half out of my seat with a "sorry" already loaded — the useless kind, aimed at the situation, my whole trick. I never got it out.
 
 "Hey," Kaito said. Not loud anymore. Just final. "Back off. Go back to your class."
 
@@ -84,7 +84,7 @@ Dry air, I told myself. Summer AC. Nosebleeds happen.
 
 "Be *more* down."
 
-The class laughed, the day started, and everything was ordinary again — which was the whole trick of that June. Everything stayed ordinary right up until it didn't.
+The class laughed, the day started, and everything was ordinary again.
 
 ---
 

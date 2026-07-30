@@ -30,7 +30,7 @@ Mira looks at Habu.
 
 Mei holds the lanyard like it weighs more than plastic.
 
-"Your extract died when A and B walked into the annex," she says. "I am not walking west with you while C is locked to their bays and Habu's kindness is still written on the speakers. There are people in that hold who waved at the curry kids two days ago. There are two tags who climb kitchen stairs when they should not. I owe morning counts to a bay that is still breathing. I am not leaving them for a clipboard that thinks inventory zero means the night went well."
+"Your pull failed the moment A and B went into that annex," she says. "I am not walking west with you while C is locked to their bays and Habu's kindness is still written on the speakers. There are people in that hold who waved at the curry kids two days ago. There are two tags who climb kitchen stairs when they should not. I owe morning counts to a bay that is still breathing. I am not leaving them for a clipboard that thinks inventory zero means the night went well."
 
 Mira's jaw tightens. "I came into this building for you."
 
@@ -38,11 +38,13 @@ Mira's jaw tightens. "I came into this building for you."
 
 She tips her chin at the service door. Dark stair smell comes up through it — disinfectant, boiled cloth, the medical wing we used as a shortcut when we were still only watching.
 
-I push off the rail. Mira has to catch my belt again.
+I push off the rail. Mira has to catch my belt again and hauls me back a step.
+
+"Kurosawa. Stand still or sit down."
 
 "You can't open C alone," I say. The scraped voice is thin. No weight under it. Just talk. "If there are still rifles on that side—"
 
-"Then I use the card and I move quiet, the way I have moved in this building for months," Mei says. "You just showed me what happens when a mouth decides the whole west answer is a problem. I do not need that in C. C needs a door and a person who knows which bunks still have names."
+"Then I use the card and I move quiet, the way I have moved in this building for months," Mei says. "You just showed me what happens when a mouth decides every guard on the west side is a problem. I do not need that in C. C needs a door and a person who knows which bunks still have names."
 
 Mira steps between us and the service door.
 
@@ -54,7 +56,7 @@ Habu makes a sound in his throat that cannot become a word. Mira's rifle tip dri
 
 "Are you going to Word her into coming with us?"
 
-The sentence is almost there — *come with us, leave the door* — copper taste, easy as the bay clerk. I look at Mei's wet face and the lanyard in her fist and the dark service stair that leads toward the wing I never walked. The kids on the drains are still behind my eyes. If I put weight on Mei now, I am Habu with a scraped voice.
+The sentence is almost there — *come with us, leave the door*. I look at Mei's wet face and the lanyard in her fist and the dark service stair that leads toward the wing I never walked. The kids on the drains are still behind my eyes. If I put weight on Mei now, I am Habu with a scraped voice.
 
 "No," I say.
 
@@ -82,7 +84,7 @@ Mei does not turn around.
 
 ---
 
-The service door swings shut on her footsteps. For a few seconds I can still hear them on the metal stair. Then medical swallows the sound and the glass office is only Habu, the empty-eyed clerk, Mira, and the smell of blood that has started to turn ordinary.
+The service door swings shut on her footsteps. For a few seconds I can still hear them on the metal stair. Then the stair takes the sound and I can't hear her anymore, and the glass office is only Habu, the empty-eyed clerk, Mira, and the smell of blood that has started to turn ordinary.
 
 Mira hauls my arm over her shoulder.
 
@@ -94,7 +96,7 @@ Mira hauls my arm over her shoulder.
 
 The clerk stands. He leads like a man carrying a tray. We leave Habu in his glass with his tea cup and his sealed mouth and his view of the lobby he filled with kindness and rifles. He does not get a goodbye. He does not deserve one.
 
-The mezzanine stair is sticky. Below, clerks without guns are still behind desks. One of them is praying under his breath. Another is staring at a dead gray-green like the coat might sit up. Nobody raises a voice at us. The west answer is on the tile. The building feels huge and hollow at the same time — whole only because the lights are still on and the speakers are still waiting for a soft man who cannot speak.
+The mezzanine stair is sticky. Below, clerks without guns are still behind desks. One of them is praying under his breath. Another is staring at a dead gray-green like the coat might sit up. Nobody raises a voice at us. Habu's west guards are still on the tile. The building feels huge and hollow at the same time — whole only because the lights are still on and the speakers are still waiting for a soft man who cannot speak.
 
 We cut through the kitchen junction. The painted lines where armbands stood are empty. The serving counter still has the smell of copper and old curry. Mira does not let me look long. My legs try to fold at the dish-room door; she drags me past it.
 
@@ -120,16 +122,14 @@ I stop. Mira's grip on my belt goes hard.
 
 We move.
 
-At the soft service door where the night clerk used to smoke, the latch is still loose. Outside air hits like cold water — wet grass, diesel, the oil smell of the truck that brought us in. Mira half-carries me over the sill. Behind us Shizuhara keeps its lights on like nothing in the lobby happened. Ahead, the cut in the fence is a black gap in the glare.
+At the service door where the night clerk used to smoke, the latch is still loose. Outside air hits like cold water — wet grass, diesel, the oil smell of the truck that brought us in. Mira half-carries me over the sill. Behind us Shizuhara keeps its lights on like nothing in the lobby happened. Ahead, the cut in the fence is a black gap in the glare.
 
-I look back once.
+We hit the grass, and I follow where she points.
+
+At the wire I look back once.
 
 Through a high corridor window I can see a strip of the C approach — a painted letter on a door, a card reader blinking from red to waiting green. A small figure with a tablet and a lanyard stands there long enough to press Habu's key to the lock. The door starts to move. I do not see who is on the other side. I do not get faces. Mira's hand finds the back of my neck and turns my head forward before I can invent a reason to stay.
 
 "Eyes front," she says. "We are getting out of here."
 
-I walk.
-
-Somewhere inside, Mei is opening the hold I could not reach in time for A and B. Somewhere in the glass, Habu is still sitting with his mouth shut. The whole building is still standing. It just does not belong to his thank-you voice anymore.
-
-We hit the grass beyond the fence, and for the first time since the gallery I follow where she points without arguing.
+Somewhere behind us, in a building that just watched its lobby die, a sealed door is standing open.

@@ -8,7 +8,7 @@ The lane Suzumori sent me down is narrower than the main strip, more locals than
 
 I get in line behind an old woman with a basket and wait, because waiting in lines is one of the smaller, dumber skills this city has taught me — how to just stand somewhere and not need it to move faster.
 
-The stall boy has his back to the lane, both hands deep in a barrel, hauling up a net bag of daikon that's been soaking since dawn by the smell of it. Tall. Dark hair a little longer than it should be for someone doing this kind of work, pushed back off his forehead with a wet hand. Sleeves rolled past the elbow. Forearms that didn't used to look like that — thicker through the wrist, a new white line across one knuckle healed wrong, like he grabbed something sharp and kept working anyway.
+The stall boy has his back to the lane, both hands deep in a barrel, hauling up a net bag of daikon that's been soaking since dawn by the smell of it. Tall. Dark hair a little longer than it should be for someone doing this kind of work, pushed back off his forehead with a wet hand. Sleeves rolled past the elbow. Forearms that didn't use to look like that — thicker through the wrist, a new white line across one knuckle healed wrong, like he grabbed something sharp and kept working anyway.
 
 "Two coins for the plum, that's it," he says to whoever's ahead of me, not turning around yet. "I don't set the price. I just work here today."
 
@@ -70,7 +70,7 @@ It isn't. I see it the second the kid walks off — the way Haruki's hand stays 
 
 "No," he says. Plain. No argument in it. "I'm really not. But I have about four more minutes before that man comes back with his barrels, and I'm not going to spend them falling apart in front of you where anyone walking past can watch it happen. Tonight. That's what I have to give you today."
 
-"Fine." The word costs me more than it should. "Tonight. Lanterns up. This stall."
+"Fine." The word comes out harder than it should. "Tonight, when the lanterns go up. This stall."
 
 "This stall," he says. "Don't bring Mira. Don't bring Suzumori, if she's still with you—"
 
@@ -100,7 +100,7 @@ It's the easiest door she could have opened for me, and I walk through it before
 
 "You keep seeing him in men who are not him," Suzumori says. "That's what a bad debt does. It goes looking for the man who's owed it in every stranger's coat." She studies me a beat longer than I like. "Eat something. You look like a boy who forgot he has a body."
 
-I eat because arguing about it costs more than swallowing does. She doesn't ask again, but I catch her watching my hands twice more before I leave for Endo's, and both times I make them still on purpose.
+I eat because it's easier than arguing. She doesn't ask again, but I catch her watching my hands twice more before I leave for Endo's, and both times I make them still on purpose.
 
 The shop is glue smell and stacked frames all afternoon, and I get two corners wrong badly enough that Tetsu redoes them without comment, which is somehow worse than if he'd said something. "You're somewhere else today," is all he offers, and doesn't push past it when I say I didn't sleep great. Endo pays me out at dusk without shorting a coin and tells me to be back at dawn. I say I will. Right now the only thing I'm actually planning past tonight is tonight.
 
@@ -119,5 +119,3 @@ She studies me the way Suzumori did this morning, and for a second I think she's
 "I won't look at coats," I say. True enough. "I'll be back."
 
 She goes back to the coins. I go down the stairs two at a time, past the landlady's dark window, into the lane that smells like canal water and somebody's dinner. The pickle stall is three turns from here.
-
-Tonight I get him alone. Tomorrow we figure out the rest.

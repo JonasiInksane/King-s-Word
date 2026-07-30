@@ -1,14 +1,14 @@
 # Chapter 14 — Soft Boy
 
-The road between Kuroishi and Ishibashi is a straight argument with the sun.
+The road between Kuroishi and Ishibashi runs straight through open hills, and the sun has owned every step of it since morning.
 
 By mid-afternoon my shirt sticks to my back and Sato's paper feels like a second skin under the jacket. Hills on both sides, scrub, a dry ditch running parallel to the asphalt. Two trucks have passed me all day. Neither stopped. I walk on the shoulder and keep my eyes on the heat shimmer where the road disappears, because looking down makes the distance worse.
 
-A roadside board says Ishibashi 14 km in paint that has half peeled off. Fourteen kilometers is a number that used to mean nothing in Kōgetsu and now means the difference between catching a bus and missing a person. I am turning that number over when I hear boots on gravel behind the ditch.
+A roadside board says Ishibashi 14 km in paint that has half peeled off. Fourteen kilometers between me and the next chance of catching them. I am still walking that off when I hear boots on gravel behind the ditch.
 
 Three of them. Not gray-green. Local jackets, work boots, the kind of thin that has decided the road owes them a living. The tallest has a length of pipe. The middle one a knife he is not hiding well. The third hangs back with his hands in his pockets, watching the road both ways.
 
-I stop. Hands open. The polite habit loads before I have decided to use it — the uniform, the thing that has been working on gates and gray suits and grieving mothers.
+I stop. Hands open. Politeness comes up before I have decided to use it — the uniform, the thing that has been working on gates and gray suits and grieving mothers.
 
 "I don't have much," I say. "You're welcome to the food money. I'm just walking through."
 
@@ -34,7 +34,7 @@ I go down on one knee. Air gone. I try the polite line again anyway — "You don
 
 I empty it. Sato's chit comes out with the yen. The pipe man takes both. He looks at the stamps the way hungry people look at stamps — as if paper might turn into rice if you stare hard enough — and then he puts the chit in his own pocket and the yen in the knife man's hand.
 
-"That's my transit," I say, which is stupid and necessary in equal parts. "I need that to get through the next desk. You can keep the money. Give me the chit back and I walk away and forget your faces."
+"That's my transit—" My voice cracks on it, stupid and necessary in equal parts. "I need that to get through the next desk. You can keep the money. Give me the chit back and I walk away and forget your faces."
 
 The pipe man considers it for half a second, which is almost hope, and then he shakes his head. "Paper's worth more than your manners."
 
@@ -60,7 +60,7 @@ I sit up, ribs complaining, one ear still ringing. "Thank you. I — they took m
 
 "I don't fight."
 
-"I noticed." He glances west, then east, then at my face. "Nakahara Riku. You can pay me back by not dying on my stretch of road before sundown. What's your name, soft boy?"
+"I noticed." He glances west, then east, then at my face. "Nakahara Riku. You can pay me back by not dying on my stretch of road before sundown. What's your name?"
 
 "Aoyama Haruki." The full name comes out because he gave me his, and because manners are the only weapon I have left that still works on people who aren't holding pipes. "I'm going to Ishibashi."
 
@@ -98,7 +98,7 @@ Riku shrugs. "You don't, if the desk is hungry. You go around, or you work for s
 
 "You've been to Takamatsu?"
 
-"I've been through Takamatsu. Being *to* a place means you had a reason to stay." He looks at me properly for the first time since the fight — not the ribs, the face. "Why help, you're about to ask. Bored, mostly. Spite covers the rest. You looked like someone who might survive a Tuesday if somebody shoved him upright first. Also you didn't cry. Soft boys who don't cry after a pipe are either stupid or walking toward something. I collect the second kind. They're rarer."
+"I've been through Takamatsu. Being *to* a place means you had a reason to stay." He looks at me properly for the first time since the fight — not the ribs, the face. "Why help, you're about to ask. Bored, mostly. Spite covers the rest. You looked like someone who might survive a Tuesday if somebody shoved him upright first. Also you didn't cry. Soft boys who don't cry after a pipe are either stupid or walking toward something. I stick with the second kind. They're rarer."
 
 "I'm walking toward a person."
 
@@ -106,7 +106,7 @@ Riku shrugs. "You don't, if the desk is hungry. You go around, or you work for s
 
 "I'm not bleeding on your jacket."
 
-"Yet." He grins the crooked tooth at me again. "Cousin? Brother? Debt?"
+"Yet." He grins the crooked tooth at me again. "Cousin, brother, or a debt?"
 
 "Cousin," I say, because that is the story the road already knows, and because the true word is heavier than my ribs can carry right now. "Tall. Scraped voice. There was a girl doing the talking. They took the bus from Kuroishi this morning, if it ran."
 
@@ -124,7 +124,7 @@ We reach Ishibashi at dusk and Riku moves through it like a man checking his own
 
 He parks me at the busiest food stall — squid on skewers, a woman with grease to her elbows shouting an order back into the smoke — and says, quietly, "Her. She sees every face that eats here twice."
 
-I wait until she hands off her skewers. "I'm looking for my cousin. He came through yesterday heading west — tall, doesn't talk much, girl with him who does. Anyone like that buy food here?"
+I wait until she hands off her skewers. "I'm looking for my cousin. He came through yesterday heading west, with a girl who'd have offered to work for the food instead of paying for it. Anyone like that eat here?"
 
 Her face turns it over before she answers. "The quiet one and the girl who worked my trays. You know them?"
 
@@ -148,4 +148,6 @@ I eat — grease and salt and too much chili — and my ribs complain when I bre
 
 "Clear."
 
-"Good." He tips his chin at a dry strip of stone under the bridge where someone's already laid out cardboard. "Claim a spot before the market boys take the dry ones. I'm not sharing a puddle with a soft boy on principle."
+"Good." He tips his chin at a dry strip of stone under the bridge where someone's already laid out cardboard. "Claim a spot before the market boys take the dry ones. I'm not sharing a puddle with you on principle."
+
+I claim one. Above us the arches are black stone, older than any desk in this town, and somewhere past them sits the shuttered window that sold two dawn tickets to Takamatsu. One day behind. I put my back against the stone and stay facing west.

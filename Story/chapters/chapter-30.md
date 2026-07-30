@@ -10,7 +10,7 @@ Mei does not blink. The tablet light puts a hard square on her face. Boots are s
 
 "They stay," Mira says. Flat. Not cruel — already decided. "We can't put two hundred kids through a lit fence. We can move you."
 
-"Then you didn't come for me," Mei says. "You came for a clean story about me." Her eyes go to the blood on my lip, then past me to the specials guard still facing the wrong way in the hall with his radio on the floor. "That man isn't sleeping. You told me paper wouldn't open those doors. Fine. Whatever you did, you look like it cost you. How much farther can you walk before somebody has to carry you?"
+"Then you didn't come for me," Mei says. "You came for one name you can leave with." Her eyes go to the blood on my lip, then past me to the specials guard still facing the wrong way in the hall with his radio on the floor. "That man isn't sleeping. You told me paper wouldn't open those doors. Fine. Whatever you did, you look like it cost you. How much farther can you walk before somebody has to carry you?"
 
 "Far enough," I say.
 
@@ -34,7 +34,7 @@ Mira hates it, but she does it anyway.
 
 ---
 
-We go back through the specials door with Mei between us like she is already inventory we are signing for.
+We go back through the specials door with Mei between us like we already decided she was ours to move.
 
 The hold order is still on the speakers — soft, almost polite, the kind of voice that makes people lean in. *All blocks hold. Inventory stays put until the west is clear.* The specials guard we clashed with is still facing the wrong way in the hall, radio on the floor, eyes empty. Mei does not look at him. She looks at the wet marker columns on the shift board as we pass — A, B, C, blank east — and her mouth goes thin.
 
@@ -52,11 +52,11 @@ We cut along the opposite wall. Mira wants us invisible. Mei will not let us be.
 
 On the C side of the painted line, past the junction board, two shapes are on the kitchen stair — tags, not armbands, frozen mid-climb as if the floodlight glare caught them doing something stupid. I do not look long enough to make faces. Mira's hand finds my sleeve and pulls. The contact hisses once. We keep moving. The shapes stay shapes.
 
-A speaker crackles above the fish smell. A soft voice fills the junction without raising itself — the kind that makes people lean in to hear.
+A speaker crackles above the fish smell. A voice fills the junction without raising itself — warm, unhurried, the kind that makes people lean in to hear.
 
 "Good evening. This is Colonel Habu. The west perimeter event is under control. Thank you for holding so quietly — that helps us keep everyone safe." A pause, warm enough to be real. "A and B blocks, remain on your junction lines. You will be processed for evening review in small groups once the service court is cleared. C block, stay in your bays. East wing, remain sealed. Inventory that cooperates eats warmer food and sleeps in the same bed tomorrow. Inventory that invents stories invents problems. I would rather feed you than explain you to a clipboard. Hold."
 
-So that is Habu. Mei already used the name like everyone here should know it. The voice matches the softness she was angry about.
+So that is Habu. Mei already used the name like everyone here should know it. The voice matches the warmth she was angry about.
 
 The fourteen-year-old on the line nods, like he has promised her something kind.
 
@@ -82,7 +82,7 @@ Floodlights from the west throw white across the floor wax below. Clerks at the 
 
 Beside him, not in uniform, a man in a dark coat stands with his hands empty and his weight easy. He does not hurry. He does not look at Habu's tablet. He watches the lobby like he has already decided what happens next and is only waiting for the clerks to catch up. For half a second his face turns toward the glass corridor — not seeing us, not missing us either — and the calm on him sits wrong against the rifles and the floodlights.
 
-Then a clerk crosses between us and the mezzanine, and when the angle clears, the coat is gone. Only Habu remains, soft-voiced, pointing at another column on his screen.
+Then a clerk crosses between us and the mezzanine, and when the angle clears, the coat is gone. Only Habu remains, pointing at another column on his screen.
 
 "Kaito," Mira says. "Don't invent faces in the glass. We have a window to crack."
 
@@ -110,7 +110,7 @@ The contact is watching the stair behind us. "Boots. Two turns back. Decide."
 
 Mira takes my wrist. Not gentle. "We came for her. We still leave with her. You do not get to burn a Remnant extract because a clipboard has a blank line."
 
-"I'm not burning anything," I say. The scraped voice comes out thinner than I want. "I'm saying I heard Habu call those kids inventory like he was doing them a favor, and now the favor has a truck with no town on it. If we walk her out and leave them on that painted line, we are the clean story. I am done being the clean story."
+"I'm not burning anything," I say. The scraped voice comes out thinner than I want. "I'm saying I heard Habu call those kids inventory like he was doing them a favor, and now the favor has a truck with no town on it. If we walk her out and leave them on that painted line, the night gets to call itself a rescue. I'm not walking out and calling that enough."
 
 Mei folds the night sheet once and keeps it.
 
@@ -124,4 +124,4 @@ I look at the blank destination on the folded sheet in Mei's hand. I look at the
 
 "Clear," I say. "One look."
 
-Mei is already moving toward the diesel smell, tablet under her arm, night sheet in her fist, as if the building owes her a view and she means to collect it before the boots finish their count.
+Mei is already moving toward the diesel smell, tablet under her arm, night sheet in her fist.

@@ -4,7 +4,7 @@ My feet are walking east and I did not ask them to.
 
 That is the only honest way to say it. The pine road runs downhill out of the scrub toward the far smudge of Takamatsu, and my body takes it at a good traveling pace — arms swinging, breath even, a boy with somewhere to be. Inside the boy, I am telling my knees to stop. They don't answer. The two sentences sit behind my eyes where he left them, not loud, not cruel, just load-bearing. *Stop following me. Go home.*
 
-Riku keeps pace beside me and says nothing. He has blood dried at his hairline and he carries his left forearm tucked against his ribs where the rifle butt caught it. Every few hundred meters he looks over at me — not scared. Pricing.
+Riku keeps pace beside me and says nothing. He has blood dried at his hairline and he carries his left forearm tucked against his ribs where the rifle butt caught it. Every few hundred meters he looks over at me — not scared. Working something out.
 
 "So," he says at last. "Are we going to talk about the part where a soldier put his hands on his head and knelt in the road because your friend told him to?"
 
@@ -36,7 +36,7 @@ Riku stops walking. I don't. That's the point. He has to jog to get back to my s
 
 My body gets up. It isn't angry. That is the worst part — no fury in it, just an errand. Riku hangs off my arm with all his weight, heels dragging furrows.
 
-"Fight it," he says through his teeth. "Whatever it is, it's your body and his sentence. Somebody's name is on the deed. Make it yours."
+"Fight it," he says through his teeth. "Whatever it is, it's your body and his sentence. Take it back."
 
 I fight it. There is nothing to grab. It is like arguing with the current when you are already swimming — the road pulls, the pull is patient, and every time I stop one leg the other has already voted. I get a fistful of dead grass at the ditch lip and hold on and shake, and my legs walk against the anchor of my own arm until something in my shoulder burns.
 
@@ -90,7 +90,7 @@ The corporal at the table is maybe thirty, with a farmer's neck and a clipboard 
 
 "We were robbed outside Ishibashi in the spring." True, and I give it to him plainly, with the tiredness it deserves. "Three men and a pipe. They took the transit chit and the money. Since then we work for people who don't need paper, and we were hoping to register properly once we—"
 
-And it is working. I can feel it working, the way I could feel it work on gates and clerks all the way down this country — his pen lifts, his shoulders come down half a degree, the day is long and we are boring and there is a version of the next minute where he waves us through to keep his line moving. The pen hovers over the release column.
+And it is working. I can feel it working, the way I could feel it work on gates and clerks all the way down this country — his pen lifts, his shoulders come down half a degree, the day is long and there is a version of the next minute where he waves us through to keep his line moving. The pen hovers over the release column.
 
 Then he catches himself.
 

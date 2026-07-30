@@ -1,6 +1,6 @@
 # Chapter 10 — Toward Kuroishi
 
-The town spends the next day being questioned, and I spend it being boring, and I learn something about myself in the process that I'd rather not have learned.
+The town spends the next day being questioned, and I spend it giving nobody a reason to look at me twice, and I learn something about myself in the process that I'd rather not have learned.
 
 They rope the coast road by midnight and post pairs at the bridge and the prefecture road by dawn. The official account congeals fast, the way official accounts do: an armed incident during a flow assessment, one civilian casualty, one member of the detail dead by — the phrase they land on is *discharge under review*. Nobody in Nagihama corrects them. The whole town watched a soldier turn his rifle under his own jaw for no reason the eye could find, and the whole town has, without one meeting being held, decided it saw confusion, smoke, an angle blocked by the camphor tree.
 
@@ -28,11 +28,9 @@ Kaito's mouth makes people move. Whatever I carry makes them quiet. That is as f
 
 ---
 
-I don't sleep. The room has his futon in it, folded wrong, and the shelf is still empty, and I lie there running the whole summer back looking for the one sentence that would have changed anything.
+I don't sleep. The room has his futon in it, folded wrong, and the shelf is still empty.
 
-It is not a short list. If I'd said it on the sea wall at dusk, when he asked me if the hand looked like a choice. If I'd said it in the underpass dark the first night, when it was almost easy. I had a hundred openings and a true thing to say through every one of them — *it wasn't your fault, I saw the hand, nobody chooses that* — and I kept it. Last night at the gate I finally reached for it with the whole town screaming behind us, and I got two words out, and my honesty — my precious, useless, careful honesty — jammed the rest in my throat, because by then it had watched a man die on the end of my best friend's sentence and would not let me lie.
-
-*It was,* he said. *You saw it. It was.* Gently. He took my two broken words as a verdict and pulled his sleeve out of my hand gently, and that gentleness is the thing I cannot lie down in the same room with.
+At the gate I got two words out. *It wasn't—* and the rest jammed in my throat, and he took the broken sentence as a verdict and pulled his sleeve out of my hand gently, and that gentleness is the thing I cannot lie down in the same room with.
 
 So I stop pretending, somewhere before morning, and pack.
 
@@ -46,15 +44,15 @@ Not about Jun. She's past questions about Jun; there's nothing about Jun anyone 
 
 Sugi's kitchen is absolutely silent. The kettle isn't on. She chose for it not to be.
 
-And I do the thing. My shoulders drop. The soft steady voice comes up.
+And I do the thing. My shoulders drop. The words come out quiet and even.
 
 "You saw a frightened man break," I say. "Soldiers who shoot into a crowd sometimes can't live in the next minute. Your son's death cracked him. The shouting boy was only a boy shouting. None of that is yours to carry."
 
 She believes me. That is the horror. She is not a gray suit; she *wants* a shape she can live holding, and my voice hands her one, and I watch a little of the weight leave her shoulders — a mercy, a real one, built out of a lie so deep the whole roof of her grief now rests on it. She holds my hand at the door with both of hers and thanks me.
 
-I stand in the entryway a long time after she's gone, and this is the morning the world stops being a place that is failing and starts being a place that is *wrong*. Jun checked on his mother and they shot him for the angle of his shoulders. The paper that would have saved him was mercy, and mercy is what they came to punish. The man with the listening face puts boys on maps by the meter, and the only tools that have bent anything this summer toward kindness are a boy's mouth that kills and a boy's voice that lies.
+I stand in the entryway a long time after she's gone. I just handed a grieving mother a lie, and she thanked me for it with both of her hands. Jun checked on his mother and they shot him for the angle of his shoulders. The paper that would have saved him was mercy, and mercy is what they came to punish. The man with the listening face puts boys on maps by the meter, and the only tools that have bent anything this summer toward kindness are a boy's mouth that kills and a boy's voice that lies.
 
-Nobody is coming to fix any of this. I turn the sentence over every way I know, and I can't make it false.
+Nobody is coming to fix any of this.
 
 ---
 
@@ -92,7 +90,7 @@ She fixes my collar like a grandmother, one pull, done.
 
 "Go, then. Before I invent a reason to feed you again."
 
-The plum tree over the wall. The lane, gray-gold, going about its morning with soldiers in it. At the edge of town the pairs are checking paper, and I hand mine over with my shoulders down and my voice soft, a boring boy on a family errand, and the soldier stamps me through while he's still reading and then the town is behind me and the herring road is under my feet, dust instead of salt, running inland between dry hills toward a water tower I can't see yet.
+The plum tree over the wall. The lane, gray-gold, going about its morning with soldiers in it. At the edge of town the pairs are checking paper, and I hand mine over with my shoulders down and the family errand ready in my mouth, and the soldier stamps me through while he's still reading and then the town is behind me and the herring road is under my feet, dust instead of salt, running inland between dry hills toward a water tower I can't see yet.
 
 I spend the first hour composing what I'll say when I catch him, and throw all of it away by the second. Every draft is a speech, and speeches are what I do instead of the thing. I have owed him one sentence since a vending-machine light outside Kōgetsu — six syllables — and it has only gotten heavier, and I am done offering substitutes.
 

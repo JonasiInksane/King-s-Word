@@ -20,17 +20,17 @@ I'm unloading oil at the seamstress's shop when a pair comes up the street with 
 
 "The wholesaler." His pencil is already moving. "Which one?"
 
-Her eyes don't go to me. They go over the pair's shoulders, down the street, anywhere ordinary — but I am standing next to a handcart with the man's oil in my arms, and there is no version of this where I am not part of the arithmetic on that board. The soldier turns and looks at me the way men with lists look at boys with carts.
+Her eyes don't go to me. They go over the pair's shoulders, down the street, anywhere ordinary — but I am standing next to a handcart with the man's oil in my arms, and there is no version of this where I am not part of what he is writing down. The soldier turns and looks at me the way men with lists look at boys with carts.
 
 "Whose cart?"
 
-"Tanabe's, off North Market." My shoulders are already down, my voice already the boring one. It is the true answer and the legal one — three more days of legal. "Dry goods and oil, six wards."
+"Tanabe's, off North Market." My shoulders are already down, my voice level. It is the true answer and the legal one — three more days of legal. "Dry goods and oil, six wards."
 
 "Tanabe." The list man writes it. One word, one line, my mouth to his board. The pencil sounds louder than it has any right to. "Registered employer?"
 
 "Registered premises," the soldier answers for me, bored, already moving to the next door. "The hands are what we're counting."
 
-They go. The seamstress takes her oil out of my arms without a word, and her look, before her door shuts, is not unkind and is not reassuring: the look of a woman deciding which of her small daily kindnesses have just become expensive.
+They go. The seamstress takes her oil out of my arms without a word, and her look, before her door shuts, is not unkind and is not reassuring: the look of a woman deciding what helping me just cost her.
 
 I finish the mender's ward. I don't take the noodle row. All the way back the pencil keeps writing Tanabe's name in my ear.
 
@@ -58,7 +58,7 @@ Riku is waiting outside with his hands in his jacket. He heard enough through th
 
 ---
 
-Minato is quieter that night. Thursday ceremony feels like a smaller room. Machi still feeds whoever comes, but fewer come, and the ones who do keep their eyes on the curtain. Gorō's beer is in its usual place. He isn't drinking it any more than usual, but he's talking more — low, for the counter, about the counting pairs and the hill and how every time this city gets sick the sickness starts with a clipboard.
+Minato is quieter that night. Thursday ceremony feels like a smaller room. Machi still feeds whoever comes, but fewer come, and the ones who do keep their eyes on the curtain. Gorō's beer is in its usual place. He isn't drinking it any more than usual, but he's talking more — low, for the counter, about the counting pairs and the hill and how every time this city tightens, it starts with a clipboard.
 
 "They counted the docks," he says. "They counted the market. Next they count the bars that feed the hands they just made illegal." He taps the counter once, the old toll gesture with nothing to trade for. "I drove trams for forty years. This isn't about labor. This is about finding out who doesn't belong on a page."
 
@@ -120,6 +120,6 @@ Riku finishes his rice and tips his chin at the curtain. "Scrap today. Tonight w
 
 "Then we ask quieter."
 
-"And if they took him for talking," I say, "what does quieter buy us?"
+"And if they took him for talking," I say, "what does quieter get us?"
 
-Riku looks at the empty stool the way Machi looked at us — dry, furious, done pretending. "It buys us not being next. That's tonight's whole job."
+Riku looks at the empty stool the way Machi looked at us — dry, furious, done pretending. "It keeps us off their list. That's tonight's whole job."

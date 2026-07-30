@@ -56,7 +56,7 @@ We wax. Ōhashi narrates his own correctness for twenty meters and then remember
 
 "She's not a volunteer," Riku says, quiet, pushing wax.
 
-"East wing."
+"She's from the east wing."
 
 "Different clothes. Different mouth. Volunteers don't correct guards in public — not the ones who still flinch." He glances at the east strip as we pass it. "I don't like her. I like that she hates a wrong number. Wrong numbers are how bands get sewn."
 

@@ -42,7 +42,7 @@ I want to argue. The argument comes out smaller than I mean it to.
 
 "I'm asking you to choose," Mira says. "That's different. Tonight you can be a boy who opens one door for an old woman I refuse to leave, or you can be a boy who stays useful and quiet while they keep hurting others. I know which one I'd pick. I'm not picking for you."
 
-The bath-house steam lifts past the window. Somewhere a whistle starts the first yard shift without me. I think of Jun checking on his mother. I think of the buyer counting money with empty eyes. I think of Haru's hand on my sleeve in a gateway, and how this city has taught me to walk past kindness without collecting it.
+The bath-house steam lifts past the window. Somewhere a whistle starts the first yard shift without me. I think of Jun checking on his mother. I think of the buyer counting money with empty eyes. I think of Haru's hand on my sleeve in a gateway, and how this city has taught me to walk past kindness without stopping.
 
 "What's her name?" I ask.
 
@@ -64,7 +64,7 @@ Something in her shoulders drops a fraction — not relief exactly. Readiness. "
 
 "I know. Ordinary words until you say. Nothing under them for anger."
 
-"For anger, for fear, for a boy who looks at you wrong in a corridor." She meets my eyes. "One door. One clean ask. Then we leave. The part of you that likes it when it works — leave that part outside the fence. I need the part that gets an old woman down a stair."
+"For anger, for fear, for a boy who looks at you wrong in a corridor." She meets my eyes. "You open one door with a plain ask, and then we leave. The part of you that likes it when it works — leave that part outside the fence. I need the part that gets an old woman down a stair."
 
 I nod. The liking is already in the room with us. I don't pretend otherwise. I just put my boots on and take the map when she holds it out.
 

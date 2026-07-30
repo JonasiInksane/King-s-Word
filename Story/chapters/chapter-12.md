@@ -110,7 +110,7 @@ Mira watches him go. "He was offering money."
 
 "If the bus gets canceled, we walk."
 
-"We walk," she agrees, and does not push the name. She finishes her bowl, wipes her wrists on her skirt, and stands. "Arches tonight. Depot before the first light. If they stamp us through, Takamatsu by afternoon — and then we find a roof that doesn't care where west is."
+"We walk," she agrees, and does not push the name. She finishes her bowl, wipes her wrists on her skirt, and stands. "We sleep under the arches tonight and get to the depot before first light. If they stamp us through, Takamatsu by afternoon — and then we find a roof that doesn't care where west is."
 
 "And if they don't stamp us?"
 
@@ -154,7 +154,7 @@ Late afternoon the land opens. Takamatsu comes up under us — harbor cranes, sm
 
 We get off with the yard shift at a stop before Station Plaza — Mira's hand on my sleeve once, already steering. Behind us the main depot is a mess of cones and waiting people. Ahead, East Yards: chain-link, diesel, men shouting for hands before the afternoon load leaves.
 
-"There," Mira says. "Ask for day work. I'll find us a roof that takes cash and doesn't write names."
+"There," Mira says. "Ask for day work. I'll find us a roof that takes cash and doesn't keep a register book."
 
 "Split up?"
 
@@ -162,6 +162,6 @@ We get off with the yard shift at a stop before Station Plaza — Mira's hand on
 
 "It won't."
 
-"Good." She almost smiles. It doesn't reach her eyes. "Water tower. Whistle. Go."
+"Good." She almost smiles. It doesn't reach her eyes. "Water tower when the whistle blows. Go."
 
 A foreman at the gate is already shouting for hands that can lift without asking questions. I put my name nowhere and take a place in the line before someone else takes it first.

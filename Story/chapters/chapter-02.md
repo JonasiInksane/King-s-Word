@@ -10,7 +10,7 @@ I'd told her I could do it alone. I had the recipe card, I had the eggs, I'd wat
 
 "You overbeat everything. You think if you keep going it gets better. That's true of homework and untrue of eggs." She pushed off the doorframe and took the whisk out of my hand. "I'll beat. You measure. Talk to me so I don't fall asleep standing up."
 
-So we made Ryn's cake the way we always made it, in the too-small kitchen with the window open to the sound of the Loop, and my mother stayed upright by asking questions with her eyes half closed. How's Kaito. Loud. How's school. Fine. Is the Amano girl really eighteen already, I remember her at eight, she bit a boy who stole your hat.
+So we made Ryn's cake the way we always made it, in the too-small kitchen with the window open to the sound of the Loop, and my mother stayed upright by asking questions with her eyes half closed. She asked about Kaito; I said loud. School was fine. Was the Amano girl really eighteen already — she remembered her at eight, biting a boy who stole my hat.
 
 "She'd bite him again," I said.
 
@@ -80,7 +80,7 @@ Kaito, to his infinite credit, did not miss the step. "Haru apologized to two gr
 
 "It's creepy *and* useful. Like Grandma." She breathed out, and the flat skip was gone. "Okay. Break's over. Both of you go home and sleep, because if either of you yawns on my birthday I'm pushing you off the roof."
 
-She meant it as a joke. We said things like that all the time. Everyone does.
+She meant it as a joke.
 
 ---
 
@@ -92,7 +92,7 @@ His forearm had slid out of the sleeve. The bruise I'd seen on the train had gon
 
 He would have denied all of it if I'd asked. So I never asked.
 
-I put the spare futon down next to the couch. He woke up enough to move to it, muttered something about candles, and was gone again. I lay in my own room with the window open, listening to the Loop run its last circuits, and went through the same names I went through every night that June — Mom at the hospital, Ryn above the stall, Kaito on my floor, everyone I had, all inside one train line, all fine. The war app buzzed once, far off in the kitchen where I'd left it on purpose. I didn't get up to read it. In the next room Kaito turned over, said a whole sentence with no words in it, and went still again, and I fell asleep counting stations instead of names.
+I put the spare futon down next to the couch. He woke up enough to move to it, muttered something about candles, and was gone again. I lay in my own room with the window open, listening to the Loop run its last circuits, and went through the same names I went through every night that June — Mom at the hospital, Ryn above the stall, Kaito on my floor, everyone I had, all inside one train line, all fine. The war app buzzed once, far off in the kitchen where I'd left it on purpose. I didn't get up to read it. In the next room Kaito turned over, said a whole sentence with no words in it, and went still again, and I fell asleep naming Loop stops until the list ran out.
 
 ---
 
@@ -106,4 +106,4 @@ She sent back a photo of the fare gate at the bottom of her street, where somebo
 
 *handled, huh. don't drop my cake.*
 
-Out east, if you'd climbed our school roof that morning and known where to look, they say you could already see it — the orange sitting low on the horizon like a second dawn that never finished rising. I didn't climb. I had a cake to carry.
+Out east, if you'd climbed our school roof that morning and known where to look, they say you could already see it — the orange sitting low on the horizon. I didn't climb. I had a cake to carry.

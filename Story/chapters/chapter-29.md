@@ -8,15 +8,15 @@ They did not. Not yet. The lights are still dark on this stretch. Mira has her h
 
 "You said extract," I say. "You did not say a building with a double fence and floodlights."
 
-"I said a clean extract. The fence is why it has to be clean." She tips her chin at the dark wire. "Service road on the west. Loading bay after the kitchen wing. East wing holds the specials — that is the target. We do not walk the lobby. We do not invent a story for a colonel. We cut the outer wire where the contact marked, we take the service door the night clerk leaves soft for crate runs, and we are gone before the second count notices a gap."
+"I said a clean extract. The fence is why it has to be clean." She tips her chin at the dark wire. "We use the west service road and come in at the loading bay behind the kitchen wing. East wing holds the specials — that is the target. We do not walk the lobby. We do not invent a story for a colonel. We cut the outer wire where the contact marked, we take the service door the night clerk leaves unlatched for crate runs, and we are gone before the second count notices a gap."
 
 Suzumori makes a dry sound in the back.
 
-"And if the soft door is not soft?"
+"And if the latch isn't open?"
 
 "Then we leave," Mira says. "That is the whole point of clean. No loud mouth on the first door. No rifles in a corridor full of kids. You open one door if paper fails. One. Then we move."
 
-I watch the fence. My shoulder still pulls when I turn too far. The Go-home copper has faded to the ordinary ache. Haruki is east of us somewhere with Riku, or he is not, and I do not get to know which from a ditch.
+I watch the fence. My shoulder still pulls when I turn too far. Haruki is east of us somewhere with Riku, or he is not, and I do not get to know which from a ditch.
 
 "Why this building?" I ask. "Why not wait for a transfer truck the way you did with Suzumori?"
 
@@ -32,11 +32,11 @@ Mira does not correct the word. That is worse than if she had.
 
 Suzumori leans forward until I have to look at her.
 
-"Boy," she says. "You put weight on a friend the last time a road got loud. Do not put weight on a building full of children because a door is slow. Keys cut both ways. I am still saying it."
+"Boy," she says. "You put weight on a friend the last time a road got loud. Do not put weight on a building full of children because a door is slow. That mouth cuts both ways. I am still saying it."
 
 "I heard you on the pine road."
 
-"Hearing is not the same as keeping." She sits back. "Go. Or do not. Do not half-go and then invent a reason to finish what Mira told you not to start."
+"Hearing me once is not the same as doing it when it gets loud." She sits back. "Go. Or do not. Do not half-go and then invent a reason to finish what Mira told you not to start."
 
 Mira opens her door. The night air smells like cut grass. She looks at me once — not begging, not soft. Checking whether I am going to be a problem before we reach the wire.
 
@@ -76,7 +76,7 @@ About us.
 
 "They saw the truck," I say.
 
-"Or they saw the cut," Mira says. "Or they are jumpy because somebody else is jumpy. It does not change the job. Soft door. East stair. Out the same way. If the bay is hot we abort at the door and we do not argue in the open."
+"Or they saw the cut," Mira says. "Or they are jumpy because somebody else is jumpy. It does not change the job. Service latch, east stair, back out the cut. If the bay is hot we abort at the door and we do not argue in the open."
 
 The contact checks her watch by feel.
 
@@ -88,11 +88,11 @@ Mira looks at me.
 
 "Ready."
 
-We move along the wall to the green service door under a dead bulb. The contact was right about the smoke habit — the latch is soft, the clerk is a shape at the far corner of the bay with his back to us and a cigarette making a small orange point. Mira's hand finds the handle.
+We move along the wall to the green service door under a dead bulb. The contact was right about the smoke habit — the latch is off, the clerk is a shape at the far corner of the bay with his back to us and a cigarette making a small orange point. Mira's hand finds the handle.
 
 Then the west floodlights slam on.
 
-Hard white. The bay, the wire, our boots, the cut we left in the outer fence — all of it painted in glare. The clerk drops his cigarette and turns. Somewhere above us a door bangs. The soft mezzanine voice is not soft anymore when it hits the stairwell speakers.
+Hard white paints the bay, the wire, our boots, and the cut we left in the outer fence. The clerk drops his cigarette and turns. Somewhere above us a door bangs. The soft mezzanine voice is not soft anymore when it hits the stairwell speakers.
 
 "West perimeter. Hold all blocks. Inventory stays put."
 
@@ -114,7 +114,7 @@ Mira goes through. I follow. The door shuts on the white glare and the bay smell
 
 "East wing is two turns past the kitchen junction," the contact says, moving. "Specials door has a letter on the shift board, not a number. Do not stop for A or B. Do not look at the kids if they look at you."
 
-"Kaito." Mira catches my sleeve at the first landing. She keeps her voice down and she does not waste it on the copper. "That was the one door. You do not open the next one because you are angry at lights. You open it because I point at it. Say you heard me."
+"Kaito." Mira catches my sleeve at the first landing. She keeps her voice down and she does not waste it on the blood. "That was the one door. You do not open the next one because you are angry at lights. You open it because I point at it. Say you heard me."
 
 "I heard you."
 
@@ -150,7 +150,7 @@ I do not wait for a cleaner sentence than the one that gets us through.
 
 "Open it. Drop the radio. You forget that we were here."
 
-He opens it. The radio hits the floor. His eyes go empty and stay that way. Copper again — thinner than the bay, still enough to gray the edge of the hall. Mira catches my elbow when my knees tip, and we are through the letter-door into a corridor that smells like disinfectant and old paper, and the contact pulls the door shut on the hold order still rolling through the speakers.
+He opens it. The radio hits the floor. His eyes go empty and stay that way. My nose prickles high up and the edge of the hall goes gray. Mira catches my elbow when my knees tip, and we are through the letter-door into a corridor that smells like disinfectant and old paper, and the contact pulls the door shut on the hold order still rolling through the speakers.
 
 Behind the first glass panel on the right, a girl about seventeen looks up from a tablet as if we are late for an appointment she did not book. Short dark hair. War-issue shirt. She does not scream. She does not smile. She takes in the blood on my mouth and Mira's grip on my arm and the contact's cutters still in her fist, and her first words are not a greeting.
 
@@ -162,7 +162,7 @@ Mira steadies me against the wall.
 
 The girl stands. The tablet stays in her hand like she does not trust the room without it.
 
-"I am Serizawa Mei," she says. "And you just made every empty bunk in this building into a story Habu will write before morning. If you came to extract someone, you came on the wrong night — or you came as the reason the wrong night started." She looks at me again, at the scraped voice, at the copper still wet on my lip. "Which door did you open to get in here?"
+"I am Serizawa Mei," she says. "And you just made every empty bunk in this building into a story Habu will write before morning. If you came to extract someone, you came on the wrong night — or you came as the reason the wrong night started." She looks at me again, at the scraped voice, at the blood still wet on my lip. "Which door did you open to get in here?"
 
 "Service door off the bay, then this one," I say. "Paper wasn't going to do either."
 

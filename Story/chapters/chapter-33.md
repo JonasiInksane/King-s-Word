@@ -16,7 +16,7 @@ I do not have time for a person-sentence. The round is already in the air betwee
 
 The bullet stops.
 
-Not in a wall. Not in Mira. In the air, a handspan from my shirt, spinning wrong, as if the night itself caught it. For one stupid heartbeat nobody breathes — not me, not Mira, not Mei, not the man who fired. Then the round drops to the concrete and rolls into a drain like an ordinary piece of trash.
+Not in a wall. Not in Mira. In the air, a handspan from my shirt, spinning wrong. For one stupid heartbeat nobody breathes — not me, not Mira, not Mei, not the man who fired. Then the round drops to the concrete and rolls into a drain like an ordinary piece of trash.
 
 The gray-green stares at his rifle like it lied to him. His partner freezes mid-step, still waiting for a clean shot that is not coming.
 
@@ -40,7 +40,7 @@ He does. The bay goes quiet except for the radio still crackling Habu's voice. M
 
 "That was not a door," she says. "That was—"
 
-"The mezzanine," I say. "Habu's glass. The man who thanked them."
+"The mezzanine," I say. "Habu is behind that glass — the man who thanked them."
 
 Mei stares at the three bodies like her tablet might still make them into numbers. Then she nods once, sharp, and moves.
 
@@ -100,7 +100,7 @@ He picks up a handset. His voice fills the building, still soft.
 
 "All units, we have an active disruption on the west stair and kitchen junction. Protect the remaining inventory. C and east stay sealed. Do not invent panic."
 
-Remaining inventory. C. East. The ones he did not finish yet.
+Remaining inventory — C and east, the ones he did not finish yet.
 
 I put my palm on the lobby glass hard enough that it should hurt. It does not. Everything hurts somewhere else.
 
@@ -150,9 +150,9 @@ The lobby becomes one long roar. Men with rifles shoot the man beside them, then
 
 So still.
 
-No more boots on the mezzanine stair. No more rifles hunting the glass. The building's west answer is dead on the lobby tile — Habu's armed shift, Habu's pairs, Habu's kindness with guns. The smoker in the bay. The cleanup argument. The dish-room boy. The stair. The clerk who fetched the key is still breathing in the stairwell behind us, empty-eyed, useless now that the door is open. I do not finish him. I do not remember to.
+No more boots on the mezzanine stair. No more rifles hunting the glass. Habu's armed shift is down on the lobby tile — his pairs, his kindness with guns. The clerk who fetched the key is still breathing in the stairwell behind us, empty-eyed, useless now that the door is open. I do not finish him. I do not remember to.
 
-My legs go. The Word takes what it wants for a bill that size. I hit the glass rail on the way down and Mira catches me before the second fall.
+My legs go. My hands are shaking and will not stop. The Word takes what it wants after a sentence that size. I hit the glass rail on the way down and Mira catches me before the second fall.
 
 "Stop!" she yells, right against my ear, loud enough that it cuts through the ringing. "Stop it — they're dead, Kaito, they're all dead, you have to stop!"
 
@@ -168,4 +168,4 @@ Outside the glass, the corridors toward medical and east are still dark. C is st
 
 I do not look for the next rifle.
 
-I let her hold me in the quiet she yelled into existence, blood on both of us, and for the first time since the gallery I do not have a sentence ready.
+I let her hold me, blood on both of us.

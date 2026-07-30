@@ -56,7 +56,7 @@ A big truck sits on the service track outside the cut. Civilian paint, wrong for
 
 I know that stillness.
 
-Minato. Cold tea. An alley that asked who reshapes a crooked world.
+Minato. Cold tea. The alley where he asked me who reshapes a crooked world.
 
 He does not say my name. He tips his chin at the open bed.
 

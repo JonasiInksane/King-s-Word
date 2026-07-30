@@ -12,7 +12,7 @@ I ask about him anyway. Not loud, not with a description that sounds like a want
 
 "Ask at the labor board, not me. I sell chestnuts. I don't keep a register." She hands me a paper cone anyway, warm, without charging for it, which might be the nicest thing anyone's done for me all week and also tells me exactly nothing.
 
-It's like that every time. A shrug, a maybe, a *lot of tall boys in this city, kid.* Nothing that adds up to a direction. I used to think patience was something other people had because they hadn't lost anything yet. Turns out it's just this — asking the same soft question forty times and getting forty different kinds of nothing, and going back the next day to ask again anyway.
+It's like that every time. A shrug, a maybe, a *lot of tall boys in this city, kid.* Nothing that points anywhere. I used to think patience was something other people had because they hadn't lost anything yet. Turns out it's just this — asking the same quiet question forty times and getting forty different kinds of nothing, and going back the next day to ask again anyway.
 
 Back at the shop, Tetsu is stacking the delivery cart for the afternoon run and gives me the east-ward route without being asked twice, which I've learned means he trusts me not to get lost or steal the cart.
 
@@ -52,7 +52,7 @@ I swallow it instead. Whole. It goes down like a stone and leaves my throat raw,
 
 He yelps and twists, and I twist him right back until the purse falls out of his fist onto the cobbles, and then I let go, because he's fourteen and skinny and already looking at me like I'm about to do something worse than shout.
 
-"Go," I say. Just that. No weight under it, no copper, nothing but a boy telling another boy to get lost. "Before she decides to press it."
+"Go," I say. Just that. No weight under it, nothing but a boy telling another boy to get lost. "Before she decides to press it."
 
 He goes. Fast, weaving through legs and stall poles until he's just another back in the crowd, and I stand there with my heart going too hard and my throat raw from the word I swallowed instead of said.
 
@@ -76,7 +76,7 @@ We eat lunch on the canal steps because none of us wants to carry the ointment a
 
 "I know."
 
-"Why didn't you."
+"Why didn't you?"
 
 I turn the empty paper chestnut cone over in my hands, looking for an answer that isn't just a reflex dressed up as a reason.
 

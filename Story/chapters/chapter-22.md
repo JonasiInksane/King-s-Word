@@ -40,7 +40,7 @@ Suzumori's mouth tightens. "Scraped-voice hunt, or a boy who knows the shape?"
 
 Suzumori looks at me — at the bandage, at the mouth she has already made up her mind about — long enough that I understand the argument is not about routes. It is about whether the latch travels with her or away from her.
 
-"I stay with the loud one," she says finally. "If the wrong people find two women and a cart, a story saves nobody. A door might." She pulls the blanket tighter. "And I walk. I have been sitting in a clean room long enough."
+"I stay with the loud one," she says finally. "If the wrong people find two women and a cart, a story saves nobody. A door might save somebody." She pulls the blanket tighter. "And I walk. I have been sitting in a clean room long enough."
 
 The contact takes losing the way professionals take it — one breath, then the next problem. "Lean-to, then. You ride if you have to," she tells Suzumori. "He walks."
 
@@ -64,11 +64,11 @@ I could tell her about Jun. About a rifle under a man's own jaw. I do not. She h
 
 "I can hear you deciding not to answer," Suzumori says. "Good. Keep deciding that when someone asks you for a shortcut."
 
-Mira's jaw works once. "We're not having the heir talk on an open track."
+Mira's jaw works once. "We're not having that argument on an open track."
 
-"I'm not giving you an heir talk." Suzumori's stick of wood shifts in her hair as she ducks a branch. "I'm telling you that two loud mouths in one generation is a problem people like your gray suit will solve by collecting them. I would rather not watch you hand him the box."
+"I'm not naming what he is." Suzumori's stick of wood shifts in her hair as she ducks a branch. "I'm telling you that two loud mouths in one generation is a problem people like your gray suit will solve by putting both of them in the same locked room. I would rather not watch you help him do it."
 
-Two kings. She said that under linen. She is saying the shape of it again without the word. I do not ask. The questions I do not understand stay behind my teeth.
+Two mouths like that in one world. She said it under the linen, and she is saying the shape of it again now. I do not ask. The questions I do not understand stay behind my teeth.
 
 ---
 
@@ -82,9 +82,9 @@ The contact crawls. She comes back with dust on her chin.
 
 "Asking what?" Mira says.
 
-"Directions to a boy with a scraped voice. Girl with him, dark hair. They have the hospital story now — door, empty room, clerk who cries when you make him repeat it." The contact looks at me. "Your face is becoming a description."
+"Directions to a boy whose voice sounds hurt. They have the hospital story now — door, empty room, clerk who cries when you make him repeat it." The contact looks at me. "Your face is becoming a description."
 
-The answer comes up ready — send them back to the hill, make them forget the scraped voice — and I stop it the same way I stopped it on the fringe: jaw locked, nothing under the ordinary air. Mira watches my mouth and nods once, small, like she counted a near-miss.
+The answer comes up ready — send them back to the hill, make them forget the scraped voice — and I stop it the same way I stopped it on the fringe: jaw locked, nothing under the ordinary air. Mira watches my mouth and nods once, small, like she saw how close I came.
 
 Suzumori sits on the straw. "How long do we have?"
 

@@ -116,7 +116,7 @@ The corporal shifts her weight. She wants her floor finished. She also wants her
 
 I feel the careful voice rising — the one that almost opened the bay clerk. I stop it before it leaves my mouth. This man already listens too easily.
 
-"We'll stay in C," I say. Ordinary. Boring. Nothing under it. "We're not looking for a track."
+"We'll stay in C," I say, flat, nothing under it. "We're not looking for a track."
 
 "That's a short-sighted answer." He marks the tablet anyway. "Refusal noted. Refusals get reviewed same as acceptances — just slower, and with fewer friends in the kitchen." He glances at Riku's forearm wrap. "And Nakahara — next time a yard guard tells you to keep the line moving, you keep it moving. Standing still in a volunteer gate looks like a statement."
 
