@@ -20,11 +20,11 @@ Mira's jaw tightens.
 
 "We didn't come here to feel useful. We came because you're next on that truck."
 
-"So are they," Mei says. "Difference is, you only booked one seat. They get armbands and a soft voice calling it care." She lowers the tablet. "If you want me through that door, you look at what this building does when it gets nervous. Not a speech — go look. Then we talk about walking."
+"So are they," Mei says. "Difference is, you only planned to take one person out. They get armbands and a soft voice calling it care." She lowers the tablet. "If you want me through that door, you look at what this building does when it gets nervous. Not a speech — go look. Then we talk about walking."
 
 The contact shifts her weight. Cutters still in her fist. "West corridor is filling. We do not have a debate hour."
 
-"Then walk while we debate," Mei says. "Kitchen junction. You already passed it. The kids are still there. If you can look at them and still call this a clean pull, I'll go with you and I won't argue once. If you can't — you stop pretending the fence was for me alone."
+"Then walk while we debate," Mei says. "Kitchen junction. You already passed it. The kids are still there. If you can look at them and still call this a quiet rescue, I'll go with you and I won't argue once. If you can't — stop pretending you cut the fence just for me."
 
 Mira looks at me. I wipe my lip on my wrist. The blood is already drying.
 
@@ -62,7 +62,7 @@ The fourteen-year-old on the line nods, like he has promised her something kind.
 
 Mei watches my face while he talks. She does not smile.
 
-"There," she says, quiet, for me and not for the guard. "Same voice that gave a crying boy a dinner number. Same voice that will line these two rows for the bay when the court clears. Are you still calling this a clean night?"
+"There," she says, quiet, for me and not for the guard. "Same voice that gave a crying boy a dinner number. Same voice that will line these two rows for the bay when the court clears. Are you still calling this a quiet night?"
 
 Mira's answer is already forming — abort, ditch, one name, live to fight — and I do not want to hear it yet.
 
@@ -72,7 +72,7 @@ Mira's answer is already forming — abort, ditch, one name, live to fight — a
 
 "And if the sheet says what you think?" Mira asks.
 
-"Then you stop talking about clean," Mei says. "And we decide what dirty is worth."
+"Then you stop talking about a quiet pull," Mei says. "And we decide what a messy one is worth."
 
 ---
 
@@ -88,7 +88,7 @@ Then a clerk crosses between us and the mezzanine, and when the angle clears, th
 
 "I wasn't inventing."
 
-"Then forget him. We do not have a second hunt tonight."
+"Then forget him. We are not chasing a second target tonight."
 
 Mei is already at the clerk window — a half-door above a short stair, dark, smelling of paper and cold metal. The contact works the latch with a tool that is not a key. It gives. Inside: a stool, a stamp box, a clipboard hung on a nail, and a printed night sheet under a clip.
 
@@ -104,13 +104,13 @@ Mira's breath goes out through her teeth.
 
 "That is a transfer list," she says. "Ugly. Not proof they die."
 
-"The destination is blank," Mei says. "Transfers have towns. This has a gate and a canvas side and a note that says the colonel is ready if the fence stays interesting." She looks at me. "Your fence. Your mouth. Their truck. Still want to pull one girl and call the night finished?"
+"The destination is blank," Mei says. "Transfers have towns. This has a gate and a canvas side and a note that says the colonel is ready if the fence stays interesting." She looks at me. "You lit the fence, you used your voice, and now their truck is waiting. Still want to pull one girl and call the night finished?"
 
 The contact is watching the stair behind us. "Boots. Two turns back. Decide."
 
 Mira takes my wrist. Not gentle. "We came for her. We still leave with her. You do not get to burn a Remnant extract because a clipboard has a blank line."
 
-"I'm not burning anything," I say. The scraped voice comes out thinner than I want. "I'm saying I heard Habu call those kids inventory like he was doing them a favor, and now the favor has a truck with no town on it. If we walk her out and leave them on that painted line, the night gets to call itself a rescue. I'm not walking out and calling that enough."
+"I'm not burning anything," I say. The scraped voice comes out thinner than I want. "I'm saying I heard Habu call those kids inventory like he was doing them a favor, and now the favor has a truck with no town on it. If we walk her out and leave them on that painted line, you'll get to call tonight a rescue. I'm not walking out and calling that enough."
 
 Mei folds the night sheet once and keeps it.
 

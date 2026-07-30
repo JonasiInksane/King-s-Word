@@ -52,11 +52,11 @@ I am still on the asphalt with dust in my teeth and Sato's paper half a kilomete
 
 The new boy picks up the pipe, weighs it, and tosses it into the ditch. Then he looks down at me. Crooked front tooth when he grins. Scraped knuckles as default. He clicks his tongue once, the way some people check a tool before they use it.
 
-"Soft boy," he says. "You walk like the road owes you manners."
+"Soft boy," he says. "You walk like everyone out here is going to be polite back."
 
 I sit up, ribs complaining, one ear still ringing. "Thank you. I — they took my paper. My transit chit. I need—"
 
-"I saw." He offers a hand. I take it. He hauls me up by the collar as much as by the arm, sets me on my feet, and steadies me with one finger on my chest until I stop swaying. "You tried to talk them out of a pipe. That's a skill — wrong skill, wrong audience."
+"I saw." He offers a hand. I take it. He hauls me up by the collar as much as by the arm, sets me on my feet, and steadies me with one finger on my chest until I stop swaying. "You tried to talk them out of a pipe. That's a skill, but not for men holding pipes."
 
 "I don't fight."
 
@@ -64,7 +64,7 @@ I sit up, ribs complaining, one ear still ringing. "Thank you. I — they took m
 
 "Aoyama Haruki." The full name comes out because he gave me his, and because manners are the only weapon I have left that still works on people who aren't holding pipes. "I'm going to Ishibashi."
 
-"Everybody's going to Ishibashi until they aren't." He tips his chin at my ribs. "Can you walk?"
+"Everybody says they're going to Ishibashi. Half of them never get there." He tips his chin at my ribs. "Can you walk?"
 
 "Yes."
 
@@ -86,7 +86,7 @@ We make a kilometer before he talks again.
 
 "Haven't decided. Something useful. Or funny. Or both." He glances sideways. "You always apologize to people holding pipes, or was today special?"
 
-"I apologize to situations."
+"I apologize when things go wrong. Not just to people holding pipes."
 
 He laughs with his whole face — short, bright, gone. "Yeah. That tracks."
 
@@ -102,7 +102,7 @@ Riku shrugs. "You don't, if the desk is hungry. You go around, or you work for s
 
 "I'm walking toward a person."
 
-"Even better. People are harder to catch than towns." He tips his chin west. "Ishibashi by dark if your ribs behave. I know a place under the arches that doesn't ask for stamps. You can tell me about your person when you're not bleeding on my jacket."
+"Even better. A town sits still. A person doesn't." He tips his chin west. "Ishibashi by dark if your ribs behave. I know a place under the arches that doesn't ask for stamps. You can tell me about your person when you're not bleeding on my jacket."
 
 "I'm not bleeding on your jacket."
 

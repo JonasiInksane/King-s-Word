@@ -22,7 +22,7 @@ Dawn comes gray through the needles.
 
 Mira leaves me in the cut and goes up to the fence line alone. She comes back with pine needles in her hair and a face that says the lit road is awake.
 
-"Pairs on the hill road," she says. "Not sweeping yet. Standing. Looking like they expect someone stupid to walk back the way they came."
+"Pairs on the hill road," she says. "They're not sweeping yet. They're just standing there, like they expect someone stupid to walk back the way they came."
 
 "Contact?"
 
@@ -44,17 +44,17 @@ They do not turn down our path. They keep going toward the hospital stack.
 
 "You've seen him here?"
 
-"I've seen what happens when he sits somewhere and listens. That quiet is coming whether we watch it or not." She stands, brushes clay off her knees. "Water. Half. Then we move before noon makes us visible."
+"I've seen what happens when he sits somewhere and listens. That quiet is coming whether we watch it or not." She stands, brushes clay off her knees. "Drink half the water. Then we move before noon makes us easy to see."
 
 I take the half. Flat. Warm from the bottle. Mira checks the fence line once more, then the inland track.
 
 "When we catch up to her," I say, "what's she going to want from me?"
 
-"An answer she already has." Mira does not soften it. "Whether last night was me using you, or you choosing. She'll ask it ugly. I'd rather you be standing there when she does."
+"She already knows what she thinks. She'll still make you say it." Mira does not soften it. "Whether last night was me using you, or you choosing. She'll ask it ugly. I'd rather you be standing there when she does."
 
 "And if I walk off before she starts?"
 
-"Then I still owe her, and you still owe the hill a scraped voice it hasn't finished hunting." She tips the water back. "I'm not dragging you into that shed by the collar. I'm telling you I'd rather not lie to her about where you went."
+"Then I still owe her, and the people on that hill still haven't finished looking for a boy with a scraped voice." She tips the water back. "I'm not dragging you into that shed by the collar. I'm telling you I'd rather not lie to her about where you went."
 
 ---
 
@@ -76,7 +76,7 @@ I almost say his name again. Mira's eyes flick to my face and away.
 
 "I wasn't."
 
-"Good." She starts walking. "Because if he's in this city and he knows that shape, he'll come to the hill on his own. We need to be somewhere else when he does."
+"Good." She starts walking. "Because if he's in this city and he knows we're on this hill, he'll come here on his own. We need to be somewhere else when he does."
 
 We walk. My shoulder stiffens. The bandage darkens and then stops. The fringe opens once onto a scrap of scrub where someone dumped broken tiles, and closes again into wet dark that smells like sap and old smoke. Mira checks every chalk mark twice — once with her eyes, once with her thumb — as if the marks might lie to her the way paper lies to clerks.
 
@@ -92,11 +92,11 @@ I don't deny it. The scrape in my throat makes denial sound like theater anyway.
 
 "If he's coming," I say, "the marks are the only thing that don't make him guess. We leave them, he finds the shed. We burn them and cut south, he walks the open road into whoever is listening for a scraped voice."
 
-"Or he walks the open road into us, and then we have a reunion with gray-greens for an audience." She doesn't raise her voice. She doesn't have to. "I didn't pull Suzumori out of a hospital so you could sit on a hill waiting for the boy who has been walking toward your mouth since Kuroishi."
+"Or he walks the open road into us, and then we have a reunion with gray-greens for an audience." She doesn't raise her voice. She doesn't have to. "I didn't pull Suzumori out of a hospital so you could sit on a hill waiting for the boy who's been chasing you since Kuroishi."
 
 "He's walking toward a hospital story. Not me."
 
-"Same road, if you leave him a trail of chalk." She wraps the empty seaweed and stuffs it in the sack like evidence. "Listen to me. If the hill gets loud — pairs, sirens, that man who covers his ears — we cut south and burn half a day. We lose the marks on purpose. If it stays quiet, we keep them and we move. Quiet is what worries me. Quiet means someone is taking their time."
+"Same road, if you leave him a trail of chalk." She wraps the empty seaweed and stuffs it in the sack like evidence. "Listen to me. If the hill gets loud — pairs, sirens, that man who covers his ears — we cut south and burn half a day. We lose the marks on purpose. If it stays quiet, we keep them and we move. Quiet is what worries me. Quiet means they're not rushing — they're looking carefully."
 
 "And if quiet is him?"
 
@@ -128,7 +128,7 @@ Then he walks back toward the chimneys with the pairs, and the lit road is empty
 
 We do not move until the steam from the laundry has shifted twice.
 
-"Inland," Mira says. "Before he decides the fringe is interesting."
+"Inland," Mira says. "Before he decides to search the tree line off the road."
 
 ---
 
@@ -168,7 +168,7 @@ Mira waits until the boots are gone. Then she waits longer.
 
 "Mira—"
 
-"If you say what I think you're about to say, we lose the shed and the truck and her." She does not look back. "Those two can burn the open road. We cut wider. Walk."
+"If you say what I think you're about to say, we lose the shed and the truck and her." She does not look back. "Those two can waste their time on the open road. We take a wider route. Walk."
 
 "That was him."
 
@@ -176,4 +176,4 @@ Mira waits until the boots are gone. Then she waits longer.
 
 "If we get to the shed first," I say, "and he's already on the marks—"
 
-"Then he's burning decoys for us whether he means to or not." She does not look back. "We get to the shed first. If you need a sentence to hold until dawn, hold that one."
+"Then he's leading the soldiers the wrong way for us, whether he means to or not." She does not look back. "We get to the shed first. If you need something to keep saying until dawn, say that."

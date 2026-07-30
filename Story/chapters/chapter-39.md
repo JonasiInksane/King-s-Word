@@ -18,7 +18,7 @@ She stops. The canal lock drips outside. Suzumori's eyes stay on Mira's arm.
 
 Suzumori clicks her tongue. "Okina does not like being thanked in rooms with thin walls. Keep going."
 
-"Okina," Mira says. Just the name. "She got me out. She put me with my aunt's remaining drivers when the coast got too watched for their old routes. Those drivers taught me which gray suits listen instead of stamp, which ridge tracks still take a bicycle, which cities you can hide in for a few days if you keep your head down. That is how I knew about the man in the gray suit before you saw him cover his ears in Nagihama. That is how I had a sack packed. Not magic. Homework. Ugly homework."
+"Okina," Mira says. Just the name. "She got me out. She put me with my aunt's remaining drivers when the coast got too watched for their old routes. Those drivers taught me which gray suits listen instead of stamp, which ridge tracks still take a bicycle, which cities you can hide in for a few days if you keep your head down. That is how I knew about the man in the gray suit before you saw him cover his ears in Nagihama. That is how I had a sack packed. Not magic. I learned it the hard way."
 
 I look at the scar until she rolls the sleeve down.
 
@@ -34,7 +34,7 @@ Suzumori leans forward. "Careful, girl. That is starting to sound like you own h
 
 "Remnant wanted a clean extract," Mira says. "Next time they will want answers — for Mei staying, for the cutters, for what you did in the west. Ashiro is not the end of my road either. Okina has people somewhere who still think I report to them. I am telling you that now so you do not invent a nicer version later."
 
-Suzumori ties her boot back on with hands that know how to work through pain. "I am walking with you because a boy with a mouth like yours scares me when he is alone. I have kept packages for people Mira's aunt's road owed. I have sat on quiet floors while men with nice watches decided when I would be transferred east. Your voice is loud even when you whisper, Kurosawa. I will not turn that into a speech tonight. I will tell you this: if Mira uses you only as a hammer, I will say so to her face. If you use yourself only as a hammer, I will say so to yours."
+Suzumori ties her boot back on with hands that know how to work through pain. "I am walking with you because a boy with a mouth like yours scares me when he is alone. I have kept packages for people Mira's aunt's road owed. I have sat on quiet floors while men with nice watches decided when I would be transferred east. Your voice is loud even when you whisper, Kurosawa. I will not turn that into a speech tonight. I will tell you this: if Mira only sends you to break things, I will say so to her face. If you only use yourself to break things, I will say so to yours."
 
 "Two mouths like that in one world," I say, because the phrase has been stuck in my head since the pine road. "You said that once."
 
@@ -116,7 +116,7 @@ The clerk waves us through. On the far side, under the first real streetlamp, I 
 
 "Boarding houses that take cash," Mira says. "Drivers who talk when they drink. Not desks. And not your voice on the first man who smells wrong."
 
-Suzumori leans on her stick. "If you Word someone in this market before breakfast, the city will write a hold order with your face on it. Ask with coins and eyes. Save the mouth for when you are sure."
+Suzumori leans on her stick. "If you Word someone in this market before breakfast, the city will write a hold order with your face on it. Pay people and watch. Do not use your voice until you know who you are talking to."
 
 "Haruki first," I say. "Then the coat. Then I decide about your road."
 

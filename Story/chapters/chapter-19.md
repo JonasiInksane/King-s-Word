@@ -20,21 +20,21 @@ Mira watches me the way she watched the pier soldier's face, once — checking f
 
 "What did she want?"
 
-"She brought a window." Mira turns the map so I can see the north hill marked in pencil — hospital stack, laundry chimneys, a service court behind the logistics wing. "There's an old woman on the quiet floors. Not a fever ward. The part they don't put on the visitor board. They've been holding her as an asset with no name worth stamping. Transfer east locks tonight — truck to the rail spur before dawn. After that she goes somewhere we can't reach."
+"She brought us a chance — a short one." Mira turns the map so I can see the north hill marked in pencil — hospital stack, laundry chimneys, a service court behind the logistics wing. "There's an old woman on the quiet floors. Not a fever ward. The part they don't put on the visitor board. They've been holding her as an asset with no name worth stamping. Transfer east locks tonight — truck to the rail spur before dawn. After that she goes somewhere we can't reach."
 
 "You know her?"
 
-"I knew her." Mira's voice stays level. "She kept things for people my aunt's road owed. Names. Routes. The kind of remembering lists don't like. If the east truck takes her, the people who hold clipboards get to keep one more person who shouldn't belong to them." She looks at me. "I am getting her out tonight. I need a door opened that paper won't open."
+"I knew her." Mira's voice stays level. "She kept things for people my aunt's road owed — names and routes, the kind of memory the people with lists don't want out in the open. If the east truck takes her, the people who hold clipboards get to keep one more person who shouldn't belong to them." She looks at me. "I am getting her out tonight. I need you to get a door open that stamps and forms won't open."
 
 There it is. The thing under the rent. The reason the contact found us a clean room instead of another rail-shed floor. I feel the sentence shape itself behind my teeth the way it has been doing all summer — clean, ready, hungry — and I hate how glad the hunger is.
 
-"You said no talking under anything in this city," I say. "Not for a shortcut. Not because I'm angry."
+"You said I wasn't allowed to use my voice like that in this city," I say. "Not for a shortcut. Not because I'm angry."
 
-"I said that." She doesn't flinch. "I'm asking you to break it once, on purpose, for someone who will be gone by morning if we don't. After that we move. This room won't stay clean once the quiet floors notice a hole."
+"I said that." She doesn't flinch. "I'm asking you to break it once, on purpose, for someone who will be gone by morning if we don't. After that we move. This room won't be safe once the quiet floors notice someone is missing."
 
 "And if I say no?"
 
-"Then I still go, and I fail, and she rides east, and we keep stacking crates until the gray suit sits at Minato and points at your mouth." She says it without drama, level as a timetable. "I'm not threatening you with that. I'm telling you the road. You've been angry for weeks, Kaito. You sleep like you're waiting for a fight. Something is going to give — I'd rather it be a door we choose."
+"Then I still go, and I fail, and she rides east, and we keep stacking crates until the gray suit sits at Minato and points at your mouth." She says it without drama, level as a timetable. "I'm not threatening you with that. I'm telling you what happens next if we do nothing. You've been angry for weeks, Kaito. You sleep like you're waiting for a fight. Something is going to give — I'd rather it be a door we choose."
 
 I want to argue. The argument comes out smaller than I mean it to.
 
@@ -50,7 +50,7 @@ The bath-house steam lifts past the window. Somewhere a whistle starts the first
 
 "When?"
 
-"After the second night shift changes. Service court behind the laundry. Contact waits two streets down with a cart and a story about linen. I talk. You keep your mouth the wage length until I say otherwise. If a latch won't move and paper can't move it — then you." She folds the map. "If it goes wrong, you run with me. You don't stay to finish an argument with a rifle."
+"After the second night shift changes. Service court behind the laundry. Contact waits two streets down with a cart and a story about linen. I do the talking. You keep your voice ordinary until I say otherwise. If a latch won't move and paper can't move it, then you open it." She folds the map. "If it goes wrong, you run with me. You don't stay to finish an argument with a rifle."
 
 "And after?"
 
@@ -62,7 +62,7 @@ I look at the latch on our door. At the third pile on the table. At Mira's hands
 
 Something in her shoulders drops a fraction — not relief exactly. Readiness. "Then we go over the route until you can walk it with your eyes shut. And Kaito —"
 
-"I know. Ordinary words until you say. Nothing under them for anger."
+"I know. Ordinary words until you say. I don't use the voice because I'm angry."
 
 "For anger, for fear, for a boy who looks at you wrong in a corridor." She meets my eyes. "You open one door with a plain ask, and then we leave. The part of you that likes it when it works — leave that part outside the fence. I need the part that gets an old woman down a stair."
 
@@ -76,7 +76,7 @@ Mira buys rice and vinegar like any aunt's errand. I walk the service road behin
 
 At midday I almost open my mouth at a pair of gray-greens who stop a cart boy for papers he doesn't have. The words come up ready — then I crush them by putting my hands in my pockets and taking the long way around the block. The cart boy gets a shove and a warning instead of a cell. That is the city's kindness. I walk until my pulse settles.
 
-Mira finds me at the water tower we used the first afternoon. She doesn't ask where I went. She hands me a rice ball and says, "Clerk changes at eleven. Transfer truck is staged for three. We go in the gap."
+Mira finds me at the water tower we used the first afternoon. She doesn't ask where I went. She hands me a rice ball and says, "The clerk changes at eleven, and the transfer truck is staged for three. We go in between."
 
 "You've done this before?"
 
@@ -98,7 +98,7 @@ I stand. I keep my mouth shut the way I've been keeping it shut for weeks — ja
 
 Mira locks up and leaves the key under the stationery shop's broken shutter, where the contact said to leave it. The metal makes a small sound against the wood — too small for a goodbye, which is the point.
 
-"Service court," she says. "If I stop, you listen. If I run, you run. Clear?"
+"We head for the service court," she says. "If I stop, you listen. If I run, you run. Clear?"
 
 "Clear."
 

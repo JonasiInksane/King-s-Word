@@ -18,7 +18,7 @@ Tanabe blinks. Whatever he was lining up to say next doesn't get said. He looks 
 
 "Be here at six sharp," he says, and goes back to his sums. "Late once and you're done."
 
-Outside, Riku gives me a sideways look, half a step longer than it needs to be. "Huh," he says. "You could sell a wet umbrella." And that's all he says about it.
+Outside, Riku gives me a sideways look, half a step longer than it needs to be. "Huh," he says. "You talk people into things." And that's all he says about it.
 
 ---
 
@@ -30,7 +30,7 @@ The route teaches me the city faster than a year of wandering would have, and wh
 
 He's at Minato most nights, the one beer standing sentry in front of him, and he trades company for geography. He draws me the city on the counter with a wet finger: the wards like wedges around the harbor, the elevated line and where it actually stops rather than where the map says, the three bridges and which one floods, which streets a handcart can take at noon and which ones will get you cursed at in two dialects.
 
-"Forty years on the trams," he says. "I know this city the way you know a person. And like a person, it's been getting sicker. My line got shortened twice — materiel priority, they said, everything up the hill gets the steel first." He says up the hill the way other men say a name they're not speaking. "You'll see. Everything in this city that stops working, stops working from the hill down."
+"Forty years on the trams," he says. "That taught me every ward in this city. And it's been getting worse. My line got shortened twice — materiel priority, they said, everything up the hill gets the steel first." He says up the hill the way other men say a name they're not speaking. "You'll see. Everything in this city that stops working, stops working from the hill down."
 
 "What's on the hill?"
 

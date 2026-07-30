@@ -12,7 +12,7 @@ My turn comes mid-afternoon. A soldier walks me up — polite, tired — and the
 
 "Jun taught my friend net splices. Everyone knew Jun."
 
-"Your friend." He lets it sit. "The one who shouted. The one who ran."
+"Your friend — the one who shouted, then ran." He lets it sit.
 
 "Half the yard ran. There was shooting."
 
@@ -60,7 +60,7 @@ Sato receives me in Orihara's back room, arm strapped, gray from a fever she's d
 
 "You came for paper." Records-clerk voice. "Good. You'd be dead in a week without it."
 
-She works one-handed while she talks, and what she builds me is a boy who exists: a transit chit with real stamps in a merciful order, a work reference from a co-op that will swear to me, a family errand — *locating a cousin's household, displaced, last known inland* — that gives my walking a clerk-shaped reason. "Don't embroider it," she says. "You're a boring boy on a family errand. Boring is the whole uniform, I told you that the day I met you."
+She works one-handed while she talks, and what she builds me is a boy who exists: a transit chit with real stamps in a merciful order, a work reference from a co-op that will swear to me, a family errand — *locating a cousin's household, displaced, last known inland* — that gives my walking a clerk-shaped reason. "Don't add details," she says. "You're a boring boy on a family errand. Boring is what keeps you safe — I told you that the day I met you."
 
 "Come with me as far as the junction," I say. "You can't stamp with that arm. Orihara can hide the box better than—"
 
@@ -68,7 +68,7 @@ She works one-handed while she talks, and what she builds me is a boy who exists
 
 She says it perfectly level. I meet her eyes, and neither of us puts anything more on the table than that — just two people looking at the same handful of maybes and declining to say any of them out loud.
 
-"Bring him back a person," Sato says, which is the closest she comes to goodbye. "Paper I can fix. That, I can't."
+"Bring him back still himself," Sato says, which is the closest she comes to goodbye. "Paper I can fix. A boy like that, I can't."
 
 ---
 
@@ -76,11 +76,11 @@ Sugi doesn't try to stop me. That's the last thing Nagihama gave me, and the big
 
 She watches me pack the onigiri she made without being asked — the paper of stamps going inside my jacket where rain can't argue with it, food on top — and she stands in the entryway with her arms folded, and what she says is:
 
-"You know what you're walking toward isn't the boy who left."
+"You know the boy you're going after won't be the same one who left."
 
 "I know."
 
-"You don't," she says, without heat. "You know it in your head. You'll learn it the other way on the road, and it'll cost you, and you'll keep walking anyway, because that's the animal you are. I've fed enough people to know the ones who come back from things and the ones who go *toward* them." She looks at me for a long moment, and whatever she's checking for, she finds enough of it. "Both of you got made wrong for surviving. It's the one thing I'd change about either of you, and it's the only reason I'm letting you through this door."
+"You don't," she says, without heat. "You know it in your head. You'll learn it for real on the road, and it'll cost you, and you'll keep walking anyway, because that's who you are. I've fed enough people to tell who comes home from a hard thing and who goes looking for the next one." She looks at me for a long moment, and whatever she's checking for, she finds enough of it. "Both of you walk toward trouble instead of away from it. It's the one thing I'd change about either of you, and it's the only reason I'm letting you through this door."
 
 She fixes my collar like a grandmother, one pull, done.
 

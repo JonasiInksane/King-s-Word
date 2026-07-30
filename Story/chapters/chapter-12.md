@@ -72,13 +72,13 @@ Mira counts the money left in the sack while we stand in the shade of the bridge
 
 "Earn how?"
 
-"Same way coast people always earn." She tips her chin at the stalls under the arches — crates, ice, a man shouting for hands to unload a truck. "You have a back. I have a face people trust. We don't use anything else."
+"Same way coast people always earn." She tips her chin at the stalls under the arches — crates, ice, a man shouting for hands to unload a truck. "You can haul, and people trust my face when I ask. We don't use anything else."
 
 The *anything else* sits between us. She is not asking. She is drawing a line I already know and making sure I hear it in daylight.
 
 "I talk first," I say.
 
-"You haul first. Talking is my job until your voice stops sounding like a wanted poster."
+"You haul first. Talking is my job until your voice stops making people look twice."
 
 ---
 
@@ -92,11 +92,11 @@ At the edge of the market she buys two bowls of something hot with the truck mon
 
 "How long to Takamatsu from here?"
 
-"Half a day if the bus isn't stopped. Longer if they hold the road." She taps the sack. "We've got fare and almost nothing else. Once we're there we need work the first afternoon, or we're eating stamps."
+"Half a day if the bus isn't stopped. Longer if they hold the road." She taps the sack. "We've got fare and almost nothing else. Once we're there we need work the first afternoon, or we'll spend the last of it on food and go hungry."
 
 "What kind of work?"
 
-"Yards. Markets. Whatever doesn't ask for a family register." She looks at me over the bowl. "And you keep your head down at the window. If they ask you to talk, I talk. Same as the bus today."
+"Yards or markets — whatever doesn't ask for a family register." She looks at me over the bowl. "And you keep your head down at the window. If they ask you to talk, I talk. Same as the bus today."
 
 A man from the ice truck walks past with a crate, recognizes me from the unload, and slows. "You heading out already? We could use you again tomorrow — same rate, maybe better if the squid boat comes in."
 
@@ -124,7 +124,7 @@ Before first light Mira shakes my shoulder. Yesterday's pay is still counted int
 
 For the first hour we don't talk. Then Mira does, quiet enough that the seat ahead can't use it.
 
-"Once we're in, the aunt story dies," she says. "It nearly died yesterday over a mending stall. Cities ask for addresses. If we give them one that isn't real, somebody checks it by supper."
+"Once we're in, we drop the aunt story," she says. "It nearly fell apart yesterday over a mending stall. Cities ask for addresses. If we give them one that isn't real, somebody checks it by supper."
 
 "So what do we say?"
 
@@ -136,11 +136,11 @@ For the first hour we don't talk. Then Mira does, quiet enough that the seat ahe
 
 I watch the hills go by. "And if they ask me to talk?"
 
-"Then you talk like a boy who wants a wage, not a boy who wants an argument." She glances at my mouth, then away. "Ordinary words. Nothing under them. Same rule as the crates."
+"Then you talk like a boy who wants a wage, not a boy who wants an argument." She glances at my mouth, then away. "Ordinary words. Just ask for the wage and stop there. Same rule as the crates."
 
 "I know the rule."
 
-"Knowing it and keeping it when a clipboard leans in are different jobs." She says it without heat. "You're getting better at being quiet. Don't get clever with the other thing because the quiet feels small."
+"Knowing it and keeping it when a clipboard leans in are different jobs." She says it without heat. "You're getting better at being quiet. Don't start telling people what to do just because quiet feels like it isn't enough."
 
 I almost tell her the quiet is the only thing that has felt like mine since the shrine yard. I don't. The bus hits a patch of bad road and the whole cabin rattles, and when it settles she is looking at the window again.
 

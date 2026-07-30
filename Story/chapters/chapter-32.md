@@ -122,7 +122,7 @@ Not quiet this time. Not aimed at anyone with weight under it — not yet — bu
 
 "Then stop blocking the door."
 
-"So you can walk in and die with them? So I can watch you bleed out your mouth until there is nothing left to drag?" Her hand hits the wall beside my head hard enough that Mei flinches. "I brought you here for one girl. You turned it into a war with a soft speaker. I am angry too, Kaito. I am not stupid enough to call that a plan."
+"So you can walk in and die with them? So I can watch you bleed out your mouth until there is nothing left to drag?" Her hand hits the wall beside my head hard enough that Mei flinches. "I brought you here for one girl. You turned it into a fight with Habu and every guard on the west side. I am angry too, Kaito. I am not stupid enough to call that a plan."
 
 "I don't need a plan. I need into that room."
 
@@ -164,7 +164,7 @@ I walk into the white room far enough to see that none of them are breathing. A 
 
 My jaw locks. My eyes burn, not from smoke — from holding still on the bodies and refusing to look away. Mei takes a step back without meaning to. Mira's mouth goes flat the way it does when a road turns into a fight. I do not wipe the blood off my lip. I do not make my face kinder for either of them.
 
-"I watched you walk in," I tell them, quiet, useless, too late. "I watched him thank you. I sat on a grate and let distance win. I let Mira tell me not to open my mouth. I let the next door be soon enough." My throat burns. "It was not soon enough. You are on the floor and he is asking for tea like the night went well."
+"I watched you walk in," I tell them, quiet, useless, too late. "I heard him thank you. I sat on a grate and didn't shout. Mira told me to keep my mouth shut and I listened. I kept telling myself we'd get in on the next door." My throat burns. "We didn't. You're on the floor and he's upstairs asking for tea like the night went well."
 
 I turn toward the bay. Toward the wall speaker. Toward the man upstairs who still thinks this building belongs to kindness.
 

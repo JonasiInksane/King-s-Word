@@ -40,11 +40,11 @@ Over tea, I tell her all of it, straight through — the train pass, the roof, t
 
 "I don't know how to dress that up."
 
-"Good. Don't learn." She pushes the fresh cup at me. "Tomorrow we do what the widows do when the sea doesn't give a body back. It isn't much. It's what there is. Tonight you eat, and you sleep, and you don't apologize to my floor for existing."
+"Good. Don't learn." She pushes the fresh cup at me. "Tomorrow we do what the widows do when the sea doesn't give a body back. It isn't much. It's what there is. Tonight you eat, and you sleep, and you don't apologize for sitting in my kitchen."
 
 "I wasn't going to—"
 
-"You were. I can hear it loading." She stands, joints cracking, and points at the bowl she already set in front of me. "Eat. He eats too, when he wakes. Even if he argues. Especially if he argues."
+"You were. I can hear it coming." She stands, joints cracking, and points at the bowl she already set in front of me. "Eat. He eats too, when he wakes. Even if he argues. Especially if he argues."
 
 ---
 
@@ -62,7 +62,7 @@ Nobody asks us where we came from. She never once looks at the empty third place
 
 When Sugi puts a cup in front of her, Mira drinks it standing, the way people do when they know better than to settle into someone else's grief. Before she goes she glances at our ruined shoes by the door.
 
-"My aunt keeps spare boots in the shed," she says. "I'll bring a pair tomorrow. Two, if they fit." She tips her chin at Kaito without making him answer. "You look like you walk. Walking's easier when your feet aren't bleeding."
+"My aunt keeps spare boots in the shed," she says. "I'll bring a pair tomorrow. Two, if they fit." She tips her chin at Kaito without making him answer. "You look like you do a lot of walking. Walking's easier when your feet aren't bleeding."
 
 Then she is gone — rice on the counter, towels stacked, blue-gate girl already halfway down the lane whistling something with no tune.
 
@@ -114,7 +114,7 @@ When we finally turn, the sea wall above us holds a thin line of neighbors who c
 
 Inside, the shelf by the window is empty where the cat was. Kaito sits against the wall with his wet boots still on and his hands open on his knees, as if he hasn't figured out what to do with them now that they've done the one thing they didn't want to do. Last light goes gray-gold through the glass. Down the lane somebody laughs at something that has nothing to do with us — the sound carrying the way sound does in a town built low.
 
-"Futon or my room," Sugi says. "Pick one and stop staring at my floor like it owes you an answer."
+"Futon or my room," Sugi says. "Pick one and stop staring at my floor."
 
 "Futon," Kaito says. Scraped. Barely a word, but a word.
 

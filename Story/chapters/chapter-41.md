@@ -86,11 +86,11 @@ Mira takes it out of my hand and reads it twice, the way she reads everything th
 
 "That's what Endo said."
 
-"That's a lot of city standing in one place on one night." She folds the notice along its crease, careful, like it's worth keeping instead of scrap. "A lot of faces coming out from wherever they've been hiding all year to stand by the same water at the same hour."
+"Half the city will be at that pond on one night." She folds the notice along its crease, careful, like it's worth keeping instead of scrap. "A lot of people coming out from wherever they've been hiding all year to stand by the same water at the same hour."
 
 "You think he'd be there?" I say. Haruki, I mean, though neither of us says his name out loud, because saying it out loud still feels like it might jinx whatever thin luck got us this far.
 
-"I think a city that empties itself onto one bank of water is either the safest place in Ashiro to look for somebody, or the worst place to be found standing still," Mira says. "I don't know which yet. I know we have two weeks to decide, and paper in my hand that says exactly when we'll need to."
+"Either the festival makes him easy to find, or it makes us easy to find standing still," Mira says. "I don't know which yet. I know we have two weeks to decide, and paper in my hand that says exactly when we'll need to."
 
 Suzumori looks at the notice over Mira's shoulder, quiet for once, and doesn't say anything about coats or careful mouths. She just taps the printed date once with one finger, the way a person marks something down so they won't have the excuse of forgetting it later.
 

@@ -28,11 +28,11 @@ Orii's gaze goes over Mira, then over me — scraped voice, dust to the knees, a
 
 She points upstairs without smiling.
 
-"One night. Maybe two. You haul stock in the morning. You don't talk about the war in my shop. I don't stock it."
+"One night. Maybe two. You haul stock in the morning. You don't talk about the war in my shop. I don't want to hear it."
 
 "Understood," Mira says.
 
-"Payment's the hauling. There's a mat and a washbasin. Don't leave the water running." She looks at me again, longer. "And keep your mouth quiet if anyone with a clipboard comes in. This town has ears."
+"Payment's the hauling. There's a mat and a washbasin. Don't leave the water running." She looks at me again, longer. "And keep your mouth quiet if anyone with a clipboard comes in. People talk in this town."
 
 I almost laugh. It comes out wrong. She has already turned back to her tea boxes.
 
@@ -44,7 +44,7 @@ The room above the shop is one mat, one window onto the alley, a washbasin with 
 
 "Not hungry."
 
-"I didn't ask if you were hungry." She puts the rice in my hand. "You walk better with something in you. That's not kindness. That's logistics."
+"I didn't ask if you were hungry." She puts the rice in my hand. "You walk better with something in you. I'm not being kind. I need you able to move tomorrow."
 
 I eat. It tastes like nothing. It stays down, which is the whole job.
 
@@ -86,7 +86,7 @@ I don't have papers. Mira is downstairs. Orii's ceiling is not a stamp.
 
 "I lost them on the ridge," I say.
 
-He doesn't buy it. His hand goes to the radio on his belt — not lifting it yet, just resting there — and he says, mild as a clerk, "You'll wait by the shade cloth. Secondary. Routine."
+He doesn't buy it. His hand goes to the radio on his belt — not lifting it yet, just resting there — and he says, mild as a clerk, "You'll wait by the shade cloth. It's a secondary check. Routine."
 
 Same word they used on Jun at the pier. Same waiting to the side until somebody with a better clipboard decides.
 
@@ -116,11 +116,11 @@ She sees it anyway. Cloth out, thumb under my chin, the same move as the pier.
 
 She holds the cloth there a second longer than the blood needs. Her face stays level — reading weather that hasn't arrived yet.
 
-"That leaves a mark," she says. "Not on paper. On people. Someone at that well is going to tell a story about a boy whose mouth made a clipboard man forget his job." She lowers the cloth. "We leave at first light for Ishibashi. Before the story grows legs."
+"People will remember that," she says. "Not because anyone wrote it down. Someone at that well is going to tell a story about a boy whose mouth made a clipboard man forget his job." She lowers the cloth. "We leave at first light for Ishibashi. Before that story spreads."
 
 "Orii said one night. Maybe two."
 
-"One night. Then we go." Mira packs the sack while she talks — already deciding for both of us. "You used it in a town that still has buses. That's different from a shed. Different from a shrine yard with six hundred witnesses who will swear they saw smoke. Here it's quiet enough to remember."
+"One night. Then we go." Mira packs the sack while she talks — already deciding for both of us. "You used it in a town that still has buses. A shed is one thing, and a shrine yard with six hundred witnesses who will swear they saw smoke is another. Here it's quiet enough for people to remember."
 
 I sit on the mat and try to feel sorry. The sorry is there. Under it, smaller, is the same lift I felt on the pier when the soldier's eyes went loose — a hand finding a grip — and I hate that it is still there after Jun, after the soldier under his own jaw, after Haru's open mouth in the gateway.
 

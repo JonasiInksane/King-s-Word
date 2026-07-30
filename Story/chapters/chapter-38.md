@@ -40,7 +40,7 @@ Mira's hand finds my shoulder. I shake it off.
 
 "That coat has my friend," I say. "And Habu is still breathing in his glass. I am not sitting in this ditch while either of those things stays true."
 
-The contact laughs once, ugly. "You want to chase a truck on ruined legs after you turned Shizuhara into a story every desk east of here will invent a hold order for. Brilliant. Remnant does not run taxi service for boys who cannot finish an extract without writing a massacre."
+The contact laughs once, ugly. "You want to chase a truck on ruined legs after what you did at Shizuhara? Every desk east of here is going to put a hold order on your name. Brilliant. Remnant does not run taxi service for boys who cannot finish a job without turning it into a massacre."
 
 "Then do not run it for me," I say. "Point me at the road and get out of the way."
 
@@ -58,17 +58,17 @@ The contact's head turns. "That is not our drop."
 
 "Why would Haruki's truck go there?" I ask.
 
-"I do not know that it did," Suzumori says. "I know coats that move people after buildings catch fire often prefer cities that can swallow a story. I know Mira's road has used Ashiro before as a breath. I know if you stand here inventing sentences for a ditch, Habu's second shift will invent you first."
+"I do not know that it did," Suzumori says. "Coats that move people after buildings burn often prefer cities big enough to hide in. Mira's road has used Ashiro before when people needed a few quiet days. If you stand here talking, Habu's second shift will find you before you find that truck."
 
 Mira nods once. Slow. "We go to Ashiro."
 
 The contact slams the hood. "I am not driving you into a reed market so he can hunt a coat. Remnant will want answers for Mei, for the cutters, and for whatever he did to Habu's west side. You take him inland, and that mess follows you."
 
-"Then let it follow," Mira says. "I am not leaving him in this ditch to be the next anomalous line on somebody's sheet. You can come, or you can go tell your table the extract died and the girl stayed. Those are your choices. They are not his."
+"Then let it follow," Mira says. "I am not leaving him in this ditch to be the next name they write down and forget. You can come, or you can go tell your people the job failed and Mei stayed behind. Those are your choices. They are not his."
 
 The contact stares at her. Then she looks at me like I am a broken tool she still has to load.
 
-"I take you to the inland spur," she says. "Not into Ashiro proper. From there you walk or you steal a ride. I am not parking under lanterns with a scraped-voice boy who just made Shizuhara famous. And when the table asks, I tell them Mira chose the loud road again."
+"I take you to the inland spur," she says. "Not into Ashiro proper. From there you walk or you steal a ride. I am not parking under lanterns with a scraped-voice boy who just put Shizuhara on every desk. And when my people ask, I tell them Mira chose the noisy road again."
 
 "Tell them whatever keeps you breathing," Mira says. "We leave now."
 
@@ -82,7 +82,7 @@ I do not give her one.
 
 I watch the dark and see Haruki's face in the truck bed, and the coat in the cab glass, and Habu's awake eyes over a sealed mouth, and the armband kids walking into a room that thanked them. The Word offers me clean clauses for all of it. I keep them behind my teeth because Mira is right about distance and trucks, and because if I open my mouth now I am not sure I will stop at one building.
 
-"Ashiro," I say at last, to the window, to anyone who wants it. "I find Haruki. Then the coat. If your city is on the way, fine. If it is not, I will keep walking."
+"Ashiro," I say at last, to the window, to anyone who wants it. "I am going to find Haruki, then the man in the coat. If your city is on the way, fine. If it is not, I will keep walking."
 
 Mira does not tell me I am wrong.
 

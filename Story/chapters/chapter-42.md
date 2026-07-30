@@ -62,7 +62,7 @@ Suzumori picks up her own purse from the cobbles without any drama at all, like 
 
 "I didn't."
 
-"I know you didn't. I asked because I watched you decide not to, which is a different thing than not thinking of it at all." She weighs the purse in her palm, checking the coins are still inside. "That is the first time since I've known you that I've watched the word come all the way up your throat and stop before it left your teeth."
+"I know you didn't. I asked because I watched you decide not to, which is a different thing than not thinking of it at all." She weighs the purse in her palm, checking the coins are still inside. "That was the first time I've seen you almost use your voice on somebody and stop yourself."
 
 "He's a kid," I say. "Stealing a purse. That's not — that's not the kind of thing that needs my voice on it. My hands worked fine."
 
@@ -80,11 +80,11 @@ We eat lunch on the canal steps because none of us wants to carry the ointment a
 
 I turn the empty paper chestnut cone over in my hands, looking for an answer that isn't just a reflex dressed up as a reason.
 
-"Because I've used that word on things that mattered a lot more than a purse, and it left something in me a little more hollow every single time," I say slowly. "Because if I start using it on a fourteen-year-old with sticky fingers, I don't know where the line moves to next. Because Mira held my jaw shut in a ditch outside Shizuhara so I wouldn't kill a truck full of people, and I don't want to find out what happens to a purse-thief on a day nobody's there to hold anything."
+"Because I've used that voice on things that mattered a lot more than a purse, and it costs me every time," I say slowly. "Because if I start using it on a fourteen-year-old with sticky fingers, I don't know where the line moves to next. Because Mira held my jaw shut in a ditch outside Shizuhara so I wouldn't kill a truck full of people, and I don't want to find out what happens to a purse-thief on a day nobody's there to hold anything."
 
 Suzumori doesn't say *good boy* or anything close to it, which I'm grateful for, because I think I'd have thrown the egg at her.
 
-"Taking your time with a thing like that," she says instead, "is not the same as being slow. People confuse those. A slow boy doesn't notice the word rising. You noticed it and made it wait. That's a different animal entirely, and it took you longer to grow than it should have, and it still isn't finished growing."
+"Stopping yourself isn't the same as being slow," she says instead. "People confuse those. A slow boy doesn't notice it coming. You felt it and chose not to say it. That took you too long to learn, and you're still learning it."
 
 "It isn't," I agree. "None of this feels finished."
 
@@ -92,7 +92,7 @@ Suzumori doesn't say *good boy* or anything close to it, which I'm grateful for,
 
 Mira has gone quiet beside me, turning her own cup in her hands, and when she finally speaks it isn't about the thief or the market or the coin at all.
 
-"You've been asking about him for four days," she says. "Quiet questions. You'll find a thread eventually — this city is not that big, and the festival will pull people toward the same water." She looks at me directly. "So say it plainly. When you find him — what are you going to say?"
+"You've been asking about him for four days," she says. "Quiet questions. You'll get a lead eventually — this city isn't that big, and the festival will pull people to the same pond." She looks at me directly. "So say it plainly. When you find him — what are you going to say?"
 
 I open my mouth. Nothing comes. Not a command. Not even an ordinary sentence.
 

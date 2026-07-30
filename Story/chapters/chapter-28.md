@@ -14,7 +14,7 @@ The tablet guard lifts his marker. The clipboard guard reads in the same bored r
 
 "That's wrong," Ōhashi says, too loud for a junction with ears. "I have forty-three. I checked at lights. I—"
 
-"Board says forty-two," the tablet guard says, not looking at him. "If your notebook wants a fight, take it to the corporal. Move."
+"Board says forty-two," the tablet guard says, not looking at him. "If your count doesn't match the board, take it to the corporal. Move."
 
 Riku does not look at me. He does not have to. Last night's deal sits between us without words: if the board goes short and she isn't here, we do not take the notebook for it. We check the bunks.
 
@@ -124,7 +124,7 @@ Mei studies Ōhashi the way she studies bad tallies — as a thing that will mov
 
 She almost answers. I see the shape of it — not kindness, irritation at a stupid question with a real hole under it. Then the silent guard shifts his weight, and Mei's eyes flick to him, and the almost dies.
 
-"I don't sell routes," she says. "I sell clean boards. Your board is clean now. Your bay is short one. Those can both be true." She takes the signed list. "If you chase Katō through the service court in daylight, you will get corridor duty and I will not help you out of it. If you are going to be stupid, be stupid when fewer people are watching."
+"I don't give directions out of this building," she says. "I keep the counts straight. Your board matches now. Your bay is short one. Those can both be true." She takes the signed list. "If you chase Katō through the service court in daylight, you will get corridor duty and I will not help you out of it. If you are going to be stupid, be stupid when fewer people are watching."
 
 Riku clicks his tongue once.
 
@@ -136,11 +136,11 @@ She goes. The letter-door shuts. The silent guard points us back toward C.
 
 Ōhashi walks beside me for ten meters without the mayor voice.
 
-"Tuesday," he says. "He was going to laugh at the cigarette. I don't — I don't lose Tuesdays."
+"Tuesday," he says. "He was supposed to laugh at the cigarette joke. He owed me that, and now I don't know where he is."
 
 "We know," I say.
 
-"I keep track of everybody in C." He opens the notebook, looks at the struck line, and closes it again. "Somebody has to. If the board can be right while my book is wrong, then the board is counting a different building than the one I sleep in."
+"I keep track of everybody in C." He opens the notebook, looks at the struck line, and closes it again. "Somebody has to. If the board says forty-two and my list says forty-three, one of us is wrong about who slept here last night."
 
 Riku glances at him, then at me.
 
@@ -148,7 +148,7 @@ Riku glances at him, then at me.
 
 Ōhashi swallows. The part of him that runs this corridor wants to forbid it. The part that got struck off the Tuesday list wants something else.
 
-"If you get caught," he says, "I never heard this. If you don't get caught — you tell me if you see him. I am not rewriting Tuesday for a story."
+"If you get caught," he says, "I never heard this. If you don't get caught — you tell me if you see him. Tell me the truth. I'm not crossing his name out for a lie."
 
 "Alright," I say.
 
@@ -170,11 +170,11 @@ Not the soft lobby strips. The hard white ones on the west fence — the ones th
 
 Mei comes through the letter-door before the silent guard can finish locking it. She has no towel cart. Her hands are white on the frame.
 
-"Pine-road," she says, fast, for us and not for the junction. "Do not go to the bay. Do not stand under the board inventing reasons. East is locking because the west wire has company, and when the wire has company every empty bunk becomes a story they write wrong." She looks once at Ōhashi's open notebook. "Keep his name in the bay. Not in the corridor."
+"Pine-road," she says, fast, for us and not for the junction. "Do not go to the bay. Do not stand under the board inventing reasons. East is locking because someone is at the west wire, and when that happens every empty bunk gives them an excuse to write whatever they want." She looks once at Ōhashi's open notebook. "Keep his name in the bay. Not in the corridor."
 
 "Who is on the fence?" I ask.
 
-"If I knew a name worth saying, I still wouldn't say it with a rifle in the hall." The silent guard's hand finds her shoulder. She shakes it off once, then lets him have it. "Stay on your side of the line. Do not give them a reason to walk anyone else out of C while the fence is lit — you already have one empty bunk they can write any story on."
+"If I knew a name worth saying, I still wouldn't say it with a rifle in the hall." The silent guard's hand finds her shoulder. She shakes it off once, then lets him have it. "Stay on your side of the line. Do not give them a reason to walk anyone else out of C while the fence is lit — you already have one empty bunk they can blame on whatever they want."
 
 "Katō isn't—" Riku starts.
 
@@ -186,7 +186,7 @@ The letter-door shuts. The lock turns. Through the high window the west lights s
 
 "Bay is closed," Riku says. "Fence is someone else's fight. So what—"
 
-"So we use their eyes being west," Ōhashi cuts in. He taps the notebook hard enough that the pencil jumps. "Every corporal in this hall is looking at the wire. Nobody is watching who still has a mattress. We check every bunk in C against my book before upstairs invents another review and calls it tidy." He looks at me, then at Riku. "You two know bay three. I take one through four. You take five through eight. Wake them. Match names. If anyone is gone besides Katō, I want it in pencil before a guard writes it in marker."
+"So we use the fact that every guard is looking west," Ōhashi cuts in. He taps the notebook hard enough that the pencil jumps. "Every corporal in this hall is looking at the wire. Nobody is watching who still has a mattress. We check every bunk in C against my book before upstairs invents another review and calls it tidy." He looks at me, then at Riku. "You two know bay three. I take one through four. You take five through eight. Wake them. Match names. If anyone is gone besides Katō, I want it in pencil before a guard writes it in marker."
 
 "And if a corporal comes back mid-count?" Riku asks.
 
@@ -212,7 +212,7 @@ We meet back at the junction under the high window. The west glare is still on. 
 
 "C is short one," he says. "Only Katō. Cap and cup still here. That is not a man who walked to a review with a bag." He closes the book. "I cannot take this to the board while they have rifles in the hall. I can keep it until morning, and if the wall tries to call forty-one, I have paper that says otherwise."
 
-"He left his cap," Riku says. "People who get walked to a real review take their cup. And Ōhashi already said review sits on Thursdays — not the middle of the night with the west wire about to light up." He looks once toward the kitchen stair. "Somebody walked him west on purpose, or he walked himself toward a door that was already waiting. Either way I'm not sitting in bay three for a corporal to invent a tidy story tomorrow."
+"He left his cap," Riku says. "People who get walked to a real review take their cup. And Ōhashi already said review sits on Thursdays — not the middle of the night with the west wire about to light up." He looks once toward the kitchen stair. "Somebody walked him west on purpose, or he walked himself toward a door that was already waiting. Either way I'm not sitting in bay three while a corporal makes up a clean explanation tomorrow."
 
 "Mei told us to stay off the bay," I say.
 

@@ -26,7 +26,7 @@ It lands. The weight leaves my throat hard enough that the road tips. The second
 
 The first soldier is still fighting Riku — my command was for the one with the barrel aimed, not the one already in a clinch. Riku drives him into the cart wheel. The clipboard man scrambles for a sidearm he is too slow to clear. Mira kicks his wrist and the gun skitters under the cart. She does not pick it up. She puts her boot on his shoulder and keeps him down.
 
-"Don't kill him," she tells Riku, sharp. "We need the road empty, not famous."
+"Don't kill him," she tells Riku, sharp. "We need the road empty, not full of people coming to see what happened."
 
 Riku's answer is a grin with a crooked tooth and another short punch that ends the argument without ending the man. The gray-green slides down the wheel and stays there, breathing, not getting up.
 
@@ -38,7 +38,7 @@ The kneeling soldier stays down with empty eyes and his hands still laced. I wip
 
 Suzumori is already halfway down, stick of wood crooked in her hair, eyes on my mouth like it is a latched door she refuses to praise.
 
-"Boy," she says. "They heard the gun. They will hear what your mouth did next if we stand here."
+"Boy," she says. "They heard the gun. They'll hear what you did to that soldier if we stand here."
 
 "I know."
 
@@ -70,7 +70,7 @@ The words are true. They do not change what I am going to do next.
 
 "You walked all that way for six syllables," I say.
 
-"I walked all that way because you left with my sleeve still in your hand." He almost smiles and fails. "And because nobody else is coming to fix any of this. I figured that out in Takamatsu before I found your shape on a hospital story. If the world is this broken, I am not spending the rest of it one day behind you."
+"I walked all that way because you left with my sleeve still in your hand." He almost smiles and fails. "And because nobody else is coming to fix any of this. I figured that out in Takamatsu before I caught your trail on a hospital story. If the world is this broken, I am not spending the rest of it one day behind you."
 
 Riku, ahead, clicks his tongue once. "Pretty. Also we have company if we keep making speeches at walking speed."
 
@@ -78,7 +78,7 @@ Mira has stopped at a break in the scrub where the inland track shows through. S
 
 "They heard the shot," she says. "They will send more."
 
-Suzumori's hand finds my sleeve — not Mira's habit, a different grip, older. "Say what you came to say to him, boy from the clean rooms. Then decide if you are going to keep opening things, or stop. I will not decide it for you."
+Suzumori's hand finds my sleeve — not Mira's habit, a different grip, older. "Say what you came to say to him, boy from the clean rooms. Then decide if you are going to keep making people obey you, or stop. I will not decide it for you."
 
 Haruki faces me fully. The scrub smells like crushed broom. Somewhere a dog barks at the wrong century.
 
@@ -88,7 +88,7 @@ It is a good speech. It is the speech I wanted in the dark outside Kōgetsu, and
 
 Because the pairs on the road are closing, and my mouth already knows the clean sentence that gets us out, and Haruki's careful voice will not make three gray-greens forget a rifle shot.
 
-"You don't get to finish my road with a sentence," I say. "Even a true one."
+"You don't get to end this for me with one sentence," I say. "Even a true one."
 
 Haruki's face does something small and broken. "Then what do I get?"
 

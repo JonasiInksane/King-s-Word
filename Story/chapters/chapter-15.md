@@ -12,13 +12,13 @@ The driver straightens up and looks at me the way men look at secondhand tools. 
 
 "Is he broken?"
 
-"Bruised," Riku says. "Bruised lifts fine. You pay him the coins. Me you owe a beer, because I'm the one who found you two hands on a short day."
+"Bruised," Riku says. "He can still lift fine. You pay him the coins. Me you owe a beer, because I'm the one who found you two hands on a short day."
 
 "Then start lifting."
 
 That's the whole interview. No name asked, no paper wanted. I get my hands under a block and my spine understands immediately why the driver is built like a door. The blocks ride in sawdust, stacked in a wooden crib down the middle of the bed, and by the time the sky has gone from black to gray, my shirt is soaked through on a cold morning and I've stopped feeling my fingertips.
 
-The driver checks the load, throws two folded tarps at us, and says, "You ride with the ice. Anybody looks in, you're crew. Crew doesn't wave, crew doesn't smile, crew looks bored. Do you think you can look bored?"
+The driver checks the load, throws two folded tarps at us, and says, "You ride with the ice. Anybody looks in, you're crew. That means you don't wave, you don't smile, and you look bored. Do you think you can look bored?"
 
 "He's a natural at it," Riku says.
 
@@ -34,11 +34,11 @@ Then Riku digs a strip of dried squid out of his jacket — I don't ask where fr
 
 "Once, on a school trip. Two days — we saw a castle and a museum, and a boy in my class got lost buying melon bread."
 
-"That's not a city, that's a postcard." He chews, watching the hills go by through the gap in the tarp. "A city is a machine for not knowing people. Nobody in Takamatsu is going to remember your face, your cousin's face, or the face of the man who robbed them last Tuesday. That's the bad news."
+"That's not a city. That's a school trip." He chews, watching the hills go by through the gap in the tarp. "In a city, nobody knows anybody. Nobody in Takamatsu is going to remember your face, your cousin's face, or the face of the man who robbed them last Tuesday. That's the bad news."
 
 "What's the good news?"
 
-"It's the same sentence." He grins, the crooked tooth showing. "Nobody's going to remember your face either. A boy with no papers can live a long time in a place like that if he's useful and quiet. You're quiet. We'll work on useful."
+"It's the same thing, said the other way." He grins, the crooked tooth showing. "Nobody's going to remember your face either. A boy with no papers can live a long time in a place like that if he's useful and quiet. You're quiet. We'll work on useful."
 
 The truck drops into a lower gear for a climb. Somewhere under us the ice shifts and settles, and meltwater finds a seam in the boards and starts drawing a thin line toward the tailgate.
 
@@ -70,7 +70,7 @@ The truck slows. I hear the driver's window crank down, hear a bored voice ask f
 
 The soldier looks at me a beat longer than I'd like. I look at the ice the way crew looks at ice — bored, put-upon, a boy who has done this run all season and would rather be asleep. The tarp drops. The barrier swings open.
 
-Riku exhales through his nose, not quite a laugh. "Congratulations," he says quietly. "You're an ice man. Ice men are invisible."
+Riku exhales through his nose, not quite a laugh. "Congratulations," he says quietly. "You're an ice man. Nobody looks twice at ice men."
 
 ---
 
@@ -82,7 +82,7 @@ The driver pays me in coins, counting them twice into my palm so we both see the
 
 I try asking if someone has seen him once, because not trying isn't in me. There's a tea seller at the mouth of the roofed street, old enough to have seen everything twice, with a queue that never quite dies. I buy a cup with the driver's coins and drink it standing at the end of her boards, and when the queue thins I ask whether two people off the coast buses came through yesterday — a tall quiet one, and a girl who worked trays for food in Ishibashi.
 
-"Came through doing what — buying tea?" She doesn't pause her pour. "Half the coast has walked through this market in the last month. Burned out, registered out, walked out. Faces don't keep here."
+"Came through doing what — buying tea?" She doesn't pause her pour. "Half the coast has walked through this market in the last month. Burned out, registered out, walked out. Nobody remembers faces here."
 
 "They'd have been hungry. Somebody sold them a first meal."
 
@@ -90,9 +90,9 @@ I try asking if someone has seen him once, because not trying isn't in me. There
 
 It lands like the shop woman in Kuroishi and the squid woman in Ishibashi, except in those towns the trail was a day old and warm. Here it walked into eight hundred streets of strangers. I put the coins away and find Riku leaning on a pillar, watching me learn it.
 
-"Cold trail?" he says.
+"No luck?" he says.
 
-"Ice cold."
+"None."
 
 "Then we do it the way the tea lady said, which is the way I was going to say. You get work, you get fed, you get a roof, and you let the city bring the faces past you instead of chasing them down eight hundred streets." He pushes off the pillar. "Which brings us to tonight. Come on. There's a place."
 
@@ -106,11 +106,11 @@ She doesn't say welcome. She ladles two bowls of oden and sets them on the count
 
 Riku raises an eyebrow at her. "We haven't ordered yet."
 
-"Trouble eats standing up," she says. "That's how I know. Sit down before you fall down."
+"Boys in trouble eat standing up," she says. "That's how I know. Sit down before you fall down."
 
 We sit. The broth is hot all the way down, the first food since Ishibashi that didn't come off a skewer, and I have to concentrate on not making a sound about it. The woman goes back to her pots without another word, and it's the old man at the end of the counter who speaks next.
 
-"Road-bruised, the pair of them, and thin with it," he says to nobody, or to the beer. Then, to us: "Where are you guys from?"
+"The pair of them look road-bruised, and thin with it," he says to nobody, or to the beer. Then, to us: "Where are you guys from?"
 
 "East," Riku says.
 
@@ -120,7 +120,7 @@ We sit. The broth is hot all the way down, the first food since Ishibashi that d
 
 "Gorō," the old man agrees, pointing at his own chest, as if the introduction had been on his schedule all along. "And since the mama has spoiled the game, I'll give you something instead of taking it. You unloaded ice at North Market — I can smell the sawdust. The casual line there dies at sundown. Anyone who tells you there's evening work at the market is selling you a walk. Evening work in this city is the docks and the rail sheds, and the rail sheds check papers." He taps the counter once. "One fact. That's the toll for sitting near me. Next one costs you a fact back."
 
-"He's also the best map in Takamatsu," Riku says, "as long as you pay the toll. And he'll tell you about the flood of '02 if you don't watch your feet."
+"He also knows this city better than anyone I've met," Riku says, "as long as you give him something back when he talks. And he'll tell you about the flood of '02 if you don't watch your feet."
 
 "The flood of '02 is worth telling," Gorō says with dignity, and turns back to his beer.
 

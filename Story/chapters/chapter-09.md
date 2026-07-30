@@ -4,7 +4,7 @@ The trucks come back on a Tuesday, and this time there are three of them.
 
 I'm on the nets with Jun when the first one crosses the bridge — engine note wrong for a fish town, too even, no rattle — and by the time it parks at the harbor office the second is coming down the prefecture road and the third is already at the shrine. Jun's hands stop on the mesh. Big, calm Jun, who never hurries at anything, goes still, and that scares me worse than the trucks.
 
-"That's not a registry pace," he says.
+"That's not how they show up for registry," he says.
 
 Loudhailers by nine. All residents and registered arrivals to the shrine grounds for a flow assessment. *Assessment* — everything they do wears a clerk's word. Soldiers walk the lanes in pairs, knocking, polite, and the politeness has a floor under it you can feel through your boots. The lieutenant with the clipboard sets up his folding table under the camphor tree at the shrine steps, and beside the table, on a stool nobody brought for him because he brought it himself, sits a man I've seen once before, through Mira's warning, without ever seeing him: harbor office, doesn't stamp, listens. Gray suit, no uniform. He doesn't hold paper. Everyone else at that table is doing a job. He's doing a different one.
 
@@ -108,4 +108,4 @@ She lets us stop at the top. Two minutes. She hands me water from the sack — s
 
 "I left him in the gateway," I say.
 
-"I know." She starts walking. "The man in the gray suit had his hands over his ears before the yard finished screaming. He was hunting for a mouth. He will not stop at Nagihama. Walk."
+"I know." She starts walking. "The man in the gray suit had his hands over his ears before the yard finished screaming. He was looking for whoever spoke. He will not stop at Nagihama. Walk."

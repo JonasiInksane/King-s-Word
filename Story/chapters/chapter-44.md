@@ -64,7 +64,7 @@ We sit with that for a second, the lamp hissing low between us, brine and cut da
 
 "I'm not the same as I was on the roof," Kaito says eventually. "I've watched what happens in my own hands now, and I don't get to pretend it's still just bad luck and a temper. I need you to know that before we decide anything, because if you're hoping I'll turn back into the version of me from before the truck took Ryn, I'm not going to lie and say that's still in here waiting to come back out."
 
-"I don't want him back," I say, and mean it more than I expected to when the sentence started. "I want to know who you are now. That's different. I've changed too — something happened at that fence I still haven't told Riku the whole shape of, because I don't fully know the shape of it myself yet."
+"I don't want him back," I say, and mean it more than I expected to when the sentence started. "I want to know who you are now. That's different. I've changed too — something happened at that fence I still haven't told Riku the whole story of, because I don't fully understand it myself yet."
 
 Something sharpens in Kaito's face, quick and gone. "What happened?"
 
@@ -88,7 +88,7 @@ It's not a soft idea. I can already see it going wrong — Riku and Mira in one 
 
 "They're not going to like each other," I say.
 
-"They don't have to like each other," Kaito says. "They just have to sit in the same room long enough to say the true things instead of the careful ones."
+"They don't have to like each other," Kaito says. "They just have to sit in the same room long enough to say what actually happened instead of what sounds safe."
 
 Outside the gap in the shutter, footsteps come down the lane at a pace that isn't a stroll — two sets, unhurried but deliberate. Kaito goes still the way he does now, listening with his whole body instead of just his ears, and I find myself doing the same.
 

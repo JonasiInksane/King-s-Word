@@ -38,7 +38,7 @@ He turns. He fires. The partner goes down hard against the stamp desk. Then he p
 
 He does. The bay goes quiet except for the radio still crackling Habu's voice. Mei makes a sound like she swallowed glass. Mira's hand locks on my belt and does not let go.
 
-"That was not a door," she says. "That was—"
+"That wasn't a rescue," she says. "That was—"
 
 "The mezzanine," I say. "Habu is behind that glass — the man who thanked them."
 
@@ -130,7 +130,7 @@ I walk to his desk. Blood drips on his blotter. He notices and does not flinch.
 
 "You thanked them," I say.
 
-"I did. Fear makes a mess. Calm keeps dignity." He folds his hands. "If you've come to discuss the volunteer track, I should tell you it was already authorized before you cut my wire. Contingency. You were the reason we moved the schedule up, not the reason the track exists."
+"I did. Scared kids make a mess. Calm kids keep their dignity." He folds his hands. "If you've come to discuss the volunteer track, I should tell you it was already authorized before you cut my wire. Contingency. You were the reason we moved the schedule up, not the reason the track exists."
 
 "Shut your mouth," I say, and the weight under it is not a joke.
 

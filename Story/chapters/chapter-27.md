@@ -16,7 +16,7 @@ Not loud. Not polite. The kind of correction you give when the wrong total offen
 
 A girl steps into the junction light before either guard has turned all the way. Seventeen or eighteen, taller than most of the A-block kids, short practical dark hair, war-issue shirt worn like she picked it. A pale scar runs across the knuckles of her left hand when she reaches for the tablet — not hidden, not shown off. She takes it out of the guard's hand the way you take a ladle from someone burning soup, taps twice, and finishes the tally herself.
 
-"C is forty-three," she says. "You skipped the late intake from the pine road — two tags, one bay. They're on the night sheet. A is ninety-six, not ninety-four; you missed the kitchen runners coming back through B." She holds the tablet so both guards can see the screen. "East wing stays a letter. Don't invent a number for it because the column looks lonely."
+"C is forty-three," she says. "You skipped the late intake from the pine road — two tags, one bay. They're on the night sheet. A is ninety-six, not ninety-four; you missed the kitchen runners coming back through B." She holds the tablet so both guards can see the screen. "East wing stays a letter. Don't invent a number for it just because the column is blank."
 
 The tablet guard's mouth opens. Closes. The clipboard guard laughs once, short, like he has lost this argument before.
 
@@ -34,7 +34,7 @@ She writes C-43 on the board in a hand that does not shake, sets the marker in t
 
 "How do you know that?" Riku says.
 
-"Corridor duty has ears. Also the mezzanine man complains in a voice built for glass offices." She almost smiles. It is not soft. "I'm Serizawa Mei. You can keep standing in the junction looking grateful, or you can move before this becomes a meeting."
+"People on corridor duty hear things. Also the mezzanine man complains loud enough for the whole hall." She almost smiles. It is not soft. "I'm Serizawa Mei. You can keep standing in the junction looking grateful, or you can move before this becomes a meeting."
 
 The tablet guard clears his throat. "Serizawa. Back to east. Now. And next time you touch my tablet I write you up."
 
@@ -58,7 +58,7 @@ We wax. Ōhashi narrates his own correctness for twenty meters and then remember
 
 "She's from the east wing."
 
-"Different clothes. Different mouth. Volunteers don't correct guards in public — not the ones who still flinch." He glances at the east strip as we pass it. "I don't like her. I like that she hates a wrong number. Wrong numbers are how bands get sewn."
+"She dresses different, and she talks different. Volunteers don't correct guards in public — not the ones who still flinch." He glances at the east strip as we pass it. "I don't like her. I like that she hates a wrong number. Wrong numbers are how bands get sewn."
 
 "You don't know that."
 
@@ -84,13 +84,13 @@ I sign. Riku does not. He looks at her face.
 
 "Good," Riku says.
 
-"It isn't good. It's visible." She looks at me. "You. The one who asked a bay clerk about night deliveries yesterday until he almost answered. Don't do that at this door. East guards don't do almost. They write."
+"It isn't good. It's visible." She looks at me. "You. The one who asked a bay clerk about night deliveries yesterday until he almost answered. Don't do that at this door. East guards don't almost answer. They write you up."
 
 My stomach goes cold. "Who told you that?"
 
-"The clerk has a mouth when he's off the stamp. He thought it was funny." She is not laughing. "I fix counts so people don't get moved for ghost numbers. I don't fix boys who lean on strangers for truck routes. What do you want from me that towels don't cover?"
+"The clerk has a mouth when he's off the stamp. He thought it was funny." She is not laughing. "I fix counts so people don't get moved for ghost numbers. I don't fix boys who lean on strangers for truck routes. What do you want from me besides the towels?"
 
-I keep the careful voice out of it. "The board. East is a letter. Night trucks leave from somewhere. Ōhashi won't say where. I want to know if the short count yesterday was a clerk error or a door."
+I keep the careful voice out of it. "The board still shows east as a letter. Night trucks leave from somewhere, and Ōhashi won't say where. I want to know if yesterday's short count was a clerk error or if somebody walked someone out."
 
 Mei studies me for a long second. Riku shifts his weight — not leaving, not helping.
 
@@ -98,13 +98,13 @@ Mei studies me for a long second. Riku shifts his weight — not leaving, not he
 
 "The trucks," I say.
 
-"I don't sell that one either." Same flat no as Ōhashi, sharper. "Ask me about counts. Ask me about which guard can't add. Ask me why A-block smiles on Thursdays. Don't ask me for bay doors on a towel run."
+"I won't talk about that one either." Same flat no as Ōhashi, sharper. "Ask me about counts. Ask me about which guard can't add. Ask me why A-block smiles on Thursdays. Don't ask me for bay doors on a towel run."
 
 "Then what do you want?" Riku says, blunt. "You corrected the board in front of us. That wasn't free."
 
 Mei almost looks amused. "I want you to stop making the junction interesting. Every time C refuses a band and then loiters under the board, someone upstairs adds a note, and notes are how people leave this building without anyone asking where." She nods at the letter-door. "I live on the other side of that. When C makes a mess, they clamp my side down, and I lose track of who still has a bed."
 
-"So we owe you boring," I say.
+"So we owe you staying boring," I say.
 
 "You owe me a clean board and your feet on your side of the line." She takes the signed list back. "If the morning count is wrong again, I'll be there. If you bring me a wrong count on purpose to get a conversation, I'll give you corridor duty and I won't make it a joke."
 
@@ -122,11 +122,11 @@ She goes. The letter-door shuts. The guard points us back toward C with the cart
 
 "She fixed the board," I say. "She said yesterday was a late post, not a missing body."
 
-He brightens, then catches himself and smooths his hair. "Of course it was a late post. I don't miss bodies." He lowers his voice. "She's Serizawa. East. War paper. Don't make her a project, Aoyama. East projects end with fewer friends and the same trucks."
+He brightens, then catches himself and smooths his hair. "Of course it was a late post. I don't miss bodies." He lowers his voice. "She's Serizawa, from east, on war paper. Don't make her a project, Aoyama. East projects end with fewer friends and the same trucks."
 
 "I'm not making a project."
 
-"You're making a face like a project." He taps the notebook. "Morning count tomorrow. I'm there. You're there if you can be dull. Bring Nakahara if he promises not to stop walking when the armbands pass."
+"You're making a face like a project." He taps the notebook. "Morning count is tomorrow. I'll be there. You come too if you can stay dull. Bring Nakahara if he promises not to stop walking when the armbands pass."
 
 Riku clicks his tongue once.
 

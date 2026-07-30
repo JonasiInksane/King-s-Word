@@ -128,7 +128,7 @@ Riku's shoulder stays hard against mine. "You said out first, then find him," he
 
 One of Ōhashi's six looks over, then looks away fast. The engine covers most of it. Not enough.
 
-"I am going to get clear of this place," I say. "Then I am going to find him. Not to stand in the road and beg. Not to let him send me home with six syllables that do not even mean a town anymore. I want him to look at me when I tell him I am not leaving."
+"I am going to get clear of this place," I say. "Then I am going to find him. Not to stand in the road and beg. Not to let him send me home again with six syllables that don't even mean a town anymore. I want him to look at me when I tell him I am not leaving."
 
 "And if he tells you to stop following him again?"
 
@@ -146,7 +146,7 @@ Mei snorts once under her breath. "If either of you jumps off this truck to chas
 
 "Nobody asked you to babysit," Riku says.
 
-"Good. Because I am not." She faces forward again. "Driver takes us west. We get off when he stops somewhere that is not a gun range. After that you can hunt scraped voices until your feet fall off. Until then, sit."
+"Good. Because I am not." She faces forward again. "Driver takes us west. We get off when he stops somewhere that is not a gun range. After that you can look for Kaito until your feet fall off. Until then, sit."
 
 Katō watches the ditch past the rail the way a man watches weather he already dressed for. He does not join the argument. He does not look surprised by any of it.
 

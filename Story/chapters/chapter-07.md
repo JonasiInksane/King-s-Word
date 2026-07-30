@@ -88,7 +88,7 @@ Mira knows something. I keep turning it over and I can't find who told her — w
 
 Friday she is at Sugi's gate when I come back from the wall crew. She falls in step. For one lane's length she says nothing. Then:
 
-"Third nosebleed this week. Ice room Monday. The wall yesterday. And don't bother lying — Harada saw you, and Harada tells my aunt everything. It's her whole retirement."
+"You've had three nosebleeds this week — one in the ice room Monday, one at the wall yesterday. And don't bother lying — Harada saw you, and Harada tells my aunt everything. It's her whole retirement."
 
 "Dry summer," I say.
 
@@ -106,7 +106,7 @@ The lane is very quiet. Down at Sugi's end, the plum tree moves.
 
 "Why tell me?"
 
-"Because you get nosebleeds. Because you're terrible at looking innocent. And because Sugi's floor has enough grief on it already." She shifts her aunt's parcels up her hip — ordinary as anything, seventeen years old, talking about rising water like tide charts. "Whatever you're doing at night on the north wall — Harada, remember — do it where the town can't see you. Or better: stop."
+"Because you get nosebleeds. Because you're terrible at looking innocent. And because Sugi's house has had enough grief already." She shifts her aunt's parcels up her hip — ordinary as anything, seventeen years old, talking about rising water like tide charts. "Whatever you're doing at night on the north wall — Harada, remember — do it where the town can't see you. Or better: stop."
 
 She goes her road. I stand at the corner a while.
 

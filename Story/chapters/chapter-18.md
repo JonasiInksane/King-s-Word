@@ -34,13 +34,13 @@ He turns. Up close the face is ordinary in a way that feels deliberate. Warm eno
 
 "You left without finishing your tea," I say, which is a stupid opening and I know it.
 
-"Tea goes cold. What gets said over it doesn't." His voice is pleasant, unhurried. "You were the one talking about the world being wrong. At the counter. To the boy with the scraped knuckles."
+"Tea goes cold. The words people say over it still count." His voice is pleasant, unhurried. "You were the one talking about the world being wrong. At the counter. To the boy with the scraped knuckles."
 
 I said that — quiet, to Riku, not for the room — and I thought the coat was far enough away. Apparently not.
 
 "I was talking to my friend."
 
-"You were talking where ears reach." He smiles without showing teeth. "I have a soft spot for boys who notice the shape of the damage. Most people only notice the part that hits them." He tips his head toward the alley beside the bath house, out of the streetlamp. "Walk with me a minute. I don't bite, and I don't carry a clipboard."
+"You were talking loud enough for other people to hear." He smiles without showing teeth. "I have a soft spot for boys who notice the whole mess, not just the part that hits them." He tips his head toward the alley beside the bath house, out of the streetlamp. "Walk with me a minute. I don't bite, and I don't carry a clipboard."
 
 Riku would tell me to go back inside. Gorō's empty stool tells me sitting still hasn't fixed anything. I join him.
 
@@ -50,7 +50,7 @@ The alley smells of steam and old soap. He stops under the overhang where the li
 
 "Find my friend, finish something I started saying to him, and go home."
 
-"That's a personal repair. I asked about the world." He looks genuinely curious, not mocking. "You've seen enough to know polite stories don't hold — registration sheets, old men taken for talking, a coast that burns and calls it verification. If the whole arrangement is crooked — not broken, crooked — who puts it right?"
+"That's your own problem. I asked about the world." He looks genuinely curious, not mocking. "You've seen enough to know polite stories don't hold — registration sheets, old men taken for talking, a coast that burns and calls it verification. If the whole arrangement is crooked — not broken, crooked — who puts it right?"
 
 "I don't know."
 
@@ -64,7 +64,7 @@ The question lands harder than the laugh. I open my mouth and find the same empt
 
 "I don't know yet," I say.
 
-He laughs again, delighted, as if that were the prize answer. "Honest. I like honest. The world only ever answers one mouth, Aoyama — remember that when somebody invites you into a chorus." He says my surname like he has been holding it ready, and I go cold because I never gave it to him.
+He laughs again, delighted, as if that were the prize answer. "Honest. I like honest. The world only ever answers one mouth, Aoyama — remember that when somebody asks you to speak with them." He says my surname like he has been holding it ready, and I go cold because I never gave it to him.
 
 "How do you know my name?"
 
@@ -94,7 +94,7 @@ Machi sets a cup in front of me hard enough to click. "I didn't like him either.
 
 The dock runner is a man I half-know from Thursday bowls — thick wrists, a burn on one forearm from a line. He's already telling it to Gorō's empty stool, as if the stool might still argue.
 
-"Old hospital stack," he says, when we lean in. "The logistics wing on the north hill — not the ward that still takes fever kids. The quiet floors. Break-in before dawn, and there wasn't an alarm or a smashed latch. Night clerk on the service door swears he opened it himself and waved people through, then sat down on the loading step and cried because he can't remember why. He says he never saw their faces — says he never saw them at all, except he must have, because the door was open and a room upstairs is empty that was not empty at shift change." He shakes his head. "Captain's calling it heat and shame. The boys who haul linen are calling it something else: a door that opens because a mouth asked."
+"It happened at the old hospital stack," he says, when we lean in. "The logistics wing on the north hill — not the ward that still takes fever kids. The quiet floors. Break-in before dawn, and there wasn't an alarm or a smashed latch. Night clerk on the service door swears he opened it himself and waved people through, then sat down on the loading step and cried because he can't remember why. He says he never saw their faces — says he never saw them at all, except he must have, because the door was open and a room upstairs is empty that was not empty at shift change." He shakes his head. "Captain's calling it heat and shame. The boys who haul linen are calling it something else: somebody talked the clerk into opening the door, and he can't remember why."
 
 Riku snorts. "Dock stories. Every week somebody's aunt saw a ghost."
 
@@ -102,7 +102,7 @@ Riku snorts. "Dock stories. Every week somebody's aunt saw a ghost."
 
 I hear the rest of the room move on — another beer, another complaint about registration, Machi telling someone the back room is full. I don't move on. A door that opened because a mouth asked is the same wrong shape as a stool man at a well who forgot a boy with blood on his lip, and the same wrong shape as a soldier's hands opening in a drying yard. I would know that shape in any city.
 
-Riku is watching me. "You've gone the color of leftover rice. What?"
+Riku is watching me. "You've gone pale. What?"
 
 "I need to see that hospital," I say. "Tonight, or at first light — before they move the clerk or tidy the story."
 
@@ -112,7 +112,7 @@ Riku is watching me. "You've gone the color of leftover rice. What?"
 
 Riku looks at Machi. Machi looks at me, weighs whatever she sees, and turns back to her pots.
 
-"North hill, service road behind the laundry chimneys," she says. "Don't walk the main hospital gate after dark unless you want your name on a board. Pairs like the front."
+"North hill, service road behind the laundry chimneys," she says. "Don't walk the main hospital gate after dark unless you want your name on a board. The pairs watch the front gate."
 
 Riku clicks his tongue once — help, this time — and pulls his jacket on.
 

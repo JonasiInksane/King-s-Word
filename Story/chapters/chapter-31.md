@@ -16,11 +16,11 @@ The first ten climb onto the truck. A boy still has a cup in his hand; the clerk
 
 Mira's fingers dig into the grate rail.
 
-"We've seen it," she says. "Blank destination. Soft voice. Now we go before the second group fills the court. Mei — move."
+"We've seen it," she says. "Blank destination on the truck, Habu's voice on the speakers. We go before the second group fills the court. Mei — move."
 
 Mei does not move. She is counting under her breath, matching the truck bench to the night sheet still crumpled in her fist.
 
-"That is thirty," she says. "A-block kitchen runners. Thursday curry kids. They waved at C on the way to dinner two days ago."
+"That is thirty," she says. "A-block kitchen runners — the Thursday curry kids. They waved at C on their way to dinner two days ago."
 
 "Mei," Mira says. "I am not debating the menu. The west wire is still our exit. Suzumori is still in the ditch. If we stay for the whole show, we die in a building that already knows our faces."
 
@@ -58,7 +58,7 @@ Mira turns on her.
 
 "I brought you here because you asked me to walk while they were still inventory on a wall," Mei says. "Now they are inventory in a shed. If knowing that kills your plan, then you were never extracting anyone. You were stealing one name and leaving the rest."
 
-The contact's voice cuts up the stairwell, low and ugly. "Second group is leaving the junction. Also boots on our corridor. We are out of quiet."
+The contact's voice cuts up the stairwell, low and ugly. "Second group is leaving the junction, and we've got boots on our corridor. We're not quiet anymore."
 
 Below, another ten armbands step into the court. Habu's soft voice thanks them for their patience. A cup hits the bin. The annex door starts up again. One of the kids — tall for fourteen, cloth band crooked — looks up at the grated slit as if he felt eyes on him. For a stupid half-second I think he will shout. He only frowns, confused, and a guard turns his shoulder toward the ramp with the same fond two-finger push I saw in the junction.
 
@@ -76,7 +76,7 @@ Mira grabs my jacket.
 
 Mei looks at me, not at Mira.
 
-"Is that still your plan?" she asks. "One door. One girl. Two hundred blanks."
+"Is that still your plan?" she asks. "One door for one girl while two hundred kids go into that shed?"
 
 I watch the second group climb the short ramp into the harsher light. A boy near the back turns his head as if he heard something through the fans, and a guard's hand on his shoulder turns it forward again, kind, firm, finished.
 
@@ -102,7 +102,7 @@ Mira looks at me like she is watching a roof edge with a girl on it and no clean
 
 "And you?" the contact asks.
 
-"I stay long enough to keep him from eating the first rifle that points at him." Mira does not look soft when she says it. She looks like someone who has already lost the night she booked and is measuring the next mistake. "After that — I don't know. Move."
+"I stay long enough to keep him from getting shot the first time a rifle points at him." Mira does not look soft when she says it. She looks like someone who has already lost the night she booked and is measuring the next mistake. "After that — I don't know. Move."
 
 The contact goes. Boots from the far corridor get louder. Below us the second ten disappear into the annex. The door rolls down. The fans pull harder.
 

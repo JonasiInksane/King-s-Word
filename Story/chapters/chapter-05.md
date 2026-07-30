@@ -2,13 +2,13 @@
 
 Sugi wakes us by setting bowls down hard — rice and pickles, tea still too hot to drink. The kitchen smells like charcoal and plum, and outside the lane is already moving — boats, shutters, somebody arguing with a bicycle.
 
-"Sit," she says, tying her apron. "And listen, because I am only saying this once. You are not guests. Guests smile, eat, leave. Boys who sleep under my roof make themselves useful, or they start packing."
+"Sit," she says, tying her apron. "And listen, because I am only saying this once. You are not guests. Guests smile, eat, and leave. Boys who sleep under my roof make themselves useful, or they start packing."
 
 Kaito is already standing. He has been, every morning since we got here — up before the kettle, boots on, one look through the doorway before he commits to the room. Mira's aunt's boots, still a half-size too big. He takes the bowl standing up anyway and starts eating before she finishes.
 
 "I can haul," he says, around the rice. "Co-op's got ice coming in. I heard them yelling about it from the lane."
 
-"Of course you can haul. You have been looking for something heavy enough to hold still since you walked through my door." She tips her chin at me. "You. Not the co-op. Orihara's books have been lying to her for a week and she won't admit it. Go down there, tell her Sugi sent you, and find the mistake before she takes it out on the widows."
+"Of course you can haul. You've been looking for hard work since you walked through my door." She tips her chin at me. "You. Not the co-op. Orihara's books have been lying to her for a week and she won't admit it. Go down there, tell her Sugi sent you, and find the mistake before she takes it out on the widows."
 
 "What if she doesn't want help?"
 
@@ -26,7 +26,7 @@ The co-op yard smells like ice and diesel and wet wood. I cut through on the way
 
 "She sent me to catch Orihara's books cheating. You look frozen."
 
-"Ice detail. Foreman asked if I had a problem with cold and I said no, which was a lie, but he stopped asking about papers after that, so." He shifts the crate against his shoulder and tips his head at the talking boys. "They keep trying to put me on the lunch pool. I told them I eat at Sugi's. Tell her that, or she'll pack me two lunches and pretend she didn't."
+"I'm on ice detail. Foreman asked if I had a problem with cold and I said no, which was a lie, but he stopped asking about papers after that, so." He shifts the crate against his shoulder and tips his head at the talking boys. "They keep trying to put me on the lunch pool. I told them I eat at Sugi's. Tell her that, or she'll pack me two lunches and pretend she didn't."
 
 "She'll pack you two anyway."
 
@@ -62,7 +62,7 @@ I sit. The column is a mess of refugee households, half-names, doubled entries, 
 
 "I can do the rest of the week."
 
-"Can you." Not a question. She slides the pencil across. "Then do it. After that the miso wants shelving where my knees won't reach, and if you fall I am not writing to your mother." She watches me start on the next page. Softer, almost as an afterthought: "Your people. Still east?"
+"Can you." Not a question. She slides the pencil across. "Then do it. After that the miso wants shelving where my knees won't reach, and if you fall I am not writing to your mother." She watches me start on the next page. Softer, almost as an afterthought: "Your people — are they still east?"
 
 "My mother's a nurse. West of the line, last I knew. The hospitals moved first."
 
@@ -90,7 +90,7 @@ Mira has a peg in her mouth. She pins a corner, takes another peg, and talks aro
 
 "I noticed." She shakes out the next sheet; it snaps once in the wind off the cove. "Is he always like this, or is this the new version?"
 
-"There's an old version. Louder. This is—" I look down the lane at him, shelf on his shoulder, already halfway to Orihara's. "This is after."
+"There's an old version. He used to be louder. This is—" I look down the lane at him, shelf on his shoulder, already halfway to Orihara's. "This is what he's like after what happened."
 
 She waits. Not pushing. Just holding the sheet up so I have to take the other end. I take it.
 
@@ -130,7 +130,7 @@ That gets him to stop. He sets the crate down and wipes his hands on his thighs,
 
 "It's their word."
 
-"Then we give them a better one. We're family. Visiting. Her sister's side, whatever — Haru, listen to me." He faces me properly now, and for a second he sounds like the boy from before the roof, loud enough that a man two stacks over glances over. He drops his voice. "They wrote us down that night. The officer with the watch. He knew our faces. If our names go up on a coast list as *arrivals from Kōgetsu*, that is not a refugee list. That is them finishing a job."
+"Then we give them a better one. We say we're family visiting from her sister's side — Haru, listen to me." He faces me properly now, and for a second he sounds like the boy from before the roof, loud enough that a man two stacks over glances over. He drops his voice. "They wrote us down that night. The officer with the watch. He knew our faces. If our names go up on a coast list as *arrivals from Kōgetsu*, that is not a refugee list. That is them finishing a job."
 
 "I know."
 
@@ -144,7 +144,7 @@ That night Sugi listens all the way through before she answers. She has already 
 
 "And after that?" Kaito says.
 
-"After that we are careful." She does not soften it. "It will not hold if either of you gives them a reason to look twice. No shouting in the market. No disappearing when a truck parks. No clever stories that do not match the one I just gave you." Her eyes stay on him a beat longer. "Especially you."
+"After that we are careful." She does not soften it. "It will not hold if either of you gives them a reason to look twice. You don't shout in the market, you don't disappear when a truck parks, and you don't tell clever stories that don't match the one I just gave you." Her eyes stay on him a beat longer. "Especially you."
 
 He nods once. Takes his bowl to the sink when he is done, washes it, and washes it again, as if the second pass might rinse the day.
 
@@ -186,6 +186,6 @@ He knows what I did not say. I can feel him knowing it, sitting there with the g
 
 He does not ask again. He drops off the wall and lands light, like the conversation never happened.
 
-"Come on," he says. "Sugi holds rice hostage after eight, and I already washed my bowl twice. She'll invent a third crime if we're late."
+"Come on," he says. "Sugi won't hold dinner after eight, and I already washed my bowl twice. She'll invent a third crime if we're late."
 
 I slide off the wall after him. Six syllables. Why couldn't I say them?

@@ -48,7 +48,7 @@ Suzumori's grip doesn't loosen. "He is not a friend, Haruki! He is—"
 
 The major yells it straight across the water. Kuroda doesn't flinch at the title. He just keeps walking toward us, and when he smiles it isn't the host smile from Minato and it isn't patience. It's quieter than that. Worse.
 
-"That's not a problem, that's faith. Aoyama, Kurosawa." He says both names like he's been saving them. "Do you know how long I have waited for this moment?"
+"That's not a problem. That's faith. Aoyama, Kurosawa." He says both names like he's been saving them. "Do you know how long I have waited for this moment?"
 
 Kaito's hand is a fist at his side. "Say what?"
 
@@ -240,7 +240,7 @@ I laugh once, broken, and look past her at the empty mud where Kaito was.
 
 Still nothing. Riku follows my eyes, then looks back down at Mira's side as if he can hold both problems at once and knows he cannot.
 
-"We get her up," he says. His voice is still shaky. "Then we search the bank. Every meter. I'm not leaving them as a blank spot on the ground."
+"We get her up," he says. His voice is still shaky. "Then we search the bank. Every meter. I'm not leaving until we've looked everywhere."
 
 Suzumori nods once, eyes still on Mira's side. "Agreed. Alive first. Missing second. And later, boy — you explain that."
 

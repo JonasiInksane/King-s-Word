@@ -14,7 +14,7 @@ The mender's ward nearly finishes me anyway.
 
 I'm unloading oil at the seamstress's shop when a pair comes up the street with a third man half a step behind — civilian jacket, board under his arm, the one who writes. They work the doorways one by one, and the street does the thing streets do now: keeps moving, a little too attentively. When they reach the seamstress's she comes out to meet them on the step, scissors still in her apron pocket, and plants herself like a woman with nothing in the back room.
 
-"Day-hire," the list man says. Not a greeting. "Who carries for you?"
+"We're checking day-hire," the list man says. Not a greeting. "Who carries for you?"
 
 "My sister's boy, when his knees work." She says it in the flat sing-song of a woman answering a question she has answered four doors' worth of times. "And the wholesaler sends deliveries. I don't hire the street."
 
@@ -50,7 +50,7 @@ Riku is waiting outside with his hands in his jacket. He heard enough through th
 
 "I know."
 
-"Knowing doesn't put dinner on the counter." He clicks his tongue once. "We'll find something that still pays in cash and doesn't ask. Docks are getting checked. Rail sheds were always paper. That leaves the alleys behind Station Plaza — scrap, night hauls, the kind of work that doesn't put your name anywhere because it doesn't want its own name known either."
+"Knowing doesn't put dinner on the counter." He clicks his tongue once. "We'll find something that still pays in cash and doesn't ask. The docks are getting checked, and the rail sheds always want papers. That leaves the alleys behind Station Plaza — scrap and night hauls, the kind of work that doesn't put your name down because the people running it don't want theirs down either."
 
 "And if those dry up?"
 
@@ -68,17 +68,17 @@ Minato is quieter that night. Thursday ceremony feels like a smaller room. Machi
 
 "Yes."
 
-"Then listen to an old man for free, because the toll is closed tonight. If your person is in this city and he has no papers either, the registration is going to push him somewhere. Men without paper don't vanish. They gather — scrap yards, night markets, the backs of places that already look the other way." He points a ginger-root finger at the beer. "Or they get stupid and walk into a ward office thinking a polite story will save them. Don't be the second kind. And don't let him be."
+"Then listen to an old man for free. I'm not asking for company tonight. If your person is in this city and he has no papers either, the registration is going to push him somewhere. Men without paper don't vanish. They gather — scrap yards, night markets, the backs of places that already look the other way." He points a ginger-root finger at the beer. "Or they get stupid and walk into a ward office thinking a polite story will save them. Don't be the second kind. And don't let him be."
 
 "I don't know where he is."
 
-"Then stop standing near work and food and sleep like the tea lady told you, and start standing near the places that hide." He says it flat, then softens half a degree. "I'm not telling you to get yourself taken. I'm telling you the map just changed, and the old streets don't lead where they used to."
+"Then stop standing near work and food and sleep like the tea lady told you, and start looking in the places people go when they don't want to be found." He says it flat, then softens half a degree. "I'm not telling you to get yourself taken. I'm telling you the rules just changed, and the old habits won't keep you safe the way they used to."
 
 Riku, beside me, has gone very still. "You shouldn't talk like that with the curtain open."
 
 "I shouldn't do a lot of things," Gorō says. "I also shouldn't have let them shorten my line twice and called it materiel priority. At some point an old man gets to say the word hill out loud."
 
-Machi sets a bowl in front of him that he didn't order. "Eat and shut up. Both of you — eat. The boy looks like a notice ate him."
+Machi sets a bowl in front of him that he didn't order. "Eat and shut up. Both of you — eat. The boy looks like that notice knocked the fight out of him."
 
 I eat. The broth is the same as every other night, but It doesn't help as much as it used to.
 
@@ -92,7 +92,7 @@ That evening Gorō's stool is empty — pushed in, no beer standing sentry — a
 
 "Where is he?" Riku asks, before I can.
 
-Machi doesn't look up. "Two men in gray-green came at midafternoon. Not the counting kind. The kind that already know which door. They asked for the tram driver who talks too much about the hill." She wrings the cloth out harder than cloth needs. "He went with them. He told me to keep his seat. He told me to tell anyone who asked that he walked."
+Machi doesn't look up. "Two men in gray-green came at midafternoon. They weren't the counting kind. They were the kind that already know which door to knock on. They asked for the tram driver who talks too much about the hill." She wrings the cloth out harder than cloth needs. "He went with them. He told me to keep his seat. He told me to tell anyone who asked that he walked."
 
 "Walked where?"
 
@@ -114,7 +114,7 @@ I don't sleep. The notice and the closed cellar and the pushed-in stool keep tur
 
 In the morning Machi puts breakfast in front of us without asking. "His coat's gone from the hook. The good shoes too. So either they let him dress for a long ride, or he got a minute alone and took what he needed." She fills my cup. "I choose the second. You two choose whatever keeps you eating."
 
-Riku finishes his rice and tips his chin at the curtain. "Scrap today. Tonight we ask the night market if anyone's seen a cardigan walking north. Quietly."
+Riku finishes his rice and tips his chin at the curtain. "We do scrap today. Tonight we ask the night market if anyone's seen a cardigan walking north. Quietly."
 
 "And if the pairs are there?"
 

@@ -16,7 +16,7 @@ I caught it without meaning to — plastic, still warm from his pocket — held 
 
 "It's manners."
 
-"Same disease." He knocked his knee into mine. "Train's here. Unless you want to apologize to that too."
+"Same thing." He knocked his knee into mine. "Train's here. Unless you want to apologize to that too."
 
 The doors chimed and we got on ahead of the crowd. That was the thing about Kaito that nobody ever managed to explain: people made room for him without deciding to. Two women across the car glanced up at his volume, bristled, and then softened in that odd way people did, like he'd already won an argument nobody had started. A third-year two seats down moved his bag off the seat without being asked. Kaito didn't notice any of it.
 
@@ -32,7 +32,7 @@ I sat back down. Kaito was watching me with his head tipped.
 
 "Somebody has to do it."
 
-"Nobody has to do it. They'd have shouted for two stops and gotten off angry, same as every day." He stretched, and his sleeve rode up, and I caught a bruise on his forearm — greenish, days old, the shape of a grip. "Anyway. Ryn's off today. Pickle stall with her grandmother."
+"Nobody has to do it. They'd have shouted for two stops and gotten off angry, same as every day." He stretched, and his sleeve rode up, and I caught a bruise on his forearm — greenish, days old, the shape of a grip. "Anyway. Ryn's off today. She's at the pickle stall with her grandmother."
 
 "She hates the pickle stall."
 
@@ -56,7 +56,7 @@ Kaito was still standing in the aisle, because the aisle had a problem in it. A 
 
 "You cost us the match," he said. "That tackle was a red and the ref swallowed his whistle. Everyone on the hill is saying it."
 
-"Then everyone on the hill watched your striker trip over his own feet," Kaito said, grinning, far too loud for a room with a teacher in it. "I barely touched him. He went down like laundry."
+"Then everyone on the hill watched your striker trip over his own feet," Kaito said, grinning, far too loud for a room with a teacher in it. "I barely touched him. He fell over his own feet."
 
 "He's out two weeks."
 
@@ -102,7 +102,7 @@ After last bell we pushed into Fullmoon Mart for the air conditioning, which was
 
 "I'm a guest."
 
-"You're a problem with a jacket. *Elbows.*"
+"You're a problem in a jacket. Elbows off the counter."
 
 He lifted them maybe a centimeter. She let it go, which was as close to affection as the two of them came in public, and turned to me. "Tell me it isn't karaoke. The 'K' died on the tower sign and the whole street smells like—"
 
@@ -112,7 +112,7 @@ The door chimed. A kid in a too-big hoodie went past the register toward the dri
 
 He ran. She was over the counter before the word had finished — one hand flat on it, pivot clean, the gum display skittering — and out the door while the welcome chime was still being cheerful about it. By the time we caught up half a block later, the sandwich was crushed on the corner and the kid was gone. Ryn stood over it, bent double, furious and laughing at the same time.
 
-"An egg sandwich," she wheezed. "A criminal record. For a *crushed* egg sandwich. Did you see his face? He didn't even want it, he just panicked—" The laugh stopped like a tap being shut. Something older moved behind her eyes. "He had the dust on his shoes. The gray stuff. Haiga dust — it doesn't wash out. Grandma says you can tell how long they've been walking by how far up the laces it's gone."
+"He ran for an egg sandwich," she wheezed. "He could have gotten a criminal record for a crushed egg sandwich. Did you see his face? He didn't even want it, he just panicked—" The laugh stopped like a tap being shut. Something older moved behind her eyes. "He had the dust on his shoes. The gray stuff. Haiga dust — it doesn't wash out. Grandma says you can tell how long they've been walking by how far up the laces it's gone."
 
 All three of our phones buzzed at once — the two tones, the ones we were all pretending not to count. Nobody reached for a pocket.
 
@@ -120,19 +120,19 @@ Kaito picked the sandwich up off the pavement, inspected the damage, and ate it 
 
 "That was evidence, you animal—"
 
-"Gone now. Very thorough cleanup."
+"It's gone now. That's a thorough cleanup."
 
 She shoved him a full step, and he let her, and I looked at the pavement because looking at the two of them properly was too much for a Tuesday.
 
 "Saturday," Ryn said, taking the sidewalk like she owned it, which on that street she basically did. "Since you're both incapable of surprising me, you might as well tell me the plan and let me fix it."
 
-"Sakaba-dōri," Kaito said. "The arcade, then ramen—"
+"We take her down Sakaba-dōri," Kaito said. "Arcade first, then ramen—"
 
 "We do that every week. It's my *eighteenth*, not a Tuesday."
 
 "The dead 'K' is tradition—"
 
-"The rooftop," I said.
+"We take her to the rooftop," I said.
 
 They both looked at me. Ryn's eyebrows went up. Kaito's grin paused halfway, which for him was a full stop.
 
@@ -152,7 +152,7 @@ I didn't have anything clever, so I gave her the true thing instead. "Because yo
 
 "You'd last four seconds in front of Grandma."
 
-"Then I'll apologize for four seconds. It's my best event."
+"Then I'll apologize for four seconds. That's the one thing I'm good at."
 
 She was quiet for a moment, neon from the pachinko hall sliding across the silver stud in her ear, and I watched her decide. Then she smiled — not the counter smile, the rare one, the one she gave you when you'd accidentally gotten something exactly right.
 

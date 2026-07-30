@@ -2,7 +2,7 @@
 
 I met Kaito under the dead 'K' at six with the cake box held level in both hands.
 
-He looked me over and said, "I told you not to look like a butler," and I said, "You look like you slept in a batting cage," and we were both right. My fringe was in my eyes. His hair had dried into a shape with opinions. We were both still in uniform, because neither of us owned anything nicer that wasn't wrinkled, and we had privately agreed without ever saying it that Ryn should not spend her birthday flanked by two boys in wrinkles.
+He looked me over and said, "I told you not to look like a butler," and I said, "You look like you slept on a gym floor," and we were both right. My fringe was in my eyes. His hair had dried into a shape with opinions. We were both still in uniform, because neither of us owned anything nicer that wasn't wrinkled, and we had privately agreed without ever saying it that Ryn should not spend her birthday flanked by two boys in wrinkles.
 
 "Where is she?"
 
@@ -62,11 +62,11 @@ Kaito tried to teach me how to drink the broth without making a sound and failed
 
 The arcade was loud and half empty, which was the best version of it. Neon on wet tile. A claw machine singing the same four notes it had sung since we were twelve. Ryn made for the light-gun cabinet like she was collecting a debt.
 
-"Birthday rules," she said, loading tokens. "I go first. You both die. I narrate."
+"Birthday rules," she said, loading tokens. "I go first, you both die, and I get to narrate."
 
 Kaito lasted eleven seconds. I lasted eight. She lasted the whole stage, calling our deaths into the plastic mic like a sports broadcast that hated us personally.
 
-"And Kurosawa goes down in the doorway — tragic, avoidable, he opened his mouth instead of aiming — Aoyama behind the crate, apologizing to the crate — and Amano clears the floor alone, as prophesied—"
+"And Kurosawa goes down in the doorway — tragic, avoidable, he opened his mouth instead of aiming — Aoyama behind the crate, apologizing to the crate — and Amano clears the floor alone, like I said she would—"
 
 "The crate moved," I said.
 
@@ -94,7 +94,7 @@ He picked a canned coffee. She paid, put it in his hand, and came back to us wip
 
 "Like what," I said.
 
-"Like I did a kindness. I robbed him first. Order of operations."
+"Like I did a kindness. I beat him first. That was the order."
 
 Kaito was already at the claw machine, burning yen on a hideous cat plush with one milky eye. Nine hundred later the cat was still behind glass and his ears were red. I put in one more try because somebody had to end it, won on the second grab entirely by accident, and had to pretend I'd only been warming the machine up for him.
 
@@ -108,7 +108,7 @@ Kaito was already at the claw machine, burning yen on a hideous cat plush with o
 
 "It's *my* yen—"
 
-"It's *my* birthday. The cat is mine. The humiliation is yours. Everybody wins." She tucked the plush under her arm like a sack of rice and was already walking. "Come on. We have a roof to get to, and Haru's holding that cake like it might testify against him."
+"It's my birthday, so the cat is mine and the humiliation is yours. Everybody wins." She tucked the plush under her arm like a sack of rice and was already walking. "Come on. We have a roof to get to, and Haru's holding that cake like the box is about to fall apart."
 
 "Let her have it," I told him.
 

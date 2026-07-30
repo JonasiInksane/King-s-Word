@@ -10,27 +10,27 @@ A dark jacket answers from the shed door. Hair pinned flat. The contact from the
 
 "Marks got interrupted," Mira says. "We had to cut wider. Is she here?"
 
-"She's inside, awake, and asking questions I don't answer." The contact tips her chin at me. "Keep that mouth the wage length. She's already decided what she thinks of it."
+"She's inside, awake, and asking questions I don't answer." The contact tips her chin at me. "Keep him quiet. Don't let him talk more than he has to. She's already decided what she thinks of it."
 
 The shed smells like dry pine and old oil. Suzumori sits on a crate with a blanket over her shoulders that is not the quiet-floor blanket. She looks smaller in daylight and somehow harder. Her eyes find my scraped voice before they find my face.
 
 "Saeki," she says. "You brought him."
 
-Mira is already looking past her at the track. "He opened the door. Paper wouldn't have. We can fight about whether that was smart when we aren't standing in a shed the hill can see."
+Mira is already looking past her at the track. "He opened the door. A fake pass wouldn't have. We can fight about whether that was smart when we aren't standing in a shed the hill can see."
 
-"I'm fighting about it now." Suzumori's gaze does not leave my mouth. "I told him in that room to be careful where he points it. Looking at the blood on his wrist, careful didn't take."
+"I'm fighting about it now." Suzumori's gaze does not leave my mouth. "I told him in that room to be careful about using his voice. Looking at the blood on his wrist, careful didn't take."
 
 I stay by the wall. My shoulder throbs in time with my pulse. I do not offer her a name. She does not ask for one.
 
 "Who's behind us?" the contact asks Mira.
 
-"Gray suit on the hill road yesterday afternoon. Pairs. And two people on the service path at dusk who weren't wearing gray-green." Mira says it flat. "They took the open pine stretch. We came around."
+"There was a man in a gray suit on the hill road yesterday afternoon, plus soldier pairs. And at dusk, two people came up the service path who weren't in gray-green." Mira says it flat. "They took the open pine stretch. We came around."
 
-Suzumori's mouth tightens. "Scraped-voice hunt, or a boy who knows the shape?"
+Suzumori's mouth tightens. "Are they hunting a scraped voice, or a boy who knows what that voice can do?"
 
 "Both, if we're unlucky." Mira crouches and redraws the fork in dust on the shed floor — track, road, a third line south toward scrub. "We don't sleep here. Truck's gone. Next billet is the farm lean-to past the ridge cut."
 
-"No." The contact says it before the dust settles. "Split it. I take her south through the scrub tonight — two women and a cart story, nobody's hunting that. You two are the description. You draw the road north, shed whoever follows, and we meet past the fork in three days."
+"No." The contact says it before the dust settles. "Split it. I take her south through the scrub tonight — two women and a cart story, nobody's hunting that. You two match what they're looking for. You go north on the open road and lead anyone following away from us. We meet past the fork in three days."
 
 "Three days is three more nights of pairs learning the fringe," Mira says. "And she doesn't have three days of scrub in her legs, whatever she's told you."
 
@@ -54,11 +54,11 @@ The inland track after the fork is narrower. Pine gives way to mixed scrub — b
 
 Suzumori talks while she walks. Not loud. Not soft enough to ignore.
 
-"You pointed him at a latch," she says to Mira. "Paper would have failed. I know. That does not make a boy's throat a tool you spend without asking what it costs him later."
+"You pointed him at that door lock," she says to Mira. "Paper would have failed. I know. That does not mean you get to use a boy's voice like that without asking what it costs him later."
 
 "I asked," Mira says. "He chose."
 
-"He chose angry." Suzumori glances back at me. "Anger opens doors clean. It also opens the wrong ones."
+"He chose angry." Suzumori glances back at me. "Anger gets people to obey fast. It also gets the wrong people to obey."
 
 I could tell her about Jun. About a rifle under a man's own jaw. I do not. She has not earned those names, and I am out of the habit of offering them.
 
@@ -66,7 +66,7 @@ I could tell her about Jun. About a rifle under a man's own jaw. I do not. She h
 
 Mira's jaw works once. "We're not having that argument on an open track."
 
-"I'm not naming what he is." Suzumori's stick of wood shifts in her hair as she ducks a branch. "I'm telling you that two loud mouths in one generation is a problem people like your gray suit will solve by putting both of them in the same locked room. I would rather not watch you help him do it."
+"I'm not naming what he is." Suzumori's stick of wood shifts in her hair as she ducks a branch. "I'm telling you that two boys with voices like his in one family is a problem people like your gray suit will solve by putting both of them in the same locked room. I would rather not watch you help him do it."
 
 Two mouths like that in one world. She said it under the linen, and she is saying the shape of it again now. I do not ask. The questions I do not understand stay behind my teeth.
 
@@ -78,11 +78,11 @@ It is empty when we arrive, which Mira treats as good news and the contact treat
 
 The contact crawls. She comes back with dust on her chin.
 
-"Pairs on the road," she says. "Not sweeping. Asking. I saw a clipboard."
+"Pairs on the road," she says. "They're not sweeping. They're asking questions. I saw a clipboard."
 
 "Asking what?" Mira says.
 
-"Directions to a boy whose voice sounds hurt. They have the hospital story now — door, empty room, clerk who cries when you make him repeat it." The contact looks at me. "Your face is becoming a description."
+"Directions to a boy whose voice sounds hurt. They have the hospital story now — door, empty room, clerk who cries when you make him repeat it." The contact looks at me. "They're starting to have a description that matches your face."
 
 The answer comes up ready — send them back to the hill, make them forget the scraped voice — and I stop it the same way I stopped it on the fringe: jaw locked, nothing under the ordinary air. Mira watches my mouth and nods once, small, like she saw how close I came.
 
@@ -100,7 +100,7 @@ The contact looks over. Mira doesn't. She is suddenly very still, the way she ge
 
 "So, worse," the contact says.
 
-"That's why we don't leave them marks," Mira says. She draws a line through the fork in the dust with her boot. "Dawn. South scrub. You go ahead and warn the next hand. We stay off the open road."
+"That's why we don't leave them marks," Mira says. She draws a line through the fork in the dust with her boot. "At dawn we take the south scrub. You go ahead and warn the next contact. We stay off the open road."
 
 Suzumori watches me over the water jug. "You sound like you know those two."
 
@@ -120,15 +120,15 @@ Voices carry up the cut, thin as wire.
 
 "Scraped voice?"
 
-"Clerk said he never saw faces. Captain says heat. The gray suit says mouths."
+"Clerk said he never saw faces. The captain says it was heat. The man in the gray suit keeps asking about mouths."
 
 A third voice, quieter, unused to shouting: "Anyone ask at Minato?"
 
-"Tomorrow. He wants the bars that feed hands. Tonight he wants the pine road walked twice."
+"Tomorrow. He wants the bars where the dock hands eat. Tonight he wants the pine road walked twice."
 
 They move on. Mira's grip eases.
 
-"Listener," she whispers. "He's tying your well story to the quiet floors. We are out of Takamatsu's patience."
+"Listener," she whispers. "He's connecting your well story to the quiet floors at the hospital. Takamatsu won't ignore us much longer."
 
 "Haru—"
 
@@ -162,9 +162,9 @@ Mira's fingers dig into my arm hard enough to bruise.
 
 "We go south," she says. "Now. Through the scrub. We do not go down there."
 
-Suzumori is already beside us, blanket discarded. "If you leave him to that road, boy, you will spend the rest of your anger inventing a cleaner version of this morning."
+Suzumori is already beside us, blanket discarded. "If you leave him on that road, boy, you'll spend the rest of your life lying to yourself about what you did this morning."
 
-"I'm not leaving him," I say, and the truth of it shocks me more than the lie would have. "I'm not walking into a clipboard either."
+"I'm not leaving him," I say, and the truth of it shocks me more than the lie would have. "I'm not walking down there into a checkpoint either."
 
 On the road Riku takes a swing at the nearest gray-green. It connects. The second soldier brings a rifle butt around; Riku catches it on his forearm and swears loud enough to carry. Haruki's voice rises — not scraped, not weighted the way mine weights, but the kind of careful talk that makes people pause when they should not pause. One gray-green's grip loosens. The third one's does not.
 

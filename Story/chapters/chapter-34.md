@@ -12,7 +12,7 @@ I try to put weight under a new sentence — medical, east, whoever is still bre
 
 "Louder."
 
-"I stopped." It costs more than a Word. "There is nothing left in my mouth for them."
+"I stopped." It costs more than a Word. "I can't do it again. There's nothing left."
 
 She loosens enough that I can breathe, not enough that I can walk past her toward the rail again. Habu's gaze flicks to my face. He understands. He cannot answer. That is worse than if he had begged.
 
@@ -24,13 +24,13 @@ Mira looks at Habu.
 
 "What do we do with him?"
 
-"Leave him," Mei says. "If you shoot him, you make noise for a man who already cannot call for help. If you open his mouth again, you spend what the boy does not have." She crosses to the desk, opens the top drawer Habu's hands were twitching toward earlier, and takes a second keycard on a cloth lanyard. Habu's eyes track her. He does not move. "This opens the letter locks and the C hold doors when the board says sealed. My war-sheet card only gets me recounts. His gets me through."
+"Leave him," Mei says. "If you shoot him, you make noise for a man who already cannot call for help. If you make him use his voice again, you'll burn him out before we get out." She crosses to the desk, opens the top drawer Habu's hands were twitching toward earlier, and takes a second keycard on a cloth lanyard. Habu's eyes track her. He does not move. "This opens the letter locks and the C hold doors when the board says sealed. My war-sheet card only gets me recounts. His gets me through."
 
 "That was the job," Mira says. "Get you outside before first light. Suzumori is still waiting on a failed extract, not a tour of every wing this place sealed."
 
 Mei holds the lanyard like it weighs more than plastic.
 
-"Your pull failed the moment A and B went into that annex," she says. "I am not walking west with you while C is locked to their bays and Habu's kindness is still written on the speakers. There are people in that hold who waved at the curry kids two days ago. There are two tags who climb kitchen stairs when they should not. I owe morning counts to a bay that is still breathing. I am not leaving them for a clipboard that thinks inventory zero means the night went well."
+"Your pull failed the moment A and B went into that annex," she says. "I am not walking west with you while C is locked in their bays and Habu's voice is still on the speakers telling everyone to stay calm. There are people in that hold who waved at the curry kids two days ago. There are two tags who climb kitchen stairs when they should not. I owe morning counts to a bay that is still breathing. I am not leaving them for a clipboard that thinks inventory zero means the night went well."
 
 Mira's jaw tightens. "I came into this building for you."
 
@@ -54,7 +54,7 @@ Mira steps between us and the service door.
 
 Habu makes a sound in his throat that cannot become a word. Mira's rifle tip drifts toward him and then away. She looks at me instead.
 
-"Are you going to Word her into coming with us?"
+"Are you going to use the Word to make her come with us?"
 
 The sentence is almost there — *come with us, leave the door*. I look at Mei's wet face and the lanyard in her fist and the dark service stair that leads toward the wing I never walked. The kids on the drains are still behind my eyes. If I put weight on Mei now, I am Habu with a scraped voice.
 
@@ -70,7 +70,7 @@ I meet Mei's eyes.
 
 Mei nods once. She looks at Mira.
 
-"Tell Suzumori I declined the road. Tell her I am not coming out the wire tonight." She looks at me once more. "And tell your boy — when his mouth comes back, he should use it on men who thank children, not on the ones trying to open their locks."
+"Tell Suzumori I declined the road. Tell her I am not coming out the wire tonight." She looks at me once more. "And tell your boy — when he can speak like that again, he should use it on men like Habu, not on people trying to open doors for the kids still inside."
 
 "I heard you," I say.
 

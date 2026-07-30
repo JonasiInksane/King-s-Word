@@ -28,7 +28,7 @@ Riku doesn't say anything for a moment. Mei is the one who breaks it.
 
 "Habu's building," Mei says. Not loud. "He's the reason A and B are all dead. He's the reason I spent a night watching a tablet I couldn't put down because it was the only thing keeping my hands from shaking." She says it the way she reads a bad count out loud — correcting it, not performing grief over it. "I want to hear that from him before I decide what I think about a pickle stall reunion."
 
-"You'll get the chance." I sit down on the floor between the two mattresses because standing feels like something I have to justify. "That's what tonight was actually about. He wants everyone in one room. Tomorrow, or the day after — whenever he finds somewhere. You, Mei, Ōhashi. Mira and Suzumori on his side. Everybody says the true things instead of feeding it to each other one careful sentence at a time until somebody feels lied to."
+"You'll get the chance." I sit down on the floor between the two mattresses because standing feels like something I have to justify. "That's what tonight was actually about. He wants everyone in one room. Tomorrow, or the day after — whenever he finds somewhere. You, Mei, Ōhashi. Mira and Suzumori on his side. Everybody says the true things instead of telling each other one careful sentence at a time until somebody feels lied to."
 
 "His words or yours?"
 
@@ -80,7 +80,7 @@ Riku doesn't sit. "The pine road," he says, straight at Kaito, no run-up. "You p
 
 Riku's jaw works. He sits, finally, on the edge of a paper crate, like the honesty took more out of him than a fight would have.
 
-Mei doesn't wait for a gap. "Shizuhara," she says. "I was there. Vents. Lobby. Habu. Mira said abort. You stayed. I want to know why *you* stayed — not the schedule. You."
+Mei doesn't wait for a gap. "Shizuhara," she says. "I was there. I was in the vents when it happened. Mira called abort and you stayed anyway. I want to know why *you* stayed — not what the schedule said. You."
 
 "Because I watched them walk into that shed and I could not make myself leave," Kaito says. "Because walking out felt like agreeing with Habu. Because after Ryn I keep throwing myself at the next bad thing until something stops me. That is not a clean reason. It is the one I had. When it was over I killed every rifle between me and Habu. I did not count them. I am not going to pretend I did."
 
@@ -88,7 +88,7 @@ Mei doesn't wait for a gap. "Shizuhara," she says. "I was there. Vents. Lobby. H
 
 "Mira stopped me." His hand finds Mira's without looking for it, just briefly, and lets go. "I wanted him dead more than I've wanted almost anything. She told me that would be for me, not for anyone he already hurt, and she wasn't wrong, and I hated her for being right for about a day."
 
-"He's still breathing somewhere," Mei says. "Mouthed shut or not, that's a man who knows exactly what happened, sitting in a chair, waiting for whoever finds him to ask the wrong question." She looks at Mira. "Your people left that loose."
+"He's still alive somewhere," Mei says. "Gagged or not, he knows exactly what happened, and he's sitting in a chair waiting for whoever finds him to ask the wrong question." She looks at Mira. "Your people left that loose."
 
 "My people didn't leave anything," Mira says, even. "I left it, because the alternative was watching him become someone I didn't recognize over a body that couldn't argue back. I'll live with that choice being wrong before I'll live with the other one."
 
@@ -108,11 +108,11 @@ That's the word that turns the room.
 
 Nobody has a better one. The lamp hisses. Somewhere out past the shutters a cart wheel sticks on a cobble and somebody swears at it, ordinary and far away.
 
-"We are not going to solve that man tonight," Suzumori says, into the quiet that follows. "We are not going to solve Habu, or the pine road, or which of you gets to keep the worse guilt. You have all been carrying this since separate roads met a truck, and carrying it together in one storeroom for an hour has not made any of it lighter. It has only made it louder, in stereo, which I could have told you before we started."
+"We are not going to solve that man tonight," Suzumori says, into the quiet that follows. "We are not going to solve Habu, or the pine road, or which of you gets to keep the worse guilt. You have all been carrying this since separate roads met a truck, and carrying it together in one storeroom for an hour has not made any of it lighter. It has only made it louder, all of you at once, which I could have told you before we started."
 
 "So what were we supposed to do?" Riku says. "Sit quiet and let it fester?"
 
-"No. You were supposed to say it once, out loud, where the other side could hear it land — which you have now done." Suzumori looks around the room, slow, like she's counting faces the way Sato once counted stamps. "Now you are supposed to do the harder thing, which is decide you are not going to fill every hour left in this city arguing about who bled worse."
+"No. You were supposed to say it once, out loud, where the other side could hear it clearly — which you have now done." Suzumori looks around the room, slow, like she's counting faces the way Sato once counted stamps. "Now you are supposed to do the harder thing, which is decide you are not going to fill every hour left in this city arguing about who bled worse."
 
 Mira reaches into her jacket and sets a folded sheet of paper on the crate between the lamp and Suzumori's knee — cheap printed paper, a picture of reed lanterns on a bridge, block characters gone soft at the fold from being carried too long.
 
@@ -120,7 +120,7 @@ Mira reaches into her jacket and sets a folded sheet of paper on the crate betwe
 
 "You want a festival," Mei says, and it isn't quite a question, and it isn't quite mockery either.
 
-"I want one night where nobody in this room has to be careful," Kaito says. "Not pine road, not vents, not the coat — just lanterns and food that costs coins instead of a story, and everybody standing by the same water at the same hour like it's normal, because it's the closest thing to normal any of us are going to get handed for free."
+"I want one night where nobody in this room has to be careful," Kaito says. "No pine road, no vents, no coat — just lanterns and food you pay for with coin, not favors, and everybody standing by the same water at the same hour like it's normal, because it's the closest thing to normal any of us are going to get handed for free."
 
 "We don't get nights off," Riku says, but it comes out tired instead of hard, which is its own kind of answer.
 

@@ -1,6 +1,6 @@
 # Chapter 6 — The Pier
 
-"You're doing that with your anger instead of your thumb."
+"You're forcing that knot. Ease up and use your thumb."
 
 That's the first thing Jun ever says to me, leaning over my shoulder at the mending frames, and it's about a knot, and also isn't. Amano Jun, twenty-three, big and unhurried, forearms like dock rope, a wide sunburnt face that settles naturally into cheerfulness, born two lanes over and never once wanted to be anywhere else. He runs the frames on the north pier. The co-op put me on ice my first week and moved me to nets my second, and the nets are where he finds me.
 
@@ -10,13 +10,13 @@ He fixes my thumb. Then my elbow. Then, over two weeks of mornings, most of my n
 
 "Not planning anything."
 
-"Smart. Plans are how the sea gets you." He says the grim ones cheerfully. "My little cousin planned. Wrote it out — Haiga, boat mechanic school, whole thing. You know where Haiga is now."
+"Smart. Plans don't help much around here." He says the grim ones cheerfully. "My little cousin planned. Wrote it out — Haiga, boat mechanic school, whole thing. You know where Haiga is now."
 
 I know where Haiga is now. Everyone knows where Haiga is now.
 
 "He get out?" I ask.
 
-"He got out." Jun ties off, bites the tag end, spits it. "Papers didn't. So now he's twenty and he exists because my mother swears he does. You want the second rice ball? You're looking at it like it insulted you."
+"He got out. His papers didn't." Jun ties off, bites the tag end, spits it. "So now he's twenty and he exists because my mother swears he does. You want the second rice ball? You're looking at it like it insulted you."
 
 That's Jun: a big slow kindness with too much lunch, teaching a refugee kid splices so he'll have winter work in a town he isn't planning to stay in.
 
@@ -28,7 +28,7 @@ The second morning she catches me sharing his lunch. She looks me over hard — 
 
 "What does she want instead?"
 
-"Eating all of it." He hands me the second rice ball without checking whether I want it. "She fed half of Haiga's boats when the harbors closed. Feeding is just what her worry looks like. You're on the list now. There's no getting off."
+"Eating all of it." He hands me the second rice ball without checking whether I want it. "She fed half of Haiga's boats when the harbors closed. When she's worried, she feeds people. You're one of hers now, and she won't drop it."
 
 I eat all of it. Both mornings. For a couple of weeks a woman I barely know decides my lunch is her business, and it is the closest thing to ordinary I've felt since the roof.
 
@@ -104,7 +104,7 @@ She walks me two lanes on rubber legs before she lets the act drop. Sits me on t
 
 "Why the cousin act?"
 
-"Because it worked." She stands, brushes her knees, and looks down at me for a second with something careful in her face — worry, maybe, or the start of a question she isn't ready to ask. "Because you looked like a boy about to throw away something he couldn't get back. Go home, Kaito."
+"Because it worked." She stands, brushes her knees, and looks down at me for a second with something careful in her face — worry, maybe, or the start of a question she isn't ready to ask. "Because you looked like a boy about to do something he couldn't take back. Go home, Kaito."
 
 ---
 
@@ -120,7 +120,7 @@ The pier version of the story beats me home, the way everything in this town bea
 
 I don't answer that. She doesn't need me to; she just wants me to know it's been worked out in this house too. Across the table Haru's pen has stopped. He doesn't look up, and he doesn't ask a single question, and that's how I know how many he has — my best friend interrogates by not asking, the way other people do it with lamps and chairs.
 
-"Jun's people have been getting boys off that pier for a hundred years," Sugi says, pressing the plaster down with her thumb. "He'll clear. What you'll do, since you're suddenly so interested in lines, is stay off them. Boys who go looking for the Federation's elbow generally find it." She packs the kit shut. "Eat. Both of you. The rice won't apologize for itself."
+"Jun's people have been getting boys off that pier for a hundred years," Sugi says, pressing the plaster down with her thumb. "He'll clear. What you'll do, since you're suddenly so interested in lines, is stay off them. Boys who go looking for trouble with the Federation generally find it." She packs the kit shut. "Eat. Both of you. The rice is getting cold."
 
 Later, on the futons, in the dark, Haru finally asks one question. He picks the smallest one he can find.
 

@@ -76,7 +76,7 @@ Suzumori is smaller than I expected. White hair pinned with a wooden stick. Eyes
 
 "Then we're early enough." Mira tips her chin at me. "He's with me. He doesn't talk unless he has to."
 
-Suzumori's gaze returns to my mouth. "That voice is loud even when it whispers. Careful where you point it, boy. It cuts both ways."
+Suzumori's gaze returns to my mouth. "That voice is dangerous even when it's quiet. Be careful how you use it, boy. It can hurt you too."
 
 Boots again — closer. Second flight now.
 
@@ -110,7 +110,7 @@ Suzumori pauses with one hand on the cart rail.
 
 She heard it on the quiet floor — me telling the soldier to drop the rifle, him facing the wall and counting. Mira doesn't pretend otherwise.
 
-"He opened what paper wouldn't," Mira says. "You'll get your argument about that later. Right now we need to get out of here."
+"He opened a door that paper couldn't open," Mira says. "You'll get your argument about that later. Right now we need to get out of here."
 
 Suzumori's eyes find me — not kind, not cruel.
 
@@ -134,7 +134,7 @@ Mira's step hitches once. "What about him?"
 
 "Nothing. Forget it."
 
-"I'm not forgetting a name you say with blood still on your mouth." She doesn't slow down. "If he's in Takamatsu and he hears about a door that opened for no reason, he'll come looking. So we aren't here when he does. Drainage cut to the pine edge before they rope the hill road. After that you keep quiet until I say otherwise."
+"I'm not forgetting a name you say with blood still on your mouth." She doesn't slow down. "If he's in Takamatsu and he hears about a door that opened for no reason, he'll come looking. So we aren't here when he does. We take the drainage cut to the pine edge before they rope off the hill road. After that you keep quiet until I say otherwise."
 
 "What did she mean, two mouths?"
 

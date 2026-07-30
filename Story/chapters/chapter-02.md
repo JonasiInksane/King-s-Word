@@ -28,21 +28,21 @@ Friday after school, Ryn was behind the plank with her grandmother, weighing out
 
 "When have you seen royalty," Kaito said.
 
-"I've seen boys who thought they were. Same manners. Worse shoes." She jerked her chin at his sneakers, which were held together on one side with a strip of black tape. The old women found this very funny. Kaito took it the way he took everything from Sugi, which was on the chin and grinning, because Sugi was the only person alive he never argued with. I had a theory about that. The theory was that nobody had ever fed him regularly without being required to, and he didn't know what to do with it except keep showing up.
+"I've seen boys who thought they were. Same manners, worse shoes." She jerked her chin at his sneakers, which were held together on one side with a strip of black tape. The old women found this very funny. Kaito took it the way he took everything from Sugi, which was on the chin and grinning, because Sugi was the only person alive he never argued with. I had a theory about that. The theory was that nobody had ever fed him regularly without being required to, and he didn't know what to do with it except keep showing up.
 
-So we waited, and the line talked, because that was what the line was for. Ahead of us a woman in a sun visor was buying plum for a daughter-in-law she clearly didn't like, and telling the woman behind her about a nephew out east who had stopped writing in May. "Not stopped," she corrected herself, counting coins out of a purse that snapped. "Slowed. The post is slow out there, with everything." The other woman said "with everything" back in the exact same voice, and they both looked at the jars, and neither of them said the word for what everything was.
+So we waited, and the line talked, because that was what the line was for. Ahead of us a woman in a sun visor was buying plum for a daughter-in-law she clearly didn't like, and telling the woman behind her about a nephew out east who had stopped writing in May. "Not stopped," she corrected herself, counting coins out of a purse that snapped. "It slowed down. The post is slow out there, with everything." The other woman said "with everything" back in the exact same voice, and they both looked at the jars, and neither of them said the word for what everything was.
 
-Then the visor woman reached the plank and found somewhere better to put it. "You're lucky, Sugi-san. A granddaughter. They don't take the girls."
+Then the visor woman reached the plank and found somewhere better to put it. "You're lucky, Sugi-san. You have a granddaughter. They don't take the girls."
 
 Sugi weighed out the plum and tipped in one extra with her thumb, the way she did for people she'd decided deserved it that day. "Nobody's lucky this year," she said. "Some people are just still here. Tell your sister to come before Thursday — the barrels turn over." The visor woman went pink like she'd been caught at something, paid, and didn't mention anyone's nephew again.
 
 When the line thinned she filled two paper cones with broken pickle ends — the ones she couldn't sell — and put them in our hands like it was a transaction we'd paid for.
 
-"Eat. You're both the wrong color." She looked at me a second longer than the sentence needed. "Your mother working nights again?"
+"Eat. You both look washed out." She looked at me a second longer than the sentence needed. "Your mother working nights again?"
 
 "Mostly."
 
-"Then you're the house now. Eat two."
+"Then you're running the house now. Eat two."
 
 Ryn came around the plank untying her apron. Off shift, hair down, the silver stud catching the alley light. "Grandma. I'm taking my break."
 

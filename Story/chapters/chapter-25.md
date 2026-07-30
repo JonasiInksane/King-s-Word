@@ -86,13 +86,13 @@ We have been in the bay ten minutes when the mayor arrives.
 
 He is mid-twenties or so, with hair somehow still pomaded in a building that confiscates belts, and he introduces himself as Ōhashi before anyone asks — first to Riku, who ignores him, then to me, who doesn't, which he takes as a lifelong friendship being founded.
 
-"Aoyama, was it? Good bay, this one. I had them move a snorer out last month — I know the day-shift corporal, we have an understanding." He produces a school notebook, fat with pencil, and taps it. "Intake numbers, bunk assignments, who's due at review. I keep track of everybody in C. Somebody has to. Buildings like this, the paper forgets people, but *I* don't forget people." He says it loudly enough for the nearest three bays to benefit from knowing it.
+"Aoyama, was it? Good bay, this one. I had them move a snorer out last month — I know the day-shift corporal, we have an understanding." He produces a school notebook, fat with pencil, and taps it. "Intake numbers, bunk assignments, who's due at review. I keep track of everybody in C. Somebody has to. Buildings like this, the clerks lose track of people, but *I* don't." He says it loudly enough for the nearest three bays to benefit from knowing it.
 
 It costs me two questions and a respectful silence to learn the shape of him: he has been here five months, he is owed favors by half of C wing and collects them in public, and under the vanity he is genuinely useful — he knows which guard trades cigarettes for quiet, which clerk loses forms on purpose out of spite, and what day the review board actually sits, as opposed to the day the corridor rules say it does.
 
 "And the east wing?" I ask it the boring way, the way I'd ask about bus schedules — half attention, folding my blanket while I talk.
 
-"East wing's specials. War paperwork, flagged cases. Different food, different guards — the guards down there don't chat." He lowers his voice to the register of a man giving away stock for free and enjoying it. "They keep the count separate too. I've seen the wall board at the junction when they change shifts. C is forty-one, you two make forty-three. A and B together run about two hundred. East wing never has a number on the board. Just a letter." He frowns, for the first time looking his age instead of like a mayor. "Which is strange, when you think about it, because the whole building runs on numbers. I asked a corporal once and got corridor duty for a week."
+"East wing is for flagged cases — war paperwork, people they don't mix with the rest of us. Different food, different guards, and the guards down there don't chat." He lowers his voice to the register of a man giving away stock for free and enjoying it. "They keep the count separate too. I've seen the wall board at the junction when they change shifts. C is forty-one, you two make forty-three. A and B together run about two hundred. East wing never has a number on the board. Just a letter." He frowns, for the first time looking his age instead of like a mayor. "Which is strange, when you think about it, because the whole building runs on numbers. I asked a corporal once and got corridor duty for a week."
 
 He stops. Straightens his hair. Looks like a man who just heard himself talk too much to a stranger.
 
@@ -104,4 +104,4 @@ I lie on a bunk that smells of other people's summers and listen. The engine idl
 
 There is a long pause, and when he answers, for the first time all evening he doesn't sound like the mayor of anything.
 
-"I don't sell that one," he says. "Go to sleep."
+"I won't talk about that one," he says. "Go to sleep."

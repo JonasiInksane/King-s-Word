@@ -34,7 +34,7 @@ Riku sets his chopsticks down hard enough that the tray jumps. He picks them up 
 
 "Good. Ambition is for people with armbands." He taps the notebook. "I keep C honest. You keep mopping. Everybody stays counted."
 
-"The truck last night," I say, quiet. "You still don't sell that?"
+"The truck last night," I say, quiet. "You still won't talk about it?"
 
 His smile thins. "I still don't. Drink your water, Aoyama. Tea is for friends with seniority."
 
@@ -90,7 +90,7 @@ He does not say the boy's name. I do not ask for it.
 
 "That's why you said no at the forms desk," I say.
 
-He looks at me then, crooked tooth not showing. "They don't chase volunteers who fold the band and walk. You were never here — that was the other line. Now this place puts the bands on kids and calls them good, feeds them curry talk, and tells C to learn from it." He laughs once, no humor. "I'm not learning. And if some clerk opens a volunteer list under my number, I am going to make a problem, and you are standing too close to be an accident." He tips his chin at the door. "You wanted to know. Now you know. Come on — corporal wants the junction dry before A-block afternoon."
+He looks at me then, crooked tooth not showing. "They don't chase volunteers who fold the band and walk. You were never here — that was the other line. Now this place puts the bands on kids and calls them good, lets them talk about curry like nothing's wrong, and tells C to learn from it." He laughs once, no humor. "I'm not learning. And if some clerk opens a volunteer list under my number, I am going to make a problem, and you're standing close enough that they'll drag you into it too." He tips his chin at the door. "You wanted to know. Now you know. Come on — corporal wants the junction dry before A-block afternoon."
 
 ---
 
@@ -98,7 +98,7 @@ Afternoon puts us back on the junction.
 
 We are on the second wax pass when a man in civilian gray from the mezzanine — not Habu; younger, with a tablet — stops our corporal and points at Riku's wrap, then at me, then at the tablet.
 
-"C intake from the pine-road scoop," he says. "Age band fits the volunteer expansion. Colonel wants soft moves where possible — offer the track before review. Kitchen and yard open slots." He looks at Riku with the polite interest of someone filling a form. "Nakahara. You declined prior service at intake. That was a forms answer. This is a real offer. A-block has bunks. Hot food. The review board sees volunteers first."
+"C intake from the pine-road scoop," he says. "Age band fits the volunteer expansion. Colonel wants quiet moves where possible — offer the track before review. Kitchen and yard open slots." He looks at Riku with the polite interest of someone filling a form. "Nakahara. You declined prior service at intake. That was a forms answer. This is a real offer. A-block has bunks. Hot food. The review board sees volunteers first."
 
 Riku's hands are on the mop. The knuckles go white.
 
@@ -132,7 +132,7 @@ We finish the strip. Wax. Quiet. Riku does not speak until we are back in the ba
 
 "Who's missing on their side?" I ask.
 
-"They don't list names on the board. Just the number." He taps the pencil hard enough to dent the paper. "If their number drops and mine doesn't, either a clerk can't add, or somebody walked a body through a door that doesn't show on C's sheet." He looks at me, then at Riku, then shuts the notebook. "I don't sell trucks. I sell counts. And today their count is short one."
+"They don't list names on the board. Just the number." He taps the pencil hard enough to dent the paper. "If their number drops and mine doesn't, either a clerk can't add, or somebody walked a body through a door that doesn't show on C's sheet." He looks at me, then at Riku, then shuts the notebook. "I won't talk about trucks. I talk about counts. And today their count is short one."
 
 Riku sits on his bunk and unwraps the end of the bandage to check the bruise. Easier to look at than the board.
 

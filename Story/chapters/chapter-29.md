@@ -8,7 +8,7 @@ They did not. Not yet. The lights are still dark on this stretch. Mira has her h
 
 "You said extract," I say. "You did not say a building with a double fence and floodlights."
 
-"I said a clean extract. The fence is why it has to be clean." She tips her chin at the dark wire. "We use the west service road and come in at the loading bay behind the kitchen wing. East wing holds the specials — that is the target. We do not walk the lobby. We do not invent a story for a colonel. We cut the outer wire where the contact marked, we take the service door the night clerk leaves unlatched for crate runs, and we are gone before the second count notices a gap."
+"I said a quiet pull. The fence is why it has to stay quiet." She tips her chin at the dark wire. "We use the west service road and come in at the loading bay behind the kitchen wing. East wing holds the specials — that is the target. We do not walk the lobby. We do not invent a story for a colonel. We cut the outer wire where the contact marked, we take the service door the night clerk leaves unlatched for crate runs, and we are gone before the second count notices a gap."
 
 Suzumori makes a dry sound in the back.
 
@@ -20,7 +20,7 @@ I watch the fence. My shoulder still pulls when I turn too far. Haruki is east o
 
 "Why this building?" I ask. "Why not wait for a transfer truck the way you did with Suzumori?"
 
-"Because the transfer trucks from here do not go somewhere we can reach." Mira's voice stays level. "The contact has been counting night loads for three weeks. People leave. The review board stamps it tidy. Nobody comes back to argue the stamp. If we wait for a soft transfer, we are waiting for a story they already wrote."
+"Because the transfer trucks from here do not go somewhere we can reach." Mira's voice stays level. "The contact has been counting night loads for three weeks. People leave. The review board stamps it tidy. Nobody comes back to argue the stamp. If we wait for a transfer truck, we're waiting for paperwork that already says where he went."
 
 "So we steal their inventory before they finish the paperwork," the contact says from the back, not joking hard enough to make it funny.
 
@@ -44,7 +44,7 @@ Mira opens her door. The night air smells like cut grass. She looks at me once �
 
 "Then what am I here for?"
 
-"The one door paper will not open," she says. "Same as the quiet floors. After that you are a pair of hands and a scraped voice we keep quiet. Walk."
+"The one door a fake pass will not open," she says. "Same as the last place where your voice had to open the door. After that you are a pair of hands and a scraped voice we keep quiet. Walk."
 
 ---
 
@@ -76,11 +76,11 @@ About us.
 
 "They saw the truck," I say.
 
-"Or they saw the cut," Mira says. "Or they are jumpy because somebody else is jumpy. It does not change the job. Service latch, east stair, back out the cut. If the bay is hot we abort at the door and we do not argue in the open."
+"Or they saw the cut," Mira says. "Or they are jumpy because somebody else is jumpy. It does not change the job. Take the service latch to the east stair, then back out through the cut. If the bay is guarded, we abort at the door and we do not argue in the open."
 
 The contact checks her watch by feel.
 
-"Night clerk on the service latch has four minutes in his smoke habit," she says. "After that he comes back and the latch is his again. You want clean, this is the clean window. After this you get loud or you get nothing."
+"Night clerk on the service latch has four minutes in his smoke habit," she says. "After that he comes back and the latch is his again. You want in without a fight, this is the window. After this, we force it or we leave."
 
 Mira looks at me.
 
@@ -122,7 +122,7 @@ Mira goes through. I follow. The door shuts on the white glare and the bay smell
 
 I look at her. The scraped voice wants a shorter answer than she is asking for. The building's recycled air sits in my throat with the blood.
 
-"I will open the door you point at," I say. "I will not invent a second job while you are still selling the first one."
+"I will open the door you point at," I say. "I will not open another door on my own while you're still running the plan you gave me."
 
 She holds my eyes a second longer, then nods once, small, like she heard me and does not fully trust it.
 
@@ -162,10 +162,10 @@ Mira steadies me against the wall.
 
 The girl stands. The tablet stays in her hand like she does not trust the room without it.
 
-"I am Serizawa Mei," she says. "And you just made every empty bunk in this building into a story Habu will write before morning. If you came to extract someone, you came on the wrong night — or you came as the reason the wrong night started." She looks at me again, at the scraped voice, at the blood still wet on my lip. "Which door did you open to get in here?"
+"I am Serizawa Mei," she says. "And you just gave Habu a reason to blame every empty bunk on you before morning. If you came to pull someone out, you picked the worst night — or you're the reason it turned bad." She looks at me again, at the scraped voice, at the blood still wet on my lip. "Which door did you open to get in here?"
 
 "Service door off the bay, then this one," I say. "Paper wasn't going to do either."
 
 Mei glances at the specials door we came through, then at Mira.
 
-"Then your clean extract is already dirty," she says. "Tell me who you came for before the west corridor finishes counting boots — and tell me whether you plan to leave the rest of us holding still while the speakers call us inventory."
+"Then your quiet pull is already blown," she says. "Tell me who you came for before the guards in the west corridor reach this wing — and tell me if you're leaving the rest of us locked down while the speakers call us inventory."

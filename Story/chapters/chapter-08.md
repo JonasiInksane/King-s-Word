@@ -6,7 +6,7 @@ I find out by accident, the way I find out everything — by staring at paper to
 
 Sato Kimi is fifty, built like a bollard, and spent thirty years as the harbor office's records clerk before her knees retired her. What she does now, in the net shed, with a locked tin box and a beautiful old hand-stamp collection, is keep the town's second set of paper. A boy from Haiga whose records burned gets a work chit that says he's somebody's cousin. A family the registry would split across two shelters becomes one household with one address. Nothing sold, nothing forged from air — mostly real stamps applied with merciful timing, and a quiet list of who owes whom dinner. The clerk who replaced her at the harbor office grew up two doors down. It is not a resistance. It is a lane taking care of its paper the way it takes care of its nets.
 
-"You can carry for me," Sato says, that first day, sizing me up like a crate. "You look honest and boring. That's the whole uniform."
+"You can carry for me," Sato says, that first day, sizing me up like a crate. "You look honest and boring. That's exactly what we need."
 
 So Tuesdays and Fridays I carry — envelopes between the shed and the shop, the numbers in my head where no soldier can read them. I tell Sugi. She grunts like I've told her the tide is in. I do not tell Kaito, and I am honest about why: he has enough to carry, and I like having one thing that is mine — one small brave thing I am doing with my honest face while he lifts ice and gets quieter. Pride, dressed up as protection.
 
@@ -58,7 +58,7 @@ The younger soldier stares at what his rifle has done, holding it away from his 
 
 Through the gate: Mira at a dead run, her aunt's first-aid kit under her arm.
 
-She takes over the arm like she's done it before. She doesn't ask what happened. She looks once at the rifle on the gravel, once at the older soldier still on his knees in the wrong part of the yard, once at Kaito's bleeding nose — a triangle, three points, I watch her eyes draw it — and then she says, in her tide-chart voice: "You two were never here. Go through the shop. Sato fell on a net hook. Everyone in this yard likes that story better than any other story. *Go.*"
+She takes over the arm like she's done it before. She doesn't ask what happened. She looks once at the rifle on the gravel, once at the older soldier still on his knees in the wrong part of the yard, once at Kaito's bleeding nose — a triangle, three points, I watch her eyes draw it — and then she says, in her tide-chart voice: "You two were never in this yard. Go out through the shop. We're saying Sato fell on a net hook — everyone here will stick to that. Go."
 
 The soldiers don't stop us — because the older one can't explain his empty hands without a story he doesn't have, and the younger one has just shot a widow in a drying yard. They have more to bury than we do. By evening the lane's official truth is a discharge accident during a routine check, apologies conveyed, the box and its stamps long gone into some other shed by hands I don't see. The lane protects its own.
 
@@ -70,17 +70,17 @@ Kaito comes and finds me on the sea wall after, past the bend, where the stone s
 
 "I saw."
 
-"Then say it. Out loud. What you saw." Not a challenge. He needs a witness. His voice is scraped raw and there is dried blood he missed at his jaw.
+"Then say it out loud — what you saw." Not a challenge. He needs a witness. His voice is scraped raw and there is dried blood he missed at his jaw.
 
 "You said *drop it* and his hands opened before his face knew. You said *step back* and his legs did it. The same as—" I make myself finish it. He deserves at least one honest sentence. "—the same as the roof."
 
 He breathes out like something has been cut off him. And then it comes, all of it, quiet and fast — the practicing in the dark, the gulls, the pier and why the pier failed, the buyer, the nosebleeds, the taste it leaves, the clean sentences and how he builds them. He talks for longer than I have heard him talk since Kōgetsu. I don't interrupt. I listen. Some of it is terrifying. Some of it is just my best friend describing, in his own scraped voice, the loneliest month of work anyone I know has ever done.
 
-"It's getting cleaner," he says finally. "That's what today was. Two commands in ten seconds and they both landed. A month ago that soldier's hand wouldn't have opened all the way." His thumb runs across his fingertips, back and forth. "And Sato's arm still happened. Clean isn't the same as safe. I aimed everything right and the yard still broke sideways, because it isn't only me in the yard." He puts his hand flat on the stone. Then, smaller: "Help me."
+"It's getting cleaner," he says finally. "That's what today was. Two commands in ten seconds and they both landed. A month ago that soldier's hand wouldn't have opened all the way." His thumb runs across his fingertips, back and forth. "And Sato's arm still happened. Clean isn't the same as safe. I aimed everything right and the yard still went wrong, because it isn't only me in the yard." He puts his hand flat on the stone. Then, smaller: "Help me."
 
 "Kaito — we can fix—"
 
-"I don't need you to fix it. I need somebody outside my own head. You notice the order things happen in. You just proved it. You gave me the roof back straight and it didn't kill me to hear it." He looks at me properly. "Help me figure out the rules. What it needs. What it costs. Where the edges are. Because I'm going to keep ending up in yards, Haru. This summer isn't going to stop putting me in them, and the next wild shot lands somewhere worse than an arm."
+"I don't need you to fix it. I need somebody outside my own head. You notice the order things happen in. You just proved it. You told me what happened on the roof without softening it, and it didn't kill me to hear it." He looks at me properly. "Help me figure out how it works — what sets it off, what it costs, and how far it goes. Because I'm going to keep ending up in yards, Haru. This summer isn't going to stop putting me in them, and the next wild shot lands somewhere worse than an arm."
 
 The tide works on the stones. He is not asking for *it wasn't your fault.* He has not asked since the wall. He is asking for something I can actually give, and I understand, sitting there, that this is mercy for me as much as for him.
 

@@ -62,7 +62,7 @@ We lie there while my breath comes back. A truck goes by up on the road — civi
 
 I try it the way you'd press a bruise — careful, just enough to feel if it still hurts. *Stop following me.* West is where he went. If I stand up right now and start walking after him, I don't know whether my legs will do it or lock the way they did for *home*.
 
-"I don't know," I say. "It didn't fray with the first one. It's simpler. It has him in it, and he isn't gone the way home is."
+"I don't know," I say. "It didn't break when the first one did. It's simpler. It has him in it, and he isn't gone the way home is."
 
 "So if you turn west right now and try to walk after him, either you can or your legs go on strike again, and we find out which in front of whoever's watching the roads." He sits up, spits grit, and looks at me properly. "That's an experiment for somewhere with fewer rifles."
 
@@ -78,7 +78,7 @@ We don't get the hour.
 
 The pine road meets the inland road at a crossing with a dry shrine and a concrete water tank, and the crossing has grown a checkpoint since yesterday — one canvas truck, cones, four gray-greens, and a folding table that means somebody intends to stay all day. We see it from the treeline. There is no way around that doesn't mean open field in both directions, and we are two boys who look exactly like two boys avoiding a checkpoint.
 
-"Through it," Riku says grimly. "Fast is guilty. Bored is invisible."
+"Through it," Riku says grimly. "If we rush, we look guilty. If we look bored, they look past us."
 
 "Let me do the talking."
 
@@ -104,7 +104,7 @@ I watch it happen. He doesn't know what he is catching — there is nothing to c
 
 The bruise on Riku's forearm has come up purple and yellow through the morning, and it has a shape. Anyone who has done the drills knows the shape. The corporal looks at it the way a man looks at a winning ticket he almost threw away.
 
-"Rifle stock," he says. "Fresh." And then, over his shoulder, not loud, which is somehow worse: "Sergeant. These two."
+"That's a rifle stock," he says. "And it's fresh." And then, over his shoulder, not loud, which is somehow worse: "Sergeant. These two."
 
 Riku's mouth opens with something that would have made things worse, and I step on his foot with everything I have.
 

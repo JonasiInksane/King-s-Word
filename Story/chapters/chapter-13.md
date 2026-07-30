@@ -8,7 +8,7 @@ At the edge of town a pair stops me under a shade cloth — polite, tired, alrea
 
 "Purpose," he says.
 
-"Family errand. Locating a cousin's household inland. Displaced since the coast registration week." I hand over Sato's chit with my shoulders down, and he stamps me through while he is still reading the work reference. His partner glances at my boots, then at the road behind me, and waves me on before I have finished thanking them.
+"Family errand. I'm looking for my cousin's household inland. We've been displaced since the coast registration week." I hand over Sato's chit with my shoulders down, and he stamps me through while he is still reading the work reference. His partner glances at my boots, then at the road behind me, and waves me on before I have finished thanking them.
 
 I walk into Kuroishi with the stamp still wet and go in through the shrine end so I don't hit the depot first. Nobody runs. Nobody smiles much. A boy my age wheels a cart of empty bottles past me — the town has already decided I am ordinary, which is useful at a shade cloth and useless for catching anyone.
 
@@ -30,7 +30,7 @@ The words land harder than they should. "How late?"
 
 She doesn't answer that. She looks at the stack of tea boxes, then at the storeroom door, then back at me, and names a price without calling it one.
 
-"There's stock in the back that wants moving and a back here that doesn't. You're built like your cousin. Haul it, and I'll tell you what I remember while you work."
+"There's stock in the back that needs moving, and I don't have a back for it. You're built like your cousin. Haul it, and I'll tell you what I remember while you work."
 
 So I haul — tea, then rice, then a crate of soap that has no business weighing what it weighs — and she counts boxes and talks, to the shelves as much as to me.
 
@@ -74,7 +74,7 @@ She shrugs. "The kind that makes a clipboard forget his job. We've had coast boy
 
 "Yes."
 
-"Then walk faster. Stories grow legs in this town, and the depot has ears."
+"Then walk faster. Stories spread fast in this town, and somebody at the depot will hear them."
 
 A younger man waiting for the crank has been listening. He adds, helpful and wrong at least once: "I heard the boy told him to go home. Or look away. Something like that. The stool man won't say the words — says he can't remember them clean. And my brother-in-law swears the same boy bought two tickets east the next morning. Coast people always go back east. Can't help themselves."
 
