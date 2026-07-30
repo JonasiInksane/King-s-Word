@@ -1,105 +1,59 @@
 # Foreshadowing Tracker
 
-This document records details that appear small initially but become important later.
+Purpose
+
+Every mystery must eventually pay off.
 
 ---
 
-# The Fool's Smile
+## Chapter 1 — planted
 
-First Appearance:
-
-Chapter 1
-
-Meaning:
-
-People misunderstand his emotions.
-
-Future Reveal:
-
-His smile is not amusement.
-
-It is acceptance of inevitable change.
-
----
-
-# The Cracked Mask
-
-First Appearance:
-
-Chapter 1
-
-Meaning:
-
-The Fool hides his identity.
-
-Future Reveal:
-
-The mask represents the role of The Fool.
-
-Anyone can become the Fool.
+| Plant | Surface read | Intended payoff (draft target) | Status |
+|---|---|---|---|
+| Silver bell at waist; margin note in reports | Comedy / quirk | Belongs to an ancient Order (target ~Ch 142) | Open |
+| Cracked mask on belt, unused | Costume | Seal / restraint (older note ~Ch 189) — confirm later | Open |
+| “You’re early” / waiting bored in ruins | Madness | He expected a Hero specifically; invitation pattern | Open |
+| “Someone left the door open” / “everyone agreed not to look for” | Nonsense | Hidden institutional door; Ashvale wound tied to sealed knowledge | Open |
+| Fire that “lost interest” | Weird aftermath | Attacker’s method or Rei signature — not ordinary raid | Open |
+| Gate “still closed” / “rude”; world forgets barrier | Vandalism | Fool alters *roles/ideas* of things, not just matter; power mystery | Open |
+| Renji cannot recall hinge height after | Shock | Memory / reality soft edge around Fool’s Rei | Open |
+| “I hate assignments” / roles as homework | Joke philosophy | Core goal: break role-script of the world | Open |
+| Ending: “I was worried nobody would come.” | Hook | Fool needs Heroes (or a Hero) for a larger plan | Open — twisted Ch 2 |
+| Fight: slip / miss / luck / prediction undecidable | Clown luck | Readers (and cast) must argue for many arcs | Open |
 
 ---
 
-# The Dust on the King's Throne
+## Chapter 2 — planted
 
-First Appearance:
-
-Chapter 10
-
-Meaning:
-
-A small imperfection in a perfect kingdom.
-
-Future Reveal:
-
-The kingdom's perfection is artificial.
-
----
-
-# The Fool Refusing Rewards
-
-First Appearance:
-
-Chapter 4
-
-Meaning:
-
-He does not seek wealth or power.
-
-Future Reveal:
-
-He does not want to rule.
+| Plant | Surface read | Intended payoff (draft target) | Status |
+|---|---|---|---|
+| Studying / “checking whether a door was locked” | Insult to Renji’s skill | Fool tests Heroes as doors into the system | Open |
+| Absolute Duel almost opened, then refused | Honor / caution | Domain later vs Fool in safer conditions; cost of order | Open |
+| “Oh, wait. The children” stumble | Clown babble | Fool’s insight arrives late on purpose; readers must not trust clean sermons | Open |
+| Akihiko’s smile arrives late / expected pride | Renji win | Discipline is Renji’s first crack in Fool’s read; relationship not one-way | Open |
+| Left hip telegraph named | Observation | Fool already mapped Renji; later fights exploit or spare it | Open |
+| “Chasing… or following” | Wordplay | Renji’s arc: hunter → companion / reluctant ally | Open |
+| Waiting for Renji, not “a Hero” | Personal targeting | Why Renji specifically — late Vol 1 / mid series | Open |
+| Capital as next stage | Plot logistics | Court / Ayame / Hero Order reaction (Ch 3+) | Open |
 
 ---
 
-# The Fool Asking Questions
+## Later plants (not yet written — keep listed)
 
-First Appearance:
+Chapter 5 (planned)
 
-Chapter 2
+Princess notices Fool's handwriting → matches ancient manuscripts (~Ch 211)
 
-Meaning:
+Chapter 11 (planned)
 
-His method of influence.
-
-Future Reveal:
-
-Questions create choices.
-
-Choices create consequences.
+The Fool laughs during execution → execution was fake (~Ch 98)
 
 ---
 
-# The Child Asking Questions
+Rule
 
-First Appearance:
+Never plant a mystery without writing its payoff here.
 
-Chapter 50
+Never reveal a payoff before checking this document.
 
-Meaning:
-
-The Fool's true legacy.
-
-Future Reveal:
-
-The next age begins when people start questioning again.
+Update payoff chapter numbers when outlines lock.

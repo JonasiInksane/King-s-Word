@@ -1,249 +1,131 @@
 # Character Arcs
 
-This document tracks the emotional and philosophical progression of the main characters.
+---
 
-Characters must not remain static.
+## The Fool (Harlequin Akihiko)
 
-Every major event should move them closer or further away from their original beliefs.
+Beginning
+
+Mysterious wanderer; clown-before-threat; invites Heroes into his script.
+
+Ch 1 beat
+
+Appears at Ashvale already waiting; saves survivors; erases gate-as-barrier; refuses role-assignment; hooks Renji.
+
+Ch 2 beat
+
+Refuses a proper fight; studies Renji through a duel; names tells; stumbles into civilian wisdom; smile arrives late when Renji chooses discipline over pride; frames pursuit as chase vs follow; leaves road open.
+
+Middle
+
+Revealed to manipulate nations.
+
+End
+
+Destroys destiny itself.
+
+Theme
+
+Freedom.
 
 ---
 
-# The Fool
+## Renji Arata
 
-## Beginning State
+Beginning
 
-Belief:
+Believes justice is absolute; order protects; crimes must be classified and contained.
 
-Civilizations eventually become corrupt.
+Ch 1 beat
 
-People cannot recognize their own chains.
+First wrong reading: madman → possible precision → cannot decide criminal / monster / madman. Containment fails. Instinct fear at silent doorway. Ends needing the next answer more than the arrest.
 
-Change requires disruption.
+Ch 2 beat
 
----
+Loses the fight before it began (study, not dodge). Almost Domain — chooses civilians over pride. Small win: discipline (Akihiko’s smile arrives late; expected pride, not restraint; refuses distraction). Concludes Akihiko knows *him*; suspects the wait was for Renji. Will pursue toward capital without clean classification.
 
-## Desire
+Middle
 
-To restore balance between order and chaos.
+Questions everything.
 
----
+End
 
-## Hidden Desire
+Chooses humanity over ideology.
 
-To prove that humanity can survive without being destroyed first.
+Theme
 
----
-
-## Fear
-
-That he is not a necessary force.
-
-That he is simply causing suffering because he has convinced himself it is needed.
+Order → doubt → growth → freedom.
 
 ---
 
-## Internal Conflict
+## Ayame
 
-The Fool believes people must be allowed to choose.
+Beginning
 
-However, he constantly influences their choices.
+Political observer.
 
-He questions whether he is actually freeing people or simply creating a different form of control.
+Middle
 
----
+Strategic ally.
 
-## Transformation
+End
 
-Beginning:
+Leader of a new age.
 
-A detached observer.
-
-Middle:
-
-A manipulator forced to confront the consequences of his actions.
-
-End:
-
-Someone who accepts that balance cannot be controlled.
+Offstage through Ch 1.
 
 ---
 
-# Sir Aldren Valemont
+## Kuro
 
-## Beginning State
+Beginning
 
-Belief:
+Fanatic.
 
-A good person follows the law.
+Middle
 
-A righteous ruler creates a righteous world.
+Broken believer.
 
----
+End
 
-## Desire
+Accepts uncertainty.
 
-To become the perfect knight.
-
----
-
-## Fear
-
-Making a choice that harms innocent people.
+Offstage through Ch 1.
 
 ---
 
-## Internal Conflict
+## Emperor Seiryu
 
-Aldren discovers that obedience and morality are not the same thing.
+Beginning
 
-He must decide whether loyalty matters more than justice.
+Absolute ruler.
 
----
+Middle
 
-## Transformation
+Faces inevitable collapse.
 
-Beginning:
+End
 
-A servant of rules.
+Lets people choose.
 
-Middle:
-
-A man questioning everything he believes.
-
-End:
-
-A person who accepts responsibility for his own choices.
+Offstage through Ch 1.
 
 ---
 
-# King Caelum Aurelius
+## Hoshikawa Ryo (HC01)
 
-## Beginning State
+Beginning
 
-Belief:
+Off-page authority; “no spectacle” Hero command culture via dispatch.
 
-Peace is the greatest achievement.
-
----
-
-## Desire
-
-To preserve the perfect kingdom he created.
+Not yet on-page.
 
 ---
 
-## Fear
+Future Characters
 
-Returning to the chaos that existed before him.
+Reserve space.
 
----
+Never delete old notes.
 
-## Internal Conflict
-
-Caelum genuinely loves his people.
-
-His tragedy is that he loves their happiness more than their freedom.
-
----
-
-## Transformation
-
-Beginning:
-
-A perfect ruler.
-
-Middle:
-
-A man defending impossible ideals.
-
-End:
-
-A man forced to accept that perfection cannot exist.
-
----
-
-# Princess Elara Aurelius
-
-## Beginning State
-
-Belief:
-
-Her father's kingdom is a miracle.
-
----
-
-## Desire
-
-To continue her father's legacy.
-
----
-
-## Fear
-
-Destroying the only world she has known.
-
----
-
-## Internal Conflict
-
-She loves her father but begins understanding his mistakes.
-
----
-
-## Transformation
-
-Beginning:
-
-The daughter of perfection.
-
-Middle:
-
-A person caught between love and truth.
-
-End:
-
-A leader who chooses uncertainty over false peace.
-
----
-
-# Inquisitor Marcus Vey
-
-## Beginning State
-
-Belief:
-
-Truth must be controlled to protect civilization.
-
----
-
-## Desire
-
-To eliminate corruption and preserve order.
-
----
-
-## Fear
-
-That without authority, truth becomes meaningless.
-
----
-
-## Internal Conflict
-
-Marcus discovers that the institution protecting truth has hidden the greatest lies.
-
----
-
-## Transformation
-
-Beginning:
-
-A servant of absolute certainty.
-
-Middle:
-
-A man searching for a foundation.
-
-End:
-
-Someone who accepts that truth cannot belong to anyone.
+Mark completed arcs.

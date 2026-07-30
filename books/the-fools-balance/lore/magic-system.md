@@ -1,84 +1,133 @@
 # Magic System
 
-## Overview
+Magic is called
 
-Magic exists through understanding and manipulating natural laws.
+## Rei
 
-Magic is powerful but follows rules.
+Rei is the invisible current flowing through every living thing.
 
----
+It responds to intention.
 
-# Magical Principles
+Not emotion.
 
-Every ability has:
+Not words.
 
-- Source
-- Condition
-- Cost
-- Limitation
+Intention.
 
 ---
 
-# Source
+# Three Disciplines
 
-Magic comes from:
+## Shiki (Body)
 
-- Nature
-- Human will
-- Ancient forces
-- Forgotten knowledge
+Enhances physical ability.
 
----
+Speed.
 
-# Condition
+Strength.
 
-Every magical effect requires a condition.
+Reflexes.
 
-No ability is absolute.
+Durability.
 
 ---
 
-# Cost
+## Kotodama (Word)
 
-Magic always demands something.
+Reality responds to spoken concepts.
 
-Examples:
+Short commands.
 
-- Physical exhaustion
-- Memory
-- Lifespan
-- Emotion
-- Sacrifice
+Contracts.
 
----
+Seals.
 
-# Limitation
+Names.
 
-Every power has weaknesses.
+The stronger the meaning...
 
-The greatest mages are not those with the strongest abilities.
-
-They are those who understand limitations.
+the greater the cost.
 
 ---
 
-# The Fool's Ability
+## Kage (Shadow)
 
-The Fool does not use traditional magic.
+Manipulates perception.
 
-His ability is understanding.
+Illusions.
 
-He sees:
+Fear.
 
-- Conditions
-- Exceptions
-- Contradictions
-- Weaknesses
+Memory.
+
+Darkness.
+
+Most assassins use Kage.
 
 ---
 
-# Relationship Between Magic And The Fool
+# Domains
 
-Mages master rules.
+Masters can manifest a Domain.
 
-The Fool understands why rules fail.
+Inside it...
+
+their philosophy temporarily becomes reality.
+
+Examples
+
+A swordsman where every strike always reaches.
+
+A saint where lies cannot be spoken.
+
+A tyrant where everyone feels fear.
+
+Domains consume enormous Rei.
+
+---
+
+# Limitations
+
+Magic always costs something.
+
+Energy.
+
+Memory.
+
+Time.
+
+Lifespan.
+
+Emotion.
+
+The stronger the miracle...
+
+the greater the sacrifice.
+
+---
+
+# Resonance
+
+People who completely understand themselves awaken Resonance.
+
+Their Rei becomes unique.
+
+No two Resonances are alike.
+
+This is where legends begin.
+
+---
+
+# The Fool
+
+Nobody understands his Rei.
+
+Scholars cannot classify it.
+
+It appears to violate every known law.
+
+Eventually readers discover:
+
+It doesn't.
+
+He simply understands the rules better than everyone else.

@@ -1,47 +1,43 @@
-# Scene
+# Scene Template
 
-## Location
+Purpose
 
----
-
-## POV
+Why does this scene exist?
 
 ---
 
-## Characters Present
+Conflict
+
+What opposes the characters?
 
 ---
 
-## Scene Purpose
+Character Goal
+
+What does the POV character want?
 
 ---
 
-## Conflict
+Obstacle
+
+What prevents success?
 
 ---
 
-## Emotional Change
+Twist
 
-Beginning:
-
-Ending:
+What changes?
 
 ---
 
-## Important Dialogue
+Ending
+
+How does the next scene naturally begin?
 
 ---
 
-## Hidden Meaning
+Rule
 
----
+If a scene changes nothing...
 
-## Information Revealed
-
----
-
-## Foreshadowing
-
----
-
-## Scene Ending
+delete it.

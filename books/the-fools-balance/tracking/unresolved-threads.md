@@ -1,145 +1,117 @@
 # Unresolved Threads
 
-This document tracks mysteries that have been introduced but not yet resolved.
+Current Mysteries
 
-Never reveal information before its planned reveal point.
-
----
-
-# The Origin of The Fool
-
-Status:
-
-Unknown.
-
-Known:
-
-The Fool has appeared throughout history.
-
-Hidden:
-
-Every age creates a Fool when civilization becomes stagnant.
-
-Reveal:
-
-Late Book 1 or Book 2.
+Every thread needs: chapter introduced · current clues · planned payoff · final resolution.
 
 ---
 
-# The True Nature of The Fool's Ability
+## Who is The Fool?
 
-Status:
-
-Unknown.
-
-Known:
-
-He can identify weaknesses in systems.
-
-Hidden:
-
-He perceives exceptions in reality itself.
-
-Reveal:
-
-Gradually throughout the series.
+Status: Open  
+Introduced: Before / Ch 1 (name offered: Harlequin Akihiko)  
+Clues: Rumors conflict; he answers to the bell; hates “assignments”  
+Resolution: Final Arc
 
 ---
 
-# The Previous Fools
+## Who / what destroyed Ashvale?
 
-Status:
-
-Unknown.
-
-Known:
-
-Historical records mention similar figures.
-
-Hidden:
-
-The current Fool inherited a role rather than a power.
-
-Reveal:
-
-Book 2.
+Status: Open  
+Introduced: Ch 1  
+Clues: Odd fire stop; quiet matters; “door” language; attacker unknown; Akihiko claims absence during attack  
+Payoff: Early arcs (attacker identity); deeper cause later
 
 ---
 
-# The Foundation of Aurelia's Peace
+## What is “the door” everyone agreed not to look for?
 
-Status:
-
-Partially known.
-
-Known:
-
-The kingdom has maintained impossible stability.
-
-Hidden:
-
-The stability requires sacrifices nobody knows about.
-
-Reveal:
-
-Final arc of Book 1.
+Status: Open  
+Introduced: Ch 1  
+Clues: Akihiko came because it was left open; gate treated as rude for still being closed  
+Payoff: Mid Vol 1+
 
 ---
 
-# King Caelum's Secret
+## What did Akihiko do to the gate?
 
-Status:
-
-Hidden.
-
-Known:
-
-Caelum created the greatest civilization in history.
-
-Hidden:
-
-He removed certain freedoms to guarantee peace.
-
-Reveal:
-
-Book 1 ending.
+Status: Open  
+Introduced: Ch 1  
+Clues: Not a shatter; barrier-idea fails; Renji’s Rei catches nothing; hinge-height memory blurs  
+Payoff: Magic / philosophy reveal arcs — do not explain early
 
 ---
 
-# Why The Fool Fears Being Wrong
+## Why was Akihiko waiting for a Hero — and why Renji?
 
-Status:
-
-Unknown.
-
-Known:
-
-He rarely doubts himself.
-
-Hidden:
-
-He once caused an irreversible disaster by believing he understood balance.
-
-Reveal:
-
-Future book.
+Status: Open  
+Introduced: Ch 1; sharpened Ch 2  
+Clues: “You’re early”; “worried nobody would come”; Renji concludes wait was for him specifically  
+Payoff: Vol 1 throughline — do not answer early
 
 ---
 
-# Is The Fool Good?
+## What does “following” mean (vs chasing)?
 
-Status:
+Status: Open  
+Introduced: Ch 2  
+Clues: Akihiko frames Renji’s next step as chase or follow; not “enrolled”  
+Payoff: Renji arc middle
 
-Never fully answered.
+---
 
-Known:
+## How does Akihiko “know” Renji’s habits?
 
-He causes destruction.
+Status: Open  
+Introduced: Ch 2  
+Clues: Hip dip; Domain intent; Renji concludes knowledge of *him*, not proven prophecy; Akihiko offers luck/shoulders/menus as cover  
+Payoff: Mid series — keep ability/luck/insanity arguments alive
 
-Known:
+---
 
-He prevents worse destruction.
+## Why does destiny / classification fail around him?
 
-Final Answer:
+Status: Open  
+Introduced: Pre-story lore; reinforced Ch 1 (three names for one trail)  
+Resolution: Arc 5
 
-The story intentionally avoids a simple answer.
+---
+
+## Who created the Balance?
+
+Status: Open  
+Resolution: Arc 6
+
+---
+
+## What happened 3000 years ago?
+
+Status: Open  
+Resolution: Late Arc 5
+
+---
+
+## Who knows The Fool's real identity?
+
+Status: Open  
+Clues: He offered Akihiko freely in Ch 1 — “real” may mean more than the name
+
+---
+
+## Why does the Church fear him?
+
+Status: Open  
+Not yet on-page
+
+---
+
+## Who destroyed the ancient civilization?
+
+Status: Open  
+Resolution: Late series
+
+---
+
+Rule
+
+When resolved: move facts to Canon.

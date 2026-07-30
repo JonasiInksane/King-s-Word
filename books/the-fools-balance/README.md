@@ -1,91 +1,195 @@
 # The Fool's Balance
 
-## Overview
+## Type
 
-Genre:
-Dark Fantasy / Psychological Thriller / Philosophical Fantasy
+Anime-inspired fantasy web novel.
 
-Format:
-Novel series
+## Genre
 
-Current Book:
-Book 1 - The Fool's Balance
-
-## Core Premise
-
-The world believes civilization exists because of order.
-
-Kingdoms, religions, laws, and traditions have created peace.
-
-But every system eventually becomes corrupted.
-
-Every empire eventually forgets why it was created.
-
-Every ideal eventually becomes a prison.
-
-When humanity becomes too rigid, reality creates a Fool.
-
-Not a hero.
-
-Not a villain.
-
-A correction.
-
-The Fool exists to introduce chaos back into a world that has become stagnant.
+Fantasy Action  
+Supernatural  
+Psychological Comedy  
+Political Fantasy  
+Mystery
 
 ---
 
-## Logline
+# Premise
 
-A mysterious traveling jester is dismissed as a harmless fool, but every kingdom he visits begins collapsing after his arrival.
+In the Kingdom of Asteria, heroes are not born.
 
-He does not destroy civilizations.
+They are created.
 
-He reveals the truths they were built upon.
+The Hero Association decides who is worthy.
+The Church decides what is righteous.
+The Crown decides what is lawful.
+
+Together, they maintain the world's greatest illusion:
+
+That heroes exist to protect people.
+
+Princess Elara Asteria has always believed in that illusion.
+
+Until the day a strange man wearing a broken jester mask enters the Hero Examination.
+
+He fails every test.
+
+He cannot use normal magic.
+He cannot wield a sword.
+He cannot follow instructions.
+
+Everyone laughs.
+
+The examiner names him:
+
+"The Fool."
+
+The weakest hero candidate in history.
+
+But when a disaster beyond human ability appears, The Fool casually destroys it.
+
+Not with strength.
+
+Not with magic.
+
+With something impossible.
+
+He breaks the rules themselves.
+
+His ability is called:
+
+## Infringement
+
+The power to violate the laws that govern reality.
+
+Magic has rules.
+
+Death has rules.
+
+Fate has rules.
+
+The Fool ignores them.
+
+But a question remains:
+
+Why would someone with the power to become a god choose to become a joke?
 
 ---
 
-## Main Theme
+# Main Question
 
-Is a beautiful lie better than a painful truth?
+The world asks:
 
----
+"Why does The Fool refuse to take anything seriously?"
 
-## Narrative Identity
+The answer:
 
-Tone:
-- Dark
-- Mysterious
-- Philosophical
-- Psychological
-- Slow-burn
-
-Comparable feelings:
-- The Witcher
-- Death Note
-- Lord of the Mysteries
-- Berserk
-- The Name of the Rose
+"Because he is the only person who understands how serious everything actually is."
 
 ---
 
-## Writing Rules
+# Main Cast
 
-The Fool should never feel like a normal protagonist.
+## Kuroya Renji
 
-He should feel like a mystery.
+Title:
+The Fool
 
-Readers should question:
+Role:
+Protagonist
 
-- Is he manipulating events?
-- Is he predicting them?
-- Is he simply revealing what was already there?
-- Is he saving the world or destroying it?
+Public image:
+A useless clown.
+
+Reality:
+The strongest existence alive.
 
 ---
 
-## Story Promise
+## Princess Elara Asteria
 
-The story is not about defeating stronger enemies.
+Main POV character.
 
-It is about understanding people, systems, and the hidden weaknesses beneath civilization.
+The person who discovers the truth behind The Fool.
+
+---
+
+## Sir Aldren Valerius
+
+The perfect hero.
+
+Represents order.
+
+---
+
+## King Caelum Asteria
+
+The ruler trying to preserve civilization.
+
+---
+
+## Inquisitor Marcus Vey
+
+The Church's executioner.
+
+Believes chaos must be destroyed.
+
+---
+
+# Story Format
+
+## Volume Structure
+
+Each volume explores a different belief.
+
+Volume 1:
+The Fool Who Challenged Heroes
+
+Theme:
+"Are heroes actually good?"
+
+Volume 2:
+The Villain Who Protected Freedom
+
+Theme:
+"Is chaos better than control?"
+
+Volume 3:
+The God Who Feared The Fool
+
+Theme:
+"Should anyone have absolute power?"
+
+---
+
+# POV Structure
+
+Primary:
+
+Princess Elara Asteria
+
+Secondary:
+
+- Hero characters
+- Villains
+- Political leaders
+
+Rare:
+
+The Fool
+
+The reader should understand him slowly.
+
+---
+
+# Core Rule
+
+Never make The Fool look powerful immediately.
+
+The world must underestimate him first.
+
+The reader should constantly ask:
+
+"Is he actually stupid?"
+
+Until the answer becomes terrifying.

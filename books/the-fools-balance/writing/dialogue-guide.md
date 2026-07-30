@@ -1,85 +1,65 @@
 # Dialogue Guide
 
----
+## The Fool
 
-# General Rules
+Short sentences.
 
-Dialogue should reveal:
+Unexpected observations.
 
-- Character beliefs
-- Hidden motives
-- Conflict
+Rarely answers questions directly.
 
-Dialogue should not only provide information.
+Often says something that sounds ridiculous...
 
----
+...until fifty chapters later.
 
-# The Fool
+Example
 
-The Fool speaks indirectly.
+Hero:
+"Why are you smiling?"
 
-He rarely answers questions.
-
-He responds with observations.
+The Fool:
+"Because you're finally asking the right question."
 
 ---
 
-Avoid:
+## Heroes
 
-"I know your kingdom is corrupt."
+Direct.
 
-Use:
+Confident.
 
-"Interesting.
-
-A kingdom that needs so many guards must be afraid of something."
+Formal.
 
 ---
 
-# King Caelum
+## Nobles
 
-Speech:
+Elegant.
 
-- calm
-- controlled
-- reasonable
+Calculated.
 
-He should never sound like a villain.
-
-He truly believes he is correct.
+Often hide threats inside politeness.
 
 ---
 
-# Sir Aldren
+## Villains
 
-Speech:
+Never monologue.
 
-- honorable
-- direct
-- sincere
-
-His conflict comes from believing good intentions are enough.
+Their actions should explain them.
 
 ---
 
-# Marcus
+## Comedy
 
-Speech:
+Avoid meme dialogue.
 
-- precise
-- logical
-- absolute
+Avoid internet slang.
 
-He believes uncertainty is dangerous.
+Humor comes from personality clashes.
 
 ---
 
-# Elara
+## Rule
 
-Speech:
-
-- compassionate
-- thoughtful
-- questioning
-
-She represents possibility.
+Every major character should be recognizable without dialogue tags.

@@ -1,89 +1,107 @@
 # The Fool's Law
 
-The fundamental rules governing The Fool.
+Nobody knows whether these are rules...
 
-These rules define what he can and cannot do.
+or merely habits.
 
----
+The Fool has never explained.
 
-# Rule One
-
-The Fool may reveal.
-
-The Fool may not force.
+Yet everyone who survives him eventually notices the same patterns.
 
 ---
 
-He can show people the truth.
+# First Law
 
-He cannot make them accept it.
+The Fool never attacks first.
 
----
-
-# Rule Two
-
-The Fool may open doors.
-
-The Fool may not push people through them.
+He merely makes everyone else reveal themselves.
 
 ---
 
-Every person must choose their own path.
+# Second Law
+
+The Fool never lies.
+
+He simply refuses to explain the truth.
 
 ---
 
-# Rule Three
+# Third Law
 
-The Fool may break illusions.
+Every joke has a victim.
 
-The Fool may not create truth.
-
----
-
-He reveals what exists.
-
-He does not invent reality.
+Usually not the person everyone expected.
 
 ---
 
-# Rule Four
+# Fourth Law
 
-The Fool cannot directly control outcomes.
+Never assume weakness.
 
----
+If The Fool appears helpless...
 
-Every action must come from another person's choice.
-
----
-
-# Rule Five
-
-The Fool must remain uncertain.
+someone stronger is about to lose.
 
 ---
 
-If he believes he knows everything, he becomes the same as the forces he opposes.
+# Fifth Law
+
+The louder he laughs...
+
+the more serious the situation.
 
 ---
 
-# Rule Six
+# Sixth Law
 
-The Fool exists to restore balance.
+He always keeps one promise.
 
----
-
-He is not a hero.
-
-He is not a villain.
-
-He is the force that prevents either side from becoming absolute.
+Even if it destroys kingdoms.
 
 ---
 
-# The Greatest Contradiction
+# Seventh Law
 
-The Fool believes people must be free.
+Never predict him.
 
-Yet his entire existence influences their decisions.
+Those who think they understand him...
 
-This contradiction is his greatest burden.
+always become part of his performance.
+
+---
+
+# Eighth Law
+
+He never seeks revenge.
+
+He prefers consequences.
+
+---
+
+# Ninth Law
+
+He never fights fair.
+
+Because fairness only exists between equals.
+
+---
+
+# Tenth Law
+
+If The Fool begins acting completely insane...
+
+run.
+
+It means he has already decided how the story ends.
+
+---
+
+# The Hidden Law
+
+The Fool only kills people who have already abandoned every possibility of changing.
+
+Nobody realizes this until very late.
+
+Many villains survive.
+
+Some heroes do not.

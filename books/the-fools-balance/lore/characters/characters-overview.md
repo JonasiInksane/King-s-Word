@@ -1,135 +1,248 @@
-# Characters Overview
+# Main Cast
 
-## Main Cast
+The world of Akatsuki is shaped by five opposing philosophies.
 
-The story follows several characters who represent different philosophies.
+Each character represents a different answer to humanity's greatest question:
 
-Each character is not simply a person.
-
-They represent an answer to the question:
-
-"Is truth worth the suffering it causes?"
+Should people be controlled, protected, judged, or freed?
 
 ---
 
-# The Fool
+# Harlequin Akihiko
 
-Role:
-The Catalyst
+## Title
 
-Philosophy:
-Change is necessary. Comfort creates decay.
+The Fool
 
-Public Identity:
-A useless traveling jester.
+## Role
 
-True Identity:
-A force of balance that appears when civilizations become stagnant.
+Main Character
+
+## Age
+
+Unknown
+
+## Height
+
+182 cm
+
+## Weapon
+
+Anything.
+
+## Threat Level
+
+SSS
+
+## Occupation
+
+None
 
 ---
 
-# Sir Aldren Valemont
+## Personality
 
-Role:
+Laughs constantly.
+
+Makes terrible jokes.
+
+Steals food.
+
+Sleeps anywhere.
+
+Acts childish.
+
+Appears completely unreliable.
+
+However:
+
+Akihiko is one of the most intelligent beings alive.
+
+His foolishness is a choice.
+
+---
+
+## Philosophy
+
+The world assigns everyone a role.
+
+Hero.
+
+Villain.
+
+Monster.
+
+Sacrifice.
+
+Akihiko believes this system itself is the enemy.
+
+---
+
+# Renji Arata
+
+## Title
+
+The Greatest Hero of the Akatsuki Empire
+
+## Role
+
 The Hero
 
-Philosophy:
-Justice comes from following principles.
+## Age
 
-Public Identity:
-A legendary knight of Aurelia.
-
-True Conflict:
-He discovers that following rules can create injustice.
+23
 
 ---
 
-# King Caelum Aurelius
+## Philosophy
 
-Role:
-The Ruler
+Order protects people.
 
-Philosophy:
-Peace is worth any sacrifice.
-
-Public Identity:
-The greatest king in history.
-
-True Conflict:
-He created a perfect world by removing freedom.
+Rules exist because humans cannot control themselves.
 
 ---
 
-# Princess Elara Aurelius
+## Relationship With Akihiko
 
-Role:
-The Successor
+Initially:
 
-Philosophy:
-People deserve the right to choose their own mistakes.
+"I will capture this criminal."
 
-Public Identity:
-The perfect princess.
+Later:
 
-True Conflict:
-She must choose between preserving her father's world or destroying it.
+"Why is the world's greatest criminal the only person acting like a hero?"
 
 ---
 
-# Inquisitor Marcus Vey
+# Emperor Seiryu
 
-Role:
-The Believer
+## Title
 
-Philosophy:
-Truth must serve order.
+The Azure Dragon Emperor
 
-Public Identity:
-The Church's greatest investigator.
+## Role
 
-True Conflict:
-He discovers his faith has been protecting a lie.
+Ruler of Akatsuki Empire
 
----
+## Age
 
-# Character Relationships
-
-## The Fool ↔ Aldren
-
-The Fool sees Aldren as proof that good people can become trapped by good intentions.
-
-Aldren sees The Fool as a dangerous manipulator.
-
-Their relationship changes from:
-
-Enemy → Student → Equal
+49
 
 ---
 
-## The Fool ↔ Caelum
+## Philosophy
 
-Caelum sees The Fool as chaos.
+Freedom creates suffering.
 
-The Fool sees Caelum as a man who loved peace so much that he destroyed humanity.
-
----
-
-## The Fool ↔ Elara
-
-Elara is the one person who questions whether The Fool is right.
-
-She represents the possibility that balance does not require destruction.
+Control creates peace.
 
 ---
 
-## The Fool ↔ Marcus
+## Relationship With Akihiko
 
-Marcus is the closest ideological opponent.
+The Emperor sees Akihiko as the greatest threat in history.
 
-Both seek truth.
+Not because he is powerful.
 
-The difference:
+Because he proves the Empire's system is imperfect.
 
-Marcus believes truth must have rules.
+---
 
-The Fool believes truth must be free.
+# Princess Ayame
+
+## Title
+
+The Imperial Strategist
+
+## Role
+
+Princess of Akatsuki
+
+## Age
+
+19
+
+---
+
+## Philosophy
+
+Information controls reality.
+
+The person who understands the board controls the game.
+
+---
+
+## Relationship With Akihiko
+
+The first person to realize:
+
+"The Fool is pretending."
+
+She never knows whether she should arrest him...
+
+or follow him.
+
+---
+
+# Inquisitor Kuro
+
+## Title
+
+The Black Saint
+
+## Role
+
+Leader of the Holy Inquisition
+
+---
+
+## Philosophy
+
+Chaos is the root of all suffering.
+
+Anything unpredictable must be removed.
+
+---
+
+## Relationship With Akihiko
+
+The ultimate ideological enemy.
+
+Kuro believes:
+
+"If humanity needs a monster to survive, then I will become that monster."
+
+---
+
+# Supporting Groups
+
+**Full empty-slot roster:** [roster-index.md](roster-index.md)  
+(Hero Commanders · Saints · Executioners · Demon Lords/Generals · Academy · Guilds · Royals · side cast)
+
+## Hero Academy
+
+Training ground for Imperial Heroes.
+
+## Seven Saints
+
+The Empire's strongest holy warriors.
+
+## Twelve Executioners
+
+Elite assassins serving the Inquisition.
+
+## Four Demon Lords
+
+Ancient beings opposing humanity. (Series depth: +8 Demon Generals in roster-index.)
+
+## Merchant Guild Masters
+
+Control economy and information.
+
+## Hidden Court
+
+Secret rulers behind governments.
+
+## Ancient Watchers
+
+Beings who remember the world before the Empire.

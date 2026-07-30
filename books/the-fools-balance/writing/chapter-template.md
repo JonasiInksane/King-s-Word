@@ -1,61 +1,55 @@
-# Chapter [Number]
+# Chapter Template
 
-## Title
+# Chapter XX — Title
 
----
+## Hook
 
-# POV Character
+Open immediately with conflict, mystery, or tension.
 
-Name:
-
----
-
-# Chapter Purpose
-
-What this chapter accomplishes:
+Never begin with weather.
 
 ---
 
-# Emotional State
+## Scene 1
 
-Beginning:
-
-Ending:
+Introduce the immediate objective.
 
 ---
 
-# Main Conflict
+## Scene 2
+
+Complication.
 
 ---
 
-# Important Events
+## Scene 3
 
-1.
-
-2.
-
-3.
+Escalation.
 
 ---
 
-# Character Development
+## Scene 4
+
+Unexpected reveal.
 
 ---
 
-# Information Revealed
+## Ending
+
+Leave the reader needing the next chapter.
 
 ---
 
-# Mysteries Created
+# Checklist
 
----
+✓ Character development
 
-# Foreshadowing Added
+✓ Plot progression
 
----
+✓ Mystery progression
 
-# Ending Hook
+✓ Worldbuilding
 
----
+✓ Emotional payoff
 
-# Draft
+✓ Hook for next chapter

@@ -1,81 +1,115 @@
-# Writing Style Guide
+# Style Guide
 
-## POV
+## Goal
 
-Third person limited.
+Write a novel that feels like reading an anime rather than watching one.
 
-Follow one character per scene.
-
-Never reveal information the viewpoint character cannot know.
+Readers should visualize every scene without relying on anime tropes.
 
 ---
 
-## Tense
+# Inspirations
 
-Past tense.
+Primary
 
-Example:
+- Lord of the Mysteries
+- Omniscient Reader's Viewpoint
+- Re:Zero
+- Hunter x Hunter
+- One Piece
+- Jujutsu Kaisen
+- Chainsaw Man
+- Frieren
 
-"The bells rang before sunrise."
+---
+
+# Narrative Style
+
+Third Person Limited
+
+The POV character determines what the reader knows.
+
+Never reveal another character's thoughts unless it is their POV chapter.
 
 ---
 
 # Tone
 
-The writing should feel:
+70% Serious
 
-- atmospheric
-- intelligent
-- unsettling
-- mysterious
+20% Comedy
+
+10% Horror
+
+The comedy should make the horror worse.
 
 ---
 
-# Prose Rules
+# Comedy Rules
 
-Prefer:
+Comedy comes from character.
 
-- meaningful details
-- symbolism
-- subtle tension
-- psychological conflict
+Never from breaking tension randomly.
 
-Avoid:
+The Fool creates comedy.
 
-- excessive explanations
-- generic fantasy descriptions
-- obvious villains
+The world creates drama.
+
+---
+
+# Action
+
+Every fight should tell a story.
+
+Never write a fight that only exists to show power.
+
+Every battle must reveal:
+
+- Character
+- Philosophy
+- Plot
+- Mystery
 
 ---
 
 # Dialogue
 
-Dialogue should have hidden meaning.
+Characters should never explain the plot.
 
-Characters rarely say exactly what they think.
-
-Especially the Fool.
+Dialogue exists to reveal personality.
 
 ---
 
-# Chapter Endings
+# Exposition
 
-Every chapter ending should:
+Hide exposition inside conflict.
 
-- reveal a consequence
-- create a question
-- change the reader's interpretation
+Never stop the story to explain the world.
+
+Readers should discover information naturally.
 
 ---
 
-# The Fool's Dialogue
+# Mysteries
 
-Bad:
+Always answer one mystery before introducing two new ones.
 
-"I will destroy this kingdom."
+Questions create momentum.
 
-Good:
+Answers create satisfaction.
 
-"Funny thing about kingdoms.
+The balance creates addiction.
 
-They always fall from the inside."
+---
+
+# Endings
+
+Every chapter should end with one of the following:
+
+- A revelation
+- A decision
+- A twist
+- An emotional payoff
+- A mystery
+
+Never end on filler.

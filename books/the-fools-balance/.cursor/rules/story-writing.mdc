@@ -2,79 +2,189 @@
 description: Writing rules for The Fool's Balance
 globs:
   - chapters/**/*.md
+  - lore/**/*.md
 ---
 
-# Always Read
+# THE FOOL'S BALANCE RULES
 
-Before writing:
 
-- README.md
-- lore/world.md
-- lore/philosophy.md
-- lore/mysteries.md
-- lore/characters/*
-- writing/style-guide.md
+# Tone
 
----
+The story must constantly balance:
 
-# Never
+- Comedy
+- Mystery
+- Action
+- Philosophy
+- Emotional moments
 
-Do not:
 
-- make The Fool a normal hero
-- give him random powers
-- make him openly unbeatable
-- explain mysteries too early
-- remove ambiguity
+The Fool creates contrast.
+
+Funny scenes should make later serious scenes stronger.
+
 
 ---
 
-# Character Rules
+# The Fool Rules
+
+
+Never write Renji as genuinely foolish.
+
+He is:
+
+- playful
+- unpredictable
+- observant
+- emotionally intelligent
+
+
+His stupidity is a performance.
+
+
+---
+
+# POV Rules
+
+
+The Fool is rarely the narrator.
+
+
+The reader should discover him through others.
+
+
+Characters should think:
+
+"He is an idiot."
+
+Then:
+
+"Wait."
+
+"How did he know that?"
+
+
+---
+
+# Combat Rules
+
+
+Normal fighters:
+
+Attack.
+Defend.
+Counter.
+
 
 The Fool:
 
-- never begs
-- never panics
-- never explains himself
-- never directly commands
+Changes the rules.
+
+
+Example:
+
+
+Enemy:
+
+"My armor cannot be destroyed."
+
+
+Fool:
+
+"Then I won't destroy it."
+
+
+Enemy:
+
+"What?"
+
+
+Fool:
+
+"I'll destroy the idea that armor protects you."
+
 
 ---
 
-# Writing Rules
+# Dialogue
 
-Maintain:
 
-- past tense
-- third person limited
-- dark fantasy tone
-- philosophical themes
+The Fool:
+
+- jokes
+- interrupts
+- acts careless
+
+
+Example:
+
+
+Enemy:
+
+"Do you know who I am?"
+
+
+Fool:
+
+"No. Should I?"
 
 ---
 
-# Before Writing New Events
+# Heroes
 
-Check:
 
-1. Does this fit the philosophy?
-2. Does this reveal too much?
-3. Does this create future consequences?
-4. Does this make the Fool mysterious?
+Heroes are not automatically good.
+
+
+They represent:
+
+Order.
+
+Responsibility.
+
+Stability.
+
 
 ---
 
-# Preferred Workflow
+# Villains
 
-First create:
 
-chapter-outline.md
+Villains are not automatically evil.
 
-Then write:
 
-chapter.md
+They represent:
 
-Then review for:
+Freedom.
 
-- continuity
-- character consistency
-- pacing
-- themes
+Change.
+
+Rebellion.
+
+
+---
+
+# Magic
+
+
+Magic must have:
+
+- rules
+- costs
+- limitations
+
+
+The Fool breaks these limitations.
+
+
+---
+
+# Avoid
+
+
+Do not:
+
+- make villains cartoon evil
+- make heroes perfect
+- reveal Fool's origin early
+- explain powers too quickly

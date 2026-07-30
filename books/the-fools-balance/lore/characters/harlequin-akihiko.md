@@ -1,0 +1,340 @@
+# Harlequin Akihiko
+
+## Titles
+
+- The Fool
+- The Smiling Disaster
+- Bell Walker
+- Chaos Incarnate
+- The Man Who Laughs at Fate
+- The Unwritten Hero
+
+---
+
+# Basic Information
+
+Name:
+Harlequin Akihiko
+
+Age:
+Unknown
+
+Race:
+Human (disputed)
+
+Affiliation:
+None
+
+Rank:
+Unknown
+
+Threat Classification:
+Impossible to measure
+
+---
+
+# Appearance
+
+Akihiko looks less like a warrior and more like someone who escaped from a traveling theater.
+
+His most recognizable features:
+
+- Messy white hair that never seems properly maintained.
+- Golden eyes that appear amused even during battle.
+- A constant smile that makes people uncomfortable.
+- A cracked white theatrical mask hanging from his belt.
+- A long black coat covered in repaired tears and patches.
+- A faded red scarf.
+- A small silver bell attached near his waist.
+
+The bell is always heard before he arrives.
+
+Nobody knows why he wears it.
+
+Some believe it is a joke.
+
+Others believe it is a warning.
+
+---
+
+# Public Persona
+
+To the world, Akihiko is a complete fool.
+
+He:
+
+- Makes terrible jokes during serious situations.
+- Pretends not to understand obvious things.
+- Steals food from nobles.
+- Sleeps in random places.
+- Interrupts dramatic speeches.
+- Gives enemies ridiculous nicknames.
+- Acts impressed by weak attacks.
+- Pretends to misunderstand threats.
+
+Most people believe he is harmless.
+
+This is intentional.
+
+---
+
+# True Personality
+
+Behind the performance is someone terrifyingly observant.
+
+Akihiko notices:
+
+- Political manipulation.
+- Hidden motives.
+- Emotional weaknesses.
+- The true nature of people.
+
+His foolishness is not ignorance.
+
+It is rebellion.
+
+The world demands everyone play a role:
+
+The Hero.
+The Villain.
+The King.
+The Sacrifice.
+The Monster.
+
+Akihiko refuses.
+
+He chooses to be the Fool because a fool is the only person allowed to tell the truth.
+
+---
+
+# Philosophy
+
+"Everyone wants to be something.
+
+A hero.
+A king.
+A monster.
+
+Nobody wants to simply be human."
+
+Akihiko believes the world's greatest tragedy is not evil.
+
+It is people accepting the roles given to them.
+
+Heroes become weapons.
+
+Villains become monsters.
+
+Kings become prisoners.
+
+Victims become sacrifices.
+
+The Fool exists to break the script.
+
+---
+
+# Combat Style
+
+## The Fool's Style
+
+Akihiko fights in a way that appears completely irrational.
+
+He:
+
+- Trips intentionally.
+- Uses useless objects as weapons.
+- Makes impossible movements.
+- Lets enemies believe they have won.
+- Turns mistakes into strategies.
+
+Observers often think:
+
+"There is no way that worked."
+
+Then it does.
+
+---
+
+# Fighting Philosophy
+
+Akihiko does not fight according to technique.
+
+He fights according to possibility.
+
+A sword is a sword.
+
+A chair is a weapon.
+
+A joke is a distraction.
+
+A mistake is an opening.
+
+The battlefield is not a place.
+
+It is a story.
+
+And Akihiko refuses to follow the expected ending.
+
+---
+
+# Power
+
+## True Ability
+
+Unknown.
+
+The world cannot classify Akihiko's power.
+
+Every witness describes something different.
+
+Some claim:
+
+"He controls probability."
+
+Others claim:
+
+"He breaks reality."
+
+Others claim:
+
+"He simply understands something nobody else does."
+
+The truth is hidden.
+
+---
+
+# The Fool's Domain
+
+Unknown.
+
+Every high-level fighter possesses a Domain.
+
+A manifestation of their absolute principle.
+
+Akihiko's Domain has never been confirmed.
+
+Those who claim to have seen it tell impossible stories.
+
+Some say the world became a stage.
+
+Some say all weapons became toys.
+
+Some say Akihiko disappeared and the enemy defeated themselves.
+
+---
+
+# Strength
+
+Akihiko is not becoming stronger.
+
+He was already stronger than almost everyone at the beginning.
+
+The story is not about his power increasing.
+
+The story is about discovering:
+
+Why is someone this powerful pretending to be weak?
+
+---
+
+# Weaknesses
+
+## Emotional Attachment
+
+Akihiko cannot ignore suffering.
+
+Even when he knows helping someone will create greater problems, he cannot walk away.
+
+---
+
+## Self-Sacrifice
+
+He constantly chooses himself as the target.
+
+He will accept being hated if it protects someone else.
+
+---
+
+## The Mask
+
+The biggest mystery.
+
+Why does he wear the mask?
+
+Why does he refuse to remove it?
+
+What happened the last time he smiled without it?
+
+---
+
+# Goal
+
+Akihiko does not want a throne.
+
+He does not want revenge.
+
+He does not want to become the strongest.
+
+His goal:
+
+Destroy the system that decides what people are allowed to become.
+
+The system that creates:
+
+Heroes.
+
+Villains.
+
+Monsters.
+
+Sacrifices.
+
+---
+
+# Character Arc
+
+## Beginning
+
+Everyone believes:
+
+"The Fool is an idiot."
+
+## Middle
+
+People discover:
+
+"The Fool is dangerous."
+
+## Later
+
+People discover:
+
+"The Fool was holding back."
+
+## End
+
+People discover:
+
+"The Fool was never fighting enemies.
+
+He was fighting the story itself."
+
+---
+
+# Symbolism
+
+The Fool represents:
+
+Freedom.
+
+Chaos.
+
+Possibility.
+
+The refusal to accept fate.
+
+The Fool is the only card in the deck that has no assigned place.
+
+Because he belongs nowhere.
+
+And therefore can go anywhere.

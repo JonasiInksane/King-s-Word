@@ -1,40 +1,153 @@
-# Philosophy
+# Philosophy of The Fool's Balance
 
-## The Fool's Philosophy
+Everything in this world revolves around one question.
 
-The Fool believes:
+> Is a person defined by their choices...
 
-- Every system eventually becomes corrupt.
-- Every law creates exceptions.
-- Every truth becomes a prison when unquestioned.
-- Humanity needs challenges to evolve.
-- Comfort creates stagnation.
+> ...or by the role the world forces upon them?
+
+The Fool refuses every role.
 
 ---
 
-## Order Philosophy
+# The Three Truths
 
-Order believes:
+The world believes there are three truths.
 
-- Peace is worth any sacrifice.
-- Freedom creates suffering.
-- Most people cannot handle truth.
-- Stability matters more than individual choice.
+Justice.
 
----
+Order.
 
-## Ruin Philosophy
+Power.
 
-Ruin believes:
+The Fool believes none of them exist.
 
-- Everything eventually dies.
-- Destruction is purification.
-- Nothing deserves to last forever.
+Only consequences exist.
 
 ---
 
-## Central Question
+# The Fool's Philosophy
 
-Who is right?
+A hero saves people because everyone expects him to.
 
-The story never gives a simple answer.
+A villain destroys because everyone fears him.
+
+A king rules because tradition says he should.
+
+The Fool asks one question.
+
+"What if none of you had to?"
+
+He never tells people what to become.
+
+He simply destroys the chains that made them choose only one answer.
+
+---
+
+# Chaos
+
+Chaos is misunderstood.
+
+Chaos is not destruction.
+
+Chaos is possibility.
+
+Order creates one future.
+
+Chaos creates many.
+
+The Fool fights for possibility.
+
+---
+
+# Good and Evil
+
+Neither exists objectively.
+
+Good people commit atrocities.
+
+Villains save lives.
+
+History simply remembers whichever side survives.
+
+---
+
+# Strength
+
+Strength isn't measured by power.
+
+Strength is refusing to become someone else's weapon.
+
+---
+
+# Freedom
+
+Freedom is terrifying.
+
+Without destiny...
+
+Every mistake belongs to you.
+
+Every success belongs to you.
+
+The Fool believes that burden is worth carrying.
+
+---
+
+# The Hero's Lie
+
+Heroes are praised.
+
+But heroes only exist because suffering exists.
+
+If the world truly became peaceful...
+
+Heroes would disappear.
+
+Many heroes secretly fear that.
+
+---
+
+# The Villain's Lie
+
+Villains believe they create change.
+
+Most merely become excuses for heroes.
+
+---
+
+# The King's Lie
+
+Kings believe they rule nations.
+
+Nations actually rule kings.
+
+Expectations are chains.
+
+---
+
+# Balance
+
+The universe constantly creates opposites.
+
+Great kingdoms create rebellions.
+
+Power creates resistance.
+
+Peace creates stagnation.
+
+The Fool does not destroy balance.
+
+He removes those who artificially maintain it.
+
+---
+
+# Final Principle
+
+The Fool never asks:
+
+"Who deserves to win?"
+
+He asks:
+
+"Who still has the freedom to choose?"
