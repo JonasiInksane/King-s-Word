@@ -111,7 +111,7 @@ Engine: chase inland → Takamatsu lives built over days → hunter pressure →
 | 44 | Without Them | H | Private reunion; anger/history; decide to bring others in |
 | 45 | Same Table | H | Group converge; real talk; agree to festival night |
 | 46 | Pond Night | H | Firework festival; almost ordinary |
-| 47 | Above the Water | H | Materiel; shared old-king vision; Mira eyewitness; Suzu “He is the—” → Ide Commander; Ide/Katō revealed as knowing cell; roof-order callback; Rewrite named + demoed; full Kuroda villain monologue (Seal cause, revert want, boys as door); Reshaped answered — Aoyama, final-volume close |
+| 47 | Above the Water | H | Materiel; shared vision; Suzu → Ide Commander; long game + despair road; silent Rewrite (*Kneel*→*Stand*, shoot-Mira); care/erase + alley ask; Die vs Stop; Kaito+Kuroda+Mei+Ide vanish; Katō left |
 | 48+ | Endgame (final volume continues) | — | Keep-vs-revert fight; Remnant accounting; Mei heir; Ryn revert-bait; no new volume |
 
 ---

@@ -219,6 +219,8 @@ Never inventory description. If a coat, scar, or accent is mentioned, it either 
 
 Our locked constraints (see `.cursor/rules/story-writing.mdc` and `README.md`): first person; past tense Ch 1–4, present from Nagihama on; POV blocks of 2–4 chapters per lead post-collision; no ledger/filing narration, no metaphor-road closes, no personified places, no writer-jargon leaks, no recap buttons, copper rationed.
 
+**House density for new drafts / next book:** match **Ch 40–46** (rationed hinge immersion, one full scene when the beat earns it) — not the leanest early chapters, and not a wall of thought between every dialogue line. This guide supplies *mechanics* from the external examples; our settled *prose bar* lives in the Ashiro stretch. See `.cursor/rules/story-writing.mdc` → HARD — House style.
+
 ### 8.1 What transfers directly (adopt)
 
 1. **Operational interiority.** Haruki/Kaito's thoughts should read situations and drive next moves, exactly like Tristan's. Present tense makes this *easier*: "I drop my shoulders and give him a boring boy's answer" is already the pattern. Kill any thought that doesn't change belief or action.

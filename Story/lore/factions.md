@@ -71,7 +71,7 @@ Not a national faction. A man, a named Rewrite, and a cell left leaderless as of
 - **Cause of the Seal** (unwilling): interfered with a world-reshape; edit stuck; family/home on the wrong side of memory. Stated on-page Ch 47.
 - **Want:** Revert the world. Anything necessary as the boys climb toward Grade III (world-command). Farms Grade II (things/laws) as the bridge — deliberately kept both boys angry because rage grows the Word fastest. Stated on-page Ch 47.
 - **Method (Ch 3–46):** Fed ideals; helped both boys behind the screen; shaped power; did not explain the old world; did not look like the villain — until Ch 47, when he reveals himself loud and proud instead.
-- **Ch 47 close:** Rewrites Kaito's Word mid-landing ("Kill yourself" → "Kill yourselves", same structure; FDC dead); delivers the full monologue; Haruki *Stop* vs Kaito *Die* clash — **Kuroda vanishes along with Kaito and Mei**, half of Ashiro's east bank destroyed. Fate unconfirmed; Ide + Katō left running whatever is left of the cell.
+- **Ch 47 close:** Silent Rewrite on Kaito's Words (crowd hears *Stand* / *Shoot her*; same structure; Mira nearly shot); care/erase monologue; Haruki *Stop* vs Kaito *Die* clash — **Kuroda vanishes with Kaito, Mei, and Ide**, half of Ashiro's east bank destroyed. Fate unconfirmed; **Katō alone** left on the bank.
 - Full lock: `old-world-seal.md`, `characters.md`.
 
 ---

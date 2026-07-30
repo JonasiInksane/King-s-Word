@@ -5,9 +5,10 @@
 ## Status
 
 - **Written (live): Part One–Vol 2 done. Vol 3 close Ch 37. Vol 4 Ashiro NEW ROUTE Ch 38–47 DONE — Ch 47 is the series' cosmology reveal *and* a catastrophic break, not just the volume close.**
-- **Plan:** `lore/plot-outline.md` — Ch 47 closed on materiel + a real shared vision (**one** old king Speaking; a second man **Rewrites** mid-landing — not a second Word; sky answers the wrong version) + Commander reveal + Kuroda's long game + *Kill yourself* → *Kill yourselves* Rewrite demo + evil monologue + Haruki *Stop* vs Kaito *Die* clash (Kuroda's hand still moving between them) → **Kaito, Kuroda, and Mei vanish**; half of Ashiro east bank destroyed.
+- **Plan:** `lore/plot-outline.md` — Ch 47 closed on materiel + shared vision + Commander reveal + long game + **silent Rewrite** (no finger tell; crowd hears only the changed line; *Kneel*→*Stand* / shoot-Mira demos) + care/erase + alley ask + Haruki *Stop* vs Kaito *Die* → **Kaito, Kuroda, Mei, and Ide vanish**; **Katō left alive on the bank**; half of Ashiro east bank destroyed.
 - **Next: Vol 4 continues (no Vol 5).** Endgame chapters carry the fallout — Haruki alone with the party on a half-ruined city, no confirmed fate for Kaito or Kuroda, keep-vs-revert fight now live with its two loudest voices gone, Remnant accounting, Mei heir, Ryn revert-bait, and Haruki's own overdue answer to everything Kuroda said.
-- **Length note (Vol 3+):** hard floor **1,600** / target **1,800–2,400**; Ch 47 runs **~3,100** — dense finale beats, not padded.
+- **Length note (Vol 3+):** hard floor **1,600** / target **1,800–2,400**; Ch 47 runs **~3,200** — dense finale beats, not padded.
+- **Ch 47 Ashiro-bar pass (2026-07-30): DONE.** Same beats/knowledge. Kuroda's reveal broken into interrupted hits with Riku/Mira pushback; dwell at Ryn confession; silent Rewrite demos (*Kneel*→*Stand*, shoot-Mira); shout-stack thinned; cost tells varied; copper private-tell bleed cut from Haruki; quieter Kuroda register.
 
 ## Craft-bar rewrite pass (started 2026-07-27)
 
@@ -70,7 +71,7 @@ Bringing Ch 1–23 to the bar in `.cursor/rules/story-writing.mdc` ("Craft bar")
 | 44 | Without Them | H | ~2,380 | Private reunion; pine/vents/truck; decide group talk tomorrow |
 | 45 | Same Table | H | ~2,680 | Both parties; history/anger; coat contested; festival agreed |
 | 46 | Pond Night | H | ~1,990 | Festival joy; fireworks begin — no false buzz seed |
-| 47 | Above the Water | H | ~3,100 | Materiel + shared vision; Suzu fear-ask → Ide **"Commander Kuroda!"**; loud/proud long-game reveal (roof kill organized); Kuroda orders **Fire**; Kaito Words under fire; targets Kuroda; multiple **Rewrites** (structure kept) including *Kill yourself* → *Kill yourselves* (FDC dead); evil monologue (world is fake/cage/pebbles); Kaito climbs to *Die*; **Haruki Words *Stop***; clash echoes vision → explosion; **Kaito + Kuroda + Mei vanish**; half of Ashiro east bank destroyed |
+| 47 | Above the Water | H | ~3,400 | Materiel + shared vision; Suzu fear-ask → Ide **"Commander Kuroda!"**; long-game reveal (Loop file; trash/weak/despair road); Kuroda orders **Fire**; Kaito Words under fire (*Stop* / drop-kneel); first Word at Kuroda meant *Kneel* — bank hears *Stand*; silent **Rewrite** named; *Shoot her* near-miss; care/erase + alley ask; **Die** vs **Stop**; clash → explosion; **Kaito + Kuroda + Mei + Ide vanish**; **Katō left on bank**; half of Ashiro east bank destroyed |
 
 ## POV structure (Part One)
 
@@ -84,12 +85,12 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 - **Kaito:** **VANISHED**, along with Kuroda and Mei, when his Word clashed with Haruki's. Provoked into rage on purpose; used the Word under fire (Kuroda ordered *Fire*); Worded Kuroda; got Rewritten multiple times (including a rewrite that killed civilians on the path); kept climbing until *Die* met Haruki's *Stop*. No body. Status unknown. Do not resolve cheaply.
 - **Mei:** **VANISHED** with them — broke Riku's hold, reaching for Kaito when the light took the three. Amatsu unpaid. Do not resolve cheaply.
 - **Mira / Suzumori / Riku / Ōhashi:** On the bank. Mira on her knees; Suzu's cane down; Ōhashi's notebook open in the dirt; Riku holding Haruki. Remnant accounting pending.
-- **Katō:** Beside Kuroda when he vanished. Right-hand title still unspoken. What he does next (cover, chase, hold the cell together) is unwritten.
-- **Major Ide:** Yelled the Commander reveal; ordered weapons up on Kaito out of real fear; overruled by Kuroda. Left holding a chain of command with no commander at the top of it.
-- **Kuroda Ren:** **VANISHED**, along with Kaito, in the explosion he provoked but may not have fully controlled. Full villain reveal paid on-page first — loud, proud, self-declared architect of both boys' road since the Ch 3 roof; named Rewrite; states the Seal is his failed reshape and he intends to revert it; calls civilians "pebbles"; calls the boys the door. No confirmed death. Do not explain the disappearance early.
+- **Katō:** **Still on the bank after the explosion** (Ide gone with Kuroda). Cell now has one living hand and no commander. Right-hand title still unspoken. What he does next is open.
+- **Major Ide:** Yelled the Commander reveal; ordered weapons up on Kaito out of real fear; saved from his own pistol by Kuroda's grip; **vanished with Kuroda / Kaito / Mei** — fate unconfirmed.
+- **Kuroda Ren:** **VANISHED**, along with Kaito (and Mei, Ide), in the explosion he provoked but may not have fully controlled. Full villain reveal paid — Loop file + despair road; **silent Rewrite** named and demoed; care/erase (people gone, not dead — replaced by the faulty world); alley ask; pebbles/door/rage. No confirmed death. Do not explain the disappearance early.
 - **Habu:** Still mouthed off-camera.
 - **Contact:** Off after spur; table will want accounting.
-- **Ryn:** Dead (Ch 3) — Kuroda admits on-page he organized her death to wake Kaito's Word. **Sugi:** Nagihama, empty shelf. **Jun:** Dead. **Hanae:** has the lie. **Sato:** stays and stamps.
+- **Ryn:** Dead (Ch 3) — Kuroda: not trying to kill her; trash in the way; blames Kaito's weak sentence; despair road after. **Sugi:** Nagihama, empty shelf. **Jun:** Dead. **Hanae:** has the lie. **Sato:** stays and stamps.
 - **Kanzaki:** Off-page since the roof; his radio order there is now retroactively part of Kuroda's long game — do not resurrect or rename him on-page. **Mika / Tōru:** fates open.
 - **Ashiro:** Half of the east bank / skyline near the reed pond is ash and rubble as of the chapter close. Civilian and FDC casualty scope unstated — do not quantify until an aftermath chapter earns it.
 
@@ -123,11 +124,11 @@ H anchor Ch 1–5 → K Ch 6–7 (pier + practice block) → H Ch 8 → K Ch 9 �
 24. **West fence breach (Ch 28–29)** — paid; K was the company.
 25. **Mira clean extract — DEAD (Ch 31).** Contact aborted to ditch; Mira stayed; stove line spoken on-page by her.
 26. **A/B inventory zero — COMPLETE Ch 32** (vent purge on-camera; all A/B dead when Kaito arrives). C/east sealed, not zeroed.
-27. **Kuroda truck extract — PAID Ch 36**; **Commander named Ch 47** via Ide (finishes Suzu's "He is the—" under Kuroda's own laugh). **Rewrite named + demoed Ch 47** ("Kill yourself" → "Kill yourselves", same structure). **Seal cause + revert agenda PAID Ch 47** (full villain monologue). **Kuroda + Kaito + Mei vanish at the chapter close** — new open thread, not a closed one.
+27. **Kuroda truck extract — PAID Ch 36**; **Commander named Ch 47** via Ide. **Rewrite named + silent demo Ch 47** (*Kneel*→*Stand* / shoot-Mira; crowd hears only the changed line). **Seal cause + revert agenda PAID Ch 47.** **Kaito + Kuroda + Mei + Ide vanish; Katō left on the bank** — open threads.
 28. **Power jump (Ch 33)** — bullet stopped mid-air; unnamed Grade II flavor; savage cost; do not label on-page.
 29. **Massacre — COMPLETE Ch 33**; Mei peel Ch 34; Mei join Ch 35; **escape + truck + Kaito pass Ch 36**. Voiceprint booth still unpaid.
 30. **Ashiro Vol 4 (new route) Ch 38–47** — K soft; secret market meet; group talk; festival; materiel + real shared vision + Commander reveal + named/demoed Rewrite + full villain monologue + catastrophic overload. **Vol 4 is the final volume — the story continues past Ch 47 in the same book, no Vol 5.**
-31. **Paid at close:** boys reunited briefly; Kuroda = Commander and self-declared Seal-cause; Rewrite named and demoed; long game (since the roof) claimed loud and proud; *Reshaped by whom, Aoyama?* **answered in substance.** **Kaito + Kuroda + Mei vanish — half of Ashiro's east bank destroyed.** Clash trigger = Haruki's *Stop* vs Kaito's *Die*. **Deferred:** Katō right-hand title spoken aloud; zeroing tip; grade labels; "the Seal" as a spoken word; split-inheritance mechanics; whether the three are dead, trapped, or elsewhere.
+31. **Paid at close:** boys reunited briefly; Kuroda = Commander and self-declared Seal-cause; **silent Rewrite** named and demoed (*Kneel*→*Stand* / shoot-Mira); long game + despair road; care/erase; alley ask unpaid in Haruki's mouth; **Kaito + Kuroda + Mei + Ide vanish; Katō left — half of Ashiro's east bank destroyed.** Clash = Haruki's *Stop* vs Kaito's *Die*. **Deferred:** Katō right-hand title; zeroing tip; grade labels; "the Seal" as spoken word; split-inheritance; fates of the vanished.
 32. **Unpaid long (final-volume endgame, not a new book):** Haruki's answer + guilt of the clash; what actually happened to Kaito, Kuroda, and Mei; aftermath of half a city destroyed; Remnant accounting; Mei heir (now entangled with her disappearance); Habu return; *Stop following me* break (moot unless Kaito returns); Ryn revert-bait scene; the exact original Rewrite sentence.
 
 ## Craft flags (carry forward)

@@ -1,5 +1,5 @@
 ---
-description: Hard continuity and craft rules for King's Word prose — length check, no bible leaks, lean dialogue, story not poetry.
+description: Hard continuity and craft rules for King's Word prose — house style (Ch 40–46 bar), length check, no bible leaks, lean dialogue, story not poetry.
 alwaysApply: true
 ---
 
@@ -25,7 +25,31 @@ Do these in order. Do not skip the count.
 8. **Canon voice** — if the user rewrote dialogue in a recent chapter, match that pass.
 9. **PROGRESS / cameras** — update tracker and character camera notes when beats land.
 
-**Craft bar references (writer-only):** `assets/example-style-guide.md` (what good looks like) · `assets/current-chapters-critique.md` (our gaps + pass status).
+**Craft bar references (writer-only):** house standard below (Ch 40–46) · `assets/example-style-guide.md` (external craft study) · `assets/current-chapters-critique.md` (Vol 1–2 gaps + pass status).
+
+---
+
+## HARD — House style (settled bar — next book / new drafts)
+
+King's Word (this book) finishes at Ch 47. **Any new book, volume, or fresh draft defaults to the settled Ashiro stretch — Ch 40–46 — not the leanest early chapters.**
+
+Same DNA throughout the project (present tense after the hinge, plain dialogue, transactional NPCs, body-cost immersion, no poetry closes). The bar that changed is **density and scene shape**.
+
+| Layer | Standard |
+|---|---|
+| **Dialogue** | Stay lean — one clean hit per beat, full sentences, no double-explain. User dialogue rewrites remain canon voice. |
+| **Immersion** | Rationed, not blanket. **Two or three dwell moments per chapter**, placed only where a choice is forming or a cost is landing (body, wrong read, silence that does work). Everywhere else keeps the current tempo. |
+| **Scene shape** | Prefer **one full scene that earns the chapter** when the beat allows (models: Ch 43 stall reunion, Ch 44 promise-break talk, Ch 46 festival night). Episodic mini-scenes are for real transit / assignment weeks — not the default for hinge chapters. |
+| **Wrong reads** | Still mandatory per POV block (craft bar). Model in-house: Ch 43 — Kaito decides Haruki is fine, then sees the hand flat on the counter. |
+
+**Do not:**
+
+- Pad breakfast / haul / bus connective material to festival or reunion thickness — different beats earn different dwell.
+- Run a blanket "add interiority between every line" pass — that fights lean dialogue and reintroduces mood-stack / metaphor / arithmetic spam.
+- Homogenize Kaito into Haruki by padding his gaps; heat and short moves stay his voice keys.
+- Retrofit finished lean chapters for density parity unless the user names a specific chapter. **Write forward** at this bar.
+
+**In-house models (prefer these over early lean for new prose):** Ch 40–46 for density and dwell; also Ch 3, 7, 9, 14, 20 for scene grammar. External craft study (`assets/example-style-guide.md`) still informs transactions / complications — import functions, not third-person surface.
 
 ---
 
@@ -281,7 +305,7 @@ Places do not wake, forget, breathe meaning, or moralize. Roads do not stand in 
 
 ## HARD — Craft bar (from the example study)
 
-Canon references: `assets/example-style-guide.md` (what good looks like, with quoted exemplars) and `assets/current-chapters-critique.md` (our known gaps, ranked). The rules above still bind; these close the gap between "clean" and "as good as the examples."
+Canon references: **house style above (Ch 40–46)** for our settled density; `assets/example-style-guide.md` (external exemplars) and `assets/current-chapters-critique.md` (Vol 1–2 gaps, ranked). The rules above still bind; these close the gap between "clean" and "as good as the examples" — then match our own Ashiro bar when drafting new work.
 
 ### Dialogue is a transaction
 
@@ -328,3 +352,5 @@ Canon references: `assets/example-style-guide.md` (what good looks like, with qu
 ## When unsure
 
 Prefer silence, partial understanding, or wrong conclusions over a convenient dump. Writer truth can wait; character truth cannot be faked.
+
+For **prose density** on a new draft: match Ch 40–46 (rationed hinge immersion, one full scene when the beat earns it) — not the thinnest early chapter, and not a wall of interiority between every line.

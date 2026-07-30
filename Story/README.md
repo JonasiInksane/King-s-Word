@@ -25,11 +25,14 @@ Kaito screams **"Let her go"** at a soldier holding Ryn over a ledge as leverage
 
 ## Style guide
 
-Aim for the propulsion of `assets/example-chapter-1`: **story in clear sentences**, not essay, not haiku.
+**House standard for new drafts / next book:** the settled Ashiro stretch — **Ch 40–46** (density, hinge immersion, longer scene shape). Same DNA as the rest of the book; do not default to the leanest early chapters. Full rule: `.cursor/rules/story-writing.mdc` → HARD — House style.
+
+Aim for clear propulsion (`assets/example-chapter-1` for mechanics): **story in clear sentences**, not essay, not haiku.
 
 - **Open in motion.** First lines = something happening. Skip city-thesis openers and portrait inventories.
 - **Tell the story.** Cause → action → result. Explain enough to follow. If a line is only mood, cut it or attach it to a task.
 - **Attach description to task.** Looks, room, city detail land while hands and eyes are busy. Spatial clarity when action matters.
+- **Lean dialogue + rationed immersion.** Dialogue stays one clean hit per beat. Between lines: **two or three dwells per chapter**, only where a choice or cost lands — not blanket interiority. Prefer one full scene that earns the chapter when the beat allows (models: Ch 43–46).
 - **Opinionated + operational interiority.** Narration prices/judges in the camera's register; thoughts change belief or next action — not mood weather. See `assets/example-style-guide.md`.
 - **Complication rhythm.** Every chapter dramatizes at least one full friction scene (plan meets resistance on-page). Summary compresses time, never conflict.
 - **Transactional dialogue.** Both sides want something; information arrives bent; at least one refusal per arc stays refused.

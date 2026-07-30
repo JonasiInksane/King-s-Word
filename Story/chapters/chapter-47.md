@@ -46,53 +46,49 @@ Suzumori's grip doesn't loosen. "He is not a friend, Haruki! He is—"
 
 "Commander Kuroda! We have a problem — both of them, right here on the bank!"
 
-The major yells it straight across the water, finishing the word she couldn't say, and Kuroda laughs under the shout — head back, loud, like this is the best part of his night.
+The major yells it straight across the water. Kuroda doesn't flinch at the title. He just keeps walking toward us, and when he smiles it isn't the host smile from Minato and it isn't patience. It's quieter than that. Worse.
 
-He's close enough now that I can see his face isn't performing anything anymore. No host smile. No alley patience. Just delight, plain and unhidden.
-
-"Aoyama. Kurosawa." He says both names like he's been saving them for exactly this. "Do you know how long I have wanted to say both of those out loud, in front of both of you?"
+"That's not a problem, that's faith. Aoyama, Kurosawa," He says both names like he's been saving them. "Do you know how long I have waited for this moment?"
 
 Kaito's hand is a fist at his side. "Say what?"
 
-"That I know exactly who you are." Kuroda spreads his hands, an actor taking his bow. "Both of you — and not just your names. I have known what you can do since the night the roof opened."
+"I know exactly who you are. Both of you — and not just your names. I have known what you can do since before that night on the roof. But you two have no idea what the extend of your true power is."
 
 "You don't," I say, and my own voice doesn't sound steady to me. "You're FDC. You're—"
 
-"I am the reason you're both still breathing." His voice climbs now, filling the space between the bank and the bridge, loud enough that gray-greens by the cordon turn their heads. "I have been pulling every string that mattered since before either of you knew there was a game. The truck out of Shizuhara. The alley behind Minato. The mezzanine you never looked up at. Every quiet door that opened when you needed it — that was me. I built the road under both your feet and let you believe you were walking it yourselves."
+"I am the reason you're both still breathing." Not loud yet. Certain. "The truck out of Shizuhara. The alley behind Minato. Every quiet door that opened when you needed it — that was me. I built the road under your feet and let you believe you were walking it yourselves."
 
 Kaito's face has gone somewhere I don't have a name for. "You've been using us."
 
-"Yes," Kuroda says. Undisguised. Proud of it. "Since the roof. White sky over the Loop. My men on that building because I put them there. The girl held out over the edge because I wanted her there. The radio order — *both flagged, the loud one is active, alive is the entire point, hands over your ears* — that came from me. I wrote it. I sent it. Your friend shouted three words and a soldier's hand opened because I needed that Word awake and hungry, and a dead girl was the cheapest way to make sure of it."
+"Yes." Undisguised. Proud of it.
 
-Nobody moves. Kaito's fists have come open at his sides like his hands forgot their job. My own throat closes around something with no shape. I can't look at him, and I can't look anywhere else.
+Riku's fist is already in my sleeve. "Haruki. We're leaving. Now."
 
-"You organized that," Kaito says. Not a question. His voice has gone thin and wrong.
+"Don't stand there and feed him your anger," Mira says, hard, to Kaito more than to me. "He wants an audience. Don't give him one."
 
-"I organized all of it." Kuroda smiles like he's correcting a schoolboy. "The kill, the escape, the chase. Shizuhara — the vents, the gallery, the bullet you stopped in the air without knowing you'd done it. I have never watched a Word climb that fast in one night. I have been chasing that feeling in you ever since." His eyes move to me. "And your friend's despair does the same work on his. *Nobody is coming to fix any of this.* Isn't that the sentence you can't put down? I gave you every reason in the world to keep circling it."
+Kaito doesn't move. Ash is starting to fall again, fine and gray. Around him it drifts wrong — slower, like the air forgot which way down is.
 
-"You did that on purpose," I say. It doesn't sound like a question.
+"I have planned this from the start," Kuroda goes on, and now his voice does climb, enough that gray-greens by the cordon turn their heads. "I rode the Loop with you that night. I turned my phone toward you so you would see the file — both of you, already named — before you ever climbed those stairs. I only needed to be sure I had the right boys. My men were on that building because I put them there. The radio order came from me. I told them both of you were flagged, that alive was the entire point, and that they were to cover their ears. I was not trying to kill the girl. She was cheap trash standing in the way. Your friend was too weak to move a hand without breaking the girl attached to it. That is when I understood what you two actually needed. Not careful handling. Despair. So I put you on a road that would keep feeding you just that, until your powers had no choice but to wake up hungry."
 
-"I do everything on purpose." He says it kindly, which is worse. "Fury opens doors that patience never will. The two of you are the door. I only had to make sure you were angry enough to open it yourselves — and nothing makes a boy angrier than watching someone he loves die because someone else decided she should."
+The bank keeps moving — people running, a loudhailer still talking calm nonsense — and none of it reaches me. I look at Kaito and I can't make his face into anything I know. His fists have come open at his sides like his hands forgot their job. I can still hear the three words from the roof, still see the hand open, still smell the cake on the kitchen counter that morning, and Kuroda just put a price tag on all of it and called it cheap. My throat closes around something with no shape. For a few seconds I am seventeen years old on a bank in Ashiro and the only true thing left in my mouth is that I should have said it wasn't his fault before a man like this ever got a chance to own the night.
 
-"Haruki!" Riku grabs my sleeve hard enough to tear it. "We're leaving. Now. Both of you — move!"
+"You organized that," Kaito says. His voice has gone thin and wrong.
 
-"Kaito, please—" Mira's voice cracks open on it. "Don't give him what he wants. Don't—"
+"I organized all of it," Kuroda says. Kindly, which is worse.
 
-"Get back here!" Suzumori, hoarse, cane slamming mud. "Both of you! Right now!"
+Riku hauls my sleeve hard enough to tear the seam. Mira has Kaito's jacket; he isn't feeling her hand. Around us the crowd is breaking — someone falls in the mud, a kid screams for a parent who doesn't answer, gray-greens at the bridge mouth pushing people back with rifle butts. The bank is getting smaller. Ide already has a hand up for a weapons call.
 
-Mei is saying Kaito's name like a warning. Ōhashi has his notebook crushed against his chest like paper could stop any of this. Ash is starting to fall again, fine and gray, catching in everyone's hair. Nobody is listening to anybody.
+Kaito takes one step toward Kuroda. That is all Ide needs.
 
-Kaito isn't listening either. His shoulders have gone wrong. The ash near him has stopped falling straight. Blood is already at his lip and he hasn't spoken yet. The major sees it — reaches for the nearest rifle before I finish the thought.
+"Weapons up!"
 
-"Weapons up!" Ide says, and for the first time all night there's real fear under the command voice. Three gray-greens bring rifles up on a seventeen-year-old boy. Hands not steady. Muzzles aimed at his chest.
+Three gray-greens bring rifles onto a seventeen-year-old's chest. Hands not steady. Festival light on the barrels.
 
-"Fire," Kuroda says.
-
-Not shouted. Almost bored. He doesn't look away from Kaito once.
+"Good idea Major, Fire!" Kuroda yells. He doesn't look away from Kaito once.
 
 "Commander—" Ide starts.
 
-"I said fire! If he dies, he was never the door. If he doesn't — then we learn something."
+"I said fire."
 
 The first shot cracks. Then the second. Then the third — three muzzles bright at once, the bank lighting up like a second set of fireworks aimed at one boy.
 
@@ -100,71 +96,81 @@ Kaito's mouth opens before the sound finishes.
 
 "Stop!"
 
-It is not a flinch. It is not a dodge. The Word hits the air like a wall going up, and every bullet in flight stops dead. Three rounds hang between the gray-greens and Kaito's chest — spinning in place, smoking, close enough that I could count the rifling marks if the light were kinder — and the men who fired them are locked mid-recoil, shoulders jammed, fingers still crushed on triggers that no longer mean anything. Lanterns along the bank blow sideways as if a door opened in the wrong direction. The reed water goes flat. For a full breath the whole east bank is silent except for the soft tick of three rounds spinning and not dropping.
+The Word hits the air like a wall going up, and every bullet in flight stops dead. Three rounds hang between the gray-greens and Kaito's chest — spinning in place, smoking, close enough that I could count the rifling marks if the light were kinder — and the men who fired them are locked mid-recoil, shoulders jammed, fingers still crushed on triggers that no longer mean anything. Lanterns along the bank blow sideways and the reed water goes flat. For a full breath the whole east bank is silent.
 
-Then Kaito's nose opens hard, bright red down his mouth, and he does not wipe it.
+Kaito's knees go soft. He locks them. Gray sits at the edges of his eyes for a second and then clears.
 
-"Drop your weapons. Face the mud."
+"Drop your weapons. Kneel."
 
-They do. Rifles hit wet ground hard enough to splash. Three men go to their knees in the festival dirt with their foreheads down like the Word put them there, and the hanging bullets finally drop — soft little sounds in the mud between Kaito and the men who meant to kill him.
+They do. Rifles hit wet ground hard enough to splash. The three who fired go down first, then the next pair along the cordon, foreheads in the festival dirt like the Word put them there, and the hanging bullets finally drop.
 
-Kuroda laughs once, delighted, like someone just handed him proof he'd paid for.
+Someone in the crowd screams. Ide is shouting for a second line and not getting one. Riku has me two steps back; I am fighting him for the third. Kaito does not wait for any of it. He walks through the dropped rifles, through the smoke still hanging where the rounds stopped, straight at Kuroda until there is almost no mud left between them.
 
-He turns on Kuroda. There is nothing left in his face that belongs to a festival. Only the roof. Only a girl over an edge. Only the man who just admitted he put her there. The Word comes up from somewhere under his ribs — the same place the roof lived — raw and loud enough that festival people still running the bank clap hands over their ears without knowing why.
+Kuroda laughs once — short, pleased.
 
-"Kill yourself!"
+There is nothing left in Kaito's face that belongs to a festival. Just like at Shizuhara.
 
-Straight at Kuroda. No dodge in it. No mercy. The sentence a boy uses when the man in front of him just admitted he murdered a girl for a test. Copper floods my mouth like I'm the one who spoke it. The air over the pond goes tight.
+"You're a monster," Kaito says. Full. Loud. Aimed at Kuroda's face. "You don't care what happens to anyone. You just think of them as toys."
 
-Kuroda's smile doesn't move. His hand does — two fingers, small — and the sentence that lands is the same shape with one change.
+The gray-greens are still where he put them — guns in the mud, knees in the festival dirt. Kuroda is the only one left standing in reach. Kaito sets for him the same way he set for the rifles: one man, down. Kuroda's mouth shapes something small — not a word I can hear, just the finish of a sentence — and what every ear on the bank hears out of Kaito's throat is:
 
-"Kill yourselves."
+"Stand!"
 
-Same beats. Same order. The Word turns off Kuroda and lands on the gray-greens at his flanks — Ide's rifle line, two men with sidearms, a cordon runner who only came to hold the bridge. They do it. Not clean. Not all the way at once. One puts his own muzzle under his chin and the shot drops half the bank into silence. Another walks into the reed water until he doesn't come up. A third turns his rifle on the man beside him because *yourselves* has room for that reading, and both of them go down hard in the mud. Katō is on his knees with both hands locked around his own throat like he can hold the sentence out of his body. Ide has his pistol halfway to his temple and only Kuroda's hand on his wrist stops him — not the finger-trick this time, just a commander's grip, choosing which pebble he still needs.
+The ones who dropped their weapons and knelt shove themselves upright like the Word yanked them by the collar. A man who had his forehead in the dirt comes up blinking, empty hands open. Kuroda does not kneel. He never even dips. He stands in the mud exactly as he was.
 
-When it finishes, four gray-greens are down and not getting up, and the festival path behind them is screaming with people who only came for lanterns.
+Kaito stares at him. At the men standing when they should still be down. At his own mouth. Bright red finds his upper lip and runs. His face has gone wrong in a way I have never seen on a roof or a pier.
 
-Mira makes a sound like she's been stabbed. Mei is already running toward the fallen, and Riku hauls her back by the waist hard enough that both of them hit mud.
+"That's not what I said." His voice breaks on it. "I said kneel. I said kneel."
 
-Kaito stares at the mud. At the man who shot himself. At his own mouth.
+Nobody answers him. Nobody else heard anything different. Above the pond the white wound pulses once, bright enough that half the bank flinches.
 
-"That was for you—" His voice breaks. "I said *yourself*—"
+"Kneel—" he starts again, thinner, already breaking, and the bank hears _stand_ a second time. Another pair of boots scrapes up on command. He looks at Kuroda like the air between them has lied to him.
 
-"Rewrite," Kuroda says, and now there is nothing kind left in it. "Same sentence. Different person. I keep the shape. I change who it hits. That is all Rewrite has ever been. On a roof. On a battlefield. On a world." He spreads his hands at the white still hanging over the pond, at the ash, at the bodies in the mud. "Look around you. Trains. Ration lines. This ridiculous festival. Mothers baking cakes. Boys who think love is a plan. None of it was supposed to exist. A King's Word tried to remake everything into something living and wide, and I put myself in front of the sentence before it landed clean. I was trying to save the people I loved. I saved a cage instead. Every person walking this bank is a brick in that cage. Fake. Temporary. A draft that should have been thrown away the night I ruined the original. I have spent every year since deciding whether I have the right to tear the scaffolding down and let the real world back in." He looks at both of us like we are tools on a table. "I do. You two are the door. Rage is the key. And I will spend every pebble on this bank — every mother, every child, every soft little friendship — if that is what it costs to open it."
+Kuroda laughs. Head back. Pleased in a way that has nothing kind left in it.
 
-"There are people—" Riku starts, raw.
+"Rewrite," he says. "I rewrote it." He taps his own mouth once, not a cast, just a point. "I finish your sentence with mine before it lands. Quiet. No second voice for anyone else to hear. Same shape. Same order. Different landing. You keep saying the word you meant. Everyone else hears the one I chose."
 
-"There are pebbles," Kuroda says. "Say it until you believe it. It will hurt less when they're gone."
+Kaito's hands are shaking. "You—"
 
-Kaito's nose is pouring now. He doesn't wipe it. He looks at Kuroda the way he looked at the soldier on the roof — like the next sentence is the only thing left in him that still counts as alive.
+"You said I don't care for people, but that's a lie, I did care for people," Kuroda says. He tips his chin at the white still hanging over the pond. "But the ones I cared for are gone. Not dead. Erased. Replaced by this faulty world — trains, ration lines, this festival, boys who think love is a plan. Before any of this, the world was larger. Sky that answered when a king spoke to it. A King's Word tried to reshape that world, and I put myself in front of the sentence to save the people I loved. One word changed. The sentence stuck wrong. What you are standing in is the cage that mistake made. It should not exist. The real world is still out there, waiting. It needs to be reshaped back to what it was."
 
-"Kneel."
+His eyes find mine across the mud.
 
-Kuroda's fingers move before the word finishes.
+"In the alley behind that bar, Aoyama — reshaped by whom. You said you didn't know yet. Do you already have the answer?"
 
-"Bleed."
+My mouth opens on nothing. The question is the same one that stayed under the overhang when his face slid out of my head.
 
-Same shape. One swap. A gray-green on the bridge mouth drops to one knee and then keeps going, face-first into stone, blood from his nose and ears like someone opened a tap. He does not get up.
+"There are people on this bank," Riku shouts, raw, over the crowd noise. "Living ones—"
 
-Kaito screams — not the Word, just a boy sound — and opens his mouth on the next sentence anyway, because stopping would mean accepting the roof was for nothing. Mira is yelling his name. He doesn't hear her.
+"Pebbles," Kuroda says. "You two are the door. Rage is the key. I will spend every pebble here if that is what it costs to open it."
+
+Kaito's scraped voice has gone thicker than the blood on his mouth. A boy barely older than us has a rifle off the mud again, barrel half-raised, eyes too wide. Kaito turns on him — and through him, at Kuroda — and the Word comes up hard and fast.
+
+What I hear is:
+
+"Shoot her!"
+
+The muzzle swings off Kuroda and finds Mira. She is three steps behind Kaito's shoulder with her hand still out for his sleeve. The boy in gray-green fires because the Word told him to.
+
+Riku hits her first. He takes her sideways into the mud hard enough that both of them go down, and the round punches wet ground where her ribs were a breath ago, dirt exploding up across her skirt. Mei screams once. Suzumori's stick is already up like it could stop a second shot.
+
+Kaito's face empties — then fills with something worse than the roof. He knows what he aimed at. He knows what left his mouth for the rest of us.
 
 "Die!"
 
-Aimed straight at Kuroda's chest.
+Aimed straight at Kuroda's chest. No careful build. Just the next sentence.
 
-Kuroda's hand lifts.
-
-I don't think. I don't plan. I put my whole throat into one word and throw it at Kaito before his sentence can finish killing anyone else.
+I don't think. I don't plan. I put my whole throat into one word before Kaito's sentence can finish killing anyone else.
 
 "Stop!"
 
 Weight leaves me so hard my knees almost go. My vision grays at the edges. The order is simple and ugly and mine: quit. Shut your mouth. Do not finish what he started building in you. Live through the next ten seconds so I still have a best friend when they're done.
 
-His *Die* is already out. My *Stop* hits it head-on.
+His _Die_ is already out. My _Stop_ hits it head-on.
 
-The bank rings. Not a sound you hear with ears — a pressure that crawls up from the mud into every chest still standing. Kuroda's two fingers are between our words, hunting for a seam he can pry, the same small correction he used on the gray-greens, the same small correction the bloody man used on the crowned man in the vision. He does not get a clean grip. There is too much sentence in the air. Too many mouths. The white wound over the pond tears lengthwise like cloth under a knife.
+The bank rings. Not a sound you hear with ears — a pressure that crawls up from the mud into every chest still standing. Kuroda's mouth is moving again, silent, hunting for a seam in two Words at once the way he hunted seams in one, and he does not get a clean grip. There is too much sentence in the air. Too many mouths. The white wound over the pond tears lengthwise like cloth under a knife.
 
-Mei has already torn free of Riku. She is three steps from Kaito, arm out, fingers open, shouting his name like she can haul him sideways out of his own voice. She is still moving when the tear finishes opening.
+Mei has already torn free of the mud. She is three steps from Kaito, arm out, fingers open, shouting his name like she can haul him sideways out of his own voice. She is still moving when the tear finishes opening.
 
 What happens next does not arrive in order. Heat without fire. A shove from nowhere that flattens the reed water into a plate. The east end of the bridge lifts and then is simply not a bridge anymore. Buildings beyond it go pale, then blank, then gone — a whole slice of Ashiro erased the way chalk comes off a board in one hard swipe. People scream and the screams cut short under a rain of grit that used to be walls.
 
@@ -178,12 +184,16 @@ Kuroda is not there.
 
 Mei's reaching hand is not there.
 
-Three shapes missing from mud that still holds everyone else's footprints. No burned outlines. No clothes. No proof they died and no proof they lived past the second the tear closed. Only wet ground and the smell of spent fireworks that is not fireworks.
+Ide is not there either — the major who yelled the rank, who almost put a pistol under his own jaw, gone from the mud beside where Kuroda stood.
+
+Four shapes missing from ground that still holds everyone else's footprints. No burned outlines. No clothes. No proof they died and no proof they lived past the second the tear closed. Only wet ground and the smell of spent fireworks that is not fireworks.
+
+Katō is still on the bank. On his hands in the festival dirt where Kuroda kicked him, throat raw, staring at the empty place his commander was like a man waiting for an order that isn't coming.
 
 "Kaito—" My voice fails and comes back wrong. "Mei— Kaito—"
 
-Riku does not answer. He keeps his fist in my jacket like letting go would lose me too. Mira has folded forward with her forehead almost in the mud, shoulders shaking hard enough that I can see it from here. Suzumori stands without her stick, both hands empty, staring at the gap in the bridge as if age finally found a thing it cannot outwait. Ōhashi's pencil is still in his fingers. The notebook is not. He keeps pointing the pencil at the empty mud and writing nothing.
+Riku does not answer. He keeps his fist in my jacket like letting go would lose me too. Mira is on her knees in the mud where Riku threw her clear of the round, skirt torn, dirt up her side, staring at the empty place Kaito was like she still expects him to turn around. Suzumori stands without her stick, both hands empty, staring at the gap in the bridge as if age finally found a thing it cannot outwait. Ōhashi's pencil is still in his fingers. The notebook is not. He keeps pointing the pencil at the empty mud and writing nothing — then his eyes find Katō, and for a second the blank look cracks into something that almost has a name in it, and then he looks away.
 
 Sirens start somewhere west, late and useless. The loudhailer does not come back on. Festival strangers kneel in the dirt with lantern paper stuck to their knees, looking at a skyline that ends mid-sentence.
 
-I cannot stop looking at the place where three people were. My best friend. The girl who kept counts honest. The man who spent a girl's life to make a door. All of them gone into the same blank, and I am the one who put *Stop* into the air that ate them.
+I cannot stop looking at the place where they were. My best friend. The girl who kept counts honest. The man who spent a girl's life to make a door. The major who named him out loud. All of them gone into the same blank, and I am the one who put _Stop_ into the air that ate them.
