@@ -28,11 +28,11 @@ Do not write full bios here. Each entry needs only:
 
 | ID | Name | File | Philosophy | Fool vector | Status |
 |---|---|---|---|---|---|
-| M01 | Harlequin Akihiko | [harlequin-akihiko.md](harlequin-akihiko.md) | Roles themselves are the enemy | — (camera rarely) | introduced (Ch 1) |
-| M02 | Renji Arata | [sir-renji.md](sir-renji.md) | Order protects; rules restrain humans | Criminal → madman → necessary equal? | introduced (Ch 1) |
-| M03 | Emperor Seiryu | [emperor-seiryu.md](emperor-seiryu.md) | Control creates peace | Greatest threat (exposes imperfect system) | named |
-| M04 | Princess Ayame | [princess-ayame.md](princess-ayame.md) | Information controls reality | Sees the performance; arrest or follow? | named |
-| M05 | Inquisitor Kuro | [inquisitor-kuro.md](inquisitor-kuro.md) | Chaos = suffering; unpredictability must die | Ultimate ideological enemy | named |
+| M01 | Harlequin Akihiko | [harlequin-akihiko.md](harlequin-akihiko.md) | Roles themselves are the enemy | — (camera rarely; Ch 5 paid) | introduced Ch 1; Academy Ch 4; holding Ch 5 |
+| M02 | Renji Arata | [sir-renji.md](sir-renji.md) | Order protects; rules restrain humans | Criminal → madman → necessary equal? | introduced Ch 1; Academy bind Ch 4; holding Ch 5 |
+| M03 | Emperor Seiryu | [emperor-seiryu.md](emperor-seiryu.md) | Control creates peace | Greatest threat (exposes imperfect system) | introduced Ch 3 (court; Ayame warning) |
+| M04 | Princess Ayame | [princess-ayame.md](princess-ayame.md) | Information controls reality | Sees the performance; arrest or follow? | introduced Ch 3 (court + trail); offstage Ch 4–5 |
+| M05 | Inquisitor Kuro | [inquisitor-kuro.md](inquisitor-kuro.md) | Chaos = suffering; unpredictability must die | Ultimate ideological enemy | introduced Ch 6 (POV) |
 
 ---
 
@@ -82,7 +82,7 @@ Kuro sits above this table as leader — not one of the twelve.
 
 | # | Name | Philosophy | Ability | Fool vector | Status |
 |---|---|---|---|---|---|
-| EX01 | Shigure | Silence is kindness to the guilty | Kage — Memory Cut (short blanks at the moment of strike) | Kuro's test target; kill him cleanly, without hate | named |
+| EX01 | Shigure | Silence is kindness to the guilty | Kage — Memory Cut (short blanks at the moment of strike) | Kuro's test target; kill him cleanly, without hate | introduced Ch 6 |
 | EX02 | TBD | | | | empty |
 | EX03 | TBD | | | | empty |
 | EX04 | TBD | | | | empty |
@@ -137,11 +137,11 @@ Target: **20 named minimum** (expand rows as needed).
 | # | Name | Year/Track | Philosophy | Ability | Fool vector | Status |
 |---|---|---|---|---|---|---|
 | AS01 | Sora Hayashi | Y2 · Field Hero | Heroes exist to be understood by the people they save | Shiki — Wind Step | Secret teacher testing the Academy | named |
-| AS02 | Yui Takamura | Y3 · Rank Track | Rank is truth written in public | Kotodama — Measure (binds contests to stated rules) | Cheat mocking the ladder; must be exposed | named |
-| AS03 | Kenji Morita | Y1 · Commoner | Power means nothing if it never reaches the street | Shiki — Stubborn Frame | Fraud… until he saves someone Kenji loves | named |
+| AS02 | Yui Takamura | Y3 · Rank Track | Rank is truth written in public | Kotodama — Measure (binds contests to stated rules) | Cheat mocking the ladder; must be exposed | introduced Ch 4 |
+| AS03 | Kenji Morita | Y1 · Commoner | Power means nothing if it never reaches the street | Shiki — Stubborn Frame | Fraud… until he saves someone Kenji loves | introduced Ch 4 (POV) |
 | AS04 | Rina Kagetsu | Y3 · Noble Track | Bloodline is a debt, not a crown | Kage — Soft Veil (crowd attention slides off her) | Rival-house weapon wearing a smile | named |
-| AS05 | Daichi Orochi | Y2 · Combat | Hierarchy is mercy; chaos is selfishness | Shiki — Crush Grip; Resonance seed: Burden | Weak for laughing; prove the order with fists | named |
-| AS06 | Mei Suzume | Y2 · Support | Healing that ignores the wound's cause is theater | Kotodama — Mend / Quiet | Lonely man pretending; try to help him | named |
+| AS05 | Daichi Orochi | Y2 · Combat | Hierarchy is mercy; chaos is selfishness | Shiki — Crush Grip; Resonance seed: Burden | Weak for laughing; prove the order with fists | introduced Ch 4 |
+| AS06 | Mei Suzume | Y2 · Support | Healing that ignores the wound's cause is theater | Kotodama — Mend / Quiet | Lonely man pretending; try to help him | introduced Ch 4 |
 | AS07 | TBD | | | | | empty |
 | AS08 | TBD | | | | | empty |
 | AS09 | TBD | | | | | empty |
@@ -214,9 +214,9 @@ Only promote to `recurring` if they survive more than one arc with a Fool vector
 
 | # | Name | Role | Philosophy | Ability | Fool vector | Status |
 |---|---|---|---|---|---|---|
-| SC01 | Old Tetsu | Academy groundskeeper | Walls remember better than students | None (knows locks, roofs, schedules) | Pest who somehow knows where the keys live | named |
+| SC01 | Old Tetsu | Academy groundskeeper | Walls remember better than students | None (knows locks, roofs, schedules) | Pest who somehow knows where the keys live | introduced Ch 4 |
 | SC02 | Isamu | Street vendor (bells & gossip) | People pay for stories, not truth | None | Traveling actor; good for business either way | named |
-| SC03 | Captain Mori | Capital city watch | Laws are doors with hinges — oil them or they scream | Weak Shiki | Arrest for paperwork; the joke is the paperwork | named |
+| SC03 | Captain Mori | Capital city watch | Laws are doors with hinges — oil them or they scream | Weak Shiki | Arrest for paperwork; the joke is the paperwork | introduced Ch 3 |
 | SC04 | Archivist Nao | Academy / royal librarian | Unfiled knowledge is a crime against tomorrow | Minor Kotodama — Index (names stick when spoken to ledgers) | Uncatalogued anomaly walking the stacks | named |
 | SC05 | Priestess Emi | Outer Chapel (Holy Dominion fringe) | Fear of god is cheaper than love of god | Minor Kotodama — Prayer Bind | Bad omen; half believes her own sermon | named |
 | SC06 | TBD | | | | | empty |
@@ -278,13 +278,13 @@ Not full tables yet — spin out when an arc needs them:
 
 | Group | Target | Filled (named+) |
 |---|---|---|
-| Main cast | 5 | 5 (M01–M02 introduced Ch 1; M03–M05 named) |
+| Main cast | 5 | 5 (M01–M05 introduced through Ch 6) |
 | Hero Commanders | 12 | 1 (HC01 cited Ch 1) |
 | Saints | 7 | 1 (ST01) |
 | Executioners | 12 | 1 (EX01) |
 | Demon Lords | 4 | 0 |
 | Demon Generals | 8 | 0 |
-| Academy Students | 20+ | 6 (AS01–AS06) |
+| Academy Students | 20+ | 6 (AS02/03/05/06 on-page Ch 4; AS01/04 named) |
 | Guild Leaders | 15 | 0 |
 | Royal Families | 10 | 1 (Akatsuki) |
-| Side characters | 30+ | 5 (SC01–SC05) |
+| Side characters | 30+ | 5 (SC01 Tetsu Ch 4; SC03 Mori Ch 3; SC02/SC04–SC05 named) |

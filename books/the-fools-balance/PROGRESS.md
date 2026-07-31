@@ -68,9 +68,17 @@ Locked cores (see `lore/characters/`):
 
 [x] Chapter 3 draft — Shape of a Villain (`chapters/chapter-03.md`) — pending accept
 
+[x] Chapter 4 draft — The Hero Academy Incident (`chapters/chapter-04.md`) — pending accept
+
+[x] Chapter 5 draft — The Bell (`chapters/chapter-05.md`) — pending accept
+
+[x] Chapter 6 draft — The First Inquisitor (`chapters/chapter-06.md`) — pending accept
+
+[x] Chapter 7 draft — The Fool's Crime (`chapters/chapter-07.md`) — pending accept
+
 [ ] Remaining chapter drafts
 
-[x] PDF export script + test build (`scripts/export_pdf.py` → `export/Fools-Balance-Volume-1.pdf`) — rebuilt after Ch 2 polish
+[x] PDF export script + test build (`scripts/export_pdf.py` → `export/Fools-Balance-Volume-1.pdf`) — rebuild after next accept batch
 
 
 ---
@@ -90,28 +98,28 @@ Locked cores (see `lore/characters/`):
 
 ---
 
-# Tracking (after Ch 2 accept)
+# Tracking (synced through Ch 7 draft)
 
-[x] `tracking/canon.md`
+[x] `tracking/canon.md` — through Ch 7 (Homura decree vs demon-hold truth)
 
-[x] `tracking/continuity.md`
+[x] `tracking/continuity.md` — Ch 1–7 + locations after Ch 7
 
-[x] `tracking/foreshadowing.md`
+[x] `tracking/foreshadowing.md` — plants through Ch 7
 
-[x] `tracking/unresolved-threads.md`
+[x] `tracking/unresolved-threads.md` — Homura rewrite; unfinished demon hold
 
-[x] `tracking/character-arcs.md`
+[x] `tracking/character-arcs.md` — Renji ugly-report vow; Ayame lie-holding
 
-[x] `tracking/chapter-status.md`
+[x] `tracking/chapter-status.md` — drafts 1–7; outline Ch 8
 
-[x] Roster statuses (M01/M02 introduced Ch 1–2; HC01 cited)
+[x] Roster unchanged majors; Old Den / Homura survivors introduced
 
 
 ---
 
 # Current Goal
 
-Draft Chapter 3 (Princess Ayame / royal court).
+Draft Chapter 8 (The Impossible Choice / Ayame).
 
 Volume goal remains: Complete Volume 1.
 

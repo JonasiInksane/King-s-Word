@@ -101,6 +101,8 @@ He was studying him.
 # Chapter 3
 # Shape of a Villain
 
+**Status:** Drafted (`chapters/chapter-03.md`) — pending accept
+
 POV:
 
 Princess Ayame
@@ -159,9 +161,11 @@ Hook: Recovered from what?
 # Chapter 4
 # The Hero Academy Incident
 
+**Status:** Drafted (`chapters/chapter-04.md`) — pending accept
+
 POV:
 
-Student
+Kenji Morita (Y1 commoner)
 
 ---
 
@@ -188,11 +192,15 @@ Everyone thinks it was luck.
 # Chapter 5
 # The Bell
 
+**Status:** Drafted (`chapters/chapter-05.md`) — pending accept
+
 POV:
 
-The Fool
+The Fool (Harlequin Akihiko)
 
 (first rare POV)
+
+Hook line used: “If I stop joking, I have to remember why I started.” (outline’s “terrible stage” bumper skipped — quote ration)
 
 ---
 
@@ -223,28 +231,36 @@ Someone has to laugh."
 # Chapter 6
 # The First Inquisitor
 
+**Status:** Drafted (`chapters/chapter-06.md`) — pending accept
+
 POV:
 
-Kuro
+Kuro (with Executioner Shigure)
 
 ---
 
-The Church sends an executioner.
+The Church sends an executioner (Shigure) with Inquisitor Kuro.
 
 ---
 
 Kuro expects a monster.
 
-Finds a man feeding children.
+Finds a man feeding children (Command service court).
 
 ---
 
+Jurisdiction clash (Renji/Ayame vs Church). Judgment Rei interrogation. Execution postponed.
+
 Confusion begins.
+
+Hook: kindness breaks Kuro’s innocence model.
 
 ---
 
 # Chapter 7
 # The Fool's Crime
+
+**Status:** Drafted (`chapters/chapter-07.md`) — pending accept (~2750 words)
 
 POV:
 
@@ -254,17 +270,21 @@ Renji
 
 The kingdom announces:
 
-The Fool destroyed a city.
+The Fool destroyed Homura (river city).
 
 ---
 
-Renji investigates.
+Renji investigates (refugee row; Old Den).
 
 Truth:
 
-The city was controlled by demons.
+The city was controlled by demons (agreement / nailed smiles).
 
 The destruction saved thousands.
+
+Fight: remnant possession; Renji cuts seam; Fool’s bell helps.
+
+Hook: Renji files ugly truth against public decree; Homura “still unfinished.”
 
 ---
 

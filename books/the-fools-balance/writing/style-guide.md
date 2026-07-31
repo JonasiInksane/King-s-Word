@@ -64,6 +64,8 @@ The Fool creates comedy.
 
 The world creates drama.
 
+**Fool quote ration:** max 1–2 bumper-sticker lines per chapter. Most of his dialogue should be flat/distracted (hunger, naps, wrong answers), not a highlight reel.
+
 ---
 
 # Action
