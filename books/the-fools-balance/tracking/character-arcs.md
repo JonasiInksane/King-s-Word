@@ -42,7 +42,7 @@ First wrong reading: madman → possible precision → cannot decide criminal / 
 
 Ch 2 beat
 
-Loses the fight before it began (study, not dodge). Almost Domain — chooses civilians over pride. Small win: discipline (Akihiko’s smile arrives late; expected pride, not restraint; refuses distraction). Concludes Akihiko knows *him*; suspects the wait was for Renji. Will pursue toward capital without clean classification.
+Loses the fight before it began (study, not dodge). Almost Axiom — chooses civilians over pride. Small win: discipline (Akihiko’s smile arrives late; expected pride, not restraint; refuses distraction). Concludes Akihiko knows *him*; suspects the wait was for Renji. Will pursue toward capital without clean classification.
 
 Middle
 

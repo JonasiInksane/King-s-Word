@@ -26,18 +26,20 @@ Payoff: Early arcs (attacker identity); deeper cause later
 
 ## What is “the door” everyone agreed not to look for?
 
-Status: Open  
+Status: Open (writer-truth locked in `lore/mysteries.md` Mystery 010 — **not on-page**)  
 Introduced: Ch 1  
 Clues: Akihiko came because it was left open; gate treated as rude for still being closed  
-Payoff: Mid Vol 1+
+Writer: quiet Imperial/Church seal over Ashvale Balance wound; attack “left it open”; wooden gate ≠ the door  
+Payoff: Mid Vol 1+ (scheduled; README forbids early explain)
 
 ---
 
 ## What did Akihiko do to the gate?
 
-Status: Open  
+Status: Open (writer-truth locked Mystery 010 — **not on-page**)  
 Introduced: Ch 1  
 Clues: Not a shatter; barrier-idea fails; Renji’s Rei catches nothing; hinge-height memory blurs  
+Writer: Infringement unmakes the *lie of closure* (gate still “closed” after village already failed); Renji misfiles as vandalism  
 Payoff: Magic / philosophy reveal arcs — do not explain early
 
 ---
@@ -64,7 +66,7 @@ Payoff: Renji arc middle
 
 Status: Open  
 Introduced: Ch 2  
-Clues: Hip dip; Domain intent; Renji concludes knowledge of *him*, not proven prophecy; Akihiko offers luck/shoulders/menus as cover  
+Clues: Hip dip; Axiom intent; Renji concludes knowledge of *him*, not proven prophecy; Akihiko offers luck/shoulders/menus as cover  
 Payoff: Mid series — keep ability/luck/insanity arguments alive
 
 ---

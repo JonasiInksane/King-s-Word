@@ -18,7 +18,7 @@ Do not write full bios here. Each entry needs only:
 
 - World: Akaritsu · Kingdom: Akatsuki · Fool: Harlequin Akihiko
 - Emperor Seiryu · Princess Ayame · Inquisitor Kuro
-- Magic: Rei (Shiki / Kotodama / Kage) · Domains · Resonance
+- Magic: Rei (Shiki / Kotodama / Kage) · Axioms · Resonance
 
 **Wave rule:** Never introduce a full set on-page until that institution matters. Fill slots as arcs need them.
 
@@ -63,7 +63,7 @@ Empire's strongest holy warriors (Holy Dominion). Overview seed: **Seven Saints*
 
 | # | Name | Philosophy | Ability | Fool vector | Status |
 |---|---|---|---|---|---|
-| ST01 | Hikari Nozomi | Mercy that never punishes becomes cruelty | Kotodama — Still / Bind; Domain seed: Sanctum (lies thin inside her light) | Blasphemous jester; convert or cleanse | named |
+| ST01 | Hikari Nozomi | Mercy that never punishes becomes cruelty | Kotodama — Still / Bind; Axiom seed: Sanctum (lies thin inside her light) | Blasphemous jester; convert or cleanse | named |
 | ST02 | TBD | | | | empty |
 | ST03 | TBD | | | | empty |
 | ST04 | TBD | | | | empty |

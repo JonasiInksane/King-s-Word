@@ -38,13 +38,11 @@ Lightning Rei.
 
 Master swordsman.
 
-Domain
+Axiom
 
 Absolute Duel
 
-Inside his Domain
-
-Only one-on-one combat exists.
+A binding vow, not a sealed arena. Marks Renji and one opponent as duelists until yield, defeat, or death. They must answer each other; neither can turn body or Rei to a third task (including protecting bystanders). Outside world remains. No sure-hit.
 
 ---
 

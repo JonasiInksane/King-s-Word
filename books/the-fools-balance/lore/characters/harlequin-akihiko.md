@@ -40,9 +40,8 @@ Akihiko looks less like a warrior and more like someone who escaped from a trave
 His most recognizable features:
 
 - Messy white hair that never seems properly maintained.
-- Golden eyes that appear amused even during battle.
-- A constant smile that makes people uncomfortable.
-- A cracked white theatrical mask hanging from his belt.
+- A cracked white theatrical mask **always worn** — he does not show his face; painted smile fixed (or shifts in ways witnesses argue about later).
+- Golden eyes visible only through the eye holes; amused even during battle.
 - A long black coat covered in repaired tears and patches.
 - A faded red scarf.
 - A small silver bell attached near his waist.
@@ -203,15 +202,15 @@ The truth is hidden.
 
 ---
 
-# The Fool's Domain
+# The Fool's Axiom
 
 Unknown.
 
-Every high-level fighter possesses a Domain.
+Every high-level fighter can open an Axiom.
 
-A manifestation of their absolute principle.
+A binding: their absolute principle forced into temporary law on the marked — not a sealed pocket arena.
 
-Akihiko's Domain has never been confirmed.
+Akihiko's Axiom has never been confirmed.
 
 Those who claim to have seen it tell impossible stories.
 

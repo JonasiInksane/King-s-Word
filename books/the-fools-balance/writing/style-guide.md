@@ -17,9 +17,18 @@ Primary
 - Re:Zero
 - Hunter x Hunter
 - One Piece
-- Jujutsu Kaisen
 - Chainsaw Man
 - Frieren
+
+(Do **not** borrow Jujutsu Kaisen terminology — especially *Domain* / Domain Expansion.)
+
+---
+
+# Power Terms
+
+Masters open an **Axiom** — a binding (philosophy forced into temporary law on the marked). Not a private arena. Renji's named Axiom: **Absolute Duel** (duelists locked; cannot turn to third tasks; world stays).
+
+**Banned:** Domain, Domain Expansion, sure-hit, barrier dome, private universe / pocket dimension feel.
 
 ---
 

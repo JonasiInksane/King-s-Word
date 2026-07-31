@@ -10,7 +10,7 @@ Behind him, Ashvale still breathed wrong. Survivors huddled near the trough—th
 
 Akihiko stopped because Renji’s sword asked him to, not because the words did.
 
-He turned. The cracked mask hung from his belt. The silver bell chimed once, cheerful as a festival no one had invited.
+He turned. The cracked white mask still covered his face—painted smile, golden eyes in the holes, crack unchanged. The silver bell chimed once, cheerful as a festival no one had invited.
 
 For a moment he said nothing. He only looked at Renji the way a bored audience looks at an actor who has forgotten his entrance.
 
@@ -44,9 +44,9 @@ Renji felt the old instinct rise—the same cold seize that had betrayed him in 
 
 Ash drifted between them.
 
-Akihiko’s smile did not arrive at once. That was worse. For two heartbeats his face was only golden eyes and the ruin reflected in them, and Renji understood—without understanding why—that something in this man found the challenge less funny than the world expected.
+The painted smile stayed put. That was worse. For two heartbeats only the golden eyes moved—ruin reflected in them—and Renji understood, without understanding why, that something behind the mask found the challenge less funny than the world expected.
 
-Then the smile came back, small and wrong.
+Then the eyes warmed again, small and wrong, as if the joke had finally caught up.
 
 “I don’t want to fight you,” Akihiko said.
 
@@ -62,17 +62,19 @@ Renji moved.
 
 ---
 
-The first cut was doctrine: disable the shoulder, end the joke, bind the wrists. Shiki drove his legs. Lightning sharpened the edge’s intent. The air cracked.
+This time he cut the road behind Akihiko first, a silver-blue fence of intent, then stepped in on the rebound for the wrists. Shiki burned clean. Lightning cracked the air twice: once for the path, once for the man.
 
-Akihiko leaned—not away, *aside*, as if Renji had announced the angle in writing. The blade kissed coat-thread and nothing else. Renji flowed into the second line without pride or pause: wrist, then knee, then the flat of the blade toward the collarbone—
+Akihiko was somehow already inside the fence. Coat brushed Renji’s elbow. The bell chimed against the breastplate like a polite knock.
 
-Akihiko’s boot caught a loose roof tile. He stumbled, arms windmilling, and fell into Renji’s third cut so completely that Renji had to abort mid-strike or take the man’s throat by accident.
+“Recycled homework,” Akihiko said. “I wrote notes.”
+
+Renji reversed—pommel toward the mask, then knee for the thigh, short range where long steel turned awkward. Akihiko’s boot found a loose roof tile mid-turn. He stumbled, arms windmilling, and fell _into_ the knee so completely that Renji had to abort or break a man’s leg in front of children.
 
 The abort cost balance. Cost breath. Cost the clean story of the exchange.
 
 Akihiko sat in the ash, blinked twice, and held up a finger.
 
-“See?” he said. “I told you. Homework. I failed already. Very educational.”
+“See?” he said. “New homework. Also failed. I’m consistent. It’s a gift.”
 
 “Get up.”
 
@@ -92,11 +94,11 @@ He stood. Dusted his coat. The bell chimed.
 
 Renji attacked again.
 
-This time he varied the pattern—high feint into low sweep, lightning cracking a false line while his body committed to the true one. Academy instructors called it *breaking habit*. Renji had broken other men’s habits with it for years.
+This time he varied the pattern—high feint into low sweep, lightning cracking a false line while his body committed to the true one. Academy instructors called it _breaking habit_. Renji had broken other men’s habits with it for years.
 
 Akihiko stepped into the false line.
 
-Not the true one. The false one—the one Renji had offered as bait. Their shoulders nearly collided. Renji’s true cut swung through empty evening. Akihiko’s forehead nearly bumped his chin again, close enough that Renji smelled ash and sugar on his breath.
+Not the true one. The false one—the bait Renji had spent years teaching other men to take. Renji’s true cut chewed empty evening. Akihiko’s shoulder tapped his, light as a reminder, and the mask tipped up under Renji’s chin—close enough that Renji smelled ash and sugar through the porcelain.
 
 “You’re very consistent,” Akihiko said, as if complimenting a soup. “It’s cute. Like a clock. Clocks are honest. Clocks also get smashed when people hate mornings.”
 
@@ -106,7 +108,7 @@ Renji shoved him back with a gauntleted palm. Akihiko stumbled—or performed st
 
 “Then stop being amusing.”
 
-Renji’s next sequence was faster. Shiki burned clean through muscle. Sparks leapt from steel. He drove Akihiko toward the open road, away from the trough, away from soft bodies and soft mistakes. That was the second storyline pulling at him even as the first demanded bloodless victory: *protect the living, then bind the impossible.* Hoshikawa would want a report. The capital would want a classification. Ashvale would become a file with a number, and Renji already hated the number he could not yet write.
+Renji’s next sequence was faster. Shiki burned clean through muscle. Sparks leapt from steel. He drove Akihiko toward the open road, away from the trough, away from soft bodies and soft mistakes. That was the second storyline pulling at him even as the first demanded bloodless victory: _protect the living, then bind the impossible._ Hoshikawa would want a report. The capital would want a classification. Ashvale would become a file with a number, and Renji already hated the number he could not yet write.
 
 Akihiko let himself be herded.
 
@@ -128,7 +130,7 @@ He threw one half at Renji’s face.
 
 Renji slanted his head. The wood passed. In that half-breath of correction—the exact habit Renji used when debris came high—Akihiko stepped through the space Renji’s blade had left behind and tapped Renji’s breastplate with the other half, gentle as knocking on a door.
 
-*Tok.*
+_Tok._
 
 “Hello,” Akihiko said. “Anybody home?”
 
@@ -148,7 +150,7 @@ Renji froze for a fraction of a second he would deny later.
 
 His left hip did dip. An old instructor had flagged it once, years ago. Renji had sanded the habit down until even sparring partners missed it.
 
-Akihiko said it like weather.
+He said it casually. No triumph. As if naming the habit cost him nothing.
 
 ---
 
@@ -160,13 +162,13 @@ Akihiko’s hand was somehow already under the pommel, guiding it past his ear a
 
 “Careful,” Akihiko said. “You almost hit me. That would be awkward for your report. ‘Subject bruised. Hero embarrassed. Stick deceased.’”
 
-“Be silent.”
+“Stop talking.”
 
 “Make me.”
 
 Renji did not take the bait into rage. Rage was a civilian luxury. He took it into precision.
 
-Three exchanges. Five. Eight. Every clean line Renji owned became a conversation Akihiko had already finished. Not faster—Renji could swear that much. Not stronger. Just… early. As if Renji’s choices arrived a breath after Akihiko had already filed them.
+Three exchanges. Five. Eight. Every clean line Renji owned became a conversation Akihiko had already finished. Not faster—Renji could swear that much. Not stronger. Just… early. As if Renji’s choices arrived a breath after Akihiko had already seen them.
 
 Or as if Renji was simply predictable, and the ash was laughing with him.
 
@@ -182,23 +184,23 @@ Renji angled another sequence to keep their bodies out of his wake. The choice c
 
 Renji’s Rei climbed toward a threshold he had sworn not to cross here.
 
-Domain.
+Axiom.
 
 Absolute Duel.
 
-Inside it, the world narrowed to one opponent. No crowd. No trough. No boy. No Ashvale. Only the fight Renji understood—rules so pure they became a cage for anything that refused to be classified.
+A vow. Open it, and lightning would mark two people—Renji and whoever he chose—and until one yielded, fell, or died, both would be duelists only. Blade to blade. Answer for answer. No turning aside to catch a falling beam. No breaking off to drag a child from the trough. The village would still be there. He simply would not be allowed to reach it.
 
-Hoshikawa’s line flickered in his mind: *Do not escalate without cause.*
+Hoshikawa’s line flickered in his mind: _Do not escalate without cause._
 
-Cause stood in front of him wearing a smile and a bell.
+Cause stood in front of him wearing a mask and a bell.
 
 Cause also sat behind him with scraped knuckles.
 
-If Renji opened Absolute Duel in a ruin full of survivors, he did not know what the Domain would do to the soft edges of the village—whether it would erase them from the fight, or erase them from *mattering*. He had never tested it around civilians. Heroes who tested Domains around civilians became cautionary stories with blacked-out names.
+If Renji opened Absolute Duel here, a scream from the trough would become a sound he could hear and do nothing about. He had never tested the vow with civilians in arm’s reach. Heroes who had—who locked themselves to a single throat while the street burned—became cautionary stories with blacked-out names.
 
 Renji’s grip whitened on the hilt.
 
-Lightning crawled to his elbow, hungry for the shape of a world with only one enemy.
+Lightning crawled to his elbow, hungry for a clean opponent and a cleaner ending.
 
 Akihiko watched the light gather. His eyes tracked Renji’s Rei the way a cook tracks a pot about to boil over—interested, not afraid.
 
@@ -224,35 +226,35 @@ Renji hated that.
 
 He hated more that Akihiko seemed surprised by his own glance, as if the insight had tripped over him rather than been aimed.
 
-Slowly—discipline over pride—Renji throttled the Domain back down. Lightning sank into the blade alone. The air stopped trembling toward a private universe.
+Slowly—discipline over pride—Renji throttled the Axiom back down. Lightning sank into the blade alone. The air stopped trembling toward a private universe.
 
-For the first time since Renji had entered Ashvale, Akihiko’s smile arrived late.
+For the first time since Renji had entered Ashvale, the warmth behind the mask arrived late.
 
 He had expected a prideful Hero. A predictable swordsman. Someone who would choose the clean win and let the world tidy itself afterward.
 
-He had not expected this: Renji’s jaw locked, eyes clear, Domain dying by choice while the insult of *cheating* still hung in the air unanswered.
+He had not expected this: Renji’s jaw locked, eyes clear, Axiom dying by choice while the insult of _cheating_ still hung in the air unanswered.
 
 “…Huh,” Akihiko said, quieter. Then, recovering with both hands waving: “Good—no. Not good boy. Sorry. Dog thing. You’re not a dog. Dogs sit faster. You’re… a very stabby librarian.”
 
 Renji did not smile. Did not flinch. Did not give the joke the courtesy of disgust. His eyes stayed on Akihiko’s hands, his weight, the open road—work, not theater.
 
-Akihiko’s smile, when it finally finished arriving, was thinner at the edges.
+When the Fool’s cheer finally caught up, it lived in the voice and the eyes alone. The porcelain smile had never left.
 
 “You know,” he said, almost curious, “most people laugh by now. Or shout. Or try to impress me with the shiny thing anyway. Pride is loud.”
 
 “Most people are easier to distract,” Renji said.
 
-Akihiko looked genuinely surprised—as if he had reached for a door marked *Hero* and found discipline bolted from the inside.
+Akihiko looked genuinely surprised—as if he had reached for a door marked _Hero_ and found discipline bolted from the inside.
 
 “Rude,” he said. “Accurate. Worst combination.”
 
-Renji exhaled through his teeth and attacked anyway—not with Domain, with everything else he was allowed to be.
+Renji exhaled through his teeth and attacked anyway—not with an Axiom, with everything else he was allowed to be.
 
 ---
 
 The last sequence was the best Renji had thrown since the Academy finals.
 
-No wasted motion. No hip dip. Feints that weren’t bait so much as weather—pressure from every angle until a man’s choices collapsed into one. Lightning Rei stitched the cuts together into a single argument: *you are contained.*
+No wasted motion. No hip dip. Feints that weren’t bait so much as weather—pressure from every angle until a man’s choices collapsed into one. Lightning Rei stitched the cuts together into a single argument: _you are contained._
 
 Akihiko walked through it.
 
@@ -268,11 +270,11 @@ He had been performing.
 
 “You…” Renji’s voice came out low. “You know me.”
 
-Not *the future*. Not prophecy. Something worse—closer. The hip. The Domain. The way Renji protected the trough before he protected his pride. As if Akihiko had been reading a man, not a moment.
+Not _the future_. Not prophecy. Something worse—closer. The hip. The Axiom. The way Renji protected the trough before he protected his pride. As if Akihiko had been reading a man, not a moment.
 
 Akihiko blinked. “Do I? What’s your favorite color? Wait—don’t tell me. It’s ‘responsibility.’ Very fashionable this season.”
 
-“The feint,” Renji said. “The knee. When I almost—” He cut the word Domain off like a confession. “That is not luck alone.”
+“The feint,” Renji said. “The knee. When I almost—” He cut the word Axiom off like a confession. “That is not luck alone.”
 
 “Oh. That.” Akihiko scratched his cheek with one finger, leaving a soot comma. “I don’t know. Maybe. Or you talk with your shoulders. Or I’m lucky. Or you’re very organized, and organized people are easy to read, like menus. Or—” He brightened. “—I made it all up and you’re complimenting me by accident. That happens. I’m magnetic.”
 
@@ -290,11 +292,11 @@ Not like an opponent hunting weakness.
 
 Like someone checking whether a door was actually locked.
 
-Renji’s stomach turned. The survivors’ whispers sounded suddenly far away. The open road looked like a mouth. Somewhere in the capital, Hoshikawa would open a report that began with *Identify* and ended with a word Renji did not yet have permission to write.
+Renji’s stomach turned. The survivors’ whispers sounded suddenly far away. The open road looked like a mouth. Somewhere in the capital, Hoshikawa would open a report that began with _Identify_ and ended with a word Renji did not yet have permission to write.
 
 “Why?” Renji asked.
 
-Akihiko stepped back from the point of the blade as if from a flower with thorns. He glanced once at the place where the gate had been—Renji’s memory stuttered on hinge height again, a toothache in the mind—and then smiled his ordinary, unbearable smile.
+Akihiko stepped back from the point of the blade as if from a flower with thorns. He glanced once at the place where the gate had been—Renji’s memory stuttered on hinge height again, a toothache in the mind—and tipped that ordinary, unbearable painted smile toward Renji again.
 
 “Because you’re a hero,” Akihiko said. “And I was worried nobody would come.”
 
@@ -312,11 +314,11 @@ He turned toward the open road as if the duel had been a door he had finished ex
 
 Renji’s sword rose. “I did not dismiss you.”
 
-“I know.” Akihiko looked back over his shoulder. Golden eyes; cracked mask on the belt; bell quiet for once. “That’s why this next part matters.”
+“I know.” Akihiko looked back over his shoulder. Golden eyes in the cracked mask; bell quiet for once. “That’s why this next part matters.”
 
 “What next part?”
 
-Akihiko’s smile tilted—idiot first, knife second.
+The mask tipped—idiot first, knife second.
 
 “The part where you decide whether you’re chasing me…”
 
@@ -331,12 +333,6 @@ It sang once across the ruin, bright and stupid and impossible to classify.
 Then he stepped onto the road—not running, not surrendering—and did not look back to see if Renji would follow.
 
 Renji stood in Ashvale’s wound with lightning dying on his blade and the taste of a fight he had lost before the first cut.
-
-The road ahead was open.
-
-Akihiko had not fled.
-
-He had not surrendered.
 
 And for the first time since entering Ashvale, Renji understood the thing that disturbed him most.
 

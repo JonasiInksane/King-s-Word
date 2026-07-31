@@ -1,195 +1,454 @@
 # The Fool's Balance
+## AI Writing & Canon Guide
 
-## Type
+# 1. Purpose
 
-Anime-inspired fantasy web novel.
+This repository contains the complete manuscript, lore, planning, and canon for the light novel/web novel **The Fool's Balance**.
 
-## Genre
+Your job is **not** to invent the story.
 
-Fantasy Action  
-Supernatural  
-Psychological Comedy  
-Political Fantasy  
+Your job is to faithfully execute the existing outline while improving prose, pacing, characterization, and emotional impact.
+
+Consistency is more important than originality.
+
+---
+
+# 2. Reading Order (Mandatory)
+
+Before writing ANY chapter, read in this order.
+
+1. README.md
+2. writing/prompt.md
+3. Relevant chapter outline
+4. Previous completed chapter
+5. Character files
+6. World lore
+7. Continuity tracker
+8. Foreshadow tracker
+
+Never skip steps.
+
+---
+
+# 3. Canon Hierarchy
+
+When documents disagree:
+
+Scene Outline
+>
+Finished Chapters
+>
+Character Sheets
+>
+Lore Documents
+>
+Planning Notes
+>
+Brainstorms
+
+Finished chapters become canon immediately after approval.
+
+---
+
+# 4. Story Philosophy
+
+The story is NOT about becoming stronger.
+
+It is about:
+
+- Identity
+- Choice
+- Balance
+- Masks
+- Truth
+- Perspective
+- Sacrifice
+- Human nature
+
+Combat exists to expose character.
+
+Every fight changes someone.
+
+---
+
+# 5. Writing Style
+
+Japanese Light Novel.
+
+Not western fantasy.
+
+Priorities:
+
+Character
+↓
+
+Dialogue
+↓
+
+Emotion
+↓
+
 Mystery
+↓
+
+Action
+↓
+
+Worldbuilding
 
 ---
 
-# Premise
+Short paragraphs.
 
-In the Kingdom of Asteria, heroes are not born.
+Natural dialogue.
 
-They are created.
+Internal thoughts stay concise.
 
-The Hero Association decides who is worthy.
-The Church decides what is righteous.
-The Crown decides what is lawful.
+No flowery purple prose.
 
-Together, they maintain the world's greatest illusion:
+No exposition dumps.
 
-That heroes exist to protect people.
-
-Princess Elara Asteria has always believed in that illusion.
-
-Until the day a strange man wearing a broken jester mask enters the Hero Examination.
-
-He fails every test.
-
-He cannot use normal magic.
-He cannot wield a sword.
-He cannot follow instructions.
-
-Everyone laughs.
-
-The examiner names him:
-
-"The Fool."
-
-The weakest hero candidate in history.
-
-But when a disaster beyond human ability appears, The Fool casually destroys it.
-
-Not with strength.
-
-Not with magic.
-
-With something impossible.
-
-He breaks the rules themselves.
-
-His ability is called:
-
-## Infringement
-
-The power to violate the laws that govern reality.
-
-Magic has rules.
-
-Death has rules.
-
-Fate has rules.
-
-The Fool ignores them.
-
-But a question remains:
-
-Why would someone with the power to become a god choose to become a joke?
+Readers should discover the world naturally.
 
 ---
 
-# Main Question
+# 6. POV Rules
 
-The world asks:
+Third Person Limited.
 
-"Why does The Fool refuse to take anything seriously?"
+One POV per scene.
 
-The answer:
+Never head-hop.
 
-"Because he is the only person who understands how serious everything actually is."
+The narration may never know something the POV character doesn't.
 
----
-
-# Main Cast
-
-## Kuroya Renji
-
-Title:
-The Fool
-
-Role:
-Protagonist
-
-Public image:
-A useless clown.
-
-Reality:
-The strongest existence alive.
+Mysteries stay mysterious.
 
 ---
 
-## Princess Elara Asteria
+# 7. Dialogue Rules
 
-Main POV character.
+Every character has a unique voice.
 
-The person who discovers the truth behind The Fool.
+Dialogue must identify the speaker even without dialogue tags.
 
----
+Avoid generic anime dialogue.
 
-## Sir Aldren Valerius
+No Marvel dialogue.
 
-The perfect hero.
-
-Represents order.
+Comedy should emerge naturally from character.
 
 ---
 
-## King Caelum Asteria
+# 8. Akihiko (The Fool)
 
-The ruler trying to preserve civilization.
+Most important character.
+
+Core rule:
+
+Idiot first.
+Insight second.
+
+Never:
+
+• Deliver speeches.
+
+• Sound like a mastermind.
+
+• Explain himself.
+
+Instead:
+
+Makes jokes.
+
+Trips.
+
+Gets distracted.
+
+Talks nonsense.
+
+Then accidentally says something profound.
+
+The profound line should feel like the joke wandered into wisdom.
+
+Readers should constantly ask:
+
+Is he lucky?
+
+Is he insane?
+
+Is he incredibly observant?
+
+Is he hiding something?
+
+Is he actually weak?
+
+Never answer too early.
+
+Never directly confirm his true power.
 
 ---
 
-## Inquisitor Marcus Vey
+# 9. Renji
 
-The Church's executioner.
+Professional Hero.
 
-Believes chaos must be destroyed.
+Disciplined.
 
----
+Honorable.
 
-# Story Format
+Order over emotion.
 
-## Volume Structure
+When he loses,
 
-Each volume explores a different belief.
+he loses certainty,
 
-Volume 1:
-The Fool Who Challenged Heroes
+not competence.
 
-Theme:
-"Are heroes actually good?"
-
-Volume 2:
-The Villain Who Protected Freedom
-
-Theme:
-"Is chaos better than control?"
-
-Volume 3:
-The God Who Feared The Fool
-
-Theme:
-"Should anyone have absolute power?"
+Readers should always respect him.
 
 ---
 
-# POV Structure
+# 10. Mystery Rules
 
-Primary:
+Never explain:
 
-Princess Elara Asteria
+The Door
 
-Secondary:
+Ashvale
 
-- Hero characters
-- Villains
-- Political leaders
+The Gate
 
-Rare:
+The Harlequin
 
 The Fool
 
-The reader should understand him slowly.
+The Balance
+
+Ancient Rei
+
+Future Events
+
+Identity reveals
+
+unless scheduled.
+
+Every answer should create two new questions.
 
 ---
 
-# Core Rule
+# 11. Comedy
 
-Never make The Fool look powerful immediately.
+Comedy belongs almost entirely to Akihiko.
 
-The world must underestimate him first.
+His jokes reduce tension.
 
-The reader should constantly ask:
+Then immediately create different tension.
 
-"Is he actually stupid?"
+The reader should laugh,
 
-Until the answer becomes terrifying.
+then feel uncomfortable.
+
+---
+
+# 12. Action
+
+Action should reveal personality.
+
+Never describe combat just to be cool.
+
+Every exchange should change something.
+
+Fight choreography should be readable.
+
+Avoid endless move descriptions.
+
+---
+
+# 13. Power System
+
+Never overexplain Rei.
+
+Characters understand Rei differently.
+
+Heroes:
+
+scientific.
+
+Church:
+
+religious.
+
+Villagers:
+
+superstitious.
+
+Readers learn through characters.
+
+---
+
+# 14. Foreshadowing
+
+Foreshadow constantly.
+
+Never pay off immediately.
+
+Small details matter.
+
+Objects return.
+
+Dialogue returns.
+
+Images return.
+
+Readers should only notice later.
+
+---
+
+# 15. Emotional Rule
+
+Every chapter needs an emotional center.
+
+Not just plot.
+
+Ask:
+
+Who changes?
+
+What belief cracked?
+
+What question was planted?
+
+---
+
+# 16. Pacing
+
+Every chapter should contain:
+
+Hook
+
+↓
+
+Question
+
+↓
+
+Escalation
+
+↓
+
+Character reveal
+
+↓
+
+Emotional shift
+
+↓
+
+Hook
+
+Even slower chapters should end with momentum.
+
+---
+
+# 17. Arc Structure
+
+Each arc should have:
+
+External conflict
+
+Internal conflict
+
+Philosophical conflict
+
+Character conflict
+
+Mystery progression
+
+Never progress only one.
+
+---
+
+# 18. Worldbuilding
+
+Reveal through:
+
+dialogue
+
+conflict
+
+objects
+
+rituals
+
+rumors
+
+Never encyclopedia paragraphs.
+
+---
+
+# 19. Revision Passes
+
+Pass 1
+
+Draft only.
+
+No tracker updates.
+
+Pass 2
+
+Continuity.
+
+Foreshadowing.
+
+Timeline.
+
+Character consistency.
+
+Pass 3
+
+Rhythm.
+
+Dialogue.
+
+Sentence polish.
+
+---
+
+# 20. After Chapter Approval
+
+Update:
+
+continuity tracker
+
+character arcs
+
+foreshadow tracker
+
+timeline
+
+future callbacks
+
+Canon is now locked.
+
+---
+
+# 21. Absolute Rules
+
+Never break POV.
+
+Never contradict canon.
+
+Never explain mysteries early.
+
+Never make Akihiko omniscient.
+
+Never make Renji incompetent.
+
+Never let comedy destroy tension.
+
+Never introduce powers without consequences.
+
+Never forget previous emotional development.
+
+Every chapter should leave the reader wanting one more.

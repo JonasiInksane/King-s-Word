@@ -66,7 +66,7 @@ Locked cores (see `lore/characters/`):
 
 [x] Chapter 2 draft accepted — The Man Who Lost the Fight Before It Began (`chapters/chapter-02.md`)
 
-[ ] Chapter 3 draft (Ayame)
+[x] Chapter 3 draft — Shape of a Villain (`chapters/chapter-03.md`) — pending accept
 
 [ ] Remaining chapter drafts
 

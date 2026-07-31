@@ -8,7 +8,7 @@ Three different names.
 
 A thief on the east road who stole nothing worth listing—only a merchant’s certainty that the road was safe. A clown who walked into a wedding, clapped when the vows finished, and left before anyone decided whether to laugh or call the watch. A demon, according to a junior Hero’s seal, written in the careful panic of someone who did not want to be wrong in public.
 
-*Demon activity. Unconfirmed. Requesting senior classification.*
+_Demon activity. Unconfirmed. Requesting senior classification._
 
 Same trail. Same direction. Same ridiculous little bell mentioned once in a margin, as if the writer had been embarrassed to ink it.
 
@@ -18,9 +18,9 @@ He folded the third report until the paper creased like a blade and tucked it in
 
 Commander Hoshikawa’s dispatch had been shorter than any of the reports.
 
-*Identify. Contain. Do not escalate without cause.*
+_Identify. Contain. Do not escalate without cause._
 
-Renji rode alone. Silver armor caught the late light in disciplined flashes. His katana rested easy at his hip, Rei coiled under skin the way lightning waited in stormcloud—not eager, not sleeping. He had been a Hero long enough to know eagerness got people killed, and long enough to know sleep got them killed slower.
+Renji rode alone. Silver armor caught the late light in disciplined flashes. His katana rested easy at his hip. Rei—the living current every Hero learned to feel and spend—coiled under his skin the way lightning waited in stormcloud, not eager, not sleeping. He had been a Hero long enough to know eagerness got people killed, and long enough to know sleep got them killed slower.
 
 The road into Ashvale should have smelled of river mud and cooking smoke.
 
@@ -48,7 +48,7 @@ He stepped through the ruined gate.
 
 In the square, amid broken carts and the black ribs of a market stall, a man sat on an overturned crate as if the crate had been placed there for him.
 
-White hair, messy, as if the wind had opinions and he had none. A long black coat patched in places that suggested repair by someone who did not care about matching thread. A faded red scarf. A cracked white theatrical mask hung from his belt; the crack ran from the left eye toward the mouth like a fault line deciding whether to finish the job. At his waist, a small silver bell chimed whenever he shifted his weight.
+White hair, messy, as if the wind had opinions and he had none. A long black coat patched in places that suggested repair by someone who did not care about matching thread. A faded red scarf. A cracked white theatrical mask covered his face completely—the crack ran from the left eye toward the painted mouth like a fault line deciding whether to finish the job. No skin. No chin. Only porcelain and that fixed smile. Through the eye holes, golden eyes watched the square. At his waist, a small silver bell chimed whenever he shifted his weight.
 
 He was laughing.
 
@@ -60,13 +60,13 @@ His second was that madness did not usually wait for an audience.
 
 “You,” Renji said. The word came out clean. Hero-clean. “Stand. Identify yourself.”
 
-The laughing stopped as if cut with a knife. The man’s head tipped. Behind the empty space where a mask would have covered a face—no, the mask was on the belt; his face was bare—golden eyes found Renji with an ease that made Renji’s spine tighten. The smile remained. It looked like it had never left.
+The laughing stopped as if cut with a knife. The man’s head tipped. Behind the mask, golden eyes found Renji with an ease that made Renji’s spine tighten. The painted smile did not move. It looked like it had never needed to.
 
 “Oh,” the man said. “You’re early.”
 
 Renji waited.
 
-The man looked around the destroyed village—slow, almost fond, as if admiring a stage after the actors had fled. Ash drifted past his shoulder. Somewhere a timber settled with a tired crack. His smile did not change.
+The man looked around the destroyed village—slow, almost fond, as if admiring a stage after the actors had fled. Ash drifted past his shoulder. Somewhere a timber settled with a tired crack.
 
 “Good,” he said. “I was starting to get bored.”
 
@@ -88,7 +88,7 @@ Renji stepped closer. Ash gritted under his boots. Close enough to measure dista
 
 “This village was under Imperial protection,” Renji said. “Who did this?”
 
-Akihiko—Renji refused *The Fool* even as his mind filed the title—tilted his head the other way.
+Akihiko tilted his head the other way.
 
 “I don’t know,” he said.
 
@@ -102,7 +102,7 @@ Renji’s patience, trained for courts and battlefields alike, held. Barely. “
 
 “What door?”
 
-Akihiko’s smile widened a fraction—too pleased, too sharp for someone claiming ignorance.
+The mask’s smile seemed to widen a fraction—too pleased, too sharp for someone claiming ignorance. Renji told himself it was a trick of the crack and the light.
 
 “The one everyone agreed not to look for.”
 
@@ -112,7 +112,7 @@ A sound cut across the square—wood screaming, a roof giving up. Renji’s head
 
 Renji moved.
 
-Lightning Rei woke along his legs, Shiki sharpening muscle and tendon into something that made distance negotiable. He crossed the square in a blur of silver and blue spark, boots finding purchase on broken stone. The house’s front beam was failing. Inside, through the smoke-hole of a doorframe, he saw them: a woman pinned under a fallen joist, a boy no older than seven clawing at the wood with hands too small for the work, and behind them a secondary collapse starting—ceiling boards peeling like scabs.
+Lightning Rei woke along his legs. Shiki—the body craft, Rei forced into muscle and tendon—sharpened him into something that made distance negotiable. He crossed the square in a blur of silver and blue spark, boots finding purchase on broken stone. The house’s front beam was failing. Inside, through the smoke-hole of a doorframe, he saw them: a woman pinned under a fallen joist, a boy no older than seven clawing at the wood with hands too small for the work, and behind them a secondary collapse starting—ceiling boards peeling like scabs.
 
 Renji’s blade cleared its sheath. He could cut the joist. Cutting the joist might drop the rest. He could brace. Bracing meant time he might not have. He chose the third option Heroes were taught when the world refused clean math: get the living out and let the building finish dying alone.
 
@@ -162,7 +162,7 @@ Lucky.
 
 Or not lucky.
 
-Renji’s training offered a colder word: *precise*.
+Renji’s training offered a colder word: _precise_.
 
 He did not like that word in Akihiko’s mouth. He did not like it in Akihiko’s hands.
 
@@ -176,7 +176,7 @@ Renji turned on him.
 
 “Will I?” Akihiko asked, interested, as if Renji had proposed a game.
 
-Renji leveled his blade. Lightning crawled the steel in thin blue threads—not a Domain, not yet, only promise. “By Imperial authority of Akatsuki, under Hero command, you are detained for questioning regarding the destruction of Ashvale and the endangerment of its people.”
+Renji leveled his blade. Lightning crawled the steel in thin blue threads—enough to warn, not enough to rewrite the fight. “By Imperial authority of Akatsuki, under Hero command, you are detained for questioning regarding the destruction of Ashvale and the endangerment of its people.”
 
 He looked at the sword the way some men looked at weather.
 
@@ -186,7 +186,7 @@ He looked at the sword the way some men looked at weather.
 
 “Ah.” He brightened. “Rules.”
 
-He stepped sideways—not away, around, as if Renji’s stance had a door Renji had forgotten to lock. Renji adjusted. Steel followed. Akihiko raised both empty hands.
+He stepped off the line of the blade—left, not back—sliding around Renji’s point as if the stance had a gap Renji had forgotten to close. Renji adjusted. Steel followed. Akihiko raised both empty hands.
 
 “I don’t have a weapon,” he said. “Does that make this unfair, or more fair? I can never remember which one Heroes prefer.”
 
@@ -204,7 +204,7 @@ Not struck—or maybe struck by nothing but his own feet. Heels slipping on ash,
 
 —and found his own sheath swinging up into his path. Akihiko had rolled through the fall into a sit with Renji’s empty sheath in both hands. When had he taken it? During the slip. During the laugh. During the half-second Renji’s eyes had tracked steel instead of fingers.
 
-Wood met steel with a stupid, solid *clack*.
+Wood met steel with a stupid, solid _clack_.
 
 Renji’s eyes widened a fraction. He twisted, freed the blade, kicked for the sheath—
 
@@ -240,7 +240,7 @@ That, somehow, was worse.
 
 “What are you?” Renji asked.
 
-Akihiko’s smile tilted. “Hungry, mostly. Also handsome. The second one’s disputed.”
+Akihiko tipped his head; the painted smile tipped with him. “Hungry, mostly. Also handsome. The second one’s disputed. Hard to verify.”
 
 He dug in his coat and held up an empty paper wrapper between two fingers, solemn as a priest presenting evidence. There was nothing left inside but crumbs and a smear of something sticky.
 
@@ -260,7 +260,7 @@ Akihiko’s gaze drifted—not to Renji, not to the survivors, but to the leanin
 
 “I am speaking plainly,” Akihiko said. “You’re just listening in Hero.”
 
-Renji sheathed his sword. The click of steel home sounded like a decision he had not finished making. Containment required a living subject. Escalation without cause violated Hoshikawa’s line. Cause stood all around them in charcoal and silence, and still Renji could not point to this man’s hand and say *there*.
+Renji sheathed his sword. The click of steel home sounded like a decision he had not finished making. Containment required a living subject. Escalation without cause violated Hoshikawa’s line. Cause stood all around them in charcoal and silence, and still Renji could not point to this man’s hand and say _there_.
 
 “You call yourself The Fool,” Renji said.
 
@@ -294,19 +294,17 @@ Renji’s brow furrowed. “What?”
 
 Rei moved.
 
-Renji felt it—not lightning, not any discipline he could file under Shiki or Kotodama or Kage. It felt like a joke told in a language he almost recognized.
+Renji felt it—not lightning, not Shiki in the body, not Kotodama in a spoken seal, not Kage twisting what the eye trusted. None of the three disciplines Heroes were taught to name. Wrong. Familiar only in the way a bad dream is familiar.
 
 The gate did not shatter.
 
-For one impossible heartbeat, Renji had the absurd thought that the gate was embarrassed—caught still pretending to be closed after the village behind it had already failed. Timber blushed with dust. Hinges forgot their argument. The arch did not explode outward in a warrior’s blast; it simply stopped belonging to the idea of a barrier, and the world, polite as a bad host, accepted the correction.
+Timber and hinges gave up their job without a blast. Dust lifted. The arch stopped working as a barrier—no crater, no clean break-lines—and wood and stone settled into the lane as if they had always been rubble there. For a breath it looked like Ashvale had never owned a gate at all.
 
-Wood and stone settled into the lane as if they had always been rubble there. No clean break-lines. No heroic crater. Only an opening that looked older than the wall, as if Ashvale had never bothered with a gate at all.
+Survivors cried out anyway—not from flying spars, but from a landmark vanishing while their eyes were open. Renji’s Rei flared on instinct and found nothing to catch. His blue veil closed on empty air.
 
-Survivors cried out anyway—not from flying spars, but from the wrongness of a landmark vanishing while their eyes were open. Renji’s Rei flared on instinct and found nothing to catch. His blue veil closed on empty air.
+When the dust thinned, the road lay open. Nothing stood between the ruin and the Empire’s horizon.
 
-When the dust thinned, the entrance to Ashvale was a wound with no lips. The road lay open. Nothing stood between the ruin and the Empire’s horizon.
-
-Akihiko stood in the middle of what had been an arch, coat gray with powder, smiling as if he had opened a window in a stuffy room.
+Akihiko stood in the middle of what had been an arch, coat gray with powder, smiling like a man who had fixed a stuck latch.
 
 Renji’s voice came out low. “Why?”
 
@@ -330,7 +328,7 @@ Renji did not lower his guard. Ash still drifted between them like slow snow. Be
 
 “I am Sir Renji Arata,” Renji said. “Hero of Akatsuki.”
 
-Akihiko’s smile returned—smaller, sharper, almost relieved.
+Behind the mask, something eased—the eyes, not the porcelain. Relieved, almost.
 
 “Good,” he said.
 

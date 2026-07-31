@@ -11,7 +11,7 @@ Every mystery must eventually pay off.
 | Plant | Surface read | Intended payoff (draft target) | Status |
 |---|---|---|---|
 | Silver bell at waist; margin note in reports | Comedy / quirk | Belongs to an ancient Order (target ~Ch 142) | Open |
-| Cracked mask on belt, unused | Costume | Seal / restraint (older note ~Ch 189) — confirm later | Open |
+| Cracked mask always worn; never removes it | Costume / vanity | Seal / restraint; what happens if it comes off (~Ch 189+) | Open |
 | “You’re early” / waiting bored in ruins | Madness | He expected a Hero specifically; invitation pattern | Open |
 | “Someone left the door open” / “everyone agreed not to look for” | Nonsense | Hidden institutional door; Ashvale wound tied to sealed knowledge | Open |
 | Fire that “lost interest” | Weird aftermath | Attacker’s method or Rei signature — not ordinary raid | Open |
@@ -28,7 +28,7 @@ Every mystery must eventually pay off.
 | Plant | Surface read | Intended payoff (draft target) | Status |
 |---|---|---|---|
 | Studying / “checking whether a door was locked” | Insult to Renji’s skill | Fool tests Heroes as doors into the system | Open |
-| Absolute Duel almost opened, then refused | Honor / caution | Domain later vs Fool in safer conditions; cost of order | Open |
+| Absolute Duel almost opened, then refused | Honor / caution | Axiom later vs Fool in safer conditions; cost of order | Open |
 | “Oh, wait. The children” stumble | Clown babble | Fool’s insight arrives late on purpose; readers must not trust clean sermons | Open |
 | Akihiko’s smile arrives late / expected pride | Renji win | Discipline is Renji’s first crack in Fool’s read; relationship not one-way | Open |
 | Left hip telegraph named | Observation | Fool already mapped Renji; later fights exploit or spare it | Open |

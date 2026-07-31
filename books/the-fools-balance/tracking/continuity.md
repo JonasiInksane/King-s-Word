@@ -42,7 +42,7 @@ POV: Sir Renji Arata (immediate continuation)
 - Misses read as habit/luck/reading — not confirmed speed power.
 - Akihiko names Renji’s left-hip telegraph; Renji almost opens Absolute Duel.
 - Akihiko stumbles into civilian concern (“Oh, wait. The children” / bad brochure) — idiot-first.
-- Renji kills Domain by discipline; Akihiko’s smile arrives late (expected prideful Hero, not restraint).
+- Renji kills Axiom by discipline; Akihiko’s smile arrives late (expected prideful Hero, not restraint).
 - Renji wins a second beat: ignores clown bait; “Most people are easier to distract.”
 - Realization: not avoiding — studying (door-lock check). Renji concludes “You know me,” not prophecy.
 - Akihiko toward capital road: chasing vs following.

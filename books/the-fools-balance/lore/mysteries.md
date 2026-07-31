@@ -352,3 +352,44 @@ Final Reveal:
 The Fool is not the first anomaly.
 
 He is the last.
+
+---
+
+# Mystery 010
+# The Ashvale Door (and the Gate)
+
+Status:
+
+OPEN — **writer-only truth locked; do not pay on-page until scheduled** (README §10)
+
+---
+
+## Reader Belief (Ch 1–2)
+
+- “Door” is madman metaphor or a literal vault.
+- Akihiko destroyed / blasted the village gate to escape or intimidate.
+- He may have attacked Ashvale.
+
+---
+
+## Hidden Truth (writer)
+
+**The door** = a quiet seal under Imperial/Church agreement. Ashvale sat on a Balance wound (failed classification / something the system refused to name). Heroes and clergy **agreed not to look**. That is “the door everyone agreed not to look for.”
+
+**“Left open”** = the unknown attack tore that silence. Akihiko came because the wound was already bleeding into the world — not because he destroyed the village (his claim of absence stays contested).
+
+**The wooden gate is not the door.** After the village’s protection already failed, the leaning gate still performing “closed / keep out” is a **lie of closure**. Akihiko’s Infringement corrects that lie — he unmakes the *idea* that a barrier still exists. Not a shatter for drama or escape. Renji’s Rei finds nothing to catch; hinge-height memory blur is a tell.
+
+**Renji’s wrong read (on-page, paid Ch 1):** vandalism / intimidation / madman theater — “he erased a landmark.” He must not correctly infer Balance wound yet.
+
+---
+
+## Clues (live)
+
+Ch 1: “someone left the door open”; “the one everyone agreed not to look for”; “Still closed” / “That’s rude”; gate ceases as barrier without conventional blast; fires that stopped oddly.
+
+---
+
+## Reveal
+
+Mid Vol 1+ for partial shape; deeper Balance wound later. Never dump in Ch 1–2.

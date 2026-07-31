@@ -20,7 +20,7 @@ Chapter 1 ✅ — The Fool Arrives
 
 Chapter 2 ✅ — The Man Who Lost the Fight Before It Began
 
-Chapter 3 🟡 — A Villain Without Evil (Ayame; outline)
+Chapter 3 🔵 — Shape of a Villain (Ayame; draft pending accept)
 
 ...
 

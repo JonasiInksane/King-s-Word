@@ -30,11 +30,11 @@ Power
 
 Dragon Rei.
 
-Domain
+Axiom
 
 Imperial Decree
 
-Reality bends to commands spoken inside his Domain.
+Reality bends to commands spoken inside his Axiom.
 
 ---
 

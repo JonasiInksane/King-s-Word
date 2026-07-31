@@ -66,23 +66,21 @@ Most assassins use Kage.
 
 ---
 
-# Domains
+# Axioms
 
-Masters can manifest a Domain.
+Masters can open an **Axiom**.
 
-Inside it...
-
-their philosophy temporarily becomes reality.
+An Axiom is not a private arena or sealed pocket. It is a **binding**: the fighter's philosophy forced into temporary law on whoever (or whatever) it marks. The street stays the street. Witnesses stay witnesses. The rule changes what the marked are *allowed* to be.
 
 Examples
 
-A swordsman where every strike always reaches.
+- **Absolute Duel** (Renji): marks himself and one opponent. Until yield, defeat, or death, both are locked as duelists — they must answer each other; they cannot turn body or Rei to a third task (flee, shield a bystander, strike the crowd). No sure-hit. No erased background.
+- A saint's Axiom: marked speakers cannot complete a lie.
+- A tyrant's Axiom: marked subjects feel fear as obligation.
 
-A saint where lies cannot be spoken.
+Axioms consume enormous Rei.
 
-A tyrant where everyone feels fear.
-
-Domains consume enormous Rei.
+**Banned (craft / on-page feel):** Domain, Domain Expansion, sure-hit, barrier dome, "private universe," pocket dimension that deletes the outside. If it reads like JJK, rewrite.
 
 ---
 

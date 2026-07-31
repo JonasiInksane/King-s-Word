@@ -99,7 +99,7 @@ He was studying him.
 ---
 
 # Chapter 3
-# A Villain Without Evil
+# Shape of a Villain
 
 POV:
 
@@ -117,11 +117,20 @@ Everyone calls him dangerous.
 
 Scene 2
 
-Ayame investigates records.
+Ayame investigates records (slow; false leads).
 
-Every crime has a hidden victim.
+Trail is morally muddy:
 
-Every victim deserved punishment.
+- Caravan turnaround → deaths on retreat road
+- Sister saved → another family ruined
+
+False leads: bandit match (dead end); Church soft work (unproven); theater “Harlequin” (wrong man); Renji inventing him (dies).
+
+Mori interrupts; warns against making him a saint.
+
+Clerk / shrine: children returned → twelve priests missing.
+
+Intentional vs accidental theories pinned; neither saint nor simple demon.
 
 ---
 
@@ -129,15 +138,21 @@ Scene 3
 
 Ayame asks:
 
-"Is he a villain?"
+"Is he a villain?" / "Is he good?"
+
+Neither word fits.
 
 ---
 
 Ending:
 
-She finds a document.
+Sealed folder (North Wall aftermath) lands *after* dead ends:
 
-"The Fool saved the kingdom 12 years ago."
+*Subject recovered after cessation of hostilities. No memories. Broken white mask.*
+
+Hook: Recovered from what?
+
+(Do NOT pay "saved the kingdom 12 years ago" here — later arc / ~Ch 15 material.)
 
 ---
 
