@@ -24,7 +24,7 @@ Renji folded the proclamation once, clean. “Stay seated.”
 
 Renji opened the door.
 
-Akihiko sat on the bench in the same cracked mask, same patched coat, soft Kotodama seals still sticky-light around his wrists. The painted smile faced Renji as if proclamations were weather.
+Akihiko sat on the bench in the same cracked mask, same patched coat, soft Kotodama seals still sticky-light around his wrists. The painted smile faced Renji as if proclamations were someone else’s errand.
 
 “Homura,” Renji said.
 

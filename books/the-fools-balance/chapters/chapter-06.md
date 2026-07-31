@@ -100,7 +100,7 @@ Felt steamed bun paper. Felt crumbs. Felt three children close enough that any s
 
 The Fool was breaking a bun into smaller pieces and putting them into small hands.
 
-“Chew,” Akihiko told a girl, mild as weather. “If you swallow whole, you’ll invent a new way to die, and I already have too many hobbies.”
+“Chew,” Akihiko told a girl, mild as a bored uncle. “If you swallow whole, you’ll invent a new way to die, and I already have too many hobbies.”
 
 One boy laughed, startled. Another whispered, “He’s weird.”
 

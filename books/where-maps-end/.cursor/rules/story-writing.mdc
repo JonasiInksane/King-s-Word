@@ -1,0 +1,69 @@
+---
+description: Hard craft and continuity rules for Where Maps End.
+globs:
+  - books/where-maps-end/**/*
+alwaysApply: false
+---
+
+# Where Maps End — hard rules
+
+These bind when drafting or editing under this book only.
+
+**Writer-only files** (`lore/`, `PROGRESS.md`, `README.md`, `writing/`, `tracking/`) do not speak through characters unless the POV earned the fact on-page.
+
+**Cosmic ending:** Do not canonize who created the dungeon, whether architects were right, why it began creating, or whether it has consciousness. Mysteries stay questions.
+
+## Ship checklist
+
+1. **Word count** — meet ~2,000–3,500 words before calling a chapter done (unless intentionally short).
+2. **Knowledge** — no bible leaks; rumors stay rumors; open mysteries stay open.
+3. **Dialogue** — people want something; push back; full sentences.
+4. **Hand-off** — chapter N+1 opens on the state N created (or the new camera's want).
+5. **PROGRESS** — update the tracker when beats land.
+6. **Wonder triad** — every major floor has one beautiful, one terrifying, one impossible thing noted and felt on-page.
+7. **Fair foreshadow** — the dungeon never cheats; danger signs were visible.
+8. **Answer → two questions** — when a mystery resolves, plant two new ones (tracking/answer-questions.md).
+
+## Twelve pillars (summary)
+
+1. Volume = one scientific question.
+2. Natural history first; combat from ecology.
+3. Dungeon events reshape routes.
+4. Slow Jester reveal (Architect not before Vol 5).
+5. Unique party roles — no overlap.
+6. Lived-in dungeon culture + expedition philosophies.
+7. Natural Laws vs Expedition Rules (separate mysteries).
+8. Jester funny always; see Jester rules below.
+9. Volumes permanently change ecology.
+10. The Dungeon Remembers.
+11. The Dungeon Never Lies.
+12. The Dungeon is Older Than Every Story — answers birth questions.
+
+## POV
+
+- Third person limited, past tense.
+- Primary camera: **Niko**.
+- One POV per scene.
+- Guest cameras rare; never spoil Jester identity via his POV early.
+
+## Niko rule
+
+Niko solves mysteries by paying attention to details everyone else ignores—not by having hidden knowledge or sudden inspiration. Solutions should feel reachable by the reader.
+
+## Jester rules
+
+- Never cool mode. No dramatic speeches. No "I was holding back."
+- Never withholds knowledge to create drama. Shares only what he notices, remembers, or believes still true. Wrong advice = dungeon changed.
+- Success test: If the Jester makes the reader laugh and then think five chapters later, the scene succeeded.
+- Almost never fights; intervention is rare and plot-costly.
+- Vol 1: weird and useful. Do not reveal Architect.
+
+## House style
+
+- Easy LN readability; short–medium paragraphs.
+- Wonder + cozy camps + quiet melancholy; every few chapters, prey-terror.
+- Home-arc under campfires without speeches.
+- Monsters are animals first.
+- Magic bends to ecology and Natural Laws; recipes vs principles.
+- Expedition lifecycle: Preparation → Descent → Discovery → Camp → Crisis → Escape or deeper → Return → Consequences.
+- Do not inherit voice from King's Word or Fool's Balance.
