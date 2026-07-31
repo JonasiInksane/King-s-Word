@@ -39,7 +39,7 @@ Do not invent plot against the outline. Do not leak other books’ cameras or ca
 
 **Dialogue is often the scene.** Relationship, friction, comfort, worry, naming — stay with the talk. Hands can go idle. Do not demote every exchange to seasoning on choreography.
 
-**Let scenes breathe when the place can hold it — and vary scale.** Not every chapter is Mossgate-length. Idle time. Pointless lines. People exist without teaching. Less choreography (one pack-check beats five pouch opens). Conversations may end unresolved. Aim for one shared party moment early (a laugh that includes everyone).
+**Let scenes breathe when the place can hold it — and vary scale.** Idle time. Pointless lines (kettle rattle). Less choreography. Conversations may continue when someone jumps in—curiosity together, not only Marta ending topics. Interrupt / steal food / finish sentences. One pure wonder beat per stretch when you can (beautiful, not a clue). Different observation lenses. Never narrate craft rules on-page.
 
 Do **not** make characters speak in memorable quotes.
 
@@ -62,7 +62,7 @@ Better: “They’re paper. We’ll look at the real thing.” — and then let 
 
 **Lumi** — starts before finishing; corrects herself; loses track; awkward but intelligent; her half-explanations *are* scenes.
 
-**Jester** — only character allowed to naturally sound strange. Nobody else should accidentally sound like him.
+**Jester** — only character allowed to naturally sound strange. Nobody else should accidentally sound like him. Spell help = offhand observations (“Ice grows inwards, you know…”), never tips/teaching; see `writing/jester-voice.md`.
 
 ---
 
@@ -114,6 +114,7 @@ Readers should begin to recognize speakers without tags.
 
 - Wonder + cozy + quiet melancholy; prey-terror fair and foreshadowed
 - Exploration over boss clearing; ecology before loot
+- Leisure + adventuring: intermittent road combat between wonder beats — ordinary threats get slain (wolves, beetle swarms, scavengers, bad trail scrapes); short visual action; party are competent travelers, not passive tourists. Apex pressure (Stag, cascade) is survived by reading signs, not farmed as a boss ladder.
 - Volume scientific question advances; answers open two new questions
 - Leave one mystery unexplored per expedition
 - No Demon King / power ladder framing
@@ -126,3 +127,5 @@ Readers should begin to recognize speakers without tags.
 *Where the Maps Disagree* — Greenwood Basin — First Expedition.
 
 Wonder triad on major region stretches: beautiful · terrifying · impossible.
+
+Road scrapes land between wonder beats across the volume — not only the Silent Grove escape and the basin crisis.

@@ -12,7 +12,7 @@ The blank sheet was already out of sight.
 
 They walked.
 
-Not in a line. Not quite a cluster. Marta ahead by half a length, Lumi drifting sideways whenever a leaf looked interesting, Bram somewhere in the middle with the kettle bumping his hip.
+Marta ahead by half a length, Lumi drifting sideways whenever a leaf looked interesting, Bram somewhere in the middle with the kettle bumping his hip.
 
 Niko kept the three Guild maps rolled under one arm and the chalk stub in his pocket.
 
@@ -98,7 +98,7 @@ He started walking before he could think about fading paper.
 
 They didn’t talk for a while.
 
-It wasn’t awkward. It was the road doing what roads did—taking attention and giving it back in pieces. A lizard on a warm stone. A cart’s distant rattle. The smell of crushed green where wheels had cut the verge.
+A lizard on a warm stone. A cart’s distant rattle. The smell of crushed green where wheels had cut the verge.
 
 Bram adjusted a strap once and kept walking.
 
@@ -316,7 +316,7 @@ Niko waited one breath longer than Marta liked, then followed.
 
 They talked less after that.
 
-Not because anyone was frightened. Because the road had given them one wrong thing and the rest of it insisted on being ordinary. Cart traffic returned. A pair of Scholars in clean boots argued about sample jars without noticing the ditch. A dog slept in a wheel rut and did not move when they stepped around it.
+Cart traffic returned. A pair of Scholars in clean boots argued about sample jars without noticing the ditch. A dog slept in a wheel rut and did not move when they stepped around it.
 
 Niko’s chalk stub left gray on his fingertips.
 
@@ -327,8 +327,6 @@ Ahead, the trees thickened again. The Trade Road narrowed by a shoulder’s widt
 “Root Camp’s spur is east of Hunter Forest,” she said eventually. “Not soon. Don’t get excited. I’m not excited. I’m informing.”
 
 “East,” Niko said.
-
-Nobody mentioned the Wall.
 
 Marta’s pace settled into the kind of walk that meant they would make the Mile-Three lean-tos before dark if nobody fell into another ditch for fun.
 

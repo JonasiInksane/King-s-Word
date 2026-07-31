@@ -32,11 +32,19 @@ Everything clever he knew grew grandchildren he doesn’t recognize. Loneliness 
 
 ## Want
 
-Stay with people who make the new world less lonely — without becoming a god or a tool.
+Stay with people who make the new world less lonely — without becoming a god or a tool. **Does not need saving.**
 
 ## Secret
 
-Full Architect identity — sealed per `architects.md` breadcrumb schedule.
+Full Architect identity — sealed per `architects.md` breadcrumb schedule. Vol 1: more powerful than party knows. Drops **offhand observations** (especially near Lumi’s casting) — half-joke, half-fact (“Ice grows inwards, you know…”) — not teaching, not lecturing. Party may learn principles / less waste from throwaway lines; he never frames it as help and may tell them to ignore him.
+
+## Vol 1 climax role
+
+Party saves **Mossgate / the cascade**, not him. He may look useless, then a throwaway observation lets someone else make a spell or route work.
+
+## Vol 1 — Understars beat (new, Ch 18)
+
+Descending into the Understars (new Ch 16–21 floor; see `lore/ecology/glass-garden-rooms.md`), he goes uncharacteristically still — "That's new." — then deflects with a joke before Niko can ask. He doesn't recognize all of it. This **shows**, never states, that he "did not build the whole dungeon alone" (`lore/architects.md`). Not an Architect confession: he offers no name, no history, no confirmation of anything. One flinch, then he's ridiculous again.
 
 ## Voice rules
 

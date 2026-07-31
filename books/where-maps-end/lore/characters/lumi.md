@@ -32,4 +32,4 @@ Annotated a banned margin note about “mana that refuses water” without repor
 
 ## Voice
 
-Precise, argumentative with texts, kinder than she sounds. Lights up when a principle clicks. Takes Jester jokes personally until they become lectures in disguise.
+Precise, argumentative with texts, kinder than she sounds. Lights up when a principle clicks. Chews on Jester’s offhand asides later; may deny learning from him.

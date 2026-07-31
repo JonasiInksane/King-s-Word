@@ -25,8 +25,8 @@ Books are journeys. Regions can return in later volumes changed.
 | 4 | Great Lake | Ferry; dated shoreline mismatch |
 | 5 | Crystal Caverns | Moss/deer; Singing River nearby |
 | 6 | Collapsed Fortress | Old maps; Silent Grove edge |
-| 7 | Glass Garden | Late; Jester wake (in-world name only) |
-| 8 | Crisis return | Basin cascade; Mossgate at risk |
+| 7 | Glass Garden | Late; Jester wake (in-world name only). From Ch 16 becomes a hub — Rafters (+1), Undercroft (-1), Bellows Hall (-2), **the Understars (-3, new floor / new ecology)**, the Throat (tunnel toward Mossgate). See `lore/ecology/glass-garden-rooms.md` |
+| 8 | Crisis return | Basin cascade; Mossgate at risk; reached via the Throat |
 | — | **Unexplored (leave)** | Distant lights beyond the upside-down waterfall — party sees, does not go |
 
 ### Later volumes

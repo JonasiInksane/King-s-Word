@@ -19,7 +19,7 @@ Examples of process-magic:
 - Modern casters: recipes.
 - The Jester (secret): principles — “chemistry,” not bigger mana.
 - He does **not** have more mana than anyone else.
-- He never lectures. He makes strange comments. Revelations land chapters later.
+- He does **not** teach or lecture. Offhand observations only (“Ice grows inwards, you know…”); others chew on them. Revelations land chapters later.
 - Efficiency jumps (e.g. a spell becoming several times stronger) come from reduced waste, not buffs.
 - No on-demand mid-fight power-ups as habit.
 
@@ -29,4 +29,4 @@ Spells bend to Natural Laws and local ecology. A fire recipe in low oxygen fails
 
 ## Lumi’s arc (magic)
 
-Book-smart → field-smart. Jester jokes become her research prompts. Niko notices environmental tells; she notices process tells.
+Book-smart → field-smart. Jester’s throwaway lines become research prompts she won’t credit. Niko notices environmental tells; she notices process tells.

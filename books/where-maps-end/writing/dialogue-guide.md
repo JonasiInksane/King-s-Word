@@ -28,7 +28,7 @@ Characters should not sound like writers. Simple but distinctive (not bland). **
 
 - **Niko:** Notices; **starts** conversations from curiosity he can’t let go (“Why’d you keep that one?” / “How long has that been up?”). Not only reactive questions. Rarely concludes. Softens theories. Quiet when noticing alone.
 - **Marta:** Short; practical; always about reality. Philosophy from repeated *actions*, not memorable sayings. Can talk longer when logistics or the road is the topic — still plain.
-- **Bram:** Food/care when it matters. Harmless flaws. **Not funny every line.** Sometimes “Morning.” and walks. Hit rate drops → funny moments land.
+- **Bram:** Food/care when it matters. Harmless flaws. **Not funny every line.** Sometimes “Morning.” and walks. Sometimes he **completely misreads** (“Those look poisonous.” / “They’re flowers.” / “Hm.”) with no embarrassment. Hit rate drops → funny moments land.
 - **Lumi:** Starts explaining; stops; corrects herself. “Actually—” “No, wait.” Her talk scenes often *are* the scene.
 - **Jester:** Only strange/quotable voice. Jokes first; observes; never explains. See `jester-voice.md`.
 
@@ -37,6 +37,14 @@ Characters should not sound like writers. Simple but distinctive (not bland). **
 Groups are not A–B ping-pong. Three voices interrupt:
 
 “Why’d you keep that one?” / “It smells wrong.” / “Leave him.” / “I’m answering.” / “I didn’t say stop.”
+
+## Curiosity together
+
+Don’t only react and shut down. When Niko asks “Which map are we on?” someone should jump in and keep the ball up:
+
+“Maybe all three.” / “Then I hope one of them has lunch.”
+
+Bonding = interrupt, finish sentences, steal food, talk past the neat exit — **not every scene.** Don’t run A-finishes / B-twists / C-ends as a formula each chapter. Sometimes talk drifts — but the delayed line still has to feel like it belongs to the moment, not a private joke with the reader.
 
 ## Philosophies
 

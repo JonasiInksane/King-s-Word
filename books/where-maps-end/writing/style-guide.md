@@ -63,6 +63,40 @@ Still short. More alive.
 
 Every chapter needs one memory that isn’t a plot point—something readers miss five volumes later. Mossgate: Marta paying for four buns; flour on Lumi’s book. Mystery hooks are not enough.
 
+### Wonder (not foreshadowing)
+
+At least sometimes, put one beautiful thing on the page that exists only because the dungeon is beautiful. Crystal butterflies on a pot. Resin light between trunks. Nobody explains. Nobody turns it into a clue. Bram waits; they leave; he cooks.
+
+### Observation lenses
+
+Characters notice different things in the same place:
+
+- Niko — maps, absences, tracks that quit  
+- Lumi — season, specimens, charts  
+- Bram — food, what shouldn’t grow here  
+- Marta — light, distance, when to camp  
+
+Do not make everyone comment on Niko’s notice. Let four worlds overlap.
+
+### Bonding habits
+
+Party talk *can* interrupt, finish sentences, steal food. Curiosity *can* be shared. Don’t always end on Marta’s shut-down.
+
+**Don’t formula it.** Not every chapter is finish→twist→button. Let lines hang. Let answers arrive late or never.
+
+### Useless minutes
+
+Kettle rattles for two minutes. Sock wedge fails. Never matters again. People, not story functions.
+
+### No craft on the page
+
+Never narrate the rule. Just write the behavior.
+
+Bad: *Nobody asked. It never came up again.* / *without making a speech of it* / *It wasn’t awkward.*
+Good: the kettle rattles into the dark; Marta pockets the glove; a lizard on a warm stone.
+
+If a sentence exists to reassure the reader you’re obeying a craft note (silence, useless minutes, “not a performance”), cut it.
+
 ### Scene length and scale
 
 Japanese LNs let scenes breathe — and they **change scale** between chapters.
@@ -174,13 +208,24 @@ Dry. Almost British. The Jester says ridiculous things like they're obvious.
 
 ## Action
 
-Very visual. Clear. Short. No paragraph-long attacks.
+Very visual. Clear. Short. No paragraph-long attacks. Dialogue can run in motion.
+
+Ecology-first combat is welcome: small road fights and monster scrapes between wonder beats — not boss rooms, not a Demon King ladder, not passive tourism. Ordinary threats (glass wolves, beetle swarms, desperate scavengers, bad trail encounters) get fought, driven off, or slain. Apex pressure is survived by reading signs. Party roles differ in a scrape: Marta leads steel and exits; Bram uses pot, lid, noise, environment; Lumi magic or practical light/tools; Niko notices flanks and timing. Never narrate the combat ethos on-page.
 
 The stag lowered its head.  
 Nobody moved.  
 Leaves drifted from its antlers.  
 Marta whispered, "Run."  
 Nobody argued.
+
+Also fine:
+
+The wolf came low for the packs.  
+Marta met it with the flat of her blade.  
+Bram’s lid rang off its skull.  
+“Left—” Niko said.  
+Lumi’s spark cracked the air.  
+It left bleeding.
 
 ## Emotion
 

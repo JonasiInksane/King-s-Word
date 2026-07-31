@@ -121,6 +121,8 @@ Writer-only later name: **First Conservatory**. Never on-page in Vol 1.
 
 Sealed chamber inside: sleeping ridiculous man (Jester). Late volume only.
 
+**From Ch 16 the Garden becomes a hub** — a floor opens above (Rafters) and floors open below (Undercroft → Bellows Hall → **the Understars**, a full new floor with its own light/dark ecology → the Throat toward Mossgate). Full room-by-room breakdown, floor relations, and entered-vs-reserved status: `lore/ecology/glass-garden-rooms.md`.
+
 ## Map discrepancies (survey targets)
 
 1. Locus A — 1712 river / 1839 forest / 1987 grassland (primary Guild contract).
@@ -152,3 +154,7 @@ Whatever the party does to redirect wolves, spare/guide the Stag, or stabilize a
 ## Left-behind mystery (Vol 1)
 
 **Distant lights beyond the upside-down waterfall.** Seen. Not approached. Readers should want to return.
+
+**Second, smaller leave-behind (new, Ch 19):** the Low Gate, at the far wall of the Understars beneath the Glass Garden. Colder and newer-feeling than Jester's own seal; roots grown the wrong way into the frame. Glimpsed only, not entered. No name, no villain on-page — see `lore/ecology/glass-garden-rooms.md` and `lore/plot-outline.md` (Volume 2+ seeds).
+
+**Third leave-behind, structural (new, Ch 18–19):** the Understars itself — a cavern too large to map in one visit. The party works one corner (Mirror Deep, the Sluiceworks); the rest stays past their lantern-light. Proof the basin holds more floors than anyone charted, without answering what.

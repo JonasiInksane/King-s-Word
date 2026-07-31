@@ -22,5 +22,7 @@ The Jester often remembers old versions. When he is wrong, the dungeon changed.
 - Hang your map on the Wall — or don’t expect a funeral song.
 - Don’t go east (Map Wall saying; unexplained).
 - Maps that agree too neatly are suspicious.
+- If a door feels colder than the last one, it isn’t the last one (new, Ch 19 — Low Gate).
+- If the stars move faster than a night, someone moved (new, Ch 18–19 — Understars; don't disturb the driftlight colony).
 
 When a rule fails on-page, log it in `tracking/expedition-rule-failures.md` and ask: what evolved?

@@ -224,7 +224,7 @@ Marta checked the packs one last time and was already halfway toward the stalls 
 
 “We leave within the hour,” she said over her shoulder.
 
-Bram bought salt. Marta bought rope. Niko stood between them with the pot and watched Bram sort mushrooms into two piles without announcing why.
+Bram bought salt. Marta bought rope. Niko stood between them with the pot and watched Bram sort mushrooms into two piles.
 
 “Why’d you keep that one?” Niko asked.
 
@@ -334,7 +334,7 @@ At the pump Bram filled a kettle, tasted the water, and tied it on.
 
 Niko never found out what that meant.
 
-Lumi got a sleeve wet. Marta finished filling the waterskins and pocketed a lost glove from the mud without making a speech of it.
+Lumi got a sleeve wet. Marta finished filling the waterskins and pocketed a lost glove from the mud.
 
 Bram bent for the pot.
 
@@ -346,8 +346,6 @@ Lumi laughed—short, surprised, too loud for the square. Marta’s mouth almost
 
 Niko noticed.
 
-Nobody commented.
-
 “Now,” Marta said.
 
 ---
@@ -358,7 +356,7 @@ Bram opened his belt pouch mid-step, sniffed, and held the mushroom up.
 
 “Wrong mushroom.”
 
-He tossed it into the gutter and kept walking. Nobody commented.
+He tossed it into the gutter and kept walking.
 
 They hung their blank survey sheet before they left.
 
@@ -410,9 +408,9 @@ Near the gate a baker was packing up. Bram stopped.
 
 “I know.”
 
-Bram bought four buns anyway. Marta paid before he found his coins. Lumi took hers and got flour on a book immediately. Nobody mentioned it.
+Bram bought four buns anyway. Marta paid before he found his coins. Lumi took hers and got flour on a book immediately.
 
-“Morning,” Bram said to the baker, late and useless, and they went through the gate.
+“Morning,” Bram said to the baker, and they went through the gate.
 
 Beyond it, the Trade Road disappeared beneath ancient trees.
 
