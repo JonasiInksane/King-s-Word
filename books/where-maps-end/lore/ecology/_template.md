@@ -1,6 +1,6 @@
-# Ecology template — [Floor / Biome name]
+# Ecology template — [Region / Biome name]
 
-Copy this file for each major floor. Fill every section. Tag fauna with ecological classifications.
+Copy this file for each major region. Fill every section. Tag fauna with ecological classifications.
 
 ## Scientific / volume question (if any)
 

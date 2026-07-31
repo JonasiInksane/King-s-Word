@@ -1,13 +1,11 @@
 # Jester breadcrumbs
 
-Follow `lore/architects.md` schedule. Do not accelerate.
-
 | Vol | Allowed | Landed? |
 |---|---|---|
-| 1 | Weird, funny, useful; optional single ancient pause | Pending |
+| 1 | Late Glass Garden wake; first line; flower + “Good.”; weird only | Pending |
 | 2 | Ancient monsters recognize him | — |
 | 3 | Ancient architecture reacts | — |
-| 4 | Partial memory of designing ecosystems | — |
+| 4 | Partial ecology-design memory | — |
 | 5 | Architect of Ecology reveal | — |
 
 ## Vol 1 joke → later thought

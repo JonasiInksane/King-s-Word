@@ -15,7 +15,7 @@ Lost one family already. Refuses to lose another.
 ## Prior parties
 
 - Mid-depth survivor of a **guild wipe** on a Conqueror contract that ignored silence.
-- Refused deep contracts for years; Ashveil work only — until Niko’s map problem and a debt to Lampwick pulled her in.
+- Refused deep contracts for years; Mossgate / Gate work only — until Niko’s dated-map survey and a debt to Lampwick pulled her into the Greenwood Basin.
 - Still knows Survivor creed by heart: go in, come out, nothing else matters — and hates that it feels true.
 
 ## Wound

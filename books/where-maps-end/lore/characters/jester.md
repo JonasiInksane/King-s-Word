@@ -10,18 +10,25 @@ Ecology instinct. Ancient customs. Natural Law memory — delivered only as joke
 
 ## Home arc
 
-Literally lost his world. The dungeon isn’t the home he remembers. The party becomes his new one.
+Literally lost his world. The dungeon isn’t the home he remembers. The party becomes his new one. He is **delighted** it lived without him.
 
-## Prior parties / history (writer-only pacing)
+## Vol 1 entrance (locked)
 
-- Imprisoned; party frees him accidentally (Vol 1 Seal Niche).
+- **Where:** the **Glass Garden** (in-world). Writer-only later: First Conservatory. Never say Conservatory on-page in Vol 1.
+- **When:** late volume — not central early.
+- Party debates waking him; they wake him anyway.
+- **First line:** “You're all terribly dressed.”
+- **Final button:** Kneels at a flower → “I've never seen this one before.” → touches it → quiet laugh → **“Good.”** → “Let's go.” No explanation.
+
+## Prior / history (writer pacing)
+
+- Imprisoned; incomplete memory of why.
 - Believes he slept a few years → learns 2,000+.
-- Walked with other groups in the deep past; some faces may “remember” him wrong later volumes.
-- Cover story: washed-out hire, good at nothing but bells and bad timing.
+- Cover story after wake: washed-out hire, bells, bad timing.
 
 ## Wound
 
-Everything clever he planted grew grandchildren he doesn’t recognize. Loneliness under jokes.
+Everything clever he knew grew grandchildren he doesn’t recognize. Loneliness under jokes.
 
 ## Want
 
@@ -29,23 +36,15 @@ Stay with people who make the new world less lonely — without becoming a god o
 
 ## Secret
 
-Full Architect identity and imprisonment cause — sealed per breadcrumb schedule in `architects.md`.
+Full Architect identity — sealed per `architects.md` breadcrumb schedule.
 
 ## Voice rules
 
-- Always smiling, joking, relaxed. Sometimes childish, sometimes wise. Never cool.
-- Colorful clothes, small bells, walking stick — looks ridiculous.
-- No dramatic speeches. No “I was holding back.”
-- Example energy: “Should we fight it?” / “Oh absolutely.” / “…” / “I wouldn’t.”
-- Success: reader laughs, then thinks five chapters later.
+See `writing/jester-voice.md`. Always funny. Never cool. Observes; never explains history.
 
 ## Author rules (inviolable)
 
-1. Never withholds knowledge to create drama. Shares only what he notices, remembers, or believes still true.
+1. Never withholds knowledge to create drama.
 2. Wrong advice = dungeon changed, not plot silence.
-3. Almost never fights; intervention rare and story-changing (recognition, not flashy battle).
-4. Vol 1: weird and useful only.
-
-## Mana
-
-Not stronger. Understands principles better than anyone alive — and still gets surprised when Natural Laws crack or ecosystems evolved past Expedition Rules.
+3. Almost never fights; intervention rare.
+4. Vol 1: weird only after late wake.

@@ -14,11 +14,13 @@ The Jester often remembers old versions. When he is wrong, the dungeon changed.
 - Leave nothing behind — the dungeon remembers.
 - If the forest goes silent, you are already late.
 
-## Volume 1 (Mirror Veins)
+## Volume 1 (Greenwood Basin)
 
-- Don’t whistle in the crystal galleries.
-- Don’t camp where the moss is blue-glow.
-- If the upward waterfall slows, move — silence follows.
-- Maps that agree are the suspicious ones.
+- If the grove goes silent, leave.
+- Don’t camp on blue-glow moss.
+- Don’t follow parting trees hoping for a shortcut.
+- Hang your map on the Wall — or don’t expect a funeral song.
+- Don’t go east (Map Wall saying; unexplained).
+- Maps that agree too neatly are suspicious.
 
 When a rule fails on-page, log it in `tracking/expedition-rule-failures.md` and ask: what evolved?

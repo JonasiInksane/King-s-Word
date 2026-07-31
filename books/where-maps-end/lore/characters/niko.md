@@ -6,36 +6,43 @@ Young explorer / cartographer. Primary POV.
 
 ## Unique solve
 
-Navigation. Observation. Pattern recognition. Notices details everyone else ignores.
+Navigation. Observation. Pattern recognition. Notices details everyone else ignores or dismisses.
 
-**Author rule:** He does not solve mysteries with hidden knowledge or sudden inspiration. The reader should be able to get there too.
+**Author rule:** He does not solve mysteries with hidden knowledge, sudden inspiration, or courtroom “proof.” He notices. The reader should be able to get there too.
 
 ## Home arc
 
-Wants somewhere he belongs. The dungeon — and this party — slowly become home.
+Wants somewhere he belongs. The dungeon — and this party — slowly become home. Mossgate’s Map Wall is the first place that feels like a door he could walk through twice.
 
 ## Prior parties
 
-- Junior mapper for **Lampwick Company** (Scholar-leaning freelancers).
-- Mapped the edge of a vanished spur expedition; never saw the end of their road.
-- Left Lampwick when a senior sold a “certain” map Niko knew was wishful.
+- Junior mapper orbiting **Lampwick** / Scholar freelancers.
+- Mapped the edge of a vanished spur; never saw the end of their road.
+- Left when a senior sold a “certain” map Niko knew was wishful.
 
 ## Wound
 
-Certainty kills. He trusts pencil lines less than boot prints — and still longs for a chart that feels like shelter.
+Certainty kills. He trusts boot prints over proud ink — and still longs for a chart that feels like shelter.
 
-## Want
+## Want (Vol 1)
 
-A true map of the Mirror Veins’ disagreeing seams — and a crew that doesn’t punish noticing.
+Understand why three dated Guild maps of the same Greenwood Basin locus disagree. Hired on the independent survey.
 
 ## Secret
 
-Kept a scrap of the vanished expedition’s last sketch (incomplete, possibly dangerous if auctioned).
+Keeps a scrap from the vanished expedition (incomplete; dangerous if auctioned).
+
+## Vol 1 discovery stance
+
+Evidence others dismiss: fresh roots, age rings, shifted rock, expedition logs, too-smooth tunnels.
+
+**End line (locked):** “I don't think they're extinct.”  
+**Reply:** “Then where are they?”
 
 ## Voice
 
-Quiet, precise, dry humor. Asks one more question when others pack up. Softens at camps when someone shares food without asking him to earn it.
+Quiet, precise, dry humor. Asks one more question when others pack up. Softens theories. Softens at camps when someone shares food without asking him to earn it.
 
 ## Heroism model
 
-Climax shape: everyone thinks he’s weak → he notices a tiny migration, one flower, a wind change → “Run.” → they live.
+Climax shape: everyone thinks he’s weak → he notices a tiny wrongness (parting trees, moss stress, wind) → “Run.” / a quiet redirect → they live because he read the ecosystem.

@@ -14,13 +14,13 @@ Believed knowledge lived in books. Learns the living world is the greatest textb
 
 ## Prior parties
 
-- Academy / scholar track; first true deep run is Volume 1.
-- Briefly assisted a Scholar survey that never left the Gate spur — she quit to go further.
-- Carries textbooks the Mirror Veins already outgrew.
+- Academy / scholar track; first true deep expedition is Volume 1.
+- **Root Camp:** her academy keeps a temporary research station in the Greenwood Basin — she has been there on paper duty before; this is the first time she leaves it properly.
+- Carries textbooks the basin already outgrew.
 
 ## Wound
 
-Humiliation when a perfect recipe fails in living air. Fear that she is only clever on paper.
+Humiliation when a perfect recipe fails in living air. Fear she is only clever on paper.
 
 ## Want
 

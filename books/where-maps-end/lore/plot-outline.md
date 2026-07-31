@@ -2,11 +2,9 @@
 
 ## Series spine
 
-Not Demon King. Not power ladder. Understand what the dungeon has become — and accept that understanding never finishes.
+Not Demon King. Not power ladder. Understand what the dungeon has become — understanding never finishes.
 
-Emotional direction (allowed): home found in party and living world; wonder has cost; curiosity changes the explorer.
-
-Cosmic answers: **unset**.
+Emotional direction: home, wonder, cost of curiosity. Cosmic answers: **unset**.
 
 ```mermaid
 flowchart LR
@@ -19,39 +17,71 @@ flowchart LR
 
 ## Volume questions
 
-| Vol | Scientific question | Permanent change (example seed) |
+| Vol | Title / question | Permanent change seed |
 |---|---|---|
-| 1 | Why do the maps disagree? | Party choice about Stalker / bridge / moths scars Mirror Veins |
-| 2 | Why has an extinct predator returned? | Return reshapes upper food chains |
+| 1 | *Where the Maps Disagree* — Why do the maps disagree? | Basin cascade intervention; Mossgate saved at a cost |
+| 2 | Why has an extinct predator returned? | Upper food chains reshape |
 | 3 | Why are Natural Laws breaking? | First undeniable law crack |
-| 4 | Why are monsters migrating upward? | Surface/gate politics + ecology panic |
-| 5 | Who is creating new species? | Architect reveal; creation hypothesis deepens — not closed |
+| 4 | Why are monsters migrating upward? | Gate politics + ecology panic |
+| 5 | Who is creating new species? | Architect reveal; creation hypothesis deepens |
 
-## Volume 1 — chapter map
+---
 
-**Biome:** Mirror Veins. **Lifecycle** marked. Target ~12–16 chapters when drafting (adjust freely).
+## Volume 1 — Where the Maps Disagree
+
+**Expedition:** The First Expedition  
+**Setting:** Greenwood Basin  
+**Hub:** Mossgate (Map Wall)  
+**Feel:** Starts like a normal dungeon. Then none of it makes sense.
+
+### Goal
+
+Cartographers’ Guild: three official dated maps of the same locus disagree (1712 river / 1839 forest / 1987 grassland). Independent survey teams hired. Niko joins with Marta, Lumi, Bram.
+
+### Answer shape (not a closed cage)
+
+Geography used to move. Root-creatures reshaped valleys. Each map was correct in its year. Root-creatures are assumed extinct; Niko **notices** evidence they aren’t — he does not prove. End: “I don't think they're extinct.” / “Then where are they?”
+
+### Climax
+
+Not defeating the Hollow Stag. Prevent ecological catastrophe threatening Mossgate (Stag leaving, wolves migrating, moss failing). Niko’s insight: the dungeon isn’t static; it’s aging / changing.
+
+### Jester
+
+Late only. Glass Garden. Debate. Wake. First line: “You're all terribly dressed.”  
+Final button: flower → “I've never seen this one before.” → touch → quiet laugh → **“Good.”** → “Let's go.”
+
+### Left behind
+
+Distant lights beyond the upside-down waterfall. Seen. Not entered.
+
+### Chapter map (~16 ch; adjust when drafting)
 
 | Ch | Lifecycle | Beat |
 |---|---|---|
-| 1 | Preparation | Ashveil Gate. Map auction chaos — three charts of the same spur disagree. Niko hired / forms crew with Marta, Lumi, Bram. Home-arc seeds. Wonder tease from a crystal sample that shouldn’t be dry. |
-| 2 | Preparation → Descent | Gear, philosophies clash (Scholar vs Harvester contractor). Expedition Rule briefing. Enter Ink Gate Spur. |
-| 3 | Descent | Crystal Galleries. **Beautiful:** aurora on lakes. First Expedition Rule (no whistling) tested by outsiders. |
-| 4 | Discovery | Mirror River Road. Mana vs water. Lumi’s recipe fails cleverly. Jester not yet in party — or met as ridiculous traveler at ferry (bells). |
-| 5 | Camp | Hanging Markets. Food (Bram), songs, shrine for missing parties. Home-arc campfire. |
-| 6 | Discovery | Vein Heart. **Impossible:** upward waterfall. Maps disagree harder — a “straight” road is a cliff. |
-| 7 | Discovery | Seal Niche. Party accidentally frees the Jester. He thinks it has been a short nap. Comedy. Marta suspicious. |
-| 8 | Camp | Integrate Jester. He jokes Expedition Rules. One joke saves them later. |
-| 9 | Descent / Discovery | Salt Cut vs Pilgrim Coil choice. Niko notices grazer trail vs map ink. |
-| 10 | Crisis | **Terrifying:** silence. Glass-Antler Stalker. Major action from ecology — not a boss arena. Ancient adult may pause near Jester (unexplained). Party survives by observation + logistics + cooking bait / light — not Jester solo win. |
-| 11 | Escape or deeper | Routes rewritten mid-march (crystal growth). Working answer: maps disagree because routes changed. |
-| 12 | Return | Toward Ashveil with partial map and scars. |
-| 13 | Consequences | Auction / guild fallout. Ecology consequence logged. Two new questions planted: Why did routes change? Who remembers the old routes? Jester remains “weird.” |
+| 1 | Preparation | Mossgate. Map Wall. Three dated maps. Guild hire. Party forms. Feels ordinary. |
+| 2 | Preparation → Descent | Gear, philosophies, Expedition Rules. Hang maps on the Wall. Enter Trade Road. |
+| 3 | Descent | Trade Road “normal.” First mismatch: mile-marker in a dry ditch. |
+| 4 | Discovery | Hunter Forest. Ecology via Bram. Parting-tree signs (Stag). |
+| 5 | Camp | Root Camp / forest camp. Home-arc. Lumi’s textbook fails something small. |
+| 6 | Discovery | Ancient Quarry. Too-smooth tunnel. Fresh roots dismissed by locals. Niko keeps looking. |
+| 7 | Discovery | Great Lake. Shoreline vs dated maps. Singing River (beautiful). |
+| 8 | Camp | Ferry camp. Theories argued. Niko: what if the maps weren’t wrong? |
+| 9 | Discovery | Crystal Caverns. Food loop clear. Moss stress signs. |
+| 10 | Crisis | Silent Grove edge / Stag pressure. Major action from ecology. Forest parts. Survive by reading signs — not killing the apex. |
+| 11 | Discovery | Collapsed Fortress. Upside-down waterfall (impossible). **Distant lights — they leave.** |
+| 12 | Discovery | Glass Garden. Debate. Wake the Jester. “You're all terribly dressed.” |
+| 13 | Camp | Integrate weird traveler. One joke that will matter later. |
+| 14 | Crisis | Basin cascade toward Mossgate. Party prevents catastrophe. |
+| 15 | Return | Map Wall. Consequences. Niko: “I don't think they're extinct.” “Then where are they?” |
+| 16 | Consequences | Jester and the flower. “Good.” Open questions logged. Jester still just weird. |
 
-Lifecycle may loop (second camp, second crisis) if chapters expand. Always end Vol 1 with consequences + two new questions.
+---
 
 ## Volume 2+ (seeds only)
 
-- Extinct predator returns — classification + natural history first.
-- Jester: ancient recognition increases.
+- Extinct-predator question may connect to Stag / wolves / something returning.
+- Root-creature whereabouts stay open.
 - Do not resolve Architect before Vol 5.
 - Do not resolve cosmic creation/consciousness.
+- Stop expanding dungeon bible until Vol 2 planning.

@@ -8,6 +8,10 @@ What does the POV want in this scene?
 
 Ecology, people, map, law, or self?
 
+## Change
+
+What changes by the end? (relationship / theory / route / ecosystem / clue / decision)
+
 ## Observation (Niko scenes)
 
 What detail is available to the reader on the page?

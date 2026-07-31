@@ -1,21 +1,21 @@
 # Mysteries — questions only
 
-**Do not turn this file into an answer key.** Options may be brainstormed in italics as non-canon.
+**Do not turn this file into an answer key.**
 
 ## Series stance
 
 Every answer should create two new questions. The dungeon is older than every story.
 
-## Volume ladder (questions)
+## Volume ladder
 
-1. Why do the maps disagree?
+1. Why do the maps disagree? (*Where the Maps Disagree*)
 2. Why has an extinct predator returned?
 3. Why are Natural Laws breaking?
 4. Why are monsters migrating upward?
 5. Who is creating new species?
-6+. Who were the other architects? Who sealed the Jester? What happened 2,000 years ago? — still questions.
+6+. Architects / seal / origin — still questions.
 
-## Open cosmic questions (unset forever until deliberate lock)
+## Open cosmic questions (unset)
 
 - Who created the dungeon?
 - Were the architects right?
@@ -24,17 +24,20 @@ Every answer should create two new questions. The dungeon is older than every st
 
 ## Active question board
 
-| ID | Question | Status | Opens when answered |
-|---|---|---|---|
-| Q-V1a | Why do Mirror Veins maps disagree? | Active Vol 1 | → two new (see answer-questions) |
-| Q-J1 | Who is the bell traveler? | Active (slow) | Breadcrumb only through Vol 5 |
-| Q-J2 | Why do some ancient beasts pause near him? | Plant Vol 1–2 | … |
-| Q-R1 | Who remembers the old routes? | Opens after V1 | … |
-| Q-R2 | Why did the routes change? | Opens after V1 | … |
+| ID | Question | Status |
+|---|---|---|
+| Q-V1a | Why do the three dated maps disagree? | Active Vol 1 |
+| Q-V1b | Where did the root-creatures go? | Opens at Vol 1 end |
+| Q-V1c | Why did the moving stop here? | Opens at Vol 1 end |
+| Q-V1d | Why is the Hollow Stag leaving? | Opens / deepens Vol 1 |
+| Q-V1e | What disturbed the ecosystem? | Opens at Vol 1 end |
+| Q-V1f | What are the lights beyond the upside-down waterfall? | Left unexplored Vol 1 |
+| Q-OL | Why do people disappear from Old Lantern? | Open; not Vol 1 solve |
+| Q-J1 | Who is the bell traveler? | Slow burn (wake late Vol 1) |
+| Q-J2 | Why might ancient things pause near him? | Later volumes |
 
-## Working hypotheses (characters may argue; not canon)
+## Working hypotheses (not canon)
 
-- The dungeon is becoming a creator.
-- Maps lie because people sell lies.
-- Maps lie because the world moves.
-- Both.
+- The maps were all correct at different times.
+- Root-creatures are missing from the basin’s working layer, not proven dead.
+- The dungeon is aging / changing.

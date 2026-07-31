@@ -2,30 +2,32 @@
 
 ## The dungeon
 
-Appeared roughly **2,000 years ago**. Origin unknown to living scholarship. Kingdoms, guilds, merchants, scholars, religions, and gate-cities formed around its mouth. Everything depends on it.
+Appeared roughly **2,000 years ago**. Origin unknown. Kingdoms, guilds, merchants, scholars, religions, and gate-towns formed around it.
 
-It is **not** an MMO ladder. “Floors” are biomes of wildly inconsistent size: a single hallway; an underground sea; an abandoned city; an endless forest; a puzzle room; a giant tree; a flooded cathedral. One biome can carry an entire volume. Multiple routes skip, loop, collapse, reopen, or flood. Maps are always incomplete.
+Not an MMO ladder. Biomes vary wildly. Multiple routes. Maps always incomplete. Internally plan **expeditions and regions**; in-world people still say “floors.”
 
-Sayings among explorers:
+Sayings:
 
 - **The Dungeon Remembers** — leave nothing behind; it gives it back.
-- **The Dungeon Never Lies** — nature is fair; the signs were there.
-- **Where maps end** — the point past which ink is faith, not fact.
+- **The Dungeon Never Lies** — the signs were there.
+- **Where maps end** — past which ink is faith, not fact.
 
-## Gate civilization (surface)
+## Volume 1 hub — Mossgate
 
-**Ashveil Gate** — primary upper-mouth city for Volume 1. Map auctions in the Ink Hall. Guild banners on every bridge. Children scrape spent mana crystals from sewer grates. Shrines of knotted rope for missing parties. Merchants bet openly on migration seasons. Expedition festivals mark Bloom years and safe returns.
+Primary expedition town for the Greenwood Basin (~3,000 people). Mapmakers, guides, cooks, guilds, monster markets.
 
-Culture texture (use in camps and cities, don’t dump):
+**The Map Wall (icon):** Before leaving, every expedition hangs its worn map on a giant public wall. Returned maps stay. Unreturned maps fade. Over centuries the wall is enormous—dense notes, maps that stop halfway, one that only says *Don’t go east* with no explanation.
 
-- Guild songs (different verses per philosophy)
-- Legendary recipes named after floors
-- Old explorer traditions (first light offered to the seam, never name a route “safe”)
-- Map auctions where forged charts sell as often as true ones
+Culture texture (sprinkle): guild songs, shrines of knotted rope for missing parties, children scraping spent mana crystals, merchants betting on migration seasons.
 
-## Depth and dependency
+## Other Vol 1 settlements
 
-Surface economies run on dungeon goods: crystal salt, law-stable timber, monster oils, scholarly samples. Religions disagree whether the dungeon is gift, test, or god. None of that resolves origin — and must not in early volumes.
+- **Old Lantern** — outpost, ~40 people. People disappear. Reason open.
+- **Root Camp** — temporary scholar station; Lumi’s academy keeps a presence here.
+
+## Greenwood Basin
+
+See [`ecology/greenwood-basin.md`](ecology/greenwood-basin.md) and [`regions.md`](regions.md). Explored for ~1,800 years. Everyone believes it is well mapped. It isn’t.
 
 ## Cosmic unknowns (not canon)
 

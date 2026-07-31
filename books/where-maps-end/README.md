@@ -1,5 +1,7 @@
 # Where Maps End
 
+An expedition fantasy where every mystery solved reveals a larger world, every ecosystem has a story, and every journey changes both the explorers and the dungeon itself.
+
 ## Logline
 
 Two thousand years after the dungeon appeared, a cartographer’s party accidentally frees a ridiculous jester who once designed its ecosystems—only to learn the dungeon has kept evolving without him, and that every answer about what it has become opens two more questions.
@@ -8,15 +10,26 @@ Two thousand years after the dungeon appeared, a cartographer’s party accident
 
 **Heroism:** Niko does not become the strongest. He becomes more observant.
 
+## Volume 1
+
+**Title:** *Where the Maps Disagree*  
+**Expedition:** The First Expedition  
+**Setting:** Greenwood Basin  
+**Scientific question:** Why do the maps disagree?
+
 ## POV
 
 - **Mains:** Niko (primary), with rare guest cameras for Lumi, Bram, Marta when needed.
 - **Narration & tense:** Third person limited, past tense.
 - **Guests / switching:** One POV per scene. Never early-Jester POV that spoils Architect identity. Jester stays opaque; breadcrumbs only.
 
-## Shared internal theme — home
+## Planning terms
 
-Everyone is searching for emotional home:
+**Book → Expedition → Region → Zone → Scene**
+
+In-world people may say “floors.” Internally plan expeditions and regions, not vertical levels.
+
+## Shared internal theme — home
 
 | Character | Home arc |
 |---|---|
@@ -30,18 +43,15 @@ Everyone is searching for emotional home:
 
 Cozy wonder (Frieren), ecology (Delicious in Dungeon), magical principle-mystery (Witch Hat), prey-terror pulse (Made in Abyss). Not a Demon King story. Not a power ladder.
 
-- Easy light-novel readability; dialogue with wants and pushback.
-- Campfires and leisure are real; terror is real.
-- Combat from ecology and disaster, not boss rooms.
-- Every major floor: one beautiful, one terrifying, one impossible thing.
-- The dungeon never cheats; the dungeon remembers; answers create two new questions.
+- Short LN sentences and paragraphs; dialogue-heavy; show don’t label.
+- Every scene changes something; leave one mystery unexplored per expedition.
 - Full craft law: `.cursor/rules/story-writing.mdc` and `writing/`.
 
 ### Volume scientific questions
 
 | Vol | Question |
 |---|---|
-| 1 | Why do the maps disagree? |
+| 1 | Why do the maps disagree? (*Where the Maps Disagree*) |
 | 2 | Why has an extinct predator returned? |
 | 3 | Why are Natural Laws breaking? |
 | 4 | Why are monsters migrating upward? |
@@ -50,32 +60,30 @@ Cozy wonder (Frieren), ecology (Delicious in Dungeon), magical principle-mystery
 
 ### Per volume must include
 
-Exploration · mystery · ecology · comedy · one major action sequence · permanent ecological consequence · wonder triad on major floors.
+Exploration · mystery · ecology · comedy · one major action sequence · permanent ecological consequence · wonder triad · one intentional unexplored hook.
 
 ## Project structure
 
 ```
 README.md
 PROGRESS.md
-lore/           world, laws, ecology, plot, mysteries (questions only)
+lore/           world, laws, ecology, regions, plot, mysteries
 writing/        craft guides, jester voice, templates
 tracking/       continuity, foreshadow, consequences, breadcrumbs
 chapters/       live drafts (none yet)
-assets/
-scripts/
-.cursor/rules/
 ```
 
 ## How to resume
 
 1. `PROGRESS.md`
-2. `writing/prompt.md` + relevant guides
-3. `lore/plot-outline.md` (volume question + chapter map)
-4. Ecology file for the current floor
-5. Prior chapter + character sheets as needed
-6. Write next chapter → update `PROGRESS.md` and tracking
+2. `tracking/chapter-log.md` + `tracking/continuity.md` + `tracking/anti-leakage.md`
+3. `writing/prompt.md` + style guides
+4. `lore/plot-outline.md`
+5. `lore/ecology/greenwood-basin.md` / `lore/regions.md`
+6. Prior chapter + character sheets as needed
+7. Write next chapter → update `chapter-log.md`, continuity, foreshadow, `PROGRESS.md`
 
-**Do not draft Chapter 1 until the bible is approved and drafting is greenlit.**
+**Do not draft Chapter 1 until drafting is greenlit.** After the basin bible, stop expanding the world until Vol 2.
 
 ## Canon hierarchy
 
@@ -86,4 +94,4 @@ Lore documents >
 Tracking notes >
 Brainstorms
 
-Cosmic answers about origin, architect morality, dungeon consciousness, and “why it creates” are **not canon** until a future deliberate lock. See `lore/mysteries.md`.
+Cosmic answers stay unset. See `lore/mysteries.md`.

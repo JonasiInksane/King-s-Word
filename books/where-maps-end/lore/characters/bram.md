@@ -28,7 +28,7 @@ A kitchen that moves — and eaters who thank the ecosystem, not just the plate.
 
 ## Secret
 
-Can identify Glass-Antler age by marrow smell; hasn’t told Conquerors who would pay for that hunt data.
+Can tell Hollow Stag passage from bent saplings and undisturbed undergrowth (forest parted, nothing broken); hasn’t told Conquerors who would pay for a hunt path.
 
 ## Voice
 
