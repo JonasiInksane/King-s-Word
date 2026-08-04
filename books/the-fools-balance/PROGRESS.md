@@ -5,6 +5,7 @@
 Volume 1:
 The Fool Who Challenged Heroes
 
+Spine: `lore/volume-1-spine.md` (Version B — Chorus / road / Mad Jester)
 
 ---
 
@@ -17,6 +18,10 @@ The Fool Who Challenged Heroes
 [x] Hero system
 
 [x] Magic philosophy
+
+[x] Chorus / Door phenomenon (`lore/phenomenon-chorus.md`)
+
+[x] Mad Jester rules (`lore/mad-jester.md`) — writer-locked
 
 [ ] Geography
 
@@ -47,7 +52,7 @@ Locked cores (see `lore/characters/`):
 
 [ ] Wave 2: ST02–ST03, EX02–EX04 (first holy conflict)
 
-[ ] Villains (Demon Lords + Generals)
+[ ] Villains (Demon Lords + Generals) — Chorus is Vol 1 primary threat frame
 
 [ ] Remaining supporting cast (Academy / Guilds / Royals / side)
 
@@ -56,9 +61,9 @@ Locked cores (see `lore/characters/`):
 
 # Story
 
-[x] Main conflict
+[x] Main conflict (Chorus / Doors; Mad Jester shadow)
 
-[x] Volume structure
+[x] Volume structure (`lore/volume-1-spine.md`)
 
 [x] Chapter outlines (Ch 1–10 scene map)
 
@@ -68,17 +73,17 @@ Locked cores (see `lore/characters/`):
 
 [x] Chapter 3 draft — Shape of a Villain (`chapters/chapter-03.md`) — pending accept
 
-[x] Chapter 4 draft — The Hero Academy Incident (`chapters/chapter-04.md`) — pending accept
+[x] Chapter 4 draft — Quiet Capture (`chapters/chapter-04.md`) — pending accept
 
-[x] Chapter 5 draft — The Bell (`chapters/chapter-05.md`) — pending accept
+[x] Chapter 5 draft — The Room That Agreed (`chapters/chapter-05.md`) — pending accept
 
-[x] Chapter 6 draft — The First Inquisitor (`chapters/chapter-06.md`) — pending accept
+[x] Chapter 6 draft — Conditional Release (`chapters/chapter-06.md`) — pending accept
 
-[x] Chapter 7 draft — The Fool's Crime (`chapters/chapter-07.md`) — pending accept
-
-[ ] Remaining chapter drafts
+[ ] Remaining chapter drafts (next: Ch 7 Road Dust)
 
 [x] PDF export script + test build (`scripts/export_pdf.py` → `export/Fools-Balance-Volume-1.pdf`) — rebuild after next accept batch
+
+[x] Archived Academy/trial path — `archive/cut-academy-trial/`
 
 
 ---
@@ -87,7 +92,13 @@ Locked cores (see `lore/characters/`):
 
 [x] The Fool's identity
 
-[x] Origin of Infringement
+[x] Origin of Infringement (writer)
+
+[x] Ashvale Door / Gate (Mystery 010 — expanded)
+
+[x] Chorus / Enforced Harmony (Mystery 011)
+
+[x] Mad Jester (Mystery 012 — writer-locked)
 
 [ ] Why he became The Fool
 
@@ -98,28 +109,26 @@ Locked cores (see `lore/characters/`):
 
 ---
 
-# Tracking (synced through Ch 7 draft)
+# Tracking (synced through Version B Ch 6 draft)
 
-[x] `tracking/canon.md` — through Ch 7 (Homura decree vs demon-hold truth)
+[x] `tracking/canon.md` — through Ch 6 (Chorus fork; Homura decree removed)
 
-[x] `tracking/continuity.md` — Ch 1–7 + locations after Ch 7
+[x] `tracking/continuity.md` — Ch 1–6 + locations after release
 
-[x] `tracking/foreshadowing.md` — plants through Ch 7
+[x] `tracking/foreshadowing.md` — plants through Ch 6 Version B
 
-[x] `tracking/unresolved-threads.md` — Homura rewrite; unfinished demon hold
+[x] `tracking/unresolved-threads.md` — Door leak; Sera’s Rest; Mad Jester deferred
 
-[x] `tracking/character-arcs.md` — Renji ugly-report vow; Ayame lie-holding
+[x] `tracking/character-arcs.md` — Renji escort responsibility; Kuro necessity
 
-[x] `tracking/chapter-status.md` — drafts 1–7; outline Ch 8
-
-[x] Roster unchanged majors; Old Den / Homura survivors introduced
+[x] `tracking/chapter-status.md` — drafts 1–6; outline Ch 7–10
 
 
 ---
 
 # Current Goal
 
-Draft Chapter 8 (The Impossible Choice / Ayame).
+Draft Chapter 7 (Road Dust / first travel chapter).
 
 Volume goal remains: Complete Volume 1.
 

@@ -360,7 +360,7 @@ He is the last.
 
 Status:
 
-OPEN — **writer-only truth locked; do not pay on-page until scheduled** (README §10)
+OPEN — writer truth locked; partial on-page pay starts Ch 4–6 (Door opens / Chorus). Full Balance dump still forbidden early.
 
 ---
 
@@ -374,13 +374,13 @@ OPEN — **writer-only truth locked; do not pay on-page until scheduled** (READM
 
 ## Hidden Truth (writer)
 
-**The door** = a quiet seal under Imperial/Church agreement. Ashvale sat on a Balance wound (failed classification / something the system refused to name). Heroes and clergy **agreed not to look**. That is “the door everyone agreed not to look for.”
+**The door** = an ancient sealed Door under Imperial/Church silence. Ashvale sat on a Balance wound the system refused to name. Heroes and clergy **agreed not to look**. That is “the door everyone agreed not to look for.”
 
-**“Left open”** = the unknown attack tore that silence. Akihiko came because the wound was already bleeding into the world — not because he destroyed the village (his claim of absence stays contested).
+**“Left open”** = the unknown attack tore that silence. What leaked was **enforced harmony** (Mystery 011 / `lore/phenomenon-chorus.md`). At maturity the town itself became the entity. Akihiko faced two bad choices: leave the shared law intact, or break it and accept Collapse. He broke it. Survivors exist; witnesses cannot agree whether he saved or killed Ashvale.
 
-**The wooden gate is not the door.** After the village’s protection already failed, the leaning gate still performing “closed / keep out” is a **lie of closure**. Akihiko’s Infringement corrects that lie — he unmakes the *idea* that a barrier still exists. Not a shatter for drama or escape. Renji’s Rei finds nothing to catch; hinge-height memory blur is a tell.
+**The wooden gate is not the door.** After the village’s protection already failed, the leaning gate still performing “closed / keep out” is a **lie of closure**. Akihiko’s Infringement corrects that lie — he unmakes the *idea* that a barrier still exists. Renji’s Rei finds nothing to catch; hinge-height memory blur is a tell.
 
-**Renji’s wrong read (on-page, paid Ch 1):** vandalism / intimidation / madman theater — “he erased a landmark.” He must not correctly infer Balance wound yet.
+**Renji’s wrong read (on-page, paid Ch 1):** vandalism / intimidation / madman theater — “he erased a landmark.” He must not correctly infer Balance wound in Ch 1–2.
 
 ---
 
@@ -388,8 +388,93 @@ OPEN — **writer-only truth locked; do not pay on-page until scheduled** (READM
 
 Ch 1: “someone left the door open”; “the one everyone agreed not to look for”; “Still closed” / “That’s rude”; gate ceases as barrier without conventional blast; fires that stopped oddly.
 
+Ch 4+: service Door under Hero Command; Chorus symptoms matching Ashvale’s early stage.
+
 ---
 
 ## Reveal
 
-Mid Vol 1+ for partial shape; deeper Balance wound later. Never dump in Ch 1–2.
+Ch 4–6: Door + early Chorus exist. Mid Vol 1+: Homura as mature case; Door network. Deeper Balance later. Never dump in Ch 1–2.
+
+---
+
+# Mystery 011
+# The Consensus
+
+Status:
+
+OPEN — stages locked writer-side (`lore/phenomenon-chorus.md`)
+
+Theme: erasure of individuality / difference — not “evil infection.”
+
+---
+
+## Reader Belief
+
+- Possession / demons / cult mind-control.
+- Homura was a demon raid or the Fool’s massacre.
+- Ashvale was ordinary disaster + a mad clown.
+
+---
+
+## Hidden Truth
+
+Ancient sealed **Doors** reopen. What leaks is **Consensus**: the world begins rejecting disagreement. Later, reality obeys shared conclusions.
+
+**Signature:** finish each other’s sentences; exact **“We decided.”**
+
+Stages: Consensus → Smile → Chorus → Settlement (reality obeys) → Closure → Collapse.
+
+Homura = mature case; not a separate demon plot.
+
+---
+
+## Early Clues
+
+Ch 4: Renji notices; Akihiko asks (“When did they stop arguing?”) / “Too quiet” / “Ashvale was louder”; “No.”; Door; stable boy; “Families are good at agreeing.”
+
+Ch 5: same signature; bell restores private thoughts; Ayame: less different.
+
+Ch 6+: road cases; Settlement escalation later (reality obeys consensus).
+
+---
+
+## False Leads
+
+- Ordinary possession
+- Demon Lord influence
+- Church or Imperial conspiracy as sole cause
+- “The Fool spreads madness”
+
+---
+
+## Reveal
+
+Partial through Vol 1 road cases. Full network / Balance link later sagas.
+
+---
+
+# Mystery 012
+# The Mad Jester
+
+Status:
+
+OPEN — writer-locked (`lore/mad-jester.md`); do not pay full turn before ~Ch 16–20
+
+---
+
+## Reader Belief
+
+The Fool is already mad / an evil jester / enjoys chaos.
+
+---
+
+## Hidden Truth
+
+Mad Jester = collapse of restraint and meaning after every merciful method fails — **disconnected, not sadistic**. White Fool still buried underneath. Signature question after the turn: “Did I make them smile?”
+
+---
+
+## Reveal
+
+Volume 1 climax territory when Ashvale-level Chorus returns.

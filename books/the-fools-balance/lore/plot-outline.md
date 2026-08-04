@@ -1,6 +1,10 @@
 # THE FOOL'S BALANCE
 ## Complete Plot Outline
 
+**SUPERSEDED for early Volume 1 timing.**  
+Operative docs: `scene-outlines-ch01-10.md`, `volume-1-spine.md`, `phenomenon-chorus.md`, `mad-jester.md`.  
+Long-saga themes below may still inform later books; Ch 1–20 spine is Version B (Chorus → road → Mad Jester).
+
 Genre:
 Dark Fantasy / Action / Psychological / Mystery
 

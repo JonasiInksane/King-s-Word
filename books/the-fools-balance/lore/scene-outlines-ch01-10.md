@@ -159,185 +159,137 @@ Hook: Recovered from what?
 ---
 
 # Chapter 4
-# The Hero Academy Incident
+# Quiet Capture
 
 **Status:** Drafted (`chapters/chapter-04.md`) — pending accept
 
+**Note:** Old Academy draft archived at `archive/cut-academy-trial/`.
+
 POV:
 
-Kenji Morita (Y1 commoner)
+Sir Renji Arata
 
 ---
 
-The Fool visits the academy.
+Scene 1
 
-Everyone mocks him.
+Shortly after Ch 3’s timeline: Renji and reinforcements catch up with Akihiko on the capital approach (no Academy).
 
----
-
-Comedy chapter.
-
-Until:
-
-A monster attacks.
+Akihiko allows himself to be bound — was waiting for Renji; wants access to Imperial records or a particular survivor.
 
 ---
 
-The Fool defeats it accidentally.
+Scene 2
 
-Everyone thinks it was luck.
+Transport / initial holding. Hard signature on-page:
+
+- affected finish each other’s sentences
+- close with exact words “We decided.”
+- wrong smile (Toma)
+- latch consensus
+
+Renji notices (shoulders, breath, sentences, smile). Akihiko: “Too quiet.” Flat “No.” breaks small Consensus.
+
+At Door: Akihiko asks “When did they stop arguing?” Ayame: North Wall hush marks. Ayame: “Is this Ashvale?” → “No. …Ashvale was louder.”
+
+---
+
+Ending:
+
+Door opens/resealed. Stable boy walks out. “…Renji. Stop him.” Too late. “He’s taking it home.” / “Families are good at agreeing.” / “Ashvale sounded like this.”
+
+Fork: Consensus is outside. Akihiko recognizes; does not lecture.
 
 ---
 
 # Chapter 5
-# The Bell
+# The Room That Agreed
 
 **Status:** Drafted (`chapters/chapter-05.md`) — pending accept
 
 POV:
 
-The Fool (Harlequin Akihiko)
-
-(first rare POV)
-
-Hook line used: “If I stop joking, I have to remember why I started.” (outline’s “terrible stage” bumper skipped — quote ration)
+Sir Renji Arata (Ayame present; Kuro may enter)
 
 ---
 
-Reader learns:
+Scene 1
 
-He remembers everything.
+Contained outbreak inside the capital — records wing, shelter, hospital, or holding block.
+
+Everyone calmly cooperative. No screaming. No obvious monster.
+
+Polite captivity:
+
+“You should stay.”
+
+“We all decided.”
+
+“There’s nothing outside you need.”
 
 ---
 
-He sees people suffering.
+Scene 2
 
-He jokes.
+Akihiko recognizes Ashvale’s early stage.
 
-Because if he stops joking...
+Limited disruption (not Mad Jester): rings the bell; affected people suddenly speak their own interrupted thoughts at once.
 
-he remembers why he started.
+Outbreak stopped through combined effort. He cannot simply erase it without risking Collapse.
 
 ---
 
 Ending:
 
-"The world is a terrible stage.
-
-Someone has to laugh."
+Evidence: phenomenon came through the newly opened Door; something crossed into the countryside before they sealed the room.
 
 ---
 
 # Chapter 6
-# The First Inquisitor
+# Conditional Release (Monster Earns It)
 
 **Status:** Drafted (`chapters/chapter-06.md`) — pending accept
 
 POV:
 
-Kuro (with Executioner Shigure)
+Renji (Kuro/Ayame/Hoshikawa/Emperor in scene)
 
 ---
 
-The Church sends an executioner (Shigure) with Inquisitor Kuro.
+Scene 1 — Short council
+
+Stalemate on release. Sera’s Rest strip known. Kuro: “Agreement without judgment.” Renji practical; Ayame investigative; Emperor necessity not yet enough alone.
 
 ---
 
-Kuro expects a monster.
+Scene 2 — Breach
 
-Finds a man feeding children (Command service court).
-
----
-
-Jurisdiction clash (Renji/Ayame vs Church). Judgment Rei interrogation. Execution postponed.
-
-Confusion begins.
-
-Hook: kindness breaks Kuro’s innocence model.
+Big breach-beast hits capital edge / west Command approach. Renji, Wataru, other Heroes fight; almost die. Akihiko sealed. Renji makes ugly call to loosen seals.
 
 ---
 
-# Chapter 7
-# The Fool's Crime
+Scene 3 — Obliterate
 
-**Status:** Drafted (`chapters/chapter-07.md`) — pending accept (~2750 words)
-
-POV:
-
-Renji
+Fool jokes (snack/logistics/elbows). Monster comes undone — not nuke. Cost: breath/seals. No Axiom name. No Consensus explanation.
 
 ---
 
-The kingdom announces:
+Scene 4 — Release
 
-The Fool destroyed Homura (river city).
-
----
-
-Renji investigates (refugee row; Old Den).
-
-Truth:
-
-The city was controlled by demons (agreement / nailed smiles).
-
-The destruction saved thousands.
-
-Fight: remnant possession; Renji cuts seam; Fool’s bell helps.
-
-Hook: Renji files ugly truth against public decree; Homura “still unfinished.”
-
----
-
-# Chapter 8
-# The Impossible Choice
-
-POV:
-
-Ayame
-
----
-
-Ayame discovers the government hid the truth.
-
----
-
-She must choose:
-
-Protect the kingdom.
-
-Or reveal the truth.
-
----
-
-# Chapter 9
-# The Mask
-
-POV:
-
-The Fool
-
----
-
-Small hints:
-
-His mask is ancient.
-
-His bell is older than kingdoms.
-
----
-
-He meets someone who recognizes him.
+Conditional release because of what they saw + Sera’s Rest. Not pardon. Kuro objects on record.
 
 ---
 
 Ending:
 
-"You finally came back."
+Short road. First rooftops of Sera’s Rest + “Let’s see if anyone’s still carrying anything.” Do not enter village. **Camp / salt-argument parked for Ch 7 open.**
 
 ---
 
-# Chapter 10
-# The First Joke
+# Chapter 7
+# Sera’s Rest
+
+**Status:** Outline only
 
 POV:
 
@@ -345,22 +297,69 @@ Renji
 
 ---
 
-Renji confronts The Fool.
+**Open:** Road camp breathing if not in Ch 6 — sparrows, medic story, first catch-sign (nobody disagrees who cooks; Renji forces salt argument). Then enter village.
 
-Asks:
+**Identity:** Sera’s Rest is the village where **bread never burned — even when nobody watched the ovens.** Reality helps work too much: fields weed themselves, buckets refill, harvest that no longer needs harvesting. Uncanny ease (not another beast fight as the chapter identity).
 
-"Are you good?"
+Lived detail first (Wataru’s normal eyes — he nearly died in Ch 6). Escalate effort-death: smiles of relief, “We decided,” abandoned chores that somehow finish themselves.
 
-The Fool answers:
+Akihiko interrupts sideways — does not solve. Do not explain cups/Settlement mechanics.
 
-"No."
+Wataru = reader’s Hero. Do **not** kill or betray him.
 
-"Are you evil?"
+---
 
-"No."
+# Chapter 8
+# After the Easy Harvest
 
-"Then what are you?"
+**Status:** Outline only
 
-The Fool smiles.
+POV:
 
-"Free."
+Renji
+
+---
+
+Fallout of Sera’s Rest. Contagion path / who left carrying ease. Conflicting local stories. Tiny glimpse of Akihiko’s power without lore dump.
+
+---
+
+# Chapter 9
+# Witnesses
+
+**Status:** Outline only
+
+POV:
+
+Ayame or Renji
+
+---
+
+Another witness / faction on the road.
+
+Homura (or similar) surfaces as Chorus proof — “nailed smiles,” Collapse when the agreement broke — not as capital decree plot.
+
+Church or Imperial observer complicates custody terms.
+
+---
+
+# Chapter 10
+# The First Failure
+
+**Status:** Outline only
+
+POV:
+
+Renji
+
+---
+
+First real failure to contain spread.
+
+Readers realize: this thing spreads; Doors are a network.
+
+Akihiko still refuses the methods that would guarantee Collapse.
+
+Mid-volume fear: what he might have to become.
+
+(Full Mad Jester turn reserved for ~Ch 16–20 — see `volume-1-spine.md`.)

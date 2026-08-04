@@ -48,26 +48,30 @@ A binding vow, not a sealed arena. Marks Renji and one opponent as duelists unti
 
 Goal
 
-Capture The Fool.
+At first: capture / classify The Fool.
 
-Eventually...
+Volume 1 engine: escort him under conditional release because the Chorus is spreading and Renji is the only Hero Command will trust with custody.
 
-Understand him.
+Eventually: understand him — and fear what he might become (Mad Jester), not only what he can do.
 
 ---
 
 Character Arc
 
-Order
+Order (contain the anomaly)
 
 ↓
 
-Doubt
+Doubt (Ashvale witnesses contradict; wrong smiles; Doors)
 
 ↓
 
-Growth
+Responsibility (conditional release — not trust, deployment)
 
 ↓
 
-Freedom
+Growth (road partnership; learn the Chorus)
+
+↓
+
+Fear / Freedom (what if stopping the Chorus requires becoming worse than it?)

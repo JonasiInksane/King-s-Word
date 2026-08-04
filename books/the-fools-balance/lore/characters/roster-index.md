@@ -32,7 +32,8 @@ Do not write full bios here. Each entry needs only:
 | M02 | Renji Arata | [sir-renji.md](sir-renji.md) | Order protects; rules restrain humans | Criminal → madman → necessary equal? | introduced Ch 1; Academy bind Ch 4; holding Ch 5 |
 | M03 | Emperor Seiryu | [emperor-seiryu.md](emperor-seiryu.md) | Control creates peace | Greatest threat (exposes imperfect system) | introduced Ch 3 (court; Ayame warning) |
 | M04 | Princess Ayame | [princess-ayame.md](princess-ayame.md) | Information controls reality | Sees the performance; arrest or follow? | introduced Ch 3 (court + trail); offstage Ch 4–5 |
-| M05 | Inquisitor Kuro | [inquisitor-kuro.md](inquisitor-kuro.md) | Chaos = suffering; unpredictability must die | Ultimate ideological enemy | introduced Ch 6 (POV) |
+| M05 | Inquisitor Kuro | [inquisitor-kuro.md](inquisitor-kuro.md) | Chaos = suffering; unpredictability must die; “Agreement without judgment” | Ultimate ideological enemy | introduced Ch 5–6 (POV Ch 6) |
+| M06 | Wataru | — | Write what you see; stay ordinary | Reader’s Hero / normal eyes on the Fool | introduced Ch 6; **do not kill or betray** |
 
 ---
 

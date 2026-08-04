@@ -1,273 +1,303 @@
-# Chapter 5 — The Bell
+# Chapter 5 — The Room That Agreed
 
-The soft seals around Akihiko’s wrists itched.
+By morning the Door was sealed twice, logged once, and explained differently depending on who asked.
 
-He turned his hands in the carriage gloom. A thin band of light followed each movement, then tightened again. Good Kotodama work. He tested the left seal with his thumb, then the right. Both held.
+A night clerk called it a ventilation fault. A seal-warden called it a filing error. Hoshikawa called it a containment irregularity and told everyone to stop inventing poetry for stone. Someone in the yard claimed they had smelled fruit. Someone else claimed they had smelled nothing and that the first someone should sleep more. The stable roster was short one name; the boy’s bunk was neat; nobody in the yard could agree when he had left, only that he had been smiling.
 
-Sir Renji Arata sat opposite him, one hand near his sword. Dust from the Academy still marked the seams of his armor. Blue light moved once beneath the skin at his throat and disappeared.
+Renji did not argue the explanations. He had slept in a chair outside the annex with his sword across his knees and woken each time a lamp flickered. He thought about the draft that had gone out before the latch caught, and about the courier Toma, who slept under watch in a side cot and woke twice with his mouth already shaped for a smile he then wiped away with the back of his hand.
 
-Outside, the capital passed in strips of afternoon: tile roofs, laundry, a vendor calling out steamed buns. A dog ran after a cart until it reached the next street. Akihiko watched it go.
+Sora stood the dawn watch with his hands clasped behind his back so he would not touch anything without deciding to. Hana brought Toma a clean wrap for the ankle and tied it too tight, then loosened it, apologizing twice for two different reasons.
 
-He remembered this corner from three years earlier. Another bun seller had stood there then. A boy had stolen food, run until he could not breathe, and accepted a second bun from Akihiko with a laugh. The watch took him later, for something else. Akihiko remembered the laugh and the boy being led away.
+“Water?” Hana asked him at first light, careful not to stand too close to Sora when she said it.
 
-He remembered Ashvale’s gate. The empty helmet at the Academy. The boy with scraped knuckles who had asked about luck.
+Toma nodded. He drank. He did not smile. That was progress.
 
-He remembered every ceiling he had slept beneath for twelve years. He remembered the years before anyone started counting.
+Akihiko sat on the annex bench with fresh seals. Someone had brought him a blanket he had not used. He had been given water. He refused the third offer of bread and set the crust on the bench beside him.
 
-There was the loft above the cooper’s shop, where rain came through the roof and woke him one drop at a time. There was the stable in Mino, where a mare had breathed hay over his shoulder all night. There was a prison cell with no window, a temple storehouse that smelled of old rice, and the floor beneath an inn table after he had spent his last coin on soup for someone else.
+Oda had not slept. He sat opposite Akihiko with a cup of cold tea and answered Renji’s questions in short pieces: yes, he remembered the latch; no, he did not remember choosing it; yes, he heard his own name when Akihiko said it; no, he could not say why that mattered. Hana checked Toma’s wrap twice more without needing to. Sora asked, once, if he was still Sora. Renji told him to keep asking that question until evening.
 
-He remembered who had been beside him in each place. Some had lived to leave. Some had not.
+Princess Ayame arrived before the second bell with a map of Hero Command’s underlevels drawn in her own hand. Paper Rei held the corners flat on the annex table. Ink marks showed storage, shrine niches, seal vaults, and a blank square where the service Door had sat unmarked for years.
 
-“You are unusually quiet,” Renji said.
+“It isn’t on the public inventory,” Ayame said. “It is on a quieter one. Church mark over Imperial mark over an older scratch I can’t read without scraping. Someone agreed, a long time ago, not to look.”
 
-Akihiko tipped his head. The bell at his waist touched the seat. “I’m hungry.”
+She set a second strip beside the map. “Stable boy. Yard roster name: Riku. Mother in the west canal quarter. Watch is already walking that street. Quietly.”
 
-Renji glanced at the sealed wrists. “You have been asking for food since Ashvale.”
+Renji studied the blank square. “How many quieter ones are there?”
 
-“People keep giving me reasons to.”
+“Enough that I slept poorly,” Ayame said.
 
-“That is not an answer.”
+Akihiko tipped his mask toward the map. He poked a blank square with one sealed finger.
 
-“It is the answer I have.”
+“Is there a room where people share pens?” he asked. “And bread. Your clerk said ‘we filed it’ before ‘it’ had a name. I liked that. Rude. Funny.”
 
-Renji looked down at his own hands. A callus had split at the base of his thumb. There was dried blood in the line of it, probably from the Academy. He closed his fingers once and rested them on his knees.
+Ayame’s eyes narrowed. She looked at the records wing mark on her own map.
 
-“You unbound a breach-beast in front of children.”
+Renji remembered the clerk—thin, ink on two fingers, walking the corridor with a stack of strips and a face too calm for a building that had shouted in the night. Renji had blamed it on fatigue.
 
-“I asked it for directions. It was unhelpful.”
+He stopped doing that.
 
-Renji’s mouth tightened. “Stop performing.”
+“Records wing,” Ayame said. “Now.”
 
-“Can’t. It’s glued.”
+Oda looked unhappy about leaving the annex. Renji left him there with Toma, Hana, Sora, and two fresh guards. The fresh guards got one rule: if anyone starts finishing anyone else’s sentence, call for help before it feels neat.
 
-Akihiko tapped the crack in his porcelain mask with a sealed wrist. Renji watched him without moving.
+In the stairwell between annex and records, Ayame walked half a step ahead, map rolled under her arm. Akihiko followed with the seals chiming softly. Renji took the rear and counted their footsteps until he was sure they were not matching.
 
-“You let yourself be bound,” Renji said. “At Ashvale, you walked beside me. At the Academy, you waited. Why?”
+A Command aide met them at the landing with a strip about the Door reseal: bands holding, odd calm gone, no second opening. Renji signed it without slowing.
 
-Akihiko looked through the window.
+“If the wing is clean,” Ayame said without looking back, “we still have Sera’s Rest as rumor.”
 
-Renji looked tired. The seals itched. If Akihiko broke them, Renji would draw his sword. There would be shouting, then reports, then more people deciding what they had seen.
-
-“I chose to wait,” Akihiko said.
-
-Renji did not laugh.
+Akihiko kicked a stair edge lightly with his heel. “Does this place smell like a kitchen? Kitchens argue. I like that.”
 
 ---
 
-The carriage slowed at a checkpoint.
+The records wing sat one level above the sealed Door. Shelves ran in straight lines. Lamps burned steady. The air was cool.
 
-A woman sat against a warehouse wall with a sleeping child across her knees. The child’s sleeves covered most of his hands. A patrol passed them on the far side of the street. One soldier looked over, then kept walking.
+Akihiko stopped at the threshold. The seals chimed once.
 
-Akihiko’s fingers moved toward his bell before he stopped them.
+“…Ink under the nails,” he said, pleased. “Someone was still writing.”
 
-“There’s a woman with a child,” he said.
+Renji looked past him—dust, dry ink, a clerk stamping forms, another shelving ledgers by year. Ordinary work. He let the comment pass. The Fool smelled kitchens in stairwells. Ink was probably next.
 
-Renji followed his gaze. “There are shelters.”
+At the end of the wing, a reading room held tables, stools, and a side door to a small shelter bay used for overnight clerks during storms and emergencies. Renji had slept in bays like it during flood season years ago—thin mattresses, a kettle, the smell of wet wool. He remembered arguing with another Hero about whose turn it was to fill the kettle. The argument had been stupid. He would have paid coin to hear a stupid argument now.
 
-“There are.”
+The side door was closed.
 
-“Do they have food?”
+Three clerks stood in front of it in a polite crescent. Their hands were empty. Their faces were calm. Through a narrow glass panel, Renji saw more people inside the bay—six, maybe seven—sitting as if a meeting had already finished. One woman’s knitting lay in her lap unused. A man’s boot tapped once, then stopped, then matched another man’s boot without looking down.
 
-Renji looked back at him. “I don’t know.”
+One of them saw Renji and smiled.
 
-Akihiko looked back through the window.
+Not a greeting. Relief. The face of someone who had finally stopped fighting something invisible.
 
-The carriage rolled on. Akihiko saw a one-armed man asking for coins outside a tea shop. A shrine clerk argued with a widow over funeral fees. Two Academy students laughed as they passed, one of them pointing at his mask through the glass.
+“You should—” the nearest clerk began. A woman with ink on her cuff.
 
-Akihiko had heard that laugh before. He had heard versions of it in other cities, at other gates.
+“—stay,” said the second, without looking at her. “We’ve made—”
 
-People wrote _no memories_ on the outside of a folder when they wanted a simple answer. He remembered everything anyway. Faces, voices, last words, small favors that had gone nowhere. The jokes came first because otherwise the memories did.
+“—space,” said the third.
 
-He remembered the woman at the checkpoint, too. He had seen her two winters ago outside a soup line on the north side. Then she had carried a baby under a blue shawl and had both hands free. This child was older. The baby might have been the child, or it might not. Akihiko could not ask through the carriage glass.
+“Open the door,” Renji said.
 
-Renji had noticed the same street, perhaps the same woman. His eyes had moved to the patrol and back again. He had said there were shelters because it was true. He had not said whether there was space, food, or someone awake to let them in.
+“We decided,” said the second clerk. Soft. Almost kind. As if a weight had left his hands.
 
-Akihiko pressed his shoulder against the carriage wall. The seals kept his hands in his lap.
+“We decided,” said the third, the same way.
 
-“You saw the woman,” Renji said.
+Ayame’s paper birds lifted from her sleeve. “Step aside.”
 
-“I see lots of things.”
+The clerks did not move aggressively. They simply did not move. One of them gestured Renji around the birds the way a tired person offers a chair to another tired person.
 
-“Then why laugh at ruined villages? Why laugh when the Academy was under attack?”
+From inside the bay, a man called gently, “It’s all right. Come in. You don’t have to—”
 
-“Practice.”
+“—keep going,” several voices finished together.
 
-Renji’s hand rested on his hilt. He had not drawn. Akihiko noticed that.
+Then, clear as a stamp, peaceful: “We decided.”
 
-“That is not an answer.”
+Renji could see the empty tray on the shelf. Cups stacked clean. Kettle cold. Chairs that did not need rearranging. Knitting that did not need finishing. Nothing in the bay looked unfinished. Nothing looked like it needed doing. An emergency shelter that had stopped requiring effort.
 
-“It’s a small answer.”
+Akihiko made a small sound behind him. Not a laugh.
 
-A cart wheel caught on a stone outside. The horse screamed. The driver struck it once, and the cart moved again.
+“Oh,” he said. “They’re sharing again.” Then, cheerful, to Renji: “If they offer, ask for two. See what happens.”
 
-Akihiko stopped breathing for a moment.
+Renji’s sword cleared a finger-width of sheath. Lightning threaded the steel. He looked at the empty tray anyway, because the Fool had asked him to see what happened.
 
-There had been a field. Wet soil. A white mask broken in two in his hands. Names called from somewhere beyond the smoke.
+“Two,” Renji said.
 
-“Akihiko.”
+The ink-cuffed clerk smiled—relieved—and turned, as if the asking had been the last hard part.
 
-He blinked. The carriage was back. Renji was still sitting across from him, tired eyes fixed on the holes in the mask.
+On the tray sat two cups.
 
-“I’m here,” Akihiko said.
+Steam rose from both. The kettle was still cold. The stacked cups on the shelf were still stacked. Nobody had moved. The steam did not thin. It simply was.
 
-“You remember more than you pretend.”
+Ayame’s breath caught once behind him. Renji did not look away from the cups.
 
-“I remember enough. Put that in your report.”
+The ink-cuffed clerk reached for Renji’s wrist—not to strike. To guide. Her grip was gentle and hard to break. Warm skin. No Rei flare he could name. Only the soft insistence of a choice already finished for him.
 
-The carriage hit a rut. His shoulder touched the window frame.
+“You look tired,” she said. “You don’t have to keep carrying it. Stay. We can finish your report—”
 
-A funeral procession crossed an alley ahead of them. Four bearers carried a body under cheap white cloth. Akihiko knew the hymn the priest was singing. He had heard it in seven towns. He raised two fingers as the procession passed.
+“—together,” said the second clerk. “We already know how it—”
 
-In one of those towns, a twelve-year-old boy had been buried before his debt collector arrived. In another, a woman had laughed at Akihiko’s bell the day before the river took her. The melody was always nearly the same. The words changed with the local god.
+“—ends,” said the third.
 
-“Don’t,” Renji said.
+Renji pulled free. The pull took more strength than it should have. His boot slid a half-inch on clean stone.
 
-“Don’t what?”
+Ayame’s birds cut a line between them and the clerks—paper edges bright, not yet cutting skin. “This is Paper Rei under royal seal. Disperse.”
 
-“Make light of the dead.”
+The clerks looked at the birds with mild interest.
 
-Akihiko watched the white cloth disappear down the alley. “I’m counting.”
+“We don’t need—” one began.
 
-Renji was quiet for several seconds. “Who are you?”
+“—those,” said another.
 
-Akihiko almost gave him a name. Instead, he knocked once against his mask.
+“We decided,” said the third.
 
-“Akihiko.”
+Inside the bay, seven heads nodded together. The knitting woman’s smile deepened—not joy. Relief. Somewhere behind the glass, someone hummed two notes and stopped, as if even humming had become optional.
 
-“That is not—”
+Footsteps on the stair. Inquisitor Kuro arrived with Executioner Shigure behind him. White robes. Black gloves. Dark cloth over his eyes. Dust from the road still clung faintly to Shigure’s boots; they had not come for a social call.
 
-“Ask again when you know whether the answer is for Command or for you.”
+Kuro stopped and turned his head as if tasting the air.
 
-Renji looked out the other window. The carriage continued toward Hero Command.
+“Blasphemy,” Kuro said. Not loud. Certain. “Agreement without judgment. Ease. Spoiled. Wrong.”
 
----
+“Hello,” Akihiko said. “I like your gloves.”
 
-Its outer yard was stone, iron, and soldiers. Flags snapped above the gate. Renji stepped down first, then waited without pulling the seals until Akihiko followed.
+Kuro’s head turned toward the mask. “You.”
 
-A young clerk dropped a stack of papers near the steps. One sheet slid to Akihiko’s boot. It listed missing people in a neat hand, with ages beside the names.
+“Still me,” Akihiko agreed. “Disappointing, I know.”
 
-He looked at it.
+Shigure’s hand rested near his blade. Renji stepped half a pace to keep the lines clear—Church, Empire, prisoner, room. Ayame did not step back. Her birds held their cut-line in the air.
 
-Two names were familiar. He had met both children during a winter when the river froze hard enough to cross. He had made one of them laugh. He had promised the other that he would come back with food.
+“Explain,” Kuro said to Renji.
 
-The first girl had worn a red mitten with the thumb missing. She had told him her brother was brave because he could steal coal without coughing. The second had been a boy who never looked up when adults spoke. Akihiko had left him a heel of bread and said it was a tax refund. The boy had stared at it, then asked whether the government knew.
+“It’s spreading,” Renji said. “They finish each other’s sentences. They say ‘We decided’—those words, exactly. Guards last night. This bay now. A Door opened under us. A stable boy walked out smiling before we could stop him.”
 
-Akihiko had said no.
+Ayame did not look away from the steam. “It’s older than anything we chose to file. Church mark over Imperial mark over a scratch that already knew how to hide.”
 
-The soldier by the gate gave a short laugh. “Clown’s scared of paper.”
+Akihiko tipped his mask toward the glass. “It’s tired.”
 
-Akihiko bent as far as the seals allowed and pushed the sheet back with his boot.
+Kuro was silent long enough for the lamps to hiss.
 
-“You dropped this,” he told the clerk. “It’ll get dirty.”
+“It is heresy of the will,” he said. “Many mouths. One forbidden Amen. Possession is kinder. Possession can be cut out.”
 
-The clerk picked it up quickly. Renji said, “Inside.”
+Akihiko lifted his sealed wrists. “May I? Softly. Also I haven’t had breakfast.”
 
-Akihiko walked through the yard. Soldiers watched from the walls and the doorways. He did not turn around to count them.
+Ayame looked at Renji. Renji looked at the smiling glass panel, at the empty tray, at the knitting in a lap that had stopped being anyone’s work.
 
----
+“Soft,” Renji said. “If you escalate without cause, I will stop you.”
 
-The holding room had a bench, a lamp, and bare walls scrubbed pale. Renji remained by the door.
+“Heroic,” Akihiko said, and for once it almost sounded like a compliment.
 
-Akihiko sat and flicked his bell with one finger. Its note was small in the room. He rang it again.
+Kuro did not give permission. He also did not forbid it. Shigure’s fingers stayed near the blade and did not close.
 
-The bench had been bolted to the floor. Four screws held each leg in place. The lamp had a wire cage around its glass. There was a dark mark beside the door where a boot had struck the wall, and a narrow groove in the floor where something heavy had been dragged across it.
+Renji loosened the cord enough for Akihiko’s hands to move, seals still biting. Pale lines showed on Akihiko’s wrists. Akihiko stepped to the side door. Dust lifted from his coat hem. The clerks parted and one inclined his head, welcoming him toward a table with no food on it.
 
-The room had been used before. It had simply been cleaned after each person left.
+Ayame’s birds adjusted their line without cutting. Renji kept his sword at the same finger-width of sheath and watched for thrashing that did not come.
 
-“Command will question you,” Renji said. “The Church is sending someone. Princess Ayame has requested copies of your statement.”
+“If this goes wrong,” Kuro said, “the Church will write your name beside his.”
 
-“What does the princess want?”
+“Then write clearly,” Renji said.
 
-“I don’t know.”
+Akihiko flicked the silver bell.
 
-“She should ask me herself.”
+The sound was small. Bright. Stupid in a corridor built for quiet work.
 
-“This is not a joke.”
+For a breath nothing happened.
 
-Akihiko looked at him. Renji stood straight, but his shoulders were set too high. His hand was no longer near his sword.
+Then the bay spoke all at once.
 
-“I know,” Akihiko said.
+Not one voice. Seven. Fragments, overlapping:
 
-A clerk opened the door, saw him, and shut it again. Footsteps went down the corridor.
+“—I never finished the ledger—”
 
-“They’re afraid of you,” Renji said.
+“—my sister’s letter—”
 
-“They’re afraid of what they can’t write down.”
+“—don’t close it, don’t—”
 
-Akihiko rolled the bell between his palms. It was cold and worn smooth at the rim. He remembered who had tied it to him. He did not say the name.
+“—I am afraid—”
 
-Renji had taken off one glove while they spoke. He put it back on now, finger by finger, then checked the buckle at his wrist. The movement was slow. Akihiko watched until Renji noticed.
+“—the Door smelled like—”
 
-“What?” Renji asked.
+“—I want to leave—”
 
-“Nothing.”
+“—why are we smiling—”
 
-“You were looking.”
+The settled smiles cracked. A woman inside sobbed once and clapped a hand over her mouth. A man stood so fast his stool fell and skidded into a mattress. The clerks in the crescent staggered; the ink-cuffed woman’s eyes filled with ordinary panic. The humming stopped mid-note.
 
-“People do that.”
+“I—I don’t—” she began, and stopped, mouth open on a sentence that no longer had company.
 
-“Not usually at my hands.”
+The side door’s latch turned under Renji’s hand like any latch. He wrenched it. Ayame’s birds swept the frame. People spilled into the corridor—coughing, arguing, grabbing sleeves, stepping on the fallen knitting and apologizing to whoever owned it.
 
-Akihiko rested the bell on his knee. “You keep checking whether your armor is still there.”
+One clerk tried to go back in—not panicked. Reaching for the room where nothing had hurt.
 
-Renji’s face did not change. “It is.”
+“No,” Renji said, and held the line with an arm across the doorway.
 
-“Good. Would be embarrassing to lose it indoors.”
+On the tray inside, the two cups were empty again. No steam.
 
-Someone shouted elsewhere in the building. The sound ended too quickly to tell whether it had been anger or pain.
+A medic from the lower hall arrived at a run, kit open before he finished asking who was hurt. Renji pointed him at the twisted ankle and the woman still covering her mouth. Names came in messy order: the ink-cuffed clerk was Sato; the man with the stool was Denji; the knitter would not give her name until she had counted her needles twice.
 
-Akihiko tried to make a joke. Nothing came.
+Kuro stood unmoving. Judgment Rei pressed the air—cool along Renji’s skin, searching for a single guilt to hold. Shigure did not draw. His eyes stayed on Akihiko.
 
-“Will someone bring food?” he asked after a while.
+Akihiko leaned against the shelf end, breath short behind the mask. The bell hung still. Dust marked his coat where he had hit the shelf.
 
-“Later.”
+“…That shelf leans,” he said.
 
-“Fine.”
+Nobody answered. Renji did not write it down.
 
-“Honest.”
+Ayame’s fingers had gone white on a folded strip. She looked from the cracked smiles to Renji. “…They’re still themselves.”
 
-“You should eat when they bring it,” Renji said.
+Renji checked pulses, pupils, the rest of the names. No blood. No corpses. Voices overlapping for ordinary reasons again—blame, fear, apology, someone insisting they had only been trying to help.
 
-Akihiko looked up. “Why?”
+“Is it gone?” he asked.
 
-“Because you have not eaten.”
+Akihiko tipped his head toward the floor—toward the sealed Door below. Then toward the high window, and the road beyond it. The air in the bay had gone ordinary. Whatever had been easing people out of themselves had already moved on.
 
-“You watched me give food away.”
+“…It asked too soon,” he said. Curious. Almost sad.
 
-“I watched you refuse the rest.”
+Nobody answered that.
 
-The bell stopped moving in Akihiko’s hands. “There were three children.”
+Then, lighter: “They set an extra place.”
 
-“There were three buns.”
+Renji glanced at the bay table. One empty stool among the others. Of course they had. A place to sit when you got tired. He almost said so aloud and stopped himself—arguing with the Fool wasted breath.
 
-“Then the count was right.”
+Akihiko tipped his mask toward Sato’s empty hands. “Do you still like salty soup?”
 
-Renji did not answer at once. He looked at the sealed wrists again. “You can ask for more.”
+Sato stared at him. “…Yes?”
 
-Akihiko set the bell down beside him on the bench. “Asking is different.”
+“Good,” Akihiko said. “Keep that.”
 
-He stood and paced: four steps to the wall, turn, four steps back. The seals whispered as he moved.
+Kuro’s gloves flexed. “You speak as if pity excuses heresy.”
 
-On the third turn, memory hit without permission: a black wall that should have fallen and didn’t; ranks of people waiting to be named Hero or corpse while the naming refused to stick; a cold like the world had lost the count of what they were supposed to be.
+A clerk behind Akihiko started crying in the practical way of someone counting lost hours. Sato’s fingers were black to the cuticle with ink—yesterday’s work still under the nails, unfinished.
 
-Akihiko stopped mid-step. The seals flared warning-hot against his skin.
+“Salt fights are important,” Akihiko said. “I miss them.”
 
-“Sit,” Renji said.
+Ayame knelt beside the ink-cuffed clerk and spoke soft enough that Renji had to step closer to catch it. “What did you decide? Exactly.”
 
-Akihiko sat.
+The clerk swallowed. “That we should stay. That choosing was… heavy. That outside was unnecessary. That it was easier.” Her face crumpled. “I have a child in the east quarter. I don’t know when I stopped meaning to go home. I don’t know when going home started to feel like work.”
 
-The wall left its mark behind his eyes and then went away, because he asked it to, because he still could. For now.
+Renji stood and looked down the corridor. Through the high window at the end, capital light looked ordinary. Carts. Voices. A dog barking at a fishmonger. Two apprentices arguing over a broken seal stamp—good arguing, loud and useless and separate.
 
-Renji took one step closer. “If you stop, what happens?”
+Ayame sent one paper bird down the stair toward the Door level with orders Renji overheard: mark the frame, mark the time, mark who had walked past it in the last day. Another bird went to the tray that had held two cups nobody could account for.
 
-Akihiko listened to boots pass the door. A quill scratched somewhere above them. He could have answered with the wall, the names, the faces that returned whenever a room went quiet.
+The ink-cuffed clerk sat on the floor with her back to a shelf and counted her own fingers, once, twice. Renji crouched long enough to ask her name and write it down.
 
-Instead he rang the bell once.
+A runner arrived from the outer court before Renji could finish the second name. Face windburned. Message strip shaking in his hand. He had ridden hard enough that foam still clung to his horse’s bit outside.
 
-“If I stop joking,” he said, “I have to remember why I started.”
+“Sir Renji. Princess. Report from the west road post.” He bowed too fast. “A farming hamlet—Sera’s Rest—sent no dispute filings for two days. Tax clerk rode out. Village head smiled through a broken arm. Kept finishing the clerk’s questions before he asked them. Said ‘We decided’ about the harvest. Twice. Same words. Clerk came back early. Fields neat. Too neat. Animals walking the same lines.”
 
-Renji did not answer.
+Ayame closed her eyes once.
 
-Outside, the capital kept moving: vendors, patrols, funerals, names on lists. Akihiko leaned his head against the clean wall. The porcelain clicked softly on stone.
+Kuro turned his covered face toward Akihiko. “You will remain sealed.”
 
-He closed his eyes and listened to Renji breathing by the door.
+“Obviously,” Akihiko said. “I’m decorative.”
+
+Renji took the message strip. The paper was ordinary. The words were not. He read them twice, then a third time.
+
+“Sera’s Rest,” he read.
+
+Akihiko’s bell gave the smallest chime.
+
+“Oh,” he said. “Someone else put it down.”
+
+Silence held in the corridor—longer than a report deserved.
+
+“…Do they still bake?” Akihiko asked.
+
+Nobody answered.
+
+“…I hope they remembered the salt,” he added, quieter.
+
+Nobody reacted.
+
+Renji looked from the emptied shelter bay to the message strip, then to the seals on Akihiko’s wrists. Ashvale’s gate. Toma’s smile. Riku walking without hurry. A village head finishing a tax clerk’s questions. Two cups that had not been there until someone asked. The empty stool in the bay sat ordinary and stupid. It hadn’t been waiting for them. It had been waiting for someone else.
+
+“Meeting,” Ayame said. Already moving. “Emperor’s ear if we have to break a door upstairs to get it. I’ll send a bird to the canal watch about Riku’s mother before we sit.”
+
+Kuro did not follow at once. He stood in the ink smell while the clerks argued in messy, welcome voices. Someone asked for water. Someone asked for their child. Someone asked whether they still had a job. Sato pressed both hands to her face and said her daughter’s name three times, as if the name were a weight she was choosing to pick up again.
+
+Shigure waited.
+
+“Not possession,” Kuro said at last, almost to himself. “Worse. A congregation without a god.”
+
+Shigure spoke for the first time since entering the wing. His voice was flat. “Do I cut him later?”
+
+“Not today,” Kuro said. “Today we go upstairs and hear what the Empire calls mercy.”
+
+Then he walked after them, white robes steady in the corridor light. Behind him the records wing filled again with stamps, shelves, and apology.

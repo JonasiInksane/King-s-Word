@@ -4,39 +4,41 @@ Current Mysteries
 
 Every thread needs: chapter introduced · current clues · planned payoff · final resolution.
 
+**Version B:** Homura decree / Academy breach threads from archived drafts are inactive.
+
 ---
 
 ## Who is The Fool?
 
 Status: Open  
 Introduced: Before / Ch 1 (name offered: Harlequin Akihiko)  
-Clues: Rumors conflict; answers to the bell; hates “assignments”; Ch 5 interior remembers everything while folders say no memories  
+Clues: Rumors conflict; answers to the bell; hates “assignments”; recognizes Chorus early  
 Resolution: Final Arc
 
 ---
 
 ## Who / what destroyed Ashvale?
 
-Status: Open  
+Status: Open (writer: Chorus Closure + Collapse when Akihiko broke the shared law)  
 Introduced: Ch 1  
-Clues: Odd fire stop; quiet matters; “door” language; attacker unknown; Akihiko claims absence during attack  
-Payoff: Early arcs (attacker identity); deeper cause later
+Clues: Odd fire stop; quiet matters; “door” language; Akihiko claims absence during attack; Ch 4–5 he names early stage matching Ashvale  
+Payoff: Partial through Vol 1 road; full stages later
 
 ---
 
 ## What is “the door” everyone agreed not to look for?
 
-Status: Open (writer-truth locked in `lore/mysteries.md` Mystery 010 — **not on-page**)  
-Introduced: Ch 1  
-Clues: Akihiko came because it was left open; gate treated as rude for still being closed  
-Writer: quiet Imperial/Church seal over Ashvale Balance wound; attack “left it open”; wooden gate ≠ the door  
-Payoff: Mid Vol 1+ (scheduled; README forbids early explain)
+Status: Open — partial on-page Ch 4  
+Introduced: Ch 1; Door opens Ch 4  
+Clues: Service Door under Hero Command; Church + Imperial silence marks; quiet inventory; outward leak  
+Writer: Mystery 010 / 011 — `lore/phenomenon-chorus.md`  
+Payoff: Door network mid Vol 1+
 
 ---
 
 ## What did Akihiko do to the gate?
 
-Status: Open (writer-truth locked Mystery 010 — **not on-page**)  
+Status: Open (writer-truth locked Mystery 010 — **not fully on-page**)  
 Introduced: Ch 1  
 Clues: Not a shatter; barrier-idea fails; Renji’s Rei catches nothing; hinge-height memory blurs  
 Writer: Infringement unmakes the *lie of closure*; Renji misfiles as vandalism  
@@ -44,20 +46,30 @@ Payoff: Magic / philosophy reveal arcs — do not explain early
 
 ---
 
+## What is the Chorus / enforced harmony?
+
+Status: Open — symptoms on-page Ch 4–6  
+Introduced: Ch 4  
+Clues: Agreement, wrong smiles, polite captivity, bell disruption, Sera’s Rest early signs  
+Writer stages locked in `lore/phenomenon-chorus.md`  
+Payoff: Vol 1 spine through Mad Jester
+
+---
+
 ## Why was Akihiko waiting for a Hero — and why Renji?
 
 Status: Open  
-Introduced: Ch 1; sharpened Ch 2; echoed Ch 4–5 (early/late; chasing/following)  
-Clues: “You’re early”; “worried nobody would come”; Renji concludes wait was for him specifically  
+Introduced: Ch 1; sharpened Ch 2; Ch 4 allows capture for records/access  
+Clues: “You’re early”; “worried nobody would come”; wants survivor names / folders  
 Payoff: Vol 1 throughline — do not answer early
 
 ---
 
 ## What does “following” mean (vs chasing)?
 
-Status: Open  
-Introduced: Ch 2; repeated Ch 4 at Academy bind  
-Clues: Akihiko frames Renji’s next step as chase or follow  
+Status: Open (shifted)  
+Introduced: Ch 2; Ch 6 becomes responsibility/deployment  
+Clues: Escort under seals; Renji “deploying” a disaster  
 Payoff: Renji arc middle
 
 ---
@@ -75,9 +87,8 @@ Payoff: Mid series — keep ability/luck/insanity arguments alive
 
 Status: Open  
 Introduced: Ch 3  
-Clues: *Subject recovered after cessation of hostilities. No memories. Broken white mask.* Designation scratched out. Ayame: “Recovered from what?”  
-Contradiction seed: Ch 5 reader knows he remembers everything — folder line may be lie, partial, or about something else  
-Payoff: Later Vol 1 (~kingdom-save / North Wall arc); do not dump in Ch 3–5
+Clues: *Subject recovered after cessation of hostilities. No memories. Broken white mask.* Designation scratched out.  
+Payoff: Later Vol 1 (~kingdom-save / North Wall arc); do not dump early
 
 ---
 
@@ -85,8 +96,8 @@ Payoff: Later Vol 1 (~kingdom-save / North Wall arc); do not dump in Ch 3–5
 
 Status: Open (pattern, not single answer)  
 Introduced: Ch 3  
-Clues: Retreat-road dead; sister free / other family ruined; children returned / twelve priests missing; intentional vs accidental theories both pinned  
-Payoff: Ongoing — keep ambiguity; no Batman conversion
+Clues: Retreat-road dead; sister free / other family ruined; children returned / twelve priests missing; Chorus Collapse costs  
+Payoff: Ongoing — keep ambiguity
 
 ---
 
@@ -99,28 +110,63 @@ Payoff: Mid Vol 1+
 
 ---
 
-## What was the Academy breach-beast / how did he unmake it?
+## Why does he submit to binding?
 
 Status: Open  
 Introduced: Ch 4  
-Clues: Not handbook beast; instructor seals failed; palm + whisper; no clean cut; luck vs unclassified Rei  
-Payoff: Power mystery arcs — do not confirm Infringement name on-page yet
+Clues: Allows capture for records/survivor access; soft seals on road Ch 6  
+Payoff: Renji relationship / unfinished ledger
 
 ---
 
-## Why does he submit to binding sometimes?
+## What left through the Door before reseal?
 
 Status: Open  
 Introduced: Ch 4–5  
-Clues: Walked at Ashvale; waited at Academy; accepts soft seals though he could break them (Ch 5 interior)  
-Payoff: Renji relationship / “following”
+Clues: Outward draft; Sera’s Rest early Agreement  
+Payoff: Ch 7–10 road cases; network later
+
+---
+
+## Can he stop Chorus without Collapse?
+
+Status: Open  
+Introduced: Ch 5–6  
+Clues: Bell nudge works early; Ashvale/Homura menu when late  
+Payoff: Escalation toward Mad Jester (~16–20)
+
+---
+
+## What is Homura really?
+
+Status: Open (retargeted)  
+Introduced: Cited Ch 6 (Ayame smile-notes); full case on road later  
+Writer: mature Chorus, not separate demon primary  
+Payoff: Road witness chapters — not capital decree
+
+---
+
+## Why does the Church fear him?
+
+Status: Open  
+Introduced: Ch 3 letter; Ch 5–6 Kuro  
+Clues: Door silence marks; category error; objected to release  
+Payoff: Kuro arc / Church history with North Wall / Doors
+
+---
+
+## What is the Mad Jester?
+
+Status: Open — writer-locked, not on-page  
+Introduced: Lore only (`lore/mad-jester.md`)  
+Payoff: ~Ch 16–20 when merciful methods fail
 
 ---
 
 ## Why does destiny / classification fail around him?
 
 Status: Open  
-Introduced: Pre-story lore; reinforced Ch 1 (three names); Ch 4–5 unfinished reports / fear of categories  
+Introduced: Pre-story lore; reinforced Ch 1 (three names); Ch 6 category error  
 Resolution: Arc 5
 
 ---
@@ -143,50 +189,6 @@ Resolution: Late Arc 5
 
 Status: Open  
 Clues: He offered Akihiko freely in Ch 1 — “real” may mean more than the name
-
----
-
-## Why does the Church fear him?
-
-Status: Open (sharpened Ch 6)  
-Clues: Ch 3 letter; Ch 6 Kuro arrives to erase chaos; kindness complicates the kill; “Recovered is a Church word”  
-Payoff: Kuro arc / Church history with North Wall
-
----
-
-## What does Kuro’s Judgment Rei see in the Fool?
-
-Status: Open  
-Introduced: Ch 6  
-Clues: Stacked guilt / many doors; pressure returns *which crime first?*; not empty, not single-handle  
-Payoff: Identity / North Wall / Balance failure
-
----
-
-## Why postpone the execution?
-
-Status: Open (Kuro’s active question)  
-Introduced: Ch 6  
-Clues: Category error; kindness breaks his innocence model; fears killing wrong shape  
-Payoff: Kuro arc middle
-
----
-
-## Who rewrote Homura into a Fool crime?
-
-Status: Open  
-Introduced: Ch 7  
-Clues: Story flipped from demon raid → Fool destruction after Kuro postponed; Ayame suspects who benefits; Kuro wants a public monster while he decides  
-Payoff: Ch 8+ court / Church politics
-
----
-
-## Is Homura’s demon hold fully dead?
-
-Status: Open  
-Introduced: Ch 7  
-Clues: Remnant possession of Old Den (“Homura still unfinished”); Kuro smelled it; quarantine ordered  
-Payoff: Mid Vol 1 threat return
 
 ---
 

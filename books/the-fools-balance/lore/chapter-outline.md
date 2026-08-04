@@ -2,6 +2,10 @@
 
 # THE FOOL'S BALANCE
 
+**SUPERSEDED for early Volume 1 timing.**  
+Operative docs: `scene-outlines-ch01-10.md`, `volume-1-spine.md`, `phenomenon-chorus.md`.  
+Do not use Academy-early / Renji-fight-late / trial-spine beats from this file when they conflict.
+
 Total Planned Length:
 
 300 Chapters

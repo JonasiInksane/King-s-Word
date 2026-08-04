@@ -4,6 +4,8 @@ This document contains every established fact in the novel.
 
 Never contradict anything written here unless it is revealed to have been a lie.
 
+**Version B note:** Academy / Homura-decree drafts archived at `archive/cut-academy-trial/`. Active spine: `lore/volume-1-spine.md`.
+
 ---
 
 # World
@@ -31,7 +33,9 @@ Axioms exist (bindings: philosophy forced into temporary law on the marked — n
 
 Resonance exists (named in dialogue; not fully explained).
 
-Paper Rei (Ayame): living paper constructs / information work (Ch 3).
+Paper Rei (Ayame): living paper constructs / information work (Ch 3+).
+
+Judgment Rei (Kuro): confession pressure / guilt-sense (Ch 5–6).
 
 ---
 
@@ -50,22 +54,22 @@ Age:
 Unknown
 
 Official Rank:
-Unknown / active Hero Command containment (Ch 4–5)
+Unknown / conditional release under Hero Arata (Ch 6)
 
 Actual Power:
-Unknown on-page to cast. Witnesses disagree (luck vs unclassified Rei). Ch 4: breach-beast unmade without clean cut/standard seal. Ch 5 (Fool POV — reader only): he remembers everything; joking is how he stays functional.
+Unknown on-page to cast. Unclassified Rei. Bell briefly disrupts early Chorus (Ch 5). Gate unmake (Ch 1) unexplained on-page.
 
-Known appearance (Ch 1–5):
+Known appearance (Ch 1–6):
 Messy white hair; cracked white theatrical mask **always on his face** (painted smile; golden eyes through the holes; crack from left eye toward mouth); patched black coat; faded red scarf; small silver bell at waist. Face never shown.
 
 Known Weapon:
-None carried (used Renji’s sheath once Ch 1; snack wrapper Ch 4)
+None carried (used Renji’s sheath once Ch 1)
 
 Known Axiom:
 Unknown / unconfirmed
 
 Public rumors:
-Thief; clown; demon; Ashvale anomaly; Academy “luck” story circulating among students
+Thief; clown; demon; Ashvale anomaly
 
 ---
 
@@ -74,16 +78,16 @@ Thief; clown; demon; Ashvale anomaly; Academy “luck” story circulating among
 Akatsuki Kingdom (Empire structure with Heroes)
 
 Current Emperor:
-Seiryu (on-page Ch 3 council)
+Seiryu (on-page Ch 3 council; Ch 6 conditional release order)
 
 Princess:
-Ayame (POV Ch 3)
-
-Imperial Hero Academy:
-On-page Ch 4 (breach incident)
+Ayame (POV Ch 3; present Ch 4–6)
 
 Hero Command:
-Commander Hoshikawa issues field dispatches; capital Command holding used Ch 5
+Commander Hoshikawa; capital Command holding Ch 4–5; west-road deployment Ch 6
+
+Imperial Hero Academy:
+Exists in world; **not on-page in active Ch 1–6** (Academy draft archived).
 
 ---
 
@@ -92,13 +96,22 @@ Commander Hoshikawa issues field dispatches; capital Command holding used Ch 5
 Ashvale (Ch 1–2):
 Village under Imperial protection. Found ruined: wall broken, fires stopped oddly, survivors present. Attacker unknown. Outer gate later ceases to function as a closed barrier after Akihiko’s Rei (mechanism unknown on-page).
 
-**Writer-only (Mystery 010 — do not put in chapters until scheduled):** Ashvale sat on a quiet-sealed Balance wound; attack left “the door” open; Akihiko came for that; wooden gate unmake = correcting a lie of closure, not the door itself. Renji’s on-page read = vandal / madman landmark erase.
+**Writer-only (Mystery 010 / `lore/phenomenon-chorus.md`):** Ashvale sat on a quiet-sealed Door / Balance wound. Chorus reached Closure; Akihiko broke the shared law → Collapse. Wooden gate unmake = correcting a lie of closure, not the Door itself. Renji’s on-page read (Ch 1–2) = vandal / madman landmark erase.
 
-Capital (Ch 3–5):
-Court, Ayame’s private archive, Hero Academy, Hero Command holding.
+Capital (Ch 3–6):
+Court, Ayame’s private archive, Hero Command holding / records wing / service Door underlevels.
+
+Service Door (Ch 4–5):
+Beneath Hero Command. Church + Imperial silence marks. Opened by itself Ch 4; resealed; something already exited toward countryside.
+
+Sera’s Rest (named Ch 5–6):
+West-road farming hamlet. Early Agreement signs (no dispute filings; headman smiled through broken arm; animals too neat). Destination after conditional release.
 
 North Wall crisis (historical, cited Ch 3 folder):
 “Night the North Wall Should Have Fallen” — public legend; sealed field report exists.
+
+Homura (cited Ch 6; not visited):
+River city. Ayame links sealed survivor notes (“smiles that did not belong”) to Chorus pattern. Public demon-raid classification still in institutional memory; **no Ch 7 decree plot in active canon.** Full Homura proof reserved for road chapters. Writer: mature Chorus case — see `lore/phenomenon-chorus.md`.
 
 ---
 
@@ -108,7 +121,7 @@ Holy Dominion
 
 Sent letter instead of body to Ch 3 council (Kuro’s silence noted by Seiryu).
 
-Ch 5: will send someone. Ch 6: Inquisitor Kuro arrives with Executioner Shigure; postpones execution.
+Ch 5–6: Inquisitor Kuro + Executioner Shigure on-site. Kuro objects to release; Emperor notes objection. Church observer rights on escort.
 
 Seven Saints.
 
@@ -116,46 +129,54 @@ Holy Inquisition.
 
 ---
 
+# The Consensus (on-page facts through Ch 6)
+
+**Engine:** attacks **effort** (entropy of the will) — why bother? Signature: sentence-sharing + **“We decided.”** (relief). Smile = effort over. Pity, not hate. Later: reality obeys; late line “…For you to stop.” Theme: living is carrying things / Get up vs Rest.
+
+- Ch 4: signature on-page; Akihiko sideways (borrowed face; names Oda; “Who won?”); Door; stable boy (“wrong house”)
+- Ch 5: Renji/Ayame drive; Akihiko jokes/wanders; bell; “People kept agreeing… It got lonely.”
+- Ch 6: council; Akihiko non-reports (soup / sticky / polite furniture); release
+
+Writer: `lore/phenomenon-chorus.md`. Akihiko never explains on purpose — Renji/Ayame carry competence.
+
+Writer stages: `lore/phenomenon-chorus.md`. Mysteries 010–012.
+
+---
+
 # Established Characters (on-page or cited)
 
-Sir Renji Arata (Ch 1–2, 4–5):
-Hero of Akatsuki. Lightning Rei; Shiki-enhanced swordsmanship. Axiom **Absolute Duel** exists; nearly opened in Ch 2, aborted due to civilians. Left hip dips before knee strikes (habit named by Akihiko). Ordered to identify/contain The Fool. Bound Akihiko at Academy; stays with him in Command holding.
+Sir Renji Arata (Ch 1–2, 4–6):
+Hero of Akatsuki. Lightning Rei; Shiki-enhanced swordsmanship. Axiom **Absolute Duel** exists; nearly opened in Ch 2, aborted due to civilians. Bound Akihiko on capital road (Ch 4); bears direct responsibility for conditional release (Ch 6).
 
-Princess Ayame (Ch 3):
-Paper Rei; investigates Fool trail; holds illegal North Wall *recovered* folder; requested copies of any Fool statement (Ch 5).
+Princess Ayame (Ch 3–6):
+Paper Rei; investigates Fool trail; holds illegal North Wall *recovered* folder; Door network investigation; pushed living custody under conditions.
 
-Emperor Seiryu (Ch 3):
-Orders facts/contain/wards; note to Ayame: do not fall in love with a mystery.
+Emperor Seiryu (Ch 3, 6):
+Orders facts/contain/wards; Ch 6: conditional release — not pardon.
 
 Captain Mori (Ch 3):
 Capital watch; saint-warning to Ayame.
 
 Minister Oda (Ch 3):
-Interior; court sweat / danger framing.
+Interior; court sweat / danger framing. (Distinct from guard Oda Ch 4.)
 
-Commander Hoshikawa (cited Ch 1–3):
-Field dispatches; not fully on-page.
+Commander Hoshikawa (cited Ch 1–3; on-page Ch 6):
+Field dispatches; present at release council.
 
-Kenji Morita (Ch 4):
-Y1 Academy commoner; POV; drew breach-beast; asked “Was that luck?” / “What are you?”
+Guard Oda / Sora / Hana (Ch 4):
+Holding staff; early Agreement on south latch.
 
-Mei Suzume (Ch 4):
-Y2 support; gave Fool water; healed during breach.
+Courier Toma (Ch 4):
+Injured intake; wrong smile; “I’m fine.”
 
-Daichi Orochi / Yui Takamura (Ch 4):
-Luck narrative vs classify pressure.
+Inquisitor Kuro (Ch 5–6):
+Black Saint; eyes covered; Judgment Rei. Witnesses Room That Agreed; objects to release; category error; does not trust Fool.
 
-Instructor Venn / Warden Sera (Ch 4):
-Failed first response; Sera’s Kotodama broken (lip blood).
+Executioner Shigure (Ch 5–6):
+Silent blade; present Ch 5–6; turns back after first mile of escort.
 
-Old Tetsu (Ch 4):
-Groundskeeper; watched Fool long.
-
-Inquisitor Kuro (Ch 6):
-Black Saint; eyes covered; Judgment Rei (confession pressure). Expected monster; found Fool feeding children; postponed execution as “category error.” Claims “Recovered” is a Church word; demanded Ayame’s North Wall scrap.
-
-Executioner Shigure (Ch 6):
-Silent blade; nearly cut during interrogation; held on Kuro’s order; stays in capital.
+Junior Hero Wataru (Ch 6):
+Assigned escort witness / accurate reports. Nearly killed by breach-beast west of Command; survives. Do not kill or betray.
 
 ---
 
@@ -188,61 +209,37 @@ Chapter 3
 - Sealed North Wall folder: *Subject recovered after cessation of hostilities. No memories. Broken white mask.* Designation scratched out.
 - Ayame’s hook: Recovered from what? (Kingdom-save line not in folder.)
 
-Chapter 4
+Chapter 4 — Quiet Capture
 
-- Fool enters Imperial Hero Academy; mocked; containment pending.
-- Breach-beast attack; Academy response fails; panic.
-- Fool unmakes beast in a way witnesses call luck / unclassified; Renji binds him and removes him by carriage.
+- Renji + reinforcements bind Akihiko on capital approach (no Academy). Akihiko allows it; wants records / survivor name access.
+- Holding: guards agree too quickly; wrong smile on courier Toma; south latch “we decided.”
+- Akihiko: “That smile isn’t his.” Early Ashvale comparison.
+- Sealed service Door under Hero Command opens by itself; draft outward; Ayame present; resealed. Something already left.
 
-Chapter 5
+Chapter 5 — The Room That Agreed
 
-- Fool POV: remembers everything; joking is load-bearing.
-- Soft-bound in carriage/holding; could break seals, doesn’t.
-- Capital suffering seen; missing-persons list touches known names.
-- Church inbound; Ayame requested statement copies.
-- To Renji: “If I stop joking, I have to remember why I started.”
+- Records wing / shelter bay: polite captivity; shared conclusions.
+- Kuro + Shigure arrive mid-incident.
+- Akihiko’s bell briefly restores interrupted private thoughts; outbreak stopped without Collapse.
+- West-road report: Sera’s Rest early signs.
+- Akihiko: not possession — stopped being separate (Ayame finishes the word).
 
-Chapter 6
+Chapter 6 — Conditional Release
 
-- Kuro + Shigure arrive; jurisdiction clash with Renji/Ayame.
-- Fool feeds street children in Command service court under seals.
-- Judgment Rei fails to get a single clean confession (stacked guilt).
-- Fool admits he could break seals; refuses missing-person names.
-- Kuro postpones execution; watches Renji and Ayame; presses for North Wall scrap.
-
-Chapter 7
-
-- Court decree: Fool destroyed Homura (river city). Prior story (3 months): demon raid.
-- Survivor Old Den: Homura under demon agreement (“nailed smiles”); Fool broke the hold; fire = hold fighting back; thousands lived.
-- Demon remnant briefly re-possesses Den at refugee row; Renji cuts seam; Fool’s bell stutters possession.
-- Decree still stands publicly; Kuro smells demon truth but will not scrap the monster narrative cleanly.
-- Renji commits to an “ugly report” against the cleaner story.
-
----
-
-# Places (add)
-
-Homura (river city):
-Fell ~3 months before Ch 7. Demon-controlled (agreement/rites). Partially burned when hold broke. Survivors in capital south-canal refugee row. Publicly reassigned as Fool’s crime in Ch 7 decree.
+- Lesser council stalemate; interrupted by west-approach **breach-beast**.
+- Renji / Heroes nearly fail; Wataru nearly dies; Renji loosens Akihiko’s seals.
+- Akihiko unmakes the beast while joking (snack scrap, cafeteria, elbows); beast comes undone; no Axiom named.
+- Emperor: conditional release under Renji’s responsibility — spectacle + Sera’s Rest; soft seals; Church observer rights; not pardon. Kuro objects on record.
+- Escort departs west: Renji, Akihiko, Wataru, medic cart. No camp. Ends at Sera’s Rest rooftops.
 
 ---
 
 # Deferred (do not pay early)
 
-- “The Fool saved the kingdom twelve years ago” (writer/outline: later ~Ch 15 material)
-- Ashvale door / Balance wound truth (Mystery 010)
+- “The Fool saved the kingdom twelve years ago” (later ~Ch 15 material)
+- Full Balance wound dump / Door network map
 - Full North Wall events / what “recovered” means
-- Fool’s Axiom / true power classification
+- Fool’s Axiom / true power classification / Infringement name on-page
 - Why Renji specifically
-
-Chapter 18 (planned seed in older notes — not yet written)
-
-The Fool reveals he cannot be affected by memory magic. (Tension with Ch 5 reader knowledge he remembers — keep consistent when written.)
-
-Chapter 41 (planned)
-
-Princess Ayame discovers hidden archives. (Partial archive work already Ch 3 — escalate later.)
-
-Chapter 73 (planned)
-
-Kuro loses his left eye.
+- Mad Jester full turn (~Ch 16–20) — `lore/mad-jester.md`
+- Academy on-page (archived draft reusable later)

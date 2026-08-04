@@ -1,395 +1,339 @@
-# Chapter 4 — The Hero Academy Incident
+# Chapter 4 — Quiet Capture
 
-Kenji Morita learned three things in his first month at the Imperial Hero Academy.
+Sir Renji Arata caught him at the second milestone past the river bridge, where the capital road widened enough for wagons to pass and for spear-men to hold a proper line.
 
-One: nobles smelled like soap even after sparring.
+Reinforcements had ridden hard from the southern post. Six Heroes in travel armor. Two Command clerks with binding cord and soft Kotodama seals. Commander Hoshikawa’s order had arrived folded twice, short and plain.
 
-Two: Rank boards lied with perfect handwriting.
+_Identify. Contain. Do not escalate without cause. Bring him in._
 
-Three: if you came from a street where Heroes only arrived after the screaming stopped, you kept your mouth shut and your fists ready.
+Renji had followed the capital road since Ashvale without sleep that counted. Dust in the seams of his armor. Lightning Rei coiled under his skin, unused and impatient. The milestone rose from the verge like any other marker—chipped numbers, bird droppings, a crack from last winter’s frost.
 
-The fourth lesson arrived on a Tuesday, wearing a cracked white mask and asking where the cafeteria was.
+Akihiko sat on it with a rice ball in one hand.
 
----
+White hair messy. Cracked mask. Red scarf. Silver bell quiet against his coat. A roadside peddler’s cart stood a few paces off, its canvas flap still open. The peddler himself was counting coins with the careful anger of a man who had been paid late and too little. Beside the cart wheel, a paper wrapper waited for wind that hadn’t taken it yet.
 
-Morning drills had been ordinary until they weren't.
+He looked up when Renji’s horse stopped.
 
-Instructor Venn had them running the outer yard in pairs—Shiki wake-ups, short bursts, no showing off. Kenji's lungs burned the honest way. Beside him, Daichi Orochi ran like the ground owed him rent. Ahead, Yui Takamura's braid never bounced wrong. Far left, Mei Suzume jogged with a healer's bag bouncing on her hip, already scanning for rolled ankles.
+“Oh,” Akihiko said. “You brought friends. I only bought the one.”
 
-Then the side gate opened.
+The peddler glanced at the Heroes, then at the coins, then decided the coins were safer to look at.
 
-Not the main gate. The delivery gate. The one Old Tetsu cursed about when students propped it with rocks.
+“Harlequin Akihiko,” Renji said. “By Hero authority of Akatsuki, you will submit to binding and transport to Hero Command. Resistance will be treated as armed refusal.”
 
-A man walked in.
+“Homework,” Akihiko said. Mild. “Again.”
 
-White hair. Long patched coat. Faded red scarf. Cracked theatrical mask fixed over his whole face—painted smile, golden eyes in the holes. A small silver bell at his waist chimed once when he stepped onto Academy stone.
+One of the younger Heroes shifted. “Sir Renji. Orders.”
 
-Students slowed.
+Renji did not look away from the mask. “Stand.”
 
-Someone laughed.
+Akihiko stood. The bell chimed once. He held out his wrists. Rice grains stuck to his glove; he wiped them on his coat without looking, as if manners still applied.
 
-Someone else laughed louder, because the first laugh had made it safe.
+“You’re not going to run,” Renji said.
 
-"Lost?" Daichi called, not stopping fully. "Auditions for festival clown are in the city, not here."
+“I was waiting for you,” Akihiko said. “Running’s tiring. And I wanted a building that keeps names.”
 
-The mask tipped toward him.
+Renji’s jaw tightened. “You want records.”
 
-"Oh," the man said. Bright. Mild. "Is this not the city? The walls lied. Very rude walls."
+“I want a name,” Akihiko said. “Maybe two. A girl near a river who stopped writing letters. I’m bad at folders.”
 
-Instructor Venn's whistle cut the air. "Halt! Identify yourself!"
+“You are under arrest.”
 
-The man patted his coat, produced an empty snack wrapper, and held it up like a badge.
+“All right,” Akihiko said, and tipped his head. “If you say please later, I might still listen.”
 
-"Hungry," he offered. "Also Akihiko. Or Harlequin. Or The Fool, if your paperwork is dramatic. Mostly I answer to the bell. It's louder than I am."
+Renji bound him. Soft seals woke along the cord—Hero Command issue for unclassified Rei. Thin blue-white light ran over the knots and held. Lightning under Renji’s skin stayed ready and unused. The younger Heroes watched for a trick. Akihiko only tested the cord once with a small tug, then let his hands hang.
 
-He flicked the silver bell.
+“Tight enough?” Renji asked.
 
-It sang across the yard, stupid and bright.
+“For sitting, yes,” Akihiko said. “For naps, ambitious.”
 
-Kenji's stomach tightened. He had heard that name in the mess hall yesterday—Ashvale ruined, Sir Renji in pursuit, a masked man on the capital road. Rumor with teeth. Rumor that made first-years whisper _demon_ and third-years pretend they weren't listening.
+One clerk wrote the time. Another checked the seals twice. Akihiko twisted in the cord enough to tip the mask at the peddler.
 
-Yui stepped forward, Rank Track posture perfect. "This is restricted ground. Leave, or you will be detained for trespass."
+“Your rice was good,” he said. “Tell it I said so.”
 
-"Detained," Akihiko repeated, interested. "Is that the one with handcuffs, or the one with lectures? I always mix them up. Lectures hurt more."
+The peddler stared, then nodded once despite himself, and closed his flap.
 
-More laughter. Even Instructor Venn's mouth twitched—then flattened, as if remembering he was paid to be severe.
+They put Akihiko in the rear of the transport wagon. Renji rode beside it. One of the younger Heroes took the rear flank; another rode ahead to clear the lane. The clerks shared the driver’s bench and argued quietly about whether “unclassified” belonged above or below “pending” on the intake form. Renji let them argue. Argument was useful practice.
 
-"Escort him out," Venn ordered two upper-years. "Gently. He looks unarmed."
+The road into the capital thickened with carts, dung, steamed bun smoke, and market noise. A water-seller shouted prices. A dog chased a chicken through a gap in a stall and missed. Children pressed to a fence to watch the sealed man in the wagon, then lost interest when he waved with both bound hands.
 
-"I am unarmed," Akihiko agreed. "Unless you count crumbs. Crumbs are a threat to dignity."
+Akihiko watched the walls approach through the wagon’s open back.
 
-Kenji should have looked away. He didn't.
+“Bigger than Ashvale,” he said.
 
-The Fool's golden eyes passed over the line of students and paused—just a blink—on Kenji's scraped knuckles, the cheap wrap, the commoner's boots that never quite matched the Academy polish.
+“Most things are,” Renji said.
 
-Then the eyes moved on, cheerful again.
+“Rude of them.”
 
-"Cafeteria?" Akihiko asked. "Please. Long walk."
+He shifted on the wagon board, seals chiming, and looked at Renji’s horse instead of Renji’s face.
 
----
+“You didn’t sleep,” Akihiko said.
 
-They did not take him to the cafeteria.
+“I slept enough.”
 
-They took him to the visitor court, which was a polite word for _bench under a tree while someone fetches a real adult._
+“You slept like a form,” Akihiko said. “Checked boxes. Missed the nap.”
 
-Word spread before Kenji finished washing yard dust off his neck. By the time he reached the colonnade, half the first-year block was crowding it to stare. Second-years arrived with better jokes. Third-years arrived to look unimpressed on purpose.
-
-"That's the Ashvale clown?"
-
-"Sir Renji couldn't catch him. Sir Renji. Can you imagine?"
-
-"Maybe Renji let him go. Heroes don't duel trash."
-
-"He asked for the cafeteria. SSS threat. Terrifying."
-
-Kenji kept his place at the back. Close enough to hear. Far enough that Daichi wouldn't draft him into the mockery.
-
-Akihiko sat on the visitor bench with his ankles crossed, mask tilted up at the training banners. Students called out from the colonnade.
-
-"Nice mask. Halloween's late."
-
-"Ring the bell again. Do a trick."
-
-"Hey, Fool—bet you can't even wake Shiki."
-
-Akihiko lifted one hand and waved. "I can wake a nap. Does that count? Naps are advanced. Ask any cat."
-
-Mei Suzume pushed through with a water flask. She didn't laugh. She held the flask out.
-
-"Drink," she said. "If you're lost, fine. If you're hurt, say so."
-
-Akihiko took it with both hands, ceremonial.
-
-He didn't remove the mask to drink. He tipped the flask under the chin edge—awkward, practiced—and returned it. A drop darkened the scarf.
-
-"Thanks," he said. Softer. Then, recovering: "Snacks? Asking for a friend. The friend is me."
-
-Mei almost smiled. Daichi snorted.
-
-"He's not a guest," Daichi said. "He's a joke that walked in. Don't feed jokes."
-
-Akihiko pointed at the bell on his waist, as if that settled the argument, and said nothing clever.
-
-The courtyard laughed again.
-
-Kenji's fists stayed tight at his sides. The laughter came too easily. Nobody was looking at the gate.
-
-Old Tetsu, the groundskeeper, leaned on a broom near the colonnade and watched without blinking. Kenji had never seen Tetsu watch anything that long unless it involved a broken lock.
+Renji did not answer. He was counting the places a man with unclassified Rei could make a scene before Command’s outer gate. He finished the count and disliked every number. When the outer gate’s shadow fell across the wagon, he checked the seals again anyway. Still holding. Still too easy.
 
 ---
 
-Instructor Venn returned with Academy Warden Sera—gray uniform, clipped voice, the kind of adult who sorted students by rank and called it guidance.
+Hero Command’s outer court smelled of horse, ink, and boiled grain. Afternoon lamps were already lit along the service lane. Clerks moved faster than usual and tried not to stare. A stable boy dropped a brush, picked it up, dropped it again.
 
-"Harlequin Akihiko," Sera said. Not a question. "You are the subject of an active Hero Command containment. You will remain here until Command arrives. You will not enter classroom halls. You will not approach armories. You will not—"
+Akihiko hopped down when told. The seals held. He looked at the tall doors, head tipped.
 
-"—breathe loudly?" Akihiko guessed. "I can try. Breathing is negotiable."
+“Big,” he said. “Do the scary things live downstairs?”
 
-"—perform." Sera's eyes narrowed. "This is not a stage."
+“Quiet,” Renji said.
 
-Akihiko's painted smile did not move. The eyes did—amused, then briefly empty, then amused again so fast Kenji almost missed it.
+Inside, the holding annex was clean. Soap. Stone. A bench. A table with a pitcher. A high window too narrow for a body. No iron cage—Command used seals and witnesses. The south wall had a heavy latch.
 
-"Okay," Akihiko said. "Not a stage. Got it. Still hungry."
+They logged him at a side desk. Name disputed. Threat classification blank. Ashvale written in the margin until the clerk’s pen paused. Renji stood through it with the report already clear in his head: duel failed, gate erased, survivors present, subject cooperative under joke and threat. Hoshikawa would hate the joke part.
 
-Sera pointed at two proctors. "Watch him. If he moves wrong, bind him. Soft first."
+The intake clerk asked Akihiko for a place of origin. Akihiko said “road.” The clerk wrote *transient* and underlined it twice.
 
-Soft meant Kotodama restraints—spoken seals that held wrists without breaking bone. Kenji had only seen them in demos. They looked like glowing threads. They felt, the instructors said, like failing a test you couldn't retake.
+A junior guard named Oda took the first watch with two others. Oda had a bruise on his cheek from training and stood too straight. The quiet one was Sora. The woman with the neat braid was Hana.
 
-Akihiko wiggled his fingers at the proctors. "Hello. Please be gentle. I bruise like fruit. Emotionally."
+“Prisoner will remain seated,” Oda said. “No Rei. No speech that—”
 
-More laughter.
+“I can juggle without Rei,” Akihiko said. “It’s worse.”
 
-Kenji hated that he almost laughed too.
+Oda’s mouth twitched. He crushed it.
 
----
+Renji left them to the annex and walked the corridor to Hoshikawa’s office.
 
-The monster did not wait for Command.
+The Commander did not offer a chair. He rarely did. Maps on the wall. A cup of tea gone cold. Hoshikawa looked at Renji the way he looked at unfinished forms.
 
-It came through the east practice field—the open ground where second-years ran live-target drills against summoned drones. Kenji heard the first scream before he understood the shape.
+“You brought him,” Hoshikawa said.
 
-Not a student scream. A teacher's.
+“Alive,” Renji said.
 
-The thing that climbed the field wall looked wrong in a way Kenji's lessons had not prepared him for. Not a training construct. Not a classified beast from the handbook plates. It was all joints and black sinew, too many limbs folding the wrong direction, a head like a cracked helmet with no face inside. Where it stepped, grass bleached. Where it breathed, the air smelled like hot metal and old blood.
+“Cooperative?”
 
-Alarm bells—real ones, bronze, Academy—began to hammer.
+“In the way weather is cooperative. It arrives. It does not apologize.”
 
-For one stupid second Kenji still waited for someone to shout *end drill*.
+Hoshikawa’s mouth flattened. “Princess Ayame requested observation rights. Church letter from council grew teeth overnight. Containment first. Questions later. No execution order yet.”
 
-Nobody did.
+“Yet,” Renji repeated.
 
-"Formation!" Venn roared. "Rank Track back! Combat forward! Healers to the colonnade!"
+“Don’t invent teeth that aren’t there,” Hoshikawa said. “And don’t pretend the ones that are aren’t sharp. Keep him in the annex. Soft seals. Two watches. If he asks for air, you decide—and you write why.”
 
-Students moved. Some well. Some into each other. A first-year dropped a practice spear and did not pick it up. Yui's perfect braid finally bounced wrong as she shoved younger students toward stone cover. Daichi's face had gone flat—the look of a boy who had believed hierarchy was mercy and just watched mercy arrive late.
+Renji bowed enough for procedure and left.
 
-Kenji's body moved before his pride could argue. Shiki—the body craft, Rei forced into muscle—woke clumsy in his legs. He was Year One. He was not Daichi. He was not Yui. He ran anyway, because the street had taught him that standing still was how you watched people die.
+In the corridor he passed a pair of clerks carrying a missing-persons board toward the yard. Names chalked and half-erased. One name had been rewritten three times in different hands. Renji put it aside for later and kept walking.
 
-The monster hit the practice field like a thrown building.
+When he returned to the annex, the pitcher had been moved.
 
-Two upper-years met it with blades. One cut landed. The cut did not matter. A limb backhanded the first student into a post hard enough that Kenji heard breath leave a body. The second student's Kotodama seal flared—bright threads, textbook-perfect—and snapped like wet string. The boy stared at his own empty hands as if the Academy had lied to him personally.
+That was a small thing. He noticed it anyway.
 
-"Again!" Venn shouted, already moving. Shiki thickened his frame; Kenji saw the instructor's shoulders lock the way demos promised. Venn's blade took a joint clean off.
+Oda and the other two guards stood near the door in a neat line that had not been neat when Renji left. Their shoulders matched. Their breathing matched.
 
-The joint grew back wrong. Two limbs where one had been.
+“—and the south latch stays closed until—” Oda began.
 
-Venn did not get a second cut. A sinew whip caught his ankle and flung him. He hit the grass rolling, whistle still clenched in his teeth.
+“—shift change,” Sora finished, without looking at him.
 
-Sera's voice cut across the yard—Kotodama, hard and clean, the kind of spoken seal used on riot gates:
+“—because nothing outside needs us,” Hana finished, on the same breath.
 
-"Hold. Kneel. Still."
+Renji stopped in the doorway.
 
-The words hit the air like iron.
+Akihiko sat on the bench, seals still bright on his wrists. He was not joking. The painted smile faced the floor. Golden eyes in the mask holes were still.
 
-The monster did not kneel.
+On the far bench, an injured courier from the morning intake—sprained ankle, scraped palms—sat with his back against the wall. He was smiling. Soft. Relieved. Sweat stood on his temple. His ankle was swollen wrong under the wrap. A half-empty cup of water sat untouched at his elbow.
 
-The seal-light crawled its helmet, shivered, and broke with a sound like a chalk stick snapped in a quiet room. Sera staggered half a step. Blood touched her lip. Not a lot. Enough that every student who saw it understood the sentence:
+“I’m fine,” the courier said, before anyone asked. “There’s no need to open—”
 
-This was not a drill.
+“—anything,” Oda said pleasantly.
 
-Proctors rushed the flanks with soft bindings meant for criminals, not breach-things. Threads bloomed. Threads died. One proctor made a noise Kenji would remember later and wish he could forget—short, surprised, the sound of a professional discovering the handbook had an edge.
+“—we should keep the latch as it is,” Hana said.
 
-Students screamed for parents. Someone ran for the main hall and slammed into a closed door. Mei's voice rose, sharp, trying to pull healers into a line that kept dissolving. Old Tetsu's broom lay abandoned on the colonnade stones. The bronze alarms kept hammering.
+Oda nodded. “We decided.” Soft. As if choosing had finally ended.
 
-The monster's empty helmet turned toward the colonnade—toward the packed first-years, toward noise and soft targets.
+“We decided,” Sora said, the same way.
 
-Mei grabbed Kenji's sleeve. "Don't—"
+“We decided,” Hana said, and something in her shoulders dropped.
 
-He shook free. Not brave. Stupid. The difference was currently academic.
+Three voices. Same two words. No synonyms. No stumble.
 
-"Hey!" Kenji shouted, because shouting was what you did when you had nothing else. "Here!"
+Renji’s hand found his sword hilt. Lightning woke, thin and careful. “Report.”
 
-The helmet turned.
+Oda turned. His face was ordinary. Helpful. “Sir Renji. The prisoner is secure. The south latch stays closed. We—”
 
-Kenji's mouth went dry. His Shiki stuttered. He could smell the hot metal breath from here. He had bought the colonnade three seconds. He might have spent his life to do it.
+“—decided,” Sora said, finishing it for him.
 
-On the visitor bench—still there, still seated—Akihiko tipped his mask toward the field as if checking a street for traffic.
+Renji looked at the courier without being told. The smile held. The eyes did not. Sweat on the temple. Swollen ankle. Soft mouth.
 
-Then he stood.
+Akihiko tipped his head. Seals chimed.
 
-Wandered.
+“He’s borrowing somebody else’s face,” he said, interested.
 
-Not charged. Not heroic. He walked onto the practice grass the way a man walks into the wrong shop, snack wrapper between two fingers, bell chiming once against the alarm chaos.
+“Name,” Renji said.
 
-"Excuse me," he called—to the monster, or the yard, or lunch. Polite. Loud enough. "You're blocking the cafeteria route. Also, you have too many elbows. It's confusing. Pick a hobby."
+“Toma,” the man said pleasantly. “I’m fine. We should stay. There’s nothing outside—”
 
-"Get back!" Sera screamed, blood still on her mouth. "Civilian—student—whoever—fall back!"
+“—you need,” Hana finished, and her fingers found the south latch.
 
-Akihiko did not fall back.
+Oda’s hand joined hers a breath later. Sora’s followed. Three hands. One conclusion.
 
-He kept walking, as if the failure of every trained adult behind him were someone else's problem.
+Renji stepped in. “Stand down from the latch. Now.”
 
-The monster lunged.
+Oda frowned—not anger. Mild confusion. “We decided.”
 
-Kenji saw it clearly: a limb like a spear of sinew, aimed at the Fool's chest. Fast. Academy-fast. Faster than Kenji's Shiki could ever be.
+“I did not decide,” Renji said.
 
-Akihiko stopped walking and dug in his coat with both hands.
+For a breath nobody moved. The lamps hissed. Three hands stayed on the latch.
 
-Not a guard. Not a stance. The absolute priority of a man who had just remembered he might still own a crumb. The snack wrapper slipped from his fingers. He bent to catch it—complaining, "Hey—mine—"—
+Akihiko lifted his bound hands. He looked at Oda the way he looked at wrong wood in Ashvale.
 
-The spear-limb punched through the air where his chest had been and buried itself in the dirt behind him hard enough to shake the post.
+“Oda,” he said. Interested. Not urgent.
 
-Students gasped. Someone cursed. Someone laughed once, hysterical.
+Oda’s eyes flicked—almost his.
 
-Akihiko straightened with the wrapper pinched triumphantly. "Got it. Close one. Littering is illegal. I respect the law. Selectively."
+“…When did Hana become you?”
 
-The monster ripped its limb free and swung again—horizontal, meant to take his head.
+The room went still in a different way. Renji heard it then: the finished sentences, the shared breath, three mouths borrowing one ending. Hana’s fingers were on the latch. Oda’s were too. Sora’s.
 
-Akihiko had already turned away from it, mask aimed at the colonnade, voice raised like a lost tourist.
+“Oda,” Akihiko said again, milder, like checking whether a name still fit.
 
-"Cafeteria?" he called to the packed first-years. "Left or right? I can't read banners. The paint is judgmental."
+Oda’s hands left the latch. Hana gasped once. Sora stared at his fingers. Toma’s smile cracked; the courier folded over his ankle and swore. Water spilled from the untouched cup and ran toward the drain groove in the stone.
 
-He took three steps toward the students while he asked—wrong direction for a fight, perfect direction for not being where the blade finished. The swing tore empty air and clipped a training dummy into splinters.
+Renji’s lightning never needed to crack. He looked at Akihiko anyway.
 
-"Rude," Akihiko said, still not looking at the monster. "I asked a logistics question."
+Akihiko leaned back against the wall. The silver bell gave a small chime when his coat shifted. Breathing a little short behind the mask.
 
-The thing reared, all joints opening, shadow falling over him.
+“I want a snack,” he said, to no one useful.
 
-Akihiko finally faced it again—only because the shadow made his wrapper hard to read. He squinted at the empty helmet, tipped his head, and reached up as if straightening a friend's collar.
+Oda started to apologize and stopped, mouth open on a word that would not come alone.
 
-His palm landed flat on the chest where a heart might have been if the world made sense. He whispered something Kenji could not hear.
+Renji exhaled through his teeth. “Medic. Now.”
 
-Not a shout. Not a Hero command.
+Hana moved, face hot. Sora kept looking at his hand.
 
-A small sound. Almost kindly.
+Renji was listening to the building.
 
-The monster froze.
+Somewhere below their feet, stone shifted—a soft unsealing, dry and wrong.
 
-Not sealed. Not cut. Frozen mid-motion, limbs locked, sinew gone still.
+The lamps along the annex wall flickered together. Once. Twice.
 
-Then it fell apart.
+A clerk in the corridor shouted. Not panic. Confusion. The kind that made people write reports with too many adjectives.
 
-Not exploded. Not burned. It came undone—joints separating, sinew losing tension, the empty helmet tipping off and ringing once on stone like cheap pottery. Black matter hit the grass and steamed into nothing that left a stain worth naming.
+Renji was already at the door.
+
+“Stay with Toma,” he told Oda. “You three do not leave this room. Do not decide anything together. If your mouths start finishing each other again, you shout for help before you enjoy it.”
+
+Oda nodded, pale, and sat on the bench as if his knees had made the choice for him. Hana stayed by Toma. Sora put both hands in his pockets.
+
+Renji took Akihiko by the sealed cord and pulled him into the service stair.
+
+“You’re walking fast,” Akihiko said.
+
+Renji did not slow.
+
+“Is there food?”
+
+“No.”
+
+“…Oh.”
+
+Two levels down: spare seal-ink, stacked rope, a shrine niche stuffed with old petitions. The air cooled. Soap faded into stone grit, old incense, and a sweet smell that did not belong in a cellar.
+
+At the end of the lowest corridor stood a service Door Renji had walked past a hundred times without seeing—not hidden by illusion, hidden by habit. Iron bands. Church and Imperial marks layered over older scratches. A notice plate in three scripts: *Sealed. Do not open. Do not discuss.*
+
+The Door stood open the width of a hand.
+
+Beyond it was not storage. Not a cellar Renji knew. Dark that took lamp light poorly—the glow thinned a few steps in and stopped being useful. No shelves. No crates. Only a threshold and a draft that did not match the building’s vents.
+
+On the stone just inside the gap, dust had been disturbed without clear prints. A draft moved against Renji’s face, warm, smelling faintly of kitchen ash and river mud.
+
+Renji’s Rei reached for classification and found nothing it was trained to name.
+
+Footsteps on the upper stair. Princess Ayame arrived a breath later, paper Rei unfolding into thin white birds along her sleeve. One hairpin sat crooked.
+
+She saw the Door.
+
+“That was not on any open ledger,” she said. Then, sharper, to Renji: “The hush marks match a sealed inventory language from the North Wall scrap. Same refusal to name. Different building.”
+
+“It opened,” Renji said.
+
+Akihiko looked at the gap.
+
+“Oh,” he said. “…I thought you’d be smaller.”
+
+Ayame glanced at the iron. “It’s a Door.”
+
+Akihiko tipped his head. “…Oh. I liked smaller.”
+
+Renji turned on him. “You knew.”
+
+Akihiko lifted his bound hands. The bell chimed once. He tipped the mask toward the corridor behind them, not the Door.
+
+“…Who won?”
 
 Silence.
 
-Then the alarm bells, still hammering, suddenly sounded late.
+“What?” Renji said.
 
-Akihiko looked at his palm. Looked at the snack wrapper. Looked at the students.
+Akihiko tipped his head, still watching the dark. Curious. Not helpful.
 
-"Oh," he said. "Did I win? I was trying to ask for directions. Winning is a side effect."
+Renji’s mind went back upstairs without permission. Matching shoulders. Matching breath. Finished sentences. Three voices. No fight. No winner. Only “We decided.”
 
-He sneezed.
+Ayame’s paper birds held still in the air. “Is this Ashvale?”
 
-The bell chimed.
+Akihiko hummed once. “Have you ever heard a forest stop arguing?”
 
-Daichi's voice cracked across the yard, too loud: "Luck. That was—he dropped trash. It stabbed dirt. Luck."
+Ayame’s mouth thinned. She did not ask again. Renji felt the draft again—outward, into the corridor, cool against his neck on the return.
 
-Yui's face had gone pale under her perfect composure. "Luck doesn't unmake a breach-beast."
+“Close it,” he said.
 
-"Then classify it," Daichi snapped. "Do your Rank job. Don't stand there—"
+Ayame’s birds swept the frame. Old seals and new ones woke together, light crawling the iron in ugly overlapping scripts. Renji put his shoulder to the Door and forced it shut until the bands met. The dark did not push back hard. It simply stopped answering.
 
-"Enough," Sera said. Her voice had lost a layer of iron. "Everyone back. Healers—move. Proctors—cordon the field. And you—"
+When the latch caught, the sweet smell thinned.
 
-She pointed at Akihiko.
+“Upstairs,” Renji said.
 
-He waved.
+They climbed. Annex first: Oda still on the bench, Toma still swearing under Hana’s hands, Sora still watching his own fingers. No one had left. No one was finishing sentences.
 
-"—do not move."
+Then the corridor. Then the outer court doors, open on the service lane.
 
-"I already moved," Akihiko said apologetically. "Toward lunch. Sorry."
+Renji saw the stable boy from earlier—the one who had dropped his brush twice. The boy was smiling. Soft. Relieved. Brush abandoned in the dirt like a job he no longer owed anyone. He walked toward the west yard gate without hurry.
 
-Mei was already running to the downed upper-years. Kenji's legs finally remembered they could shake. He stared at the pale grass where the monster had been and tried to make the scene into a story that fit Academy lectures.
+Akihiko stopped so hard the seals chimed on Renji’s grip.
 
-It would not fit.
+He watched the boy. Head tipped.
 
-Daichi needed it to be luck. Half the courtyard needed it to be luck. Luck meant the world still had rules, and the clown was still a clown, and Kenji's fear was an overreaction he could laugh off later in the dorm.
+“…Huh.”
 
-Kenji looked at the cracked mask.
+Renji waited.
 
-Golden eyes found him again—brief, precise—as if checking whether Kenji's scraped knuckles were still attached to a living boy.
+“…I’ve never seen one leave this early.”
 
-Then Akihiko yawned behind porcelain, stretched until his coat cracked dust, and said to no one in particular:
+“What?” Renji said.
 
-"Cafeteria?"
+“Go.”
 
----
+Renji shoved the sealed cord into Ayame’s hand and moved. Lightning woke in his legs. Shiki sharpened the distance—
 
-They did not get him to the cafeteria.
+The west yard gate was already swinging. The stable boy stepped through it into the capital street beyond, still smiling, and the crowd took him without looking twice.
 
-Hero Command arrived in a hard carriage with iron crests before the grass finished smelling wrong. Kenji recognized the dispatch style from rumor boards: _Identify. Contain._
+Renji hit the gate a breath too late. Beyond it: carts, steamed bun smoke, a hundred backs. No brush. No smile he could pick out of the evening.
 
-Sir Renji Arata stepped down from the carriage in full armor, dispatch case at his belt.
+Ayame reached him with Akihiko still sealed at her side, birds sharp. “Who?”
 
-Lightning Rei lived under his skin in thin blue threads Kenji could almost see. The Academy went quiet in a different way—respect, envy, the sudden posture of students who wanted to be seen standing correctly.
+“Stable boy,” Renji said. “He was in the yard when we arrived.”
 
-Renji's eyes found the pale circle on the field. Found the students. Found the mask.
+Akihiko’s mask tipped toward the street. He hummed once, off-key.
 
-"Harlequin Akihiko," Renji said. Clean. Hero-clean. "You will submit to binding. Now."
+“Did he wave?” Akihiko asked.
 
-Akihiko tipped his head. "You're early again. Or late. Time is rude today."
+“No,” Renji said.
 
-"This is not Ashvale," Renji said. "This is the Academy. There are children here."
+“…Rude.”
 
-"I noticed," Akihiko said. "Loud place. One of them gave me water."
+Ayame watched the gate, then the empty lane, then Renji. “The missing board tracks bodies, not shared speech. If he went home, the watch needs his mother’s street—not another chalk name.”
 
-Mei flushed and kept working on a bandage.
+Renji stared at the west yard gate until a sergeant shouted for it to be shut, and the bars closed on the street beyond.
 
-Renji's jaw set. He looked tired under the discipline—Ashvale still in his shoulders. Kenji realized, with a jolt, that the pursuit had been real. The rumor had feet.
+Capital bells rang the hour. Renji stood at the closed west yard gate until the sergeant’s boots moved on, then took Akihiko back toward the annex by the sealed cord.
 
-"What happened to the breach-beast?" Renji asked Sera, not looking away from Akihiko.
+“Still no food?” Akihiko asked on the stairs.
 
-Sera's answer came careful. "It… ceased. Witnesses disagree. Some say luck. Some say unclassified Rei. No clean cut. No standard seal."
+“Still no,” Renji said.
 
-Renji's gaze sharpened. "Witnesses say you bent for litter."
-
-"Evidence," Akihiko said. Helpful. He held up the wrapper. "Lunch. I was busy."
-
-A few students laughed. Weakly. The laugh died faster this time.
-
-Renji stepped in until the point of his sheathed stance said _distance closed_. "You will come with me."
-
-Akihiko's eyes warmed. "Chasing," he said, almost fond. "Or following. We never finished that part."
-
-Kenji did not understand the words. He understood the temperature of them—joke on top, knife underneath.
-
-Renji did not answer with words. He answered with a binding order, proctors moving in, soft seals blooming like thin light around wrists that were not empty anymore.
-
-Akihiko let them. Mostly. He held his hands out as if receiving a gift.
-
-"See?" he told the courtyard. "Homework. I hate it."
-
-As they led him toward the carriage, he looked back once over his shoulder—mask, crack, painted smile—and the golden eyes landed on Kenji again.
-
-Kenji's mouth moved before he could stop it.
-
-"Was that luck?"
-
-The yard was loud with orders. He wasn't sure the Fool heard him.
-
-Akihiko's answer still carried:
-
-"Maybe," he said. "I don't know. Ask the dirt."
-
-Then he was in the carriage, bell quiet for once, and Renji climbed in after him like a man closing a door he did not trust.
-
----
-
-That night in the first-year dorm, nobody slept well.
-
-Daichi repeated _luck_ until it sounded like a prayer. Yui wrote three drafts of a report and burned two. Mei sat on her bunk with her flask empty and her eyes open.
-
-Kenji lay on his back and stared at the ceiling beams.
-
-He kept seeing the bent coat.
-
-The wrapper caught.
-
-The spear in dirt.
-
-The palm on the chest.
-
-The monster forgetting how to be a monster.
-
-In the street he came from, people called that kind of thing a miracle when they wanted comfort, and a curse when they wanted someone to blame.
-
-Kenji did not know which word fit.
-
-He only knew the Academy had laughed at a man in a mask—
-
-—and then watched the world come apart under that man's hand while he asked for directions to lunch.
-
-Kenji whispered into the dark, not for an answer, only to keep the shape from sliding:
-
-"What are you?"
-
-Outside, somewhere beyond the Academy walls, a silver bell did not ring.
-
-The silence sat in the dorm longer than it should have.
+“…Oh.”

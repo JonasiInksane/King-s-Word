@@ -60,6 +60,12 @@ Others believe it is a warning.
 
 To the world, Akihiko is a complete fool.
 
+**Hard dialogue rule:** He never speaks in conclusions. Renji/Ayame conclude; he observes sideways, asks strange questions, jokes in horror, and is occasionally wrong. Curious, not expert. He reveals how he sees the world—he does not explain it.
+
+**Vs Consensus:** Phenomenon says Rest. He says Get up. Laughter = still carrying it. Ordinary effort (salt, ledgers, bread, names) is defiance. Mad Jester crack: *…I’m tired.*
+
+**Compass:** Entering somewhere new, notice one human thing first (bread, boots, chalk, soup, laundry, ink, arguments)—measuring whether people are still people.
+
 He:
 
 - Makes terrible jokes during serious situations.
@@ -70,6 +76,7 @@ He:
 - Gives enemies ridiculous nicknames.
 - Acts impressed by weak attacks.
 - Pretends to misunderstand threats.
+- Interacts with the world (peddlers, sparrows, onions), not only the plot.
 
 Most people believe he is harmless.
 
@@ -251,6 +258,24 @@ Even when he knows helping someone will create greater problems, he cannot walk 
 He constantly chooses himself as the target.
 
 He will accept being hated if it protects someone else.
+
+---
+
+## The Mad Jester (writer)
+
+He is not primarily afraid of becoming stronger.
+
+He is afraid of becoming the Mad Jester — laughing that won’t stop, kindness buried under dissociation, meaning gone. See `lore/mad-jester.md`.
+
+White Fool: every life has meaning; get up, try again.
+
+Mad Jester: nothing means anything; why stop?
+
+---
+
+## Ashvale / Homura (writer)
+
+Ashvale and Homura were Chorus cases (`lore/phenomenon-chorus.md`). At Closure the place *is* the entity. He breaks the shared law knowing Collapse will kill some of the people he is trying to save. That guilt feeds the Mad Jester fear.
 
 ---
 

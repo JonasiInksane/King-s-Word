@@ -18,27 +18,31 @@ Refuses a proper fight; studies Renji through a duel; names tells; stumbles into
 
 Ch 4 beat
 
-Academy mockery → breach “accident”; submits to Renji’s binding; still frames chase/follow.
+Allows quiet capture for records/survivor access; recognizes early Chorus (“That smile isn’t his”); Door opens under Command.
 
-Ch 5 beat (rare POV)
+Ch 5 beat
 
-Reader learns he remembers everything; joking is how he survives the memory-room; cooperates without breaking seals; one honest line to Renji about stopping jokes.
+Disrupts Room That Agreed with bell (limited, not Mad Jester); names stopped-being-separate; warns of countryside leak / Ashvale menu of polite vs loud graves.
 
-Ch 6–7
+Ch 6 beat
 
-Feeds children; admits he could break seals; Homura: stopped demon hold (publicly named city-killer); helps stutter possession with bell; still refuses medals/cleaner stories.
+Unmakes west-approach breach-beast while joking (seals loosened by Renji); conditional release earned by spectacle + Sera’s Rest; rides west; still needed, not trusted.
+
+Writer shadow
+
+Fear of Mad Jester (`lore/mad-jester.md`) — not paid on-page yet.
 
 Middle
 
-Revealed to manipulate nations.
+Road cases; Homura as Chorus proof; escalating stages; merciful methods fail toward Ch 16–20.
 
 End
 
-Destroys destiny itself.
+Destroys destiny itself / faces what he becomes.
 
 Theme
 
-Freedom.
+Freedom vs collapse of meaning.
 
 ---
 
@@ -58,23 +62,19 @@ Loses the fight before it began (study, not dodge). Almost Axiom — chooses civ
 
 Ch 4 beat
 
-Arrives Academy; binds Fool; still cannot cleanly classify breach unmake (luck vs Rei).
+Quiet capture; first Chorus symptoms in his custody; Door under his building; responsibility expands beyond “prisoner.”
 
 Ch 5 beat
 
-Watches Fool see capital suffering; asks who he is; stays in holding room after honest line; fear of being wrong > fear of dying.
+Leads into Room That Agreed; authorizes nudge; receives Sera’s Rest report.
 
 Ch 6 beat
 
-Defends custody vs Church; half-draws on Shigure; warned that kindness = collaboration.
-
-Ch 7 beat
-
-Investigates Homura decree; learns destruction saved thousands; fights remnant possession; chooses ugly truth over cleaner crime story.
+Argues release as strategy; nearly dies vs breach-beast; loosens Fool’s seals under fire; accepts direct responsibility; escorts west.
 
 Middle
 
-Questions everything.
+Questions everything; learns Chorus; fears Mad Jester more than raw power.
 
 End
 
@@ -82,7 +82,7 @@ Chooses humanity over ideology.
 
 Theme
 
-Order → doubt → growth → freedom.
+Order → doubt → responsibility → growth → freedom/fear.
 
 ---
 
@@ -96,19 +96,17 @@ Ch 3 beat
 
 Court assigns her facts; investigates muddy trail; burns false leads; Mori/Seiryu warn against sainthood/mystery-love; finds *recovered* scrap — refuses to answer “is he a villain?”; takes illegal folder upstairs.
 
-Offstage Ch 4; Ch 5 cited (requested statement copies).
+Ch 4–5 beat
+
+Present at Door; maps silence marks; finishes “separate”; pushes investigation over execution.
 
 Ch 6 beat
 
-Blocks Church execute without Emperor mark; present for interrogation copies; Kuro demands North Wall scrap — she denies.
-
-Ch 7 beat
-
-Tips Renji to Homura survivors; pushes against decree; holds the court’s public lie — sets up impossible choice.
+Wins living custody under conditions; Door survey teams; paper bird with Renji: truths that hurt.
 
 Middle
 
-Strategic ally / impossible choice (outline Ch 8).
+Strategic ally / Door network / narrative control vs truth.
 
 End
 
@@ -120,51 +118,27 @@ Control of narrative → responsibility for truth.
 
 ---
 
-## Kenji Morita (AS03)
-
-Beginning
-
-Y1 commoner; street-trained; distrusts Rank theater.
-
-Ch 4 beat
-
-POV witness; draws breach-beast; sees Fool “luck”; dorm hook “What are you?”
-
-Middle
-
-TBD — Academy witness thread.
-
----
-
-## Mei Suzume (AS06)
-
-Beginning
-
-Y2 support; healing ethics.
-
-Ch 4 beat
-
-Gives Fool water; works breach wounded; Fool notes her kindly (flat, not sermon).
-
----
-
 ## Kuro
 
 Beginning
 
 Fanatic. Chaos = suffering. Eyes covered. Judgment Rei.
 
-Ch 3–5
+Ch 3
 
-Offstage (letter; inbound).
+Offstage (letter).
+
+Ch 5 beat
+
+Witnesses Room That Agreed; smells wrong sweetness; cannot deny phenomenon.
 
 Ch 6 beat
 
-Arrives to erase; finds Fool feeding children; Judgment Rei cannot get one clean crime; wrong-reads kindness as theater; postpones execution; admits (to Shigure) kindness broke his trust model. Confusion begins.
+Objects to release on record; loses to necessity; category error remains — not trust.
 
 Middle
 
-Broken believer.
+Broken believer / forced cooperation with error.
 
 End
 
@@ -182,6 +156,10 @@ Ch 3 beat
 
 Orders contain/facts/wards; personal note warning Ayame off mysteries — implies he knows more.
 
+Ch 6 beat
+
+Orders conditional release because a smiling village outruns doctrine.
+
 Middle
 
 Faces inevitable collapse.
@@ -198,7 +176,21 @@ Beginning
 
 Off-page authority; “no spectacle” Hero command culture via dispatch.
 
-Still mostly cited (Ch 1–3); Academy/Command mess in his lane after Ch 4–5.
+Ch 6
+
+On-page at release council; writes uglier half of victory.
+
+---
+
+## Wataru (escort junior)
+
+Beginning
+
+Accurate reports; not yet practiced at comfortable lies.
+
+Ch 6 beat
+
+Assigned escort; nearly killed by breach-beast (survives); writes what he saw. Do not kill or betray.
 
 ---
 
@@ -211,6 +203,12 @@ Capital watch; laws as doors with hinges.
 Ch 3 beat
 
 Saint-warning; prefers hunting someones to stories.
+
+---
+
+## Kenji / Mei / Academy cast
+
+Off active spine (Academy draft archived). Recur when road hits Hero institutions.
 
 ---
 
