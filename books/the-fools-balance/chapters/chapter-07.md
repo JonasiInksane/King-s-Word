@@ -2,7 +2,7 @@
 
 The proclamation reached Hero Command before breakfast.
 
-Renji heard it first as boots—too many, too fast—then as paper slapped onto the annex door by a clerk who would not meet his eyes. The seal was Imperial black. The ink smelled like haste dressed as law.
+Renji heard boots in the corridor, then paper slapped onto the annex door by a clerk who would not meet his eyes. The seal was Imperial black. The ink was still wet.
 
 Sir Renji Arata broke it with a thumb and read.
 
@@ -12,15 +12,15 @@ Escalate.
 
 After Kuro had postponed an execution.
 
-Renji’s lightning woke under his skin without permission. He forced it down. Heroes did not answer paper with sparks.
+Lightning stirred under Renji’s skin. He forced it down.
 
 Behind him, in the holding room, a silver bell chimed once—soft, stupid, awake.
 
-“Is that breakfast,” Akihiko asked through the door. “It sounds angry. Angry breakfast is still breakfast.”
+“Is that breakfast?” Akihiko asked through the door.
 
 Renji folded the proclamation once, clean. “Stay seated.”
 
-“I am seated. It’s becoming a lifestyle.”
+“I am seated.”
 
 Renji opened the door.
 
@@ -32,13 +32,13 @@ Akihiko’s fingers paused on the bell.
 
 Not long. Long enough.
 
-“River city,” Akihiko said. Mild. “Good eel. Bad smiles.”
+“River city,” Akihiko said.
 
 “You destroyed it.”
 
-“The paper says so.” Akihiko tipped his head. “Papers are confident. I envy papers.”
+“The paper says so.”
 
-Renji stepped in and shut the door. The corridor outside already had voices—Command aides, a Church runner, someone asking for Kuro. The capital was learning a new name for fear, and it was learning it on schedule.
+Renji stepped in and shut the door. The corridor outside was already loud with Command aides, a Church runner, and someone asking for Kuro.
 
 “Did you,” Renji asked.
 
@@ -52,7 +52,7 @@ Akihiko considered the question the way he considered lunch: seriously, sideways
 
 Renji hated how much that sounded like last night’s interrogation.
 
-He hated more that Kuro would use Homura as a blade with a fresh edge.
+He hated more that Kuro would use Homura to restart an execution.
 
 ---
 
@@ -74,15 +74,15 @@ Renji’s jaw worked. “Who changed the story.”
 
 “Refugee row. South canal. Homura survivors were parked there and told to be grateful and quiet. If your prisoner burned a city for fun, they will spit his name. If he didn’t—” She stopped. Paper shivered once against her wrist. “Then the court just lied in public, and I become the one holding the lie.”
 
-Renji did not ask what she would do with it. Princesses collected futures the way Heroes collected scars.
+Renji did not ask what she would do with it.
 
 “Kuro is watching,” Renji said.
 
 “So is Shigure,” Ayame said. “So take the Fool with you. Sealed. Visible. If you leave him here, the Church will invent an escape before noon.”
 
-Akihiko’s voice floated from the holding room, cheerful as a bruise:
+Akihiko called from the holding room:
 
-“I can hear you planning field trips. I accept. Bring eels.”
+“I heard you. I will come.”
 
 Renji closed his eyes once. Opened them.
 
@@ -92,21 +92,21 @@ Renji closed his eyes once. Opened them.
 
 ---
 
-They took a covered carriage through streets that had already learned the proclamation by heart.
+They took a covered carriage through streets where people had already heard the proclamation.
 
-Vendors shouted less. Patrols shouted more. A boy on a corner held up a charcoal sketch of a cracked white mask with the word *MONSTER* under it, letters crooked with sincerity. Renji did not look at Akihiko when they passed it. Looking would have been a kind of confession.
+Vendors shouted less. Patrols shouted more. A boy on a corner held up a charcoal sketch of a cracked white mask with the word *MONSTER* under it. Renji did not look at Akihiko when they passed.
 
 Akihiko looked anyway.
 
-“My chin is wrong,” he said. “I don’t have a chin in public. Rude of them.”
+“The drawing is wrong,” he said.
 
 “Quiet.”
 
-“Quiet is also a kind of chin,” Akihiko murmured, and then—miracle—went quiet.
+Akihiko went quiet.
 
 Renji kept the seals checked. Soft light. Holding. The Fool could break them. He had said so under Judgment Rei with no lie in the taste. He still didn’t. Renji held both truths at once: *not safe to trust* and *not safe to ignore*.
 
-South canal smelled of wet rope and old fish. Refugee row was a line of low sheds the capital pretended were temporary. Smoke from cooking fires. Laundry that never fully dried. Eyes that had learned Imperial gratitude was a tax.
+South canal smelled of wet rope and old fish. Refugee row was a line of low sheds. Cooking fires smoked between them. Laundry hung from ropes and stayed damp in the shade.
 
 Captain Mori waited at the first shed with his jaw like a closed gate and two watchmen who looked unhappy to be near Church business.
 
@@ -124,7 +124,7 @@ He jerked his chin at the third shed.
 
 Renji went.
 
-Akihiko followed, seals whispering, bell marking each step like a metronome for a song nobody wanted. Children peeked from doorways and vanished. One girl froze—crumbs memory, service court memory—and Akihiko lifted sealed wrists in a tiny wave, as if waving were still allowed.
+Akihiko followed, seals whispering and bell marking his steps. Children peeked from doorways and vanished. One girl froze. Akihiko lifted his sealed wrists in a small wave.
 
 She did not wave back. She also did not run screaming. Renji put that in the same unstable column as the seals.
 
@@ -150,7 +150,7 @@ Recognition with nowhere polite to land.
 
 “You,” Den said.
 
-Akihiko lifted two sealed fingers. “Me. Hi. Do you still hate eel, or did the fire improve your taste.”
+Akihiko lifted two sealed fingers. “Me.”
 
 Den laughed once—ugly, wet—and coughed smoke that wasn’t there anymore.
 
@@ -172,13 +172,13 @@ Renji’s throat felt tight. “How many lived.”
 
 “Thousands,” Den said. Immediate. Bitter. “Including me. Including the girl who won’t wave at him now because she doesn’t know if thank-you is allowed for a man the court just named monster.”
 
-Silence took the shed.
+Nobody spoke for a moment.
 
-Akihiko picked at a loose thread on his coat. “The eel stall survived,” he said. Soft. Distracted. “I checked. Priorities.”
+Akihiko picked at a loose thread on his coat. “The eel stall survived. I checked.”
 
 Den’s eyes shone wet and angry. “Don’t joke.”
 
-“I’m not,” Akihiko said. “If I joke, you’ll think I’m asking for a medal. I’m asking for nothing. Medals are homework.”
+“I’m not,” Akihiko said. “I am not asking for anything.”
 
 Renji turned on him. “Why didn’t you say this.”
 
@@ -188,7 +188,7 @@ Outside, boots.
 
 Not Mori’s. Too synchronized. Church rhythm.
 
-Shigure’s silence arrived a half-breath before his body—air thinning, memory bracing. Kuro’s white robes followed like a verdict that had decided to take a walk.
+Shigure arrived first, quiet as usual. Kuro’s white robes followed.
 
 Refugees pulled children indoors. Mori swore once, low.
 
@@ -198,7 +198,7 @@ Kuro stopped at the shed mouth. Cloth over eyes. Black gloves. Judgment Rei alre
 
 “It’s investigation,” Renji said.
 
-“Investigation is what people call disobedience when they still want a salary.” Kuro’s covered face angled toward Den. “Old man. Speak the Fool’s crime.”
+“Investigation is what people call disobedience when they still want a salary.” Kuro turned toward Den. “Old man. Speak the Fool’s crime.”
 
 Den’s jaw set. “He saved us.”
 
@@ -210,7 +210,7 @@ Judgment Rei pressed—Renji felt it as courtroom pressure in his teeth. Den’s
 
 Akihiko did not stand. He did not run. He said, flat:
 
-“If you’re here for eel recommendations, stall’s two streets over. If you’re here to invent a cleaner story, invent it somewhere without refugees. They’ve paid enough rent on other people’s certainty.”
+“Do not make a story here,” Akihiko said. “Leave the refugees out of it.”
 
 Shigure stepped in.
 
@@ -218,7 +218,7 @@ Renji’s sword cleared the sheath fully this time—lightning threading blue al
 
 “Not here,” Renji said. “Not them.”
 
-Shigure’s blade whispered into being. Kage around it made the edge hard to hold in memory—Renji forced himself to track the wrist, not the steel.
+Shigure drew his blade. Kage blurred its edge, so Renji tracked Shigure’s wrist instead.
 
 Kuro lifted two fingers.
 
@@ -236,11 +236,9 @@ Kuro did not turn. “Princess. Still collecting truths you cannot afford.”
 
 “Still refusing executions you cannot categorize,” Ayame returned.
 
-The air went thinner.
+The air changed.
 
-Not Shigure.
-
-Something under the shed floor—old, sweet-rot, festival lantern wrongness mixed with canal damp. Renji’s lightning screamed recognition a half-second before the crate under Den cracked.
+It was not Shigure. Something under the shed floor carried a sweet, spoiled smell mixed with canal damp. Renji’s lightning reacted a moment before the crate under Den cracked.
 
 Den’s eyes rolled white.
 
@@ -248,7 +246,7 @@ His mouth smiled with too many corners.
 
 “Homura,” said a voice that was not Den’s. “Still unfinished.”
 
-The thing wearing Den lunged—not at Kuro. At the children two doors down, as if unfinished work had a shopping list.
+The thing wearing Den lunged past Kuro toward the children two doors down.
 
 Renji moved.
 
@@ -262,7 +260,7 @@ Akihiko was suddenly there without looking like he’d decided to be. Sealed wri
 
 The smile stuttered.
 
-“Rude,” Akihiko told the thing inside. Mild. “He’s using that face.”
+“Leave his face,” Akihiko told the thing inside.
 
 Renji did not ask. He cut the opening Akihiko’s stupid bell made—lightning into the possession’s seam, Shiki bracing his arms against backlash. The sweet-rot tore. Den collapsed forward. Renji caught him before his scarred neck hit the crate edge.
 
@@ -282,7 +280,7 @@ Renji kept his sword up anyway, tip angling not at Den—at the space where Chur
 
 Kuro stood very still.
 
-Confusion, again—Renji could almost hear it, the same crack Kuro had carried out of the judgment chamber. Kindness yesterday. Demon seam today. A postponed execution getting heavier instead of lighter.
+Kuro stood very still. He had seen Akihiko feed children the day before; now he had seen the demon seam with his own Rei.
 
 “Take the anomaly back to Command,” Kuro said at last. “Alive. For now. Captain Mori will quarantine this row. Princess—your copies will include my correction request to the court.”
 
@@ -290,13 +288,13 @@ Confusion, again—Renji could almost hear it, the same crack Kuro had carried o
 
 “Addendum,” Kuro amended, and the word sounded like a tooth cracking. “The decree stands until the Emperor unwrites it. I will not publicly call your Hero a liar. I will also not pretend I smelled nothing.”
 
-He turned. White robes. Clean exit.
+He turned and left.
 
 Shigure sheathed silence and followed.
 
 Only when they were gone did Akihiko sit down hard on the threshold, seals flaring as if the almost-fight had billed him.
 
-“Ow,” he said. “Bells are not for temples. Note for later.”
+“The seals hurt,” he said.
 
 Den gripped Renji’s sleeve with shaking fingers. “Don’t let them make him the fire,” he whispered. “We were the fire. He was the bucket. Buckets look empty. That’s how they work.”
 
@@ -306,7 +304,7 @@ Renji nodded once. He could not promise courts. He could promise work.
 
 They rode back under a sky that had not changed and a city that had.
 
-The charcoal *MONSTER* sketch was already multiplying. Someone had added horns. Someone else had added a halo and scratched it out.
+The charcoal *MONSTER* sketch had already been copied. Someone had added horns. Someone else had drawn a halo, then scratched it out.
 
 In the carriage, Renji watched Akihiko watch the window.
 
@@ -324,36 +322,32 @@ He stopped. Flicked the bell once, small.
 
 Renji’s hands tightened on his knees.
 
-Two storylines pulled his spine taut: the Church rewriting rescue into massacre, and the demon seam still unfinished under refugee dirt. Order wanted a monster. Truth wanted a harder sentence.
+The Church had called a rescue a massacre, and something from Homura was still under refugee row.
 
 He looked at the sealed wrists. At the man who could break them and didn’t. At the city outside inventing certainty in charcoal.
 
 “I’m not going to make you look guilty,” Renji said. “I’m going to make the report ugly enough that lying takes work.”
 
-Akihiko’s painted smile did not change. Behind it, something like warmth arrived late—same late as Ashvale, when Renji had chosen civilians over pride.
+Akihiko’s painted smile did not change.
 
-“Ugly reports,” Akihiko said. “My favorite genre.”
+“Good,” Akihiko said.
 
 The carriage wheels hit a stone. The bell answered.
 
 Renji did not smile.
 
-He was already writing the first line in his head—
+He was already writing the first line in his head:
 
-*Homura was not destroyed by The Fool.*
+*Homura was not destroyed by The Fool. The Fool arrived when Homura had already been sold.*
 
-*—The Fool arrived when Homura had already been sold.*
-
-—and knowing that if he filed it, Kuro would not be the only one who called kindness collaboration.
+If he filed it, Kuro would not be the only one who accused him of collaboration.
 
 Outside, a herald began shouting the decree again for a fresh street.
 
-Inside, Renji made a different kind of vow, quiet, unpretty, and binding without an Axiom:
+Renji made a decision.
 
 He would not let the cleaner story win today.
 
-Tomorrow could try.
-
 The Fool leaned his head against the carriage wall and, as if he hadn’t just helped cut a demon out of an old man’s face, asked:
 
-“Do ugly reports come with lunch.”
+“Will there be lunch?”

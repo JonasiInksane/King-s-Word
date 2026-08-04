@@ -42,6 +42,31 @@ Never reveal another character's thoughts unless it is their POV chapter.
 
 ---
 
+# Prose (HARD) — Quiet Confidence
+
+Full rule + examples: `writing/prose-rhythm.md`
+
+Narration calmly tells what happened. It does not perform the story.
+
+**Target middle ground** (Frieren / Dungeon Meshi lane): flowing, not poetic, not clipped.
+
+| Extreme | Symptom | Verdict |
+|---|---|---|
+| Overwritten | Metaphor stacks, personified places, every line wants admiration | Cut |
+| Underwritten | Short. Short. Short. Stage directions | Expand into flow |
+| Middle | Varied rhythm + precise observation + almost no commentary | Keep |
+
+**Rhythm:** Long → medium → short (and variants). Not all short. Not all long metaphors.
+
+**Observation, never interpretation:**
+
+- Do: *The bells answered together.* / *The stew was hot enough to sting her tongue. She reached for another spoonful anyway.*
+- Don’t: *The meadow poured music through her ribs.* / *He was overwhelmed.* / *The forest had decided to be kind.*
+
+Let dialogue make personality, actions make emotion, the world make wonder. Trust the scene.
+
+---
+
 # Tone
 
 70% Serious

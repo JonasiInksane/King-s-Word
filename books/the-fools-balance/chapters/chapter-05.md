@@ -1,331 +1,273 @@
 # Chapter 5 — The Bell
 
-The soft seals itched.
+The soft seals around Akihiko’s wrists itched.
 
-Not pain. Homework. Thin light around his wrists like someone had underlined him for later. Akihiko turned his hands this way and that in the carriage gloom and decided itching was a kind of conversation. The seals wanted him still. He wanted lunch. Nobody was winning.
+He turned his hands in the carriage gloom. A thin band of light followed each movement, then tightened again. Good Kotodama work. He tested the left seal with his thumb, then the right. Both held.
 
-He tested the left seal with a twist. It held. He tested the right. It held harder, as if offended. Kotodama work—spoken law made sticky. Good craft. He could break it. He didn’t. Breaking it would turn Renji’s tired face into a blade, and Akihiko was not in the mood to be a reason.
+Sir Renji Arata sat opposite him, one hand near his sword. Dust from the Academy still marked the seams of his armor. Blue light moved once beneath the skin at his throat and disappeared.
 
-Sir Renji Arata sat across from him with a spine that could cut paper.
+Outside, the capital passed in strips of afternoon: tile roofs, laundry, a vendor calling out steamed buns. A dog ran after a cart until it reached the next street. Akihiko watched it go.
 
-Lightning lived under the Hero’s skin even at rest—blue threads that never quite slept. The Academy still clung to Renji’s armor: pale grass dust, a smell like hot metal, the particular quiet of people who had watched something come apart and then tried to file it as luck.
+He remembered this corner from three years earlier. Another bun seller had stood there then. A boy had stolen food, run until he could not breathe, and accepted a second bun from Akihiko with a laugh. The watch took him later, for something else. Akihiko remembered the laugh and the boy being led away.
 
-Akihiko liked Renji’s quiet. It was honest. Most quiet lied.
+He remembered Ashvale’s gate. The empty helmet at the Academy. The boy with scraped knuckles who had asked about luck.
 
-Outside the carriage window, the capital slid by in gray and gold. Afternoon light on tile roofs. A vendor shouting about steamed buns. A dog chasing nothing with full commitment. Normal. The kind of normal that made other people relax.
+He remembered every ceiling he had slept beneath for twelve years. He remembered the years before anyone started counting.
 
-Akihiko did not relax.
+There was the loft above the cooper’s shop, where rain came through the roof and woke him one drop at a time. There was the stable in Mino, where a mare had breathed hay over his shoulder all night. There was a prison cell with no window, a temple storehouse that smelled of old rice, and the floor beneath an inn table after he had spent his last coin on soup for someone else.
 
-He remembered the steamed-bun street from three years ago—different vendor, same corner, a boy who’d stolen a bun and run until his lungs failed. Akihiko had given him a second bun and a stupid joke about crumbs being currency. The boy had laughed. Later the watch had taken the boy for a different theft. Akihiko remembered the laugh and the taking both. They sat in his head like two coins in one pocket, always touching.
-
-He remembered Ashvale’s gate pretending to be closed after the village had already failed.
-
-He remembered the Academy monster’s empty helmet, and the water girl, and the commoner boy with scraped knuckles who asked about luck like the answer might keep him alive.
-
-He remembered twelve years of ceilings.
-
-He remembered before the ceilings had numbers.
-
-The mask kept his face from doing anything inconvenient. The painted smile stayed painted. Behind it, his mouth was not smiling.
+He remembered who had been beside him in each place. Some had lived to leave. Some had not.
 
 “You are unusually quiet,” Renji said.
 
-Akihiko tipped his head. The bell at his waist chimed once against the seat. “I’m thinking about buns.”
+Akihiko tipped his head. The bell at his waist touched the seat. “I’m hungry.”
 
-“You unbound a breach-beast in front of children.”
+Renji glanced at the sealed wrists. “You have been asking for food since Ashvale.”
 
-“I asked for directions,” Akihiko said. “The beast had opinions. Rude.”
-
-Renji’s jaw flexed. “Stop performing.”
-
-“Can’t,” Akihiko said. Easy. Flat. “It’s glued.”
-
-He tapped the cracked porcelain over his cheekbone with one sealed wrist. The soft light buzzed, offended.
-
-Renji watched him the way Heroes watched unclassified things: ready to cut, unwilling to name the cut yet.
-
-“You let yourself be bound,” Renji said. “At Ashvale you walked. At the Academy you waited. Why cooperate now?”
-
-Akihiko considered several answers.
-
-Because Renji looked tired.
-
-Because the seals were itchy and itchy meant present.
-
-Because if he ran, Renji would chase, and chasing was a kind of following, and following was a kind of door, and doors were—
-
-He did not finish that thought. Thoughts like that made the joke thin.
-
-“Homework,” Akihiko said instead. “You looked like you’d grade me.”
-
-Renji did not laugh. Good. Renji’s not-laughing was reliable.
-
----
-
-The carriage slowed for a checkpoint.
-
-Through the window, Akihiko saw a woman sitting against a warehouse wall with a child asleep on her knees. The child’s wrists were thin. The woman’s eyes were open and empty in the way eyes got when sleep had become optional and then impossible. A Hero patrol walked past them without slowing. Not cruel. Busy. Busy was how the capital forgave itself.
-
-Akihiko’s fingers twitched toward the bell.
-
-Joke. Joke. Make a joke.
-
-“Your city has excellent pavement,” he told Renji. “Very trip-friendly. I rate it four out of five sprawls.”
-
-Renji followed his gaze to the woman and child. Something moved in the Hero’s face—small, quickly locked down.
-
-“There are shelters,” Renji said.
-
-“There are,” Akihiko agreed.
-
-He did not say _and there are walls between shelters and people_. He did not say _I remember her face from a different street, different year, same emptiness_. He did not say _if I get out now the seals will break and you will draw and the child will wake into steel_.
-
-He said, “Do shelters serve buns.”
-
-“I don’t know.”
-
-“Tragic.”
-
-The carriage moved again.
-
-Akihiko kept looking out the window because looking away felt like leaving mid-sentence.
-
-He saw a one-armed man in an old Hero-adjacent coat begging with the posture of someone who used to give orders. He saw a shrine clerk arguing with a widow over funeral fees. He saw two Academy students in clean uniforms laughing about the Ashvale clown, already turning the morning into a story that fit in their mouths.
-
-He remembered every version of those laughs he had ever heard.
-
-That was the problem people didn’t understand when they wrote _no memories_ on folders.
-
-He remembered everything.
-
-The remembering was not a gift. It was a room with no door, filled with other people’s unfinished screams. The joke was the only window. If he stopped joking, he had to sit in the room.
-
-So he joked.
-
-Even when the joke tasted like ash.
-
----
-
-“You saw the woman,” Renji said quietly.
-
-Not a question.
-
-Akihiko’s eyes returned to him. Golden, through the mask holes. “I see lots of things. It’s a hobby.”
-
-“Then why laugh at ruined villages. Why laugh at an Academy under attack.”
-
-“Practice,” Akihiko said.
-
-Renji’s hand rested on his hilt. Not drawn. Ready. Akihiko filed that again, as he had filed it at Ashvale, as he filed every small true thing Renji did.
+“People keep giving me reasons to.”
 
 “That is not an answer.”
 
-“It’s a snack-sized answer.” Akihiko shrugged, seals chiming softly. “You want the meal. Meals make people sick.”
+“It is the answer I have.”
 
-Outside, a cart horse screamed—short, sharp—as a wheel jammed. The driver hit it. The horse moved. The city swallowed the sound.
+Renji looked down at his own hands. A callus had split at the base of his thumb. There was dried blood in the line of it, probably from the Academy. He closed his fingers once and rested them on his knees.
 
-Akihiko’s breath caught behind the mask.
+“You unbound a breach-beast in front of children.”
 
-For a moment the joke slipped.
+“I asked it for directions. It was unhelpful.”
 
-He was twelve years deep in a field that smelled like this carriage’s dust and also like blood that never washed out of soil. He was hearing names he was not supposed to still own. He was holding a broken white mask that was not yet on his face. He was—
+Renji’s mouth tightened. “Stop performing.”
 
-Renji’s voice cut in, clean as a drawn line.
+“Can’t. It’s glued.”
+
+Akihiko tapped the crack in his porcelain mask with a sealed wrist. Renji watched him without moving.
+
+“You let yourself be bound,” Renji said. “At Ashvale, you walked beside me. At the Academy, you waited. Why?”
+
+Akihiko looked through the window.
+
+Renji looked tired. The seals itched. If Akihiko broke them, Renji would draw his sword. There would be shouting, then reports, then more people deciding what they had seen.
+
+“I chose to wait,” Akihiko said.
+
+Renji did not laugh.
+
+---
+
+The carriage slowed at a checkpoint.
+
+A woman sat against a warehouse wall with a sleeping child across her knees. The child’s sleeves covered most of his hands. A patrol passed them on the far side of the street. One soldier looked over, then kept walking.
+
+Akihiko’s fingers moved toward his bell before he stopped them.
+
+“There’s a woman with a child,” he said.
+
+Renji followed his gaze. “There are shelters.”
+
+“There are.”
+
+“Do they have food?”
+
+Renji looked back at him. “I don’t know.”
+
+Akihiko looked back through the window.
+
+The carriage rolled on. Akihiko saw a one-armed man asking for coins outside a tea shop. A shrine clerk argued with a widow over funeral fees. Two Academy students laughed as they passed, one of them pointing at his mask through the glass.
+
+Akihiko had heard that laugh before. He had heard versions of it in other cities, at other gates.
+
+People wrote _no memories_ on the outside of a folder when they wanted a simple answer. He remembered everything anyway. Faces, voices, last words, small favors that had gone nowhere. The jokes came first because otherwise the memories did.
+
+He remembered the woman at the checkpoint, too. He had seen her two winters ago outside a soup line on the north side. Then she had carried a baby under a blue shawl and had both hands free. This child was older. The baby might have been the child, or it might not. Akihiko could not ask through the carriage glass.
+
+Renji had noticed the same street, perhaps the same woman. His eyes had moved to the patrol and back again. He had said there were shelters because it was true. He had not said whether there was space, food, or someone awake to let them in.
+
+Akihiko pressed his shoulder against the carriage wall. The seals kept his hands in his lap.
+
+“You saw the woman,” Renji said.
+
+“I see lots of things.”
+
+“Then why laugh at ruined villages? Why laugh when the Academy was under attack?”
+
+“Practice.”
+
+Renji’s hand rested on his hilt. He had not drawn. Akihiko noticed that.
+
+“That is not an answer.”
+
+“It’s a small answer.”
+
+A cart wheel caught on a stone outside. The horse screamed. The driver struck it once, and the cart moved again.
+
+Akihiko stopped breathing for a moment.
+
+There had been a field. Wet soil. A white mask broken in two in his hands. Names called from somewhere beyond the smoke.
 
 “Akihiko.”
 
-Not Fool. Not Harlequin. The name like a hand on a shoulder.
+He blinked. The carriage was back. Renji was still sitting across from him, tired eyes fixed on the holes in the mask.
 
-Akihiko blinked. The field left. The carriage returned. Renji’s tired eyes. Soft seals. Capital light.
+“I’m here,” Akihiko said.
 
-“I’m here,” Akihiko said. Too honest. He covered it at once: “Mostly. Parts of me went out for buns. They’ll be back.”
+“You remember more than you pretend.”
 
-Renji studied him longer than courtesy allowed.
+“I remember enough. Put that in your report.”
 
-“You remember more than you pretend,” Renji said.
+The carriage hit a rut. His shoulder touched the window frame.
 
-Akihiko’s painted smile did not move. Behind it, something sharp tried to become words and he strangled it into a smaller shape.
+A funeral procession crossed an alley ahead of them. Four bearers carried a body under cheap white cloth. Akihiko knew the hymn the priest was singing. He had heard it in seven towns. He raised two fingers as the procession passed.
 
-“I remember I’m hungry,” he said. “Reliable fact. You can put it in your report.”
-
-Renji did not write it down. He looked like he wanted to ask a better question and hated that he could already hear the joke waiting to eat it.
-
-The carriage hit a rut. Soft seals hummed. Akihiko’s shoulder bumped the window frame.
-
-Through the glass, a funeral procession cut across an alley mouth—cheap white cloth, four bearers, a priest who looked bored enough to be honest. Akihiko knew the hymn. He had heard it in seven towns. In one of them the dead boy had been twelve and still owed a debt collector two copper. In another the dead woman had laughed at his bell the day before she drowned.
-
-He raised two sealed fingers in a tiny wave as they passed.
-
-Nobody in the procession waved back.
+In one of those towns, a twelve-year-old boy had been buried before his debt collector arrived. In another, a woman had laughed at Akihiko’s bell the day before the river took her. The melody was always nearly the same. The words changed with the local god.
 
 “Don’t,” Renji said.
 
-“Don’t what.”
+“Don’t what?”
 
 “Make light of the dead.”
 
-Akihiko watched the white cloth until the alley took it. “I’m not. I’m counting. Counting isn’t light. Counting is heavy. That’s why people invent hymns.”
+Akihiko watched the white cloth disappear down the alley. “I’m counting.”
 
-Renji’s voice went thin. “Who are you.”
+Renji was quiet for several seconds. “Who are you?”
 
-Not _what_. Who.
+Akihiko almost gave him a name. Instead, he knocked once against his mask.
 
-Akihiko almost answered with a name that wasn’t for reports.
-
-Instead he knocked the mask lightly with a knuckle. “Porcelain. Limited edition. Cracked.”
+“Akihiko.”
 
 “That is not—”
 
-“I know.” Akihiko’s eyes flicked to Renji’s. “Ask me again when you’ve decided whether the answer is for Command or for you.”
+“Ask again when you know whether the answer is for Command or for you.”
 
-Renji shut his mouth. The silence that followed was not empty. It was full of a Hero rearranging his own rules.
-
----
-
-They stopped at Hero Command’s outer yard.
-
-Stone. Iron. Flags that believed in themselves. Soldiers who looked at Akihiko’s mask and saw a category trying to happen.
-
-Renji stepped down first. He did not yank the seals. He waited—one beat—until Akihiko stood on his own.
-
-Polite. Dangerous habit.
-
-Akihiko almost said that out loud. He didn’t. He had already spent too many clever coins today. The Academy boy’s luck question still sat in his ear. _Ask the dirt_ had been the right kind of stupid. He wanted to keep that kind.
-
-In the yard, a junior clerk dropped a stack of files. Papers skidded. One sheet landed near Akihiko’s boot: a list of missing persons, names in neat ink, ages beside them like prices.
-
-Akihiko looked at the ages.
-
-He looked too long.
-
-Two of the names he already knew. Not from this list. From streets. From a winter. From a promise he had made with a joke because promises made with oaths got people killed. The names were still missing. The joke had not been enough. It almost never was. He made them anyway, because the other option was standing in the clean truth until he stopped moving.
-
-A soldier laughed under his breath. “Clown’s scared of paper.”
-
-Akihiko bent—awkward with sealed wrists—and nudged the sheet back toward the clerk with his boot.
-
-“You dropped your sadness,” he said. Mild. “It’ll get dirty.”
-
-The clerk stared at him. The soldier’s laugh died wrong.
-
-Renji’s mouth tightened—not anger at Akihiko. Something else. Recognition, maybe, that the joke had been a cover for a wound.
-
-“Inside,” Renji said.
-
-Akihiko went. The yard’s eyes stayed on his back. He counted them without turning: six curious, two hostile, one almost kind. The kind one hurt more. Kindness asked him to be reachable.
+Renji looked out the other window. The carriage continued toward Hero Command.
 
 ---
 
-The holding room was clean. Clean rooms were a kind of violence. Nothing to sit on but a bench. Nothing to look at but walls that had been washed of every previous panic.
+Its outer yard was stone, iron, and soldiers. Flags snapped above the gate. Renji stepped down first, then waited without pulling the seals until Akihiko followed.
 
-They left Renji with him. That was either trust or bait.
+A young clerk dropped a stack of papers near the steps. One sheet slid to Akihiko’s boot. It listed missing people in a neat hand, with ages beside the names.
 
-Akihiko sat. The bell settled against his hip. He flicked it once with a finger.
+He looked at it.
 
-The note was small. Stupid.
+Two names were familiar. He had met both children during a winter when the river froze hard enough to cross. He had made one of them laugh. He had promised the other that he would come back with food.
 
-In the clean room it sounded like the only living thing.
+The first girl had worn a red mitten with the thumb missing. She had told him her brother was brave because he could steal coal without coughing. The second had been a boy who never looked up when adults spoke. Akihiko had left him a heel of bread and said it was a tax refund. The boy had stared at it, then asked whether the government knew.
 
-A second flick. Same note. He was checking whether the room would try to own it. Clean rooms hated private sounds.
+Akihiko had said no.
 
-Renji stood by the door. “Command will question you. The Church will send someone. Princess Ayame has requested copies of any statement you give.”
+The soldier by the gate gave a short laugh. “Clown’s scared of paper.”
 
-“Princess,” Akihiko repeated. He pictured violet hair and paper birds without knowing why the picture arrived so sharp. “Does she like buns.”
+Akihiko bent as far as the seals allowed and pushed the sheet back with his boot.
 
-“I wouldn’t know.”
+“You dropped this,” he told the clerk. “It’ll get dirty.”
 
-“Find out. Important diplomacy.”
+The clerk picked it up quickly. Renji said, “Inside.”
+
+Akihiko walked through the yard. Soldiers watched from the walls and the doorways. He did not turn around to count them.
+
+---
+
+The holding room had a bench, a lamp, and bare walls scrubbed pale. Renji remained by the door.
+
+Akihiko sat and flicked his bell with one finger. Its note was small in the room. He rang it again.
+
+The bench had been bolted to the floor. Four screws held each leg in place. The lamp had a wire cage around its glass. There was a dark mark beside the door where a boot had struck the wall, and a narrow groove in the floor where something heavy had been dragged across it.
+
+The room had been used before. It had simply been cleaned after each person left.
+
+“Command will question you,” Renji said. “The Church is sending someone. Princess Ayame has requested copies of your statement.”
+
+“What does the princess want?”
+
+“I don’t know.”
+
+“She should ask me herself.”
 
 “This is not a joke.”
 
-Akihiko looked at him—really looked, through the mask holes, until Renji’s readiness became visible as fear of being wrong, not fear of dying.
+Akihiko looked at him. Renji stood straight, but his shoulders were set too high. His hand was no longer near his sword.
 
 “I know,” Akihiko said.
 
-Quiet.
-
-No bun. No cafeteria.
-
-Renji’s shoulders shifted, almost imperceptibly.
-
-A clerk opened the door, saw the mask, saw Renji, and closed the door again without speaking. Footsteps hurried away. Akihiko counted them. Fourteen. Then silence again.
+A clerk opened the door, saw him, and shut it again. Footsteps went down the corridor.
 
 “They’re afraid of you,” Renji said.
 
-“They’re afraid of unfinished reports,” Akihiko said. “I just happen to be standing in one.”
+“They’re afraid of what they can’t write down.”
 
-Akihiko turned the bell in his fingers. Cold silver. Old silver. He remembered who had tied it to him and why, and he did not say either thing. Saying would make it a speech. Speeches made people into audiences. Audiences made him into a role.
+Akihiko rolled the bell between his palms. It was cold and worn smooth at the rim. He remembered who had tied it to him. He did not say the name.
 
-He hated roles.
+Renji had taken off one glove while they spoke. He put it back on now, finger by finger, then checked the buckle at his wrist. The movement was slow. Akihiko watched until Renji noticed.
 
-He wore one anyway. The Fool was the only role that let him walk into suffering without pretending he had permission.
+“What?” Renji asked.
 
-Outside the holding room, somewhere in the building, someone shouted. Distant. Human. Hurt or angry—hard to tell through stone.
+“Nothing.”
 
-Akihiko’s hand tightened on the bell.
+“You were looking.”
 
-Joke. Joke. Make a joke.
+“People do that.”
 
-His throat stayed empty.
+“Not usually at my hands.”
 
-He tried anyway, small: “Do you think they have a cafeteria in Command. Asking for science.”
+Akihiko rested the bell on his knee. “You keep checking whether your armor is still there.”
 
-Renji did not take the bait. “Later.”
+Renji’s face did not change. “It is.”
 
-“Cruel.”
+“Good. Would be embarrassing to lose it indoors.”
+
+Someone shouted elsewhere in the building. The sound ended too quickly to tell whether it had been anger or pain.
+
+Akihiko tried to make a joke. Nothing came.
+
+“Will someone bring food?” he asked after a while.
+
+“Later.”
+
+“Fine.”
 
 “Honest.”
 
-Akihiko huffed once—almost a laugh, not quite. The almost was dangerous. Almosts led to the room with no door.
+“You should eat when they bring it,” Renji said.
 
-He stood and paced the clean floor in a short line, seals whispering. Four steps. Turn. Four steps. The bell marked each turn like a metronome for a song nobody wanted.
+Akihiko looked up. “Why?”
 
-On the third turn, memory hit without permission: a black wall that should have fallen and didn’t; ranks of people waiting to be named Hero or corpse while the naming refused to stick; a cold like the world had lost the count of what they were supposed to be. Akihiko stopped mid-step hard enough that the seals flared warning-hot against his skin.
+“Because you have not eaten.”
+
+“You watched me give food away.”
+
+“I watched you refuse the rest.”
+
+The bell stopped moving in Akihiko’s hands. “There were three children.”
+
+“There were three buns.”
+
+“Then the count was right.”
+
+Renji did not answer at once. He looked at the sealed wrists again. “You can ask for more.”
+
+Akihiko set the bell down beside him on the bench. “Asking is different.”
+
+He stood and paced: four steps to the wall, turn, four steps back. The seals whispered as he moved.
+
+On the third turn, memory hit without permission: a black wall that should have fallen and didn’t; ranks of people waiting to be named Hero or corpse while the naming refused to stick; a cold like the world had lost the count of what they were supposed to be.
+
+Akihiko stopped mid-step. The seals flared warning-hot against his skin.
 
 “Sit,” Renji said.
 
 Akihiko sat.
 
-The wall left oily fingerprints on the inside of his eyes and then went away, because he asked it to, because he still could. For now.
+The wall left its mark behind his eyes and then went away, because he asked it to, because he still could. For now.
 
-Renji took one step closer. Not threatening. Present.
+Renji took one step closer. “If you stop, what happens?”
 
-“If you stop,” Renji said, careful, as if approaching a wounded animal that might still bite, “what happens.”
+Akihiko listened to boots pass the door. A quill scratched somewhere above them. He could have answered with the wall, the names, the faces that returned whenever a room went quiet.
 
-Not _what will you do_.
+Instead he rang the bell once.
 
-_What happens._
+“If I stop joking,” he said, “I have to remember why I started.”
 
-Akihiko almost loved him for the grammar.
+Renji did not answer.
 
-He could have said: _I remember why the world needs a Fool._
+Outside, the capital kept moving: vendors, patrols, funerals, names on lists. Akihiko leaned his head against the clean wall. The porcelain clicked softly on stone.
 
-He could have said: _I remember the night the wall should have fallen._
-
-He could have said: _I remember every face I couldn’t buy back with a laugh._
-
-He said none of that.
-
-He rang the bell once, soft, and let the sound be the only true thing in the clean room.
-
-Then—because Renji was still waiting, and waiting deserved something—he gave away one sentence he could not fully make stupid:
-
-“If I stop joking,” Akihiko said, “I have to remember why I started.”
-
-Renji went still.
-
-Neither of them spoke for a long breath. In that breath Akihiko heard boots in the corridor, a quill scratching somewhere above, his own pulse counting the cost of one honest line.
-
-Outside, the capital kept moving. Buns. Dogs. Busy patrols. Missing names on paper. A princess somewhere with a folder that said _recovered_ and did not know recovered from what.
-
-Akihiko leaned his head back against the clean wall. The mask clicked lightly on stone. The painted smile stared at the ceiling and found no joke there worth stealing.
-
-He closed his eyes behind porcelain.
-
-In the dark, every memory waited politely in a line.
-
-He did not look at them.
-
-He listened, instead, to the silence after the bell—
-
-—and to Renji’s breathing, steady, human, still choosing to stay in the room with a man he could not classify.
+He closed his eyes and listened to Renji breathing by the door.

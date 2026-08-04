@@ -1,14 +1,14 @@
 # Chapter 6 — The First Inquisitor
 
-Kuro preferred cities that knew how to be afraid.
+Kuro preferred cities where fear showed itself.
 
-The capital of Akatsuki did not. It shouted steamed buns and dogs and busy patrols as if noise were a ward. Cart wheels. Temple bells. A Hero’s laughter too loud for the hour. Fear, when it existed here, hid under paperwork and called itself procedure.
+The capital of Akatsuki did not. Its streets were full of cart wheels, temple bells, steamed-bun sellers, and patrols changing shifts. Fear appeared in closed doors, lowered voices, and papers passed between officials.
 
 Kuro walked through it anyway.
 
-White robes cut a clean path along Hero Command’s outer court. Black gloves. A strip of dark cloth sealed over his eyes, stitched so tight that even light felt like a rumor. He did not need eyes for this work. Guilt had a temperature. Chaos had a smell—sweet at the edges, like fruit left too long in a closed room.
+White robes moved through Hero Command’s outer court. He wore black gloves and a strip of dark cloth over his eyes. He did not need sight for this work. Guilt changed a person’s breathing. Chaos carried a sweet, spoiled smell.
 
-Behind him, Executioner Shigure matched his pace without sound. That was Shigure’s kindness: silence offered early, so the guilty would not have to invent last words.
+Behind him, Executioner Shigure matched his pace without sound. Shigure spoke only when he had to.
 
 A Command aide met them at the iron doors, voice already apologizing for existing.
 
@@ -18,15 +18,15 @@ A Command aide met them at the iron doors, voice already apologizing for existin
 
 The aide swallowed. “Until identification is complete.”
 
-Kuro inclined his head a fraction. Politeness was a blade he kept oiled. “Then take me to the identification.”
+Kuro inclined his head. “Then take me to the identification.”
 
 Shigure did not speak. He never did until a name had finished being useful.
 
 ---
 
-Hero Command’s corridors were built for certainty: straight lines, scrubbed stone, lamps that refused shadows. Kuro felt Renji Arata before he heard him—lightning under skin, disciplined, angry at its own restraint.
+Hero Command’s corridors were straight and scrubbed clean. Lamps burned along every wall. Kuro felt Renji Arata before he heard him: lightning held close beneath the Hero’s skin.
 
-Sir Renji waited outside the holding annex like a door that had decided to grow a conscience.
+Sir Renji waited outside the holding annex, shoulders squared.
 
 “Inquisitor,” Renji said.
 
@@ -36,13 +36,13 @@ Sir Renji waited outside the holding annex like a door that had decided to grow 
 
 “Men do not unmake gates. Men do not unmake breach-beasts while asking for cafeteria directions.” Kuro’s gloves flexed once. “Your reports contradict themselves. That is already confession.”
 
-Renji’s silence had weight. Good. Weight meant the Hero still believed contradictions could be solved by honesty.
+Renji was silent for a moment before he answered.
 
 “Jurisdiction,” Renji said. “Ashvale was Imperial protection. The Academy is Imperial ground. He is under Hero Command seal until—”
 
-“Until the Church decides whether your seal is a cradle or a coffin.” Kuro stepped closer. The cloth over his eyes faced Renji’s face as if looking were optional and still somehow rude. “Your Emperor accepted our letter at council. Letters are courtesy. Bodies are law. I am the body.”
+“Until the Church decides whether your seal is a cradle or a coffin.” Kuro stepped closer. “Your Emperor accepted our letter at council. Letters are courtesy. Bodies are law. I am the body.”
 
-A second presence arrived from the left hall—paper and perfume and a princess’s patience stretched thin. Kuro did not need a name. Ayame’s Rei tasted like ink that refused to dry.
+Another presence approached from the left hall. Kuro recognized Princess Ayame by her paper Rei before she spoke.
 
 “Inquisitor Kuro,” Princess Ayame said. Formal. Cold enough to keep ministers upright. “Welcome to the capital. Late.”
 
@@ -50,7 +50,7 @@ A second presence arrived from the left hall—paper and perfume and a princess�
 
 “Neither does truth.” Ayame’s footsteps stopped a careful distance from Shigure. “Hero Command retains custody. The Church may question. The Church may not execute on Imperial stone without the Emperor’s mark.”
 
-Shigure shifted. One inch. The air around his hands went thin, as if memory itself were bracing for a cut.
+Shigure shifted his weight. His hand stayed close to his blade.
 
 Kuro lifted two fingers. Shigure stilled.
 
@@ -60,33 +60,29 @@ Ayame’s breath changed—annoyance filed as diplomacy. “I want copies of eve
 
 “You may have the words that survive,” Kuro said, and walked past her.
 
-Renji fell in on his right. Not escort. Witness.
-
-Good. Witnesses made judgment heavier. Judgment needed weight.
+Renji walked on his right. He was there as a witness.
 
 ---
 
-The holding annex smelled of soap and unfinished reports.
+The holding annex smelled of soap and ink.
 
-Kuro expected a cage. Expected the sweet-rot of chaos pressed against stone. Expected a monster inventing jokes because jokes were a kind of fog.
+Kuro expected a cage, the smell of chaos pressed into stone, and a monster using jokes to delay questions.
 
 Renji stopped at a side door that opened onto the service court.
 
 “He asked for air,” Renji said. Flat. Embarrassed by mercy. “Seals held. I allowed ten minutes under watch.”
 
-“Mercy is how cities catch fire,” Kuro said—and stepped into daylight he could not see.
+“Mercy can start fires,” Kuro said, and stepped into daylight he could not see.
 
 Heat on his face. Grease from a kitchen vent. Children’s voices, thin and practical, the way hungry voices learned not to waste breath on poetry.
 
-Then the smell of chaos—
+Then he caught the smell of chaos.
 
-—wrong.
+It was wrong. There was no rot or open wound. It was warm and persistent, like a lantern left burning after a fair.
 
-Not sweet-rot. Not open wound. Something like a festival lantern left burning after the fair had ended: warm, pointless, stubborn.
+Kuro released his Judgment Rei. It filled the service court with pressure and asked a question before anyone could speak: _what did you do_.
 
-Kuro’s Judgment Rei unfolded from his chest without theater. It was not a shout. It was a courtroom arriving inside other people’s bones: pressure that asked _what did you do_ and waited for the body to answer before the mouth could lie.
-
-Three small signatures flinched—children, guiltless except for stolen bread and older thefts of sleep. One Hero signature: Renji, locked down hard. One Executioner: Shigure, clean as a closed knife.
+Three small Rei signatures flinched: children who had stolen bread and missed sleep. Renji held his own Rei tight. Shigure’s was still and narrow.
 
 And one anomaly sitting on a crate as if crates had been invented for him.
 
@@ -100,11 +96,11 @@ Felt steamed bun paper. Felt crumbs. Felt three children close enough that any s
 
 The Fool was breaking a bun into smaller pieces and putting them into small hands.
 
-“Chew,” Akihiko told a girl, mild as a bored uncle. “If you swallow whole, you’ll invent a new way to die, and I already have too many hobbies.”
+“Chew,” Akihiko told a girl. “Don’t choke.”
 
 One boy laughed, startled. Another whispered, “He’s weird.”
 
-“Correct,” Akihiko said. “Weird is free. Buns are not. Say thank you to the kitchen auntie later, or she’ll haunt your dreams with ladles.”
+“Yes,” Akihiko said. “Thank the kitchen staff later.”
 
 Kuro stood in the doorway and did not move.
 
@@ -116,13 +112,7 @@ Ayame’s paper Rei hovered somewhere behind Kuro like a second set of ears.
 
 The children kept eating.
 
-Kuro had come for a monster.
-
-He had found a man feeding children.
-
-The confusion did not arrive as poetry. It arrived as a misfiled report in his ribs: _subject behavior does not match threat model._
-
-He hated misfiled reports.
+Kuro had come for a monster. He found a man feeding children.
 
 “Hero Arata,” Kuro said. Quiet. “Explain this.”
 
@@ -136,27 +126,23 @@ Akihiko tipped his masked face toward Kuro’s footsteps.
 
 “Oh,” he said. “Church.”
 
-Not fear. Not awe. Inventory.
+Akihiko did not sound afraid.
 
 “You can smell the incense from there?” Kuro asked.
 
-“I can smell the certainty,” Akihiko said. “It has a brand.” He held out the last piece of bun toward the smallest child, then paused, as if remembering manners late. “Do you want some. There’s a crust. Crusts build character. Or cavities. Theology is divided.”
+Akihiko held out the last piece of bun toward the smallest child. “Do you want this?”
 
 “I do not eat with anomalies,” Kuro said.
 
-“Rude to the crust,” Akihiko murmured, and gave it to the child anyway.
+Akihiko gave it to the child anyway.
 
 Judgment Rei pressed harder.
 
 _Confess._
 
-The children’s small guilts fluttered—pocket coin, a lie to a mother, a shove in an alley. Renji’s guilt was older and organized: Ashvale smoke, Academy blood, a sentence he had not yet written in a report. Shigure’s guilt was almost absent, which was its own kind of confession.
+The children’s small guilts surfaced: a stolen coin, a lie to a mother, a shove in an alley. Renji carried Ashvale smoke, Academy blood, and an unfinished report. Shigure gave Kuro almost nothing.
 
-The Fool’s guilt—
-
-—was a room with too many doors.
-
-Not empty. Not clean. Stacked. Names. Ceilings. A wall that should have fallen. Jokes used as boards nailed over holes. Kuro’s Rei touched one board and found another behind it, and another, until the pressure returned to him like a question thrown back:
+The Fool’s guilt held too much to sort at once: names, ceilings, a wall that should have fallen, and jokes placed over each memory. Kuro’s Rei met one memory and then another until the pressure returned to him as a question:
 
 _Which crime do you want first?_
 
@@ -164,11 +150,11 @@ Kuro’s jaw set under the cloth.
 
 “Name yourself,” he said.
 
-“Harlequin Akihiko.” Easy. Flat. “Some people shout Fool. I answer if there’s food.”
+“Harlequin Akihiko.”
 
 “What are you?”
 
-“Hungry,” Akihiko said. “Also sitting. Sitting is underrated. You should try it before your robes invent a spine for you.”
+“Hungry,” Akihiko said.
 
 One of the children snorted and then looked terrified at her own noise.
 
@@ -176,11 +162,11 @@ Kuro did not smile. He had no use for the muscle.
 
 “You destroyed Ashvale’s gate.”
 
-“It was being rude,” Akihiko said. “Pretending to be closed.”
+“The gate had already failed.”
 
 “You unbound a breach-beast at the Academy.”
 
-“It was between me and the cafeteria.”
+“It was between me and the children.”
 
 “You laugh while people die.”
 
@@ -190,7 +176,7 @@ For half a breath, the festival-lantern warmth guttered.
 
 Then he flicked the silver bell once—small, stupid—and the note made the service court sound briefly less like a place where Inquisitors arrived.
 
-“I laugh,” Akihiko said, “so I can keep walking to the next bun.”
+“I laugh,” Akihiko said, “so I can keep walking.”
 
 Not a sermon. Not quite a joke. Close enough to both that Kuro filed it as fog.
 
@@ -202,7 +188,7 @@ Kuro raised a hand again. Not yet.
 
 The girl with crumbs on her mouth looked at Akihiko, not at Kuro.
 
-Akihiko shrugged sealed wrists. “Do what the scary laundry says. Come back tomorrow if the auntie has rice. Don’t come back if men in white are still inventing certainty. Certainty bites.”
+Akihiko shrugged his sealed wrists. “Go. Come back tomorrow if the kitchen has rice. Do not come back if the men in white are here.”
 
 They scrambled. One boy hesitated, dug a dull coin from his pocket, tried to press it into Akihiko’s glove.
 
@@ -240,7 +226,7 @@ Kuro stood before Akihiko.
 
 “Kneel,” Kuro said.
 
-Akihiko sat on the stone instead. “Knees are busy. They’re holding up the rest of my bad decisions.”
+Akihiko sat on the stone instead. “My knees hurt.”
 
 Judgment Rei slammed down—not a Hero’s duel-vow, not a private world. A law-shaped pressure: _truth now, or the body pays interest._
 
@@ -258,7 +244,7 @@ Kuro pressed. “Names.”
 
 “No,” Akihiko said.
 
-Not defiance like a villain. Tiredness like a man refusing to open a door because the room behind it had no floor.
+Akihiko’s voice was tired.
 
 “You will give them.”
 
@@ -274,15 +260,9 @@ Shigure looked to Kuro.
 
 Kuro listened to the room: Renji’s protectiveness blooming into jurisdiction; Ayame’s hunger for copyable truth; Shigure’s readiness; the Fool’s stacked guilt refusing a single handle.
 
-Confusion again. Worse than the courtyard. In the courtyard, kindness could be theater. Here, refusal protected someone other than himself.
+In the courtyard, kindness could have been a performance. Here, Akihiko was refusing to name people who could not defend themselves.
 
-Monsters did not protect the unnamed.
-
-Unless they did. Unless Kuro’s model was wrong. Wrong models were how Holy Dominion burned villages that later turned out to have been holding the wrong fear.
-
-Kuro had burned those villages anyway, when the reports required it. He slept. Sleep was a doctrine.
-
-He did not want a new doctrine tonight.
+Kuro had seen villages burned because reports were wrong. He had signed those orders. He did not want another wrong judgment.
 
 “Executioner,” Kuro said.
 
@@ -292,7 +272,7 @@ Shigure’s blade was a whisper drawn from a sleeve.
 
 Shigure held. The whisper stayed half-born.
 
-Akihiko’s masked face tipped toward the sound. “Hi,” he told the almost-blade. “If you’re here for the cafeteria review, I still haven’t eaten properly. Please file a complaint.”
+Akihiko’s masked face tipped toward the sound. “I have not eaten.”
 
 Shigure did not answer. Kindness, again: silence.
 
@@ -302,15 +282,15 @@ It arranged itself into none of them.
 
 “You waited for Sir Renji at Ashvale,” Kuro said.
 
-“I waited for someone who would come,” Akihiko said. “He came. Points for punctuality. Deduct points for scowling.”
+“I waited for someone who would come,” Akihiko said. “He came.”
 
 “You let him bind you at the Academy.”
 
-“He looked like he’d grade me.”
+“I did not want to fight him.”
 
 “You could break these seals.”
 
-A pause. The festival lantern warmth flickered.
+A pause.
 
 “Yes,” Akihiko said.
 
@@ -322,13 +302,13 @@ Kuro’s Judgment Rei tasted no lie.
 
 Akihiko rang the bell once, soft.
 
-“Because after is homework,” he said. “I hate homework.”
+“Because people would get hurt after.”
 
 Almost fog. Almost not. Kuro disliked the almost.
 
 He stopped in front of the Fool again.
 
-“The Church names you chaos,” Kuro said. “Chaos is suffering with a clever mouth. I came to end you before your clever mouth teaches the capital how to enjoy burning.”
+“The Church names you chaos,” Kuro said. “I came to end you before the capital learned to follow you.”
 
 Akihiko’s painted smile stared through him.
 
@@ -338,13 +318,13 @@ Comedy, natural as crumbs. Kuro refused to let it become charm.
 
 “I am postponing,” Kuro said.
 
-The word tasted like a cracked tooth.
+He did not like saying it.
 
 Renji’s lightning eased a fraction. Ayame did not. Shigure’s silence sharpened into offense.
 
 “Postponing,” Ayame repeated. Careful. “On what authority.”
 
-“On mine,” Kuro said. “I will not execute a category error. Categories are holy. If I kill the wrong shape, the right shape grows in the hole.”
+“On mine,” Kuro said. “I will not execute someone until I know what he is.”
 
 He turned his covered face toward Renji.
 
@@ -406,10 +386,8 @@ In the corridor, out of the Fool’s hearing, Shigure finally used his voice—l
 
 “Why delay.”
 
-Kuro faced the empty hall he could not see and answered the only honest sentence he would allow himself before he rebuilt certainty:
+Kuro faced the empty hall.
 
-“Because if he is kind,” Kuro said, “then kindness is no longer proof of innocence—and I do not yet know what else to trust.”
+“Because if he is kind,” Kuro said, “then kindness does not prove innocence. I do not yet know what does.”
 
-Somewhere behind stone, a silver bell rang once, stupid and alive—
-
-—and Kuro walked on, carrying a postponed execution like a prayer that had started to argue back.
+Somewhere behind the stone, a silver bell rang. Kuro walked on.

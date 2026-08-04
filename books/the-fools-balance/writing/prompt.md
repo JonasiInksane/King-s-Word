@@ -31,6 +31,8 @@ Avoid copying any of them.
 
 The tone should be uniquely "The Fool's Balance."
 
+**Prose (hard):** quiet confidence — flowing paragraphs, varied sentence rhythm (long/medium/short), precise observations, strong nouns/verbs, almost no narrator commentary. Not overwritten metaphor stacks. Not underwritten stage directions. Observation over interpretation. See `writing/prose-rhythm.md`.
+
 Target chapter length
 
 2,500–4,500 words.

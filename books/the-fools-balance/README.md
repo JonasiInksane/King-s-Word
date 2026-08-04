@@ -19,12 +19,13 @@ Before writing ANY chapter, read in this order.
 
 1. README.md
 2. writing/prompt.md
-3. Relevant chapter outline
-4. Previous completed chapter
-5. Character files
-6. World lore
-7. Continuity tracker
-8. Foreshadow tracker
+3. writing/prose-rhythm.md (quiet confidence — observation + rhythm)
+4. Relevant chapter outline
+5. Previous completed chapter
+6. Character files
+7. World lore
+8. Continuity tracker
+9. Foreshadow tracker
 
 Never skip steps.
 
@@ -98,15 +99,17 @@ Worldbuilding
 
 ---
 
-Short paragraphs.
+Short paragraphs — but **flowing**, not telegram stacks.
 
 Natural dialogue.
 
 Internal thoughts stay concise.
 
-No flowery purple prose.
+No flowery purple prose. No metaphor-admiration stacks either.
 
 No exposition dumps.
+
+**Quiet confidence:** observe; don’t interpret. Vary rhythm (long / medium / short). Trust the scene. Full rule: `writing/prose-rhythm.md`.
 
 Readers should discover the world naturally.
 
