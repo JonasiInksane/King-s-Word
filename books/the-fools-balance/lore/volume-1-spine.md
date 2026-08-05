@@ -16,7 +16,7 @@ A mysterious clown is captured after a ruined town. While the Empire argues over
 
 ## Engine of release
 
-**They need him.** Twin proof in Ch 6: Sera’s Rest (phenomenon again) + a breach-beast he unmakes while joking after Heroes nearly die. Not pardoned. Not trusted. Deployed.
+**They need him.** Twin proof in Ch 6: Sera’s Rest (phenomenon again) + the **Empty Helm** he ends without combat (pat / “…You’ve been carrying too much.” — mercy, not a spell) after Heroes nearly die. “…Still small.” = how deeply it forgot itself (keeps Ashvale taller in Renji’s ear). Not pardoned. Not trusted. Deployed.
 
 ---
 
@@ -41,7 +41,7 @@ A mysterious clown is captured after a ruined town. While the Empire argues over
 - Wataru = reader’s normal Hero. Do **not** kill or betray (Ch 6: nearly dies).
 - Each stop: one identity image + effort entropy (not same outbreak twice)
 - Ch 7 Sera’s Rest: reality helps too much (ovens, fields, buckets)
-- Ch 6 already paid mid-early power glimpse (beast unmade)
+- Ch 6 already paid mid-early power glimpse (Empty Helm ended — mystery, not nuke)
 - Protect pacing: conversation → road → observation → one strange detail
 
 ### Act 3 — Escalation (Ch 11–15)

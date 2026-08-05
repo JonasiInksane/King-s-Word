@@ -262,15 +262,15 @@ Stalemate on release. Sera’s Rest strip known. Kuro: “Agreement without judg
 
 ---
 
-Scene 2 — Breach
+Scene 2 — Empty Helm
 
-Big breach-beast hits capital edge / west Command approach. Renji, Wataru, other Heroes fight; almost die. Akihiko sealed. Renji makes ugly call to loosen seals.
+Named monster (Empty Helm) hits capital edge / west Command approach. Renji, Wataru, other Heroes fight; formations fail; almost die. Akihiko sealed. Renji makes ugly call to loosen seals. Heroes keep covering civilians while Fool ends it.
 
 ---
 
-Scene 3 — Obliterate
+Scene 3 — End (not attack)
 
-Fool jokes (snack/logistics/elbows). Monster comes undone — not nuke. Cost: breath/seals. No Axiom name. No Consensus explanation.
+Guardian habit on-page: stacks fallen Heroes gently behind itself, then resumes attack. Fool jokes (elbows / cafeteria / littering). Empty Helm hesitates — not personal recognition (something about the Fool no longer fits its world). False hope: Fool walks closer; yard holds breath. Silent sudden attack (no scream). Rice-paper / cafeteria dodges. Renji loosens seals — “Only a little.” Pat: “…You’ve been carrying too much.” — mercy / what it was trying to be, **not** a spell and **not** “I know you.” One bell → silence → joints unwind. “…Still small.” = how deeply it forgot itself (Renji may hear scale). Melon line + “your post leans.” Cost: breath/seals. No Axiom name. No Consensus explanation. Later corrupted creatures: same seeing rule; sentence not always the fix; never taxonomy lectures.
 
 ---
 

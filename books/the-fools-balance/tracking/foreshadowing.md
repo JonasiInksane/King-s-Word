@@ -88,10 +88,14 @@ Every mystery must eventually pay off.
 
 | Plant | Surface read | Intended payoff (draft target) | Status |
 |---|---|---|---|
-| Breach-beast unmade by palm + joke | Luck / unclassified | Ordinary Fool power already frightening; Axiom still unnamed | Paid glimpse |
+| Empty Helm ends after “…You’ve been carrying too much.” (not attack) | Luck / OP touch-kill / spell | Mercy addressing twisted purpose; readers ask why kindness ended it; not an ability | Paid glimpse |
+| Empty Helm stacks fallen behind itself, then attacks | Random monster | Corrupted guardian — purpose pushed past its ending | Paid behavior |
+| One bell → silence → collapse | Mythic accident | Mad Jester / Balance echo later | Open |
+| “…Still small.” | Physical scale / Ashvale bigger | How deeply the creature forgot itself; Ashvale = nothing remembered when to stop | Open — dual read (Renji hears scale) |
+| Empty Helm hesitates at Fool, then attacks in silence | Personal recognition / “it knows him” | Reacts to what he represents; false hope; no scream | Paid — pattern, not acquaintance |
 | Renji loosens seals under fire | Ugly necessity | Soft seals as fiction; later break/choice | Open |
 | “Did I win? … side effect.” | Clown | Quote ration; reader fear after laugh | Paid |
-| “Your post leans.” | Nonsense detour | Never pay off (human mess) | Closed (dead end) |
+| Melon / “your post leans.” | Nonsense detour | Never pay off (human mess) | Closed (dead end) |
 | Release engine: need him, don’t trust him | Politics | Entire road Vol 1 | Paid start |
 | Kuro “Agreement without judgment” + objection | Doctrine | Kuro arc; forced cooperation later | Open |
 | Wataru nearly dies | Junior stakes | Reader’s Hero; report vs comfort | Open — protect |

@@ -94,8 +94,8 @@ POV: Sir Renji Arata (Ayame; Kuro/Shigure enter)
 POV: Renji
 
 - Short council stalemate: Kuro (“Agreement without judgment”) vs Ayame vs Renji vs Hoshikawa / Seiryu.
-- **West approach breach-beast** (big; too many joints; empty helmet). Heroes fight; Renji downed; **Wataru nearly killed** (survives — protect rule).
-- Akihiko sealed; notices dropped wrap first; jokes (elbows / cafeteria / littering); Renji loosens seals; palm unmakes beast (comes undone — not nuke). Cost: sits, seals flare. Detour: “your post leans.”
+- **West approach Empty Helm** (named; too many joints; empty helmet). **Guardian habit:** every time a Hero falls, it gently hooks them and sets them in a neat row behind itself before attacking again (corrupted protector behavior — what it used to be). Heroes fight; formations break; Lightning not enough; Renji lifted mid-stack; **Wataru nearly killed / nearly stacked** (survives — protect rule). Medic/clerks still mattering while Fool ends it.
+- Akihiko sealed; notices dropped wrap first; elbow joke → Empty Helm **hesitates** (not personal recognition — something about the Fool no longer fits its world); Fool walks closer; yard holds breath (false hope); then Empty Helm **attacks in silence** (no scream); rice-paper / cafeteria dodges; Renji loosens seals — “Only a little.”; Fool pats it — “…You’ve been carrying too much.” (mercy to twisted purpose / guardian habit — not a spell, not acquaintance); one bell → silence → joints unwind. “…Still small.” = depth of forgetting (not HP). Cost: sits, seals flare. Melon line + detour: “your post leans.”
 - Conditional release **because** of spectacle + Sera’s Rest. Not pardon. Kuro objects on record.
 - Escort west: Renji, Akihiko, Wataru (wrap at hairline), medic. Shigure turns back after first mile.
 - **No camp** (parked for Ch 7 open). Short road. Ends at first rooftops: “Let’s see if anyone’s still carrying anything.”

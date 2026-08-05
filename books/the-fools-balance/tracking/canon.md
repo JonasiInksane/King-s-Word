@@ -176,7 +176,7 @@ Executioner Shigure (Ch 5–6):
 Silent blade; present Ch 5–6; turns back after first mile of escort.
 
 Junior Hero Wataru (Ch 6):
-Assigned escort witness / accurate reports. Nearly killed by breach-beast west of Command; survives. Do not kill or betray.
+Assigned escort witness / accurate reports. Nearly killed by Empty Helm west of Command; survives. Do not kill or betray.
 
 ---
 
@@ -226,9 +226,10 @@ Chapter 5 — The Room That Agreed
 
 Chapter 6 — Conditional Release
 
-- Lesser council stalemate; interrupted by west-approach **breach-beast**.
-- Renji / Heroes nearly fail; Wataru nearly dies; Renji loosens Akihiko’s seals.
-- Akihiko unmakes the beast while joking (snack scrap, cafeteria, elbows); beast comes undone; no Axiom named.
+- Lesser council stalemate; interrupted by west-approach **Empty Helm** (named monster; do not default to “breach-beast”).
+- Renji / Heroes nearly fail; formations break; Wataru nearly dies; Renji loosens Akihiko’s seals under fire while Heroes still cover civilians/medic.
+- Empty Helm **guardian habit**: gently stacks fallen Heroes behind itself before attacking again. Hesitates at Akihiko (corruption reacting to what he *represents*, not personal recognition); false hope; silent sudden attack. Akihiko pats it — “…You’ve been carrying too much.” (mercy / addressing what it was trying to be — not a spell, not acquaintance); one bell → yard silence → joints unwind. “…Still small.” = depth of forgetting itself (not strength). “Did I win?” / melon line. No Axiom named.
+- **HARD craft rule (Fool vs corruption):** Way of seeing through compassion — intention/purpose after twist — **not** an ability. Sentence is culmination, not always the solution; observe / silence / failure allowed. See `lore/characters/harlequin-akihiko.md` + story-writing Fool rules.
 - Emperor: conditional release under Renji’s responsibility — spectacle + Sera’s Rest; soft seals; Church observer rights; not pardon. Kuro objects on record.
 - Escort departs west: Renji, Akihiko, Wataru, medic cart. No camp. Ends at Sera’s Rest rooftops.
 

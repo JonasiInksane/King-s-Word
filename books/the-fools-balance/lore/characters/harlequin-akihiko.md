@@ -66,6 +66,22 @@ To the world, Akihiko is a complete fool.
 
 **Compass:** Entering somewhere new, notice one human thing first (bread, boots, chalk, soup, laundry, ink, arguments)—measuring whether people are still people.
 
+**Vs corrupted creatures (HARD — way of seeing, NOT a power):**
+
+Renji sees a monster. Ayame sees a historical anomaly. Kuro sees blasphemy. Akihiko sees what the creature was trying to be — a guardian that never learned how to stop protecting; a river that forgot thirst has an end; a judge that forgot when the case was closed.
+
+Nobody is objectively right. He is not reading souls, original truth, or auras. He does not have “Original Truth Eyes.” He looks through compassion and addresses intention / purpose after it has been twisted.
+
+Corruption (writer) does not invent evil. **World rule:** the phenomenon never creates new instincts — it only removes the point where an instinct should end. Protect forever. Heal forever. Judge forever. Never stop flowing. The sentence he sometimes offers (“…You’ve been carrying too much.” / “…You’re thirsty.” / “…You’ve forgotten when to stop.”) is mercy, not a spell — the culmination of what he has already understood from watching. He speaks to what existed before the corruption. Readers infer the rest from the creature’s behavior.
+
+**Do not:**
+- Turn this into a named ability or power-system category.
+- Have him always solve with one magic line. Sometimes he observes first. Sometimes he says nothing. Sometimes he fails.
+- Imply he personally knows this exact creature. He recognizes the *pattern* of a purpose pushed past its ending — like a doctor recognizing a disease, not a patient he already treated.
+- Lecture taxonomy (“This guardian spirit was originally…”). No classification speeches. Ever.
+
+“...Still small.” (Ch 6) is not measuring strength. It is measuring how deeply the creature has forgotten itself. Ashvale was worse because nothing there remembered when to stop.
+
 He:
 
 - Makes terrible jokes during serious situations.

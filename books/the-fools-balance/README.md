@@ -160,6 +160,8 @@ Never:
 
 • Explain himself.
 
+• Lecture taxonomy on corrupted creatures (“This was originally…”).
+
 Instead:
 
 Makes jokes.
@@ -173,6 +175,8 @@ Talks nonsense.
 Then accidentally says something profound.
 
 The profound line should feel like the joke wandered into wisdom.
+
+**Vs corrupted creatures:** He does not fight “monsters.” He addresses what the creature was trying to be. The line is mercy, not a spell. Behavior on-page does the explaining — he never does. Empire fear of him is not raw power: he breaks the categories (Heroes fight, Priests judge, Scholars classify — none of them reach past the monster).
 
 Readers should constantly ask:
 

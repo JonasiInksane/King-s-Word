@@ -150,6 +150,20 @@ Some become wiser than humans.
 
 ---
 
+## Corrupted creatures (HARD world rule)
+
+**The phenomenon never creates new instincts. It only removes the point where an instinct should end.**
+
+That one sentence covers guardians, healers, rivers, kings, parents, hunters — no separate corruption mechanic per type.
+
+Protect forever. Heal forever. Judge forever. Never stop flowing. Never let the child leave.
+
+They are **tragedies, not bosses.** Readers should think *that's horrible* before *that's cool.* Behavior on-page must show the original purpose twisted past its ending (Empty Helm stacks the fallen, then fights). Do not invent new evil motives — invent the missing stop.
+
+Akihiko never lectures taxonomy (“This guardian spirit was originally…”). He addresses the creature as if something underneath is still worth speaking to. Readers infer the rest from behavior.
+
+---
+
 # Ancient History
 
 Three thousand years ago...

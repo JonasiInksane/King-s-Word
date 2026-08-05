@@ -26,7 +26,7 @@ Disrupts Room That Agreed with bell (limited, not Mad Jester); names stopped-bei
 
 Ch 6 beat
 
-Unmakes west-approach breach-beast while joking (seals loosened by Renji); conditional release earned by spectacle + Sera’s Rest; rides west; still needed, not trusted.
+Ends Empty Helm without combat (pat / “…You’ve been carrying too much.” / bell silence; seals loosened by Renji); “…Still small.”; conditional release earned by spectacle + Sera’s Rest; rides west; still needed, not trusted.
 
 Writer shadow
 
@@ -70,7 +70,7 @@ Leads into Room That Agreed; authorizes nudge; receives Sera’s Rest report.
 
 Ch 6 beat
 
-Argues release as strategy; nearly dies vs breach-beast; loosens Fool’s seals under fire; accepts direct responsibility; escorts west.
+Argues release as strategy; nearly dies vs Empty Helm; keeps covering yard while Fool ends it; loosens Fool’s seals under fire; accepts direct responsibility; escorts west.
 
 Middle
 
@@ -190,7 +190,7 @@ Accurate reports; not yet practiced at comfortable lies.
 
 Ch 6 beat
 
-Assigned escort; nearly killed by breach-beast (survives); writes what he saw. Do not kill or betray.
+Assigned escort; nearly killed by Empty Helm (survives); writes what he saw. Do not kill or betray.
 
 ---
 

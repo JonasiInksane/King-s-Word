@@ -102,6 +102,16 @@ He does **not** explain the phenomenon, drive the investigation, or stack crypti
 
 ---
 
+## Corrupted creatures / ecology (HARD)
+
+**World rule:** The phenomenon never creates new instincts. It only removes the point where an instinct should end.
+
+Same engine as Consensus (remove the burden / the ending / the stop) applied to non-human purpose: guardians, healers, rivers, kings, parents, hunters. Tragedies, not bosses. Behavior shows the twisted purpose; nobody needs a lore dump.
+
+Fool craft: see `lore/characters/harlequin-akihiko.md` — compassion as a way of seeing, not a power. He does not classify. He may say “…You’ve been carrying too much.” Readers infer. Never: “This was originally a guardian spirit…”
+
+---
+
 ## Ashvale / Homura / contagion
 
 Mature cases: people gave up effort, one by one — not on life, on *bothering*. Until nobody resisted. Gate ≠ Door. Visible carriers (stable boy).
