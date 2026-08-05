@@ -30,7 +30,7 @@ Payoff: Partial through Vol 1 road; full stages later
 
 Status: Open — partial on-page Ch 4  
 Introduced: Ch 1; Door opens Ch 4  
-Clues: Service Door under Hero Command; Church + Imperial silence marks; quiet inventory; outward leak  
+Clues: Service Door under Hero Command; Church + Imperial silence marks; restricted filing; outward leak  
 Writer: Mystery 010 / 011 — `lore/phenomenon-chorus.md`  
 Payoff: Door network mid Vol 1+
 
@@ -48,9 +48,9 @@ Payoff: Magic / philosophy reveal arcs — do not explain early
 
 ## What is the Chorus / enforced harmony?
 
-Status: Open — symptoms on-page Ch 4–6  
+Status: Open — symptoms on-page Ch 4–7  
 Introduced: Ch 4  
-Clues: Agreement, wrong smiles, polite captivity, bell disruption, Sera’s Rest early signs  
+Clues: Agreement, wrong smiles, polite captivity, bell disruption; Sera’s Rest = work/reality ease (bread, buckets, harvest)  
 Writer stages locked in `lore/phenomenon-chorus.md`  
 Payoff: Vol 1 spine through Mad Jester
 

@@ -18,13 +18,13 @@ Oda had not slept. He sat opposite Akihiko with a cup of cold tea and answered R
 
 Princess Ayame arrived before the second bell with a map of Hero Command’s underlevels drawn in her own hand. Paper Rei held the corners flat on the annex table. Ink marks showed storage, shrine niches, seal vaults, and a blank square where the service Door had sat unmarked for years.
 
-“It isn’t on the public inventory,” Ayame said. “It is on a quieter one. Church mark over Imperial mark over an older scratch I can’t read without scraping. Someone agreed, a long time ago, not to look.”
+“It isn’t on the public inventory,” Ayame said. “Restricted filing. Church seal over Imperial seal over an older scratch I can’t read without scraping.”
 
-She set a second strip beside the map. “Stable boy. Yard roster name: Riku. Mother in the west canal quarter. Watch is already walking that street. Quietly.”
+She set a second strip beside the map. “The missing stable boy. Yard roster lists him as Riku. His mother lives in the west canal quarter. Watch is already on that street.”
 
-Renji studied the blank square. “How many quieter ones are there?”
+Renji studied the blank square. “How many blanks like this are on your map?”
 
-“Enough that I slept poorly,” Ayame said.
+“Three more I haven’t walked yet,” Ayame said. “I redrew the sheet overnight to fit them.”
 
 Akihiko tipped his mask toward the map. He poked a blank square with one sealed finger.
 
@@ -66,7 +66,7 @@ Three clerks stood in front of it in a polite crescent. Their hands were empty. 
 
 One of them saw Renji and smiled.
 
-Not a greeting. Relief. The face of someone who had finally stopped fighting something invisible.
+Not a greeting. Relief.
 
 “You should—” the nearest clerk began. A woman with ink on her cuff.
 
@@ -76,9 +76,7 @@ Not a greeting. Relief. The face of someone who had finally stopped fighting som
 
 “Open the door,” Renji said.
 
-“We decided,” said the second clerk. Soft. Almost kind. As if a weight had left his hands.
-
-“We decided,” said the third, the same way.
+“We decided,” said the second clerk. Soft. Almost kind.
 
 Ayame’s paper birds lifted from her sleeve. “Step aside.”
 
@@ -88,9 +86,7 @@ From inside the bay, a man called gently, “It’s all right. Come in. You don�
 
 “—keep going,” several voices finished together.
 
-Then, clear as a stamp, peaceful: “We decided.”
-
-Renji could see the empty tray on the shelf. Cups stacked clean. Kettle cold. Chairs that did not need rearranging. Knitting that did not need finishing. Nothing in the bay looked unfinished. Nothing looked like it needed doing. An emergency shelter that had stopped requiring effort.
+Renji could see the empty tray on the shelf. Cups stacked clean. Kettle cold. Chairs that did not need rearranging. Knitting that did not need finishing. Nothing in the bay looked unfinished. Nothing looked like it needed doing.
 
 Akihiko made a small sound behind him. Not a laugh.
 
@@ -108,27 +104,19 @@ Steam rose from both. The kettle was still cold. The stacked cups on the shelf w
 
 Ayame’s breath caught once behind him. Renji did not look away from the cups.
 
-The ink-cuffed clerk reached for Renji’s wrist—not to strike. To guide. Her grip was gentle and hard to break. Warm skin. No Rei flare he could name. Only the soft insistence of a choice already finished for him.
+The ink-cuffed clerk reached for Renji’s wrist—not to strike. To guide. Her grip was gentle and hard to break. Warm skin. No Rei flare he could name.
 
 “You look tired,” she said. “You don’t have to keep carrying it. Stay. We can finish your report—”
 
-“—together,” said the second clerk. “We already know how it—”
-
-“—ends,” said the third.
+“—together,” said the second clerk.
 
 Renji pulled free. The pull took more strength than it should have. His boot slid a half-inch on clean stone.
 
 Ayame’s birds cut a line between them and the clerks—paper edges bright, not yet cutting skin. “This is Paper Rei under royal seal. Disperse.”
 
-The clerks looked at the birds with mild interest.
+The clerks looked at the birds with mild interest. They did not move.
 
-“We don’t need—” one began.
-
-“—those,” said another.
-
-“We decided,” said the third.
-
-Inside the bay, seven heads nodded together. The knitting woman’s smile deepened—not joy. Relief. Somewhere behind the glass, someone hummed two notes and stopped, as if even humming had become optional.
+Inside the bay, seven heads nodded together. The knitting woman’s smile deepened. Somewhere behind the glass, someone hummed two notes and stopped.
 
 Footsteps on the stair. Inquisitor Kuro arrived with Executioner Shigure behind him. White robes. Black gloves. Dark cloth over his eyes. Dust from the road still clung faintly to Shigure’s boots; they had not come for a social call.
 
@@ -148,7 +136,7 @@ Shigure’s hand rested near his blade. Renji stepped half a pace to keep the li
 
 “It’s spreading,” Renji said. “They finish each other’s sentences. They say ‘We decided’—those words, exactly. Guards last night. This bay now. A Door opened under us. A stable boy walked out smiling before we could stop him.”
 
-Ayame did not look away from the steam. “It’s older than anything we chose to file. Church mark over Imperial mark over a scratch that already knew how to hide.”
+Ayame did not look away from the steam. “It’s older than anything we chose to file. The Door’s seals are Church and Imperial over an older mark.”
 
 Akihiko tipped his mask toward the glass. “It’s tired.”
 
@@ -198,9 +186,9 @@ Not one voice. Seven. Fragments, overlapping:
 
 “—why are we smiling—”
 
-The settled smiles cracked. A woman inside sobbed once and clapped a hand over her mouth. A man stood so fast his stool fell and skidded into a mattress. The clerks in the crescent staggered; the ink-cuffed woman’s eyes filled with ordinary panic. The humming stopped mid-note.
+The smiles faltered. A woman inside sobbed once and clapped a hand over her mouth. A man stood so fast his stool fell and skidded into a mattress. The clerks in the crescent staggered; the ink-cuffed woman’s eyes filled with ordinary panic. The humming stopped mid-note.
 
-“I—I don’t—” she began, and stopped, mouth open on a sentence that no longer had company.
+“I—I don’t—” she began, and stopped.
 
 The side door’s latch turned under Renji’s hand like any latch. He wrenched it. Ayame’s birds swept the frame. People spilled into the corridor—coughing, arguing, grabbing sleeves, stepping on the fallen knitting and apologizing to whoever owned it.
 
@@ -218,9 +206,9 @@ Akihiko leaned against the shelf end, breath short behind the mask. The bell hun
 
 “…That shelf leans,” he said.
 
-Nobody answered. Renji did not write it down.
+Nobody answered.
 
-Ayame’s fingers had gone white on a folded strip. She looked from the cracked smiles to Renji. “…They’re still themselves.”
+Ayame’s fingers had gone white on a folded strip. She looked from the bay to Renji. “…They’re still themselves.”
 
 Renji checked pulses, pupils, the rest of the names. No blood. No corpses. Voices overlapping for ordinary reasons again—blame, fear, apology, someone insisting they had only been trying to help.
 
@@ -228,7 +216,7 @@ Renji checked pulses, pupils, the rest of the names. No blood. No corpses. Voice
 
 Akihiko tipped his head toward the floor—toward the sealed Door below. Then toward the high window, and the road beyond it. The air in the bay had gone ordinary. Whatever had been easing people out of themselves had already moved on.
 
-“…It asked too soon,” he said. Curious. Almost sad.
+“…It asked too soon,” he said.
 
 Nobody answered that.
 
@@ -276,7 +264,7 @@ Akihiko’s bell gave the smallest chime.
 
 “Oh,” he said. “Someone else put it down.”
 
-Silence held in the corridor—longer than a report deserved.
+Nobody spoke for several seconds.
 
 “…Do they still bake?” Akihiko asked.
 
@@ -290,7 +278,7 @@ Renji looked from the emptied shelter bay to the message strip, then to the seal
 
 “Meeting,” Ayame said. Already moving. “Emperor’s ear if we have to break a door upstairs to get it. I’ll send a bird to the canal watch about Riku’s mother before we sit.”
 
-Kuro did not follow at once. He stood in the ink smell while the clerks argued in messy, welcome voices. Someone asked for water. Someone asked for their child. Someone asked whether they still had a job. Sato pressed both hands to her face and said her daughter’s name three times, as if the name were a weight she was choosing to pick up again.
+Kuro did not follow at once. He stood in the ink smell while the clerks argued in messy, welcome voices. Someone asked for water. Someone asked for their child. Someone asked whether they still had a job. Sato pressed both hands to her face and said her daughter’s name three times.
 
 Shigure waited.
 

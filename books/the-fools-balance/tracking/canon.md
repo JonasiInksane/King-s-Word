@@ -104,8 +104,8 @@ Court, Ayame’s private archive, Hero Command holding / records wing / service 
 Service Door (Ch 4–5):
 Beneath Hero Command. Church + Imperial silence marks. Opened by itself Ch 4; resealed; something already exited toward countryside.
 
-Sera’s Rest (named Ch 5–6):
-West-road farming hamlet. Early Agreement signs (no dispute filings; headman smiled through broken arm; animals too neat). Destination after conditional release.
+Sera’s Rest (Ch 5–7):
+West-road farming hamlet. Bread never burns (ovens unwatched); well bucket refills without crank; harvest stacks itself; dispute board blank; mismatched days nobody corrects. Headman smiles through broken arm; finishes questions; won’t name who left west. Party holds at edge overnight (no village bread/well).
 
 North Wall crisis (historical, cited Ch 3 folder):
 “Night the North Wall Should Have Fallen” — public legend; sealed field report exists.
@@ -232,6 +232,14 @@ Chapter 6 — Conditional Release
 - **HARD craft rule (Fool vs corruption):** Way of seeing through compassion — intention/purpose after twist — **not** an ability. Sentence is culmination, not always the solution; observe / silence / failure allowed. See `lore/characters/harlequin-akihiko.md` + story-writing Fool rules.
 - Emperor: conditional release under Renji’s responsibility — spectacle + Sera’s Rest; soft seals; Church observer rights; not pardon. Kuro objects on record.
 - Escort departs west: Renji, Akihiko, Wataru, medic cart. No camp. Ends at Sera’s Rest rooftops.
+
+Chapter 7 — Sera’s Rest
+
+- Edge halt: Renji forces salt argument when camp agrees too easily.
+- Village identity: bread never burns; bucket refills; harvest stacked without workers; dispute board blank.
+- Headman finishes questions; won’t name west leaver. Wataru almost finishes a neighbor’s sentence.
+- Akihiko flour mark nudges baker to sweep once; smile returns — not a cure.
+- Hold overnight at edge; strip for Ayame; footprints/crumbs west = open contagion path for Ch 8.
 
 ---
 

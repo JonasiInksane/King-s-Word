@@ -28,9 +28,9 @@ Chapter 5 🔵 — The Room That Agreed (Renji; draft pending accept)
 
 Chapter 6 🔵 — Conditional Release / monster earns it (Renji; draft pending accept)
 
-Chapter 7 🟡 — Road Dust (Renji; outline)
+Chapter 7 🔵 — Sera’s Rest (Renji; draft pending accept)
 
-Chapter 8 🟡 — The Village That Agreed (Renji; outline)
+Chapter 8 🟡 — After the Easy Harvest (Renji; outline)
 
 Chapter 9 🟡 — Witnesses (outline)
 
@@ -70,7 +70,7 @@ Outline (Ch 1–10 scene map + Vol 1 spine)
 
 Draft
 
-6 / ~70 volume target (~9%)
+7 / ~70 volume target (~10%)
 
 Edit
 

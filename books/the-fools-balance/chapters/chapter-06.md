@@ -58,9 +58,9 @@ Akihiko arrived because the antechamber guards had been ordered to keep him with
 
 A dropped wrap lay in the dirt by his boot—clean linen, unused, fallen from the medic’s kit. Akihiko looked at that first.
 
-“…Someone dropped homework,” he said.
+“…Someone dropped this,” he said.
 
-“Back!” Renji snapped, without looking. “Sealed. Stay sealed.”
+“Back!” Renji snapped, without looking. “Don’t move.”
 
 Wataru got up on the second try—crawling out from behind the Empty Helm’s heels like a man escaping his own funeral. Blood at his hairline. He put himself between a collapsing cart and a pair of clerks who had not yet found a door. The limb came down. Wataru’s shield took it. The shield folded. The blow drove him to one knee again. Renji saw the next strike line up for Wataru’s neck—then the Empty Helm paused, hooked him under the arms, and began to turn him toward the row behind it.
 
@@ -100,25 +100,25 @@ Then the Empty Helm moved.
 
 No sound. No warning. The limb threw Renji aside—not into the neat row, just away—and every joint opened at once. Spear-limbs came for the Fool from three angles.
 
-Akihiko stopped walking and dug in his coat with both sealed hands.
+Something small—a rice paper scrap from the antechamber—slipped from his fingers and landed on the stones.
 
-Not a guard. Not a stance. The absolute priority of a man who had just remembered he might still own a crumb. Something small—a rice paper scrap from the antechamber—slipped from his fingers. He bent to catch it, complaining, “Hey—mine—”
+Akihiko stopped walking. He looked at the scrap. Then he bent, sealed hands awkward, and picked it up.
 
 The first spear-limb punched through the air where his chest had been and buried itself in the stones behind him hard enough to crack the yard. Dust jumped. A melon in the gutter split open. The second clipped the hitching post. The third tore empty air where his head had been a breath earlier.
 
-Akihiko straightened with the scrap pinched triumphantly. “Got it. Close one. Littering is illegal. I respect the law. Selectively.”
+Akihiko straightened with the scrap pinched between two fingers, still studying the writing. He did not look at the cracked stones. He did not look at the limbs pulling free.
 
-Renji hit the stones on his shoulder and rolled. Pain lit his ribs. The bend had been too clean. The complaint too early. The scrap had fallen as if invited.
+Renji hit the stones on his shoulder and rolled. Pain lit his ribs. Akihiko had not flinched. He had not even turned his head.
 
 The Empty Helm ripped its limbs free and swung horizontal, meant to take the Fool’s head.
 
-Akihiko had already turned away, mask aimed at the seal-house door, voice raised like a lost tourist.
+Akihiko had already turned away, mask aimed at the seal-house door.
 
-“Cafeteria?” he called to the clerks still frozen by the wall. “Left or right? I can’t read the signs. The paint is judgmental.”
+“Cafeteria?” he called to the clerks still frozen by the wall. “Left or right? I can’t read the signs.”
 
-He took three steps toward them while he asked—wrong direction for a fight, perfect direction for not being where the blade finished. The swing tore empty air and finished the hitching post into splinters.
+He took three steps toward them while he asked. The swing tore empty air and finished the hitching post into splinters.
 
-“Rude,” Akihiko said, still not looking at the monster. “I asked a logistics question.”
+“Rude,” Akihiko said, still not looking at the monster. “I asked a question.”
 
 Renji was up. Lightning stuttered along his arms. He drove in again—cut, bind, cut—buying inches for the clerks, not yards of victory. Another Hero’s seal flared and died. Wataru tried to rise and Renji shoved him back toward the wall stair with a boot on his shoulder. “Stay. Keep them moving.”
 
@@ -130,7 +130,7 @@ Akihiko finally faced it—only because the shadow made his scrap hard to read. 
 
 Renji understood the ask a breath before he liked it.
 
-Ugly call. Necessary call. He crossed the stones while Wataru herded the clerks under the wall stair and the medic dragged the first stacked Hero clear of the pale stones. Renji caught the seal cord and loosened the knots enough for wrists to move—seals still biting, still bright, not gone. “Soft only. If you escalate—”
+Ugly call. Necessary call. He crossed the stones while Wataru herded the clerks under the wall stair and the medic dragged the first stacked Hero clear of the pale stones. Renji caught the seal cord and loosened the knots enough for wrists to move—seals still biting, still bright, not gone. “If you escalate—”
 
 “Only a little,” Akihiko said.
 
@@ -162,7 +162,7 @@ The silence broke. Horns returned late and embarrassed. Someone gasped as if the
 
 Akihiko looked at his palm. Looked at the rice paper scrap. Looked at Renji.
 
-“Oh,” he said. “Did I win? I was trying to ask for directions. Winning is a side effect.”
+“Oh,” he said. “Did I win? Winning is a side effect.”
 
 He tipped his mask toward the pale circle on the stones. Quiet. Almost disappointed.
 

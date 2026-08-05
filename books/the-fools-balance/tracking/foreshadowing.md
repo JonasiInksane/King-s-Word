@@ -99,13 +99,16 @@ Every mystery must eventually pay off.
 | Release engine: need him, don’t trust him | Politics | Entire road Vol 1 | Paid start |
 | Kuro “Agreement without judgment” + objection | Doctrine | Kuro arc; forced cooperation later | Open |
 | Wataru nearly dies | Junior stakes | Reader’s Hero; report vs comfort | Open — protect |
-| “Still carrying anything” | Fool compass | Sera’s Rest effort-death | Open → Ch 7 |
+| “Still carrying anything” | Fool compass | Sera’s Rest effort-death | Paid — Ch 7 |
+| Salt fight at edge camp | Effort diagnostic | Keep arguing on road | Paid — Ch 7 |
+| Woman footprints west + crumbs | Contagion carrier | Ch 8 fallout path | Open |
+| Flour mark / broom flicker | Fool nudge ≠ cure | Limited disruption pattern | Paid — Ch 7 |
 
 ---
 
 ## Later plants (not yet written — keep listed)
 
-Ch 7: camp/salt catch-sign (parked from Ch 6); Sera’s Rest identity (bread never burns); Homura witness later; first failure to contain spread.
+Ch 8: fallout of Sera’s Rest; contagion path west; conflicting local stories. Homura witness later; first failure to contain spread.
 
 Ch 16–20: Mad Jester visual progression; “Did I make them smile?”
 

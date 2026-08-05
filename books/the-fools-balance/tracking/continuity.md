@@ -2,7 +2,7 @@
 
 Tracks chronological events.
 
-**Version B:** Ch 4–7 Academy/trial path archived. Active Ch 4–6 = Quiet Capture → Room That Agreed → Conditional Release.
+**Version B:** Ch 4–7 Academy/trial path archived. Active Ch 4–7 = Quiet Capture → Room That Agreed → Conditional Release → Sera’s Rest.
 
 ---
 
@@ -81,7 +81,7 @@ POV: Sir Renji Arata
 
 POV: Sir Renji Arata (Ayame; Kuro/Shigure enter)
 
-- Ayame maps underlevels; Door on quiet inventory (Church + Imperial silence).
+- Ayame maps underlevels; Door on restricted filing (Church + Imperial silence marks).
 - Records wing shelter bay: polite captivity — “You should stay.” / “We all decided.” / “There’s nothing outside you need.”
 - Kuro arrives; smells wrong sweetness; calls possession; Akihiko contradicts (committee / Chorus).
 - Bell nudge: seven interrupted private thoughts at once; smiles crack; latch becomes ordinary; no Collapse.
@@ -101,20 +101,33 @@ POV: Renji
 - **No camp** (parked for Ch 7 open). Short road. Ends at first rooftops: “Let’s see if anyone’s still carrying anything.”
 - **Sera’s Rest identity (Ch 7):** bread never burned / work finishes itself.
 
+## Chapter 7 — Sera’s Rest
+
+POV: Sir Renji Arata (Wataru; medic; Akihiko sealed)
+
+- Edge halt before houses: salt argument forced when camp agrees too easily; medic credits Wataru for yard clerks.
+- Enter Sera’s Rest: hedges/animals too neat; bakehouse loaves never burn, nobody watches ovens; “We decided.”
+- Headman smiles through broken arm; finishes Renji’s questions; well bucket refills without crank; dispute board blank; harvest stacked without workers.
+- Family cold plates / “Stay” / child likes what everyone likes; Wataru almost finishes a neighbor’s sentence (catches himself); half-mended strap + torn cuff still show effort; three people give three different days and none care.
+- West track: one woman’s footprints leaving; crumbs; headman won’t give a name (“Names are heavy”).
+- Akihiko flour mark → woman sweeps (annoyance flicker) then smile returns; not a cure.
+- Hold at edge overnight; Wataru strip for Ayame’s bird; no village bread/well water. Hook: movement west under trees.
+
 ---
 
-# Character Locations (after Ch 6)
+# Character Locations (after Ch 7)
 
 | Character | Location | Notes |
 |---|---|---|
-| The Fool (Akihiko) | West road — first rooftops of Sera’s Rest | Soft seals; conditional release |
-| Renji Arata | Escorting Akihiko | Direct responsibility |
-| Wataru | Escort | Nearly died Ch 6; protect (no kill/betray) |
-| Ayame | Capital | Door survey teams; paper bird with Renji |
-| Kuro | Capital | “Agreement without judgment”; not ally |
-| Shigure (EX01) | Capital (after first mile) | Turned back at marker |
+| The Fool (Akihiko) | Edge camp outside Sera’s Rest | Soft seals; watching west track |
+| Renji Arata | Edge camp; first watch | Direct responsibility; strip for Ayame |
+| Wataru | Edge camp | Writing report; wrap at hairline |
+| Medic | Edge camp | Horses / kit |
+| Ayame | Capital | Door survey; awaiting bird strip |
+| Kuro | Capital | Not on road |
+| Shigure (EX01) | Capital | Turned back Ch 6 |
 | Emperor Seiryu | Capital | Release order stands |
 | Hoshikawa | Capital | Command paperwork |
-| Sera’s Rest | Ahead | Ch 7 — bread never burns / ease of work |
+| Sera’s Rest | Occupied / eased | Bread never burns; bucket refills; someone left west |
 
 Always update after every chapter draft / accept.
